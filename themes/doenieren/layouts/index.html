@@ -1,10 +1,5 @@
-{{- define "main" -}}
-<header>
-  <img src="/img/doener.gif">
-  <h1>Finde den besten Döner deiner Stadt</h1>
-</header>
-<p>Dönieren.in ist ein Gemeinschaftsprojekt, um aktuelle Informationen zu Kebabhäusern, Imbissen und Restaurants mit türkischer Küche allen zur Verfügung zu stellen.</p>
-<button id="find-btn">Döner in deiner Nähe finden</button>
+{{ define "main" }}
+{{ .Content }}
 <p>Oder möchtest du dönieren in...</p>
 <input type="text" placeholder="Städte filtern..." aria-label="Städte filtern...">
 <ul class="cities-list">

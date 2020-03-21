@@ -36,11 +36,14 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
   </head>
   <body>
+
+    {{ partial "header.html" . }}
+
     <main>
-      {{ block "main" . -}}{{- end }}
+      {{ block "main" . }}{{ end }}
     </main>
 
-    {{- partialCached "footer.html" . -}}
+    {{ partialCached "footer.html" . }}
 
     {{- $app := resources.Get "/js/app.js" -}}
     {{- $js := $app | minify | fingerprint }}

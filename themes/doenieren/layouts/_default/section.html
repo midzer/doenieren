@@ -1,9 +1,4 @@
 {{ define "main" }}
-<header>
-  <img src="/img/doener.gif">
-  <h1>Döner essen in {{ .Title }}</h1>
-</header>
-<button id="find-btn">Döner in deiner Nähe finden</button>
 <p>Du möchtest gerne in {{ .Title }} dönieren? Super Idee! Probiers doch mal bei</p>
 <input type="text" placeholder="Name filtern..." aria-label="Name filtern...">
 <ul>
@@ -13,7 +8,7 @@
 </ul>
 <hr>
 <article>
-  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text zur allgemeinen Dönerlage in dieser Stadt. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}_index.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
+  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, es gibt noch keinen Text zur allgemeinen Dönerlage in {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}_index.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
 </article>
 <a href="/">zurück zur Startseite</a>
 {{ end }}
