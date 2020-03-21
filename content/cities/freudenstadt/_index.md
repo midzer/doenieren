@@ -1,0 +1,4 @@
+---
+title: Freudenstadt
+url: "/freudenstadt/"
+---

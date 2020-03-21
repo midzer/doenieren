@@ -1,0 +1,4 @@
+---
+title: Burgbernheim
+url: "/burgbernheim/"
+---

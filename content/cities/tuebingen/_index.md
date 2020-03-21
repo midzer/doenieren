@@ -1,0 +1,4 @@
+---
+title: Tübingen
+url: "/tuebingen/"
+---

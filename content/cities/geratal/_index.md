@@ -1,0 +1,4 @@
+---
+title: Geratal
+url: "/geratal/"
+---

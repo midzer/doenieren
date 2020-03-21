@@ -1,0 +1,4 @@
+---
+title: Bühl
+url: "/buehl/"
+---

@@ -1,0 +1,4 @@
+---
+title: Ellingen
+url: "/ellingen/"
+---

@@ -1,0 +1,4 @@
+---
+title: Badenweiler
+url: "/badenweiler/"
+---

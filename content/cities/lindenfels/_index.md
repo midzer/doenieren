@@ -1,0 +1,4 @@
+---
+title: Lindenfels
+url: "/lindenfels/"
+---

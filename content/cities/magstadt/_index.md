@@ -1,0 +1,4 @@
+---
+title: Magstadt
+url: "/magstadt/"
+---

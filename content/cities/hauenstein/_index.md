@@ -1,0 +1,4 @@
+---
+title: Hauenstein
+url: "/hauenstein/"
+---

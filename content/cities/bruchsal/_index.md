@@ -1,0 +1,4 @@
+---
+title: Bruchsal
+url: "/bruchsal/"
+---

@@ -1,0 +1,4 @@
+---
+title: Solingen
+url: "/solingen/"
+---

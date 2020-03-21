@@ -1,0 +1,4 @@
+---
+title: Freiberg
+url: "/freiberg/"
+---

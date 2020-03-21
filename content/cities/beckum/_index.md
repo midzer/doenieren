@@ -1,0 +1,4 @@
+---
+title: Beckum
+url: "/beckum/"
+---

@@ -1,0 +1,4 @@
+---
+title: Fuldatal
+url: "/fuldatal/"
+---

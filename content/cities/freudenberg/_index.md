@@ -1,0 +1,4 @@
+---
+title: Freudenberg
+url: "/freudenberg/"
+---

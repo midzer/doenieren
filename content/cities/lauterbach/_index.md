@@ -1,0 +1,4 @@
+---
+title: Lauterbach
+url: "/lauterbach/"
+---

@@ -1,0 +1,4 @@
+---
+title: Schwerin
+url: "/schwerin/"
+---

@@ -1,0 +1,4 @@
+---
+title: Arnstadt
+url: "/arnstadt/"
+---

@@ -1,0 +1,4 @@
+---
+title: Schwentinental
+url: "/schwentinental/"
+---

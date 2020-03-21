@@ -1,0 +1,4 @@
+---
+title: Waldbronn
+url: "/waldbronn/"
+---

@@ -1,0 +1,4 @@
+---
+title: Lichtenstein
+url: "/lichtenstein/"
+---

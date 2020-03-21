@@ -1,0 +1,4 @@
+---
+title: Rudolstadt
+url: "/rudolstadt/"
+---

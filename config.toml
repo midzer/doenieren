@@ -1,0 +1,9 @@
+baseURL = "https://doenieren.in"
+languageCode = "de-DE"
+title = "Dönieren"
+theme = "doenieren"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]

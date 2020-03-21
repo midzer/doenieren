@@ -1,0 +1,4 @@
+---
+title: Fraureuth
+url: "/fraureuth/"
+---

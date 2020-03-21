@@ -1,0 +1,4 @@
+---
+title: Burgdorf
+url: "/burgdorf/"
+---

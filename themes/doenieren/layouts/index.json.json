@@ -1,0 +1,14 @@
+[
+{{- range $i, $e := .Site.RegularPages -}}
+  {{ if $i }}, {{ end }}
+  {
+    {{- $file := .File.BaseFileName -}}
+    {{- $helperdir := replace .File.Dir "cities/" "" }}
+    {{- $dir := replace $helperdir "/" "" -}}
+    {{- $cities := "cities" -}}
+    "lat" : "{{ (index .Site.Data $cities $dir $file).latitude }}",
+    "lon" : "{{ (index .Site.Data $cities $dir $file).longitude }}",
+    "url": "{{ .RelPermalink }}"
+  }
+{{ end }}
+]

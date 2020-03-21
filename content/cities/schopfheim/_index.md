@@ -1,0 +1,4 @@
+---
+title: Schopfheim
+url: "/schopfheim/"
+---

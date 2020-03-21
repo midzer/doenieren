@@ -1,0 +1,4 @@
+---
+title: Friesenheim
+url: "/friesenheim/"
+---

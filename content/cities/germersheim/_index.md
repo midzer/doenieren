@@ -1,0 +1,4 @@
+---
+title: Germersheim
+url: "/germersheim/"
+---

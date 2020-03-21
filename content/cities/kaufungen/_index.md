@@ -1,0 +1,4 @@
+---
+title: Kaufungen
+url: "/kaufungen/"
+---

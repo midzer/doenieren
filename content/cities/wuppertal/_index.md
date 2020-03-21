@@ -1,0 +1,4 @@
+---
+title: Wuppertal
+url: "/wuppertal/"
+---

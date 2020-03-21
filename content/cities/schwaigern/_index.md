@@ -1,0 +1,4 @@
+---
+title: Schwaigern
+url: "/schwaigern/"
+---

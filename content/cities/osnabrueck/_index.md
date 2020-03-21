@@ -1,0 +1,4 @@
+---
+title: Osnabrück
+url: "/osnabrueck/"
+---

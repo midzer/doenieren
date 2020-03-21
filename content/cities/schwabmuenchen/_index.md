@@ -1,0 +1,4 @@
+---
+title: Schwabmünchen
+url: "/schwabmuenchen/"
+---

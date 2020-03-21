@@ -1,0 +1,4 @@
+---
+title: Huningue
+url: "/huningue/"
+---

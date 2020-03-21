@@ -1,0 +1,4 @@
+---
+title: Friedrichsdorf
+url: "/friedrichsdorf/"
+---

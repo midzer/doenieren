@@ -1,0 +1,4 @@
+---
+title: Ingolstadt
+url: "/ingolstadt/"
+---

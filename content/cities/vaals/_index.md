@@ -1,0 +1,4 @@
+---
+title: Vaals
+url: "/vaals/"
+---

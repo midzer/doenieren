@@ -1,0 +1,4 @@
+---
+title: Kronach
+url: "/kronach/"
+---

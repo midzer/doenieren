@@ -1,0 +1,4 @@
+---
+title: Stuttgart
+url: "/stuttgart/"
+---

@@ -1,0 +1,4 @@
+---
+title: Blankenhain
+url: "/blankenhain/"
+---

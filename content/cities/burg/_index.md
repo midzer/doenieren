@@ -1,0 +1,4 @@
+---
+title: Burg
+url: "/burg/"
+---

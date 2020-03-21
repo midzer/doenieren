@@ -1,0 +1,4 @@
+---
+title: Pfalzgrafenweiler
+url: "/pfalzgrafenweiler/"
+---

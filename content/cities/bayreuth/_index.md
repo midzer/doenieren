@@ -1,0 +1,4 @@
+---
+title: Bayreuth
+url: "/bayreuth/"
+---

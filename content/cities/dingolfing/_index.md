@@ -1,0 +1,4 @@
+---
+title: Dingolfing
+url: "/dingolfing/"
+---

@@ -1,0 +1,4 @@
+---
+title: Friedrichshafen
+url: "/friedrichshafen/"
+---

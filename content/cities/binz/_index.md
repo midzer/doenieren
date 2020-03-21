@@ -1,0 +1,4 @@
+---
+title: Binz
+url: "/binz/"
+---

@@ -1,0 +1,4 @@
+---
+title: Karlsruhe
+url: "/karlsruhe/"
+---

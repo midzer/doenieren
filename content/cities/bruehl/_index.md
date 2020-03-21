@@ -1,0 +1,4 @@
+---
+title: Brühl
+url: "/bruehl/"
+---

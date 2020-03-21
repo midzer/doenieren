@@ -1,0 +1,4 @@
+---
+title: Magdeburg
+url: "/magdeburg/"
+---

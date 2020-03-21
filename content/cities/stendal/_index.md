@@ -1,0 +1,4 @@
+---
+title: Stendal
+url: "/stendal/"
+---

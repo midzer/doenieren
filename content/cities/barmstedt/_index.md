@@ -1,0 +1,4 @@
+---
+title: Barmstedt
+url: "/barmstedt/"
+---

@@ -1,0 +1,4 @@
+---
+title: Rimbach
+url: "/rimbach/"
+---

@@ -1,0 +1,4 @@
+---
+title: Bocholt
+url: "/bocholt/"
+---

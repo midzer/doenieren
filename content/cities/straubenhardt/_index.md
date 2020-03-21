@@ -1,0 +1,4 @@
+---
+title: Straubenhardt
+url: "/straubenhardt/"
+---

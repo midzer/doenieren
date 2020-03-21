@@ -1,0 +1,4 @@
+---
+title: Mannheim
+url: "/mannheim/"
+---

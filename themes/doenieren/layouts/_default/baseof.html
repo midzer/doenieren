@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="de-DE">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{- block "page_title" . -}}{{ .Title | htmlUnescape }}{{- end }}</title>
+    {{ if eq .Kind "section" -}}
+    <meta name="description" content="Finde deinen Lieblingsdöner in {{ .Title }}">
+    {{- else if ne .Kind "home" -}}
+    {{- $file := .File.BaseFileName -}}
+    {{- $helperdir := replace .File.Dir "cities/" "" }}
+    {{- $dir := replace $helperdir "/" "" -}}
+    {{- $cities := "cities" -}}
+    {{ $city := (index .Site.Data $cities $dir $file).city }}
+    <meta name="description" content="Kurzinfos wie Adresse, Öffnungszeiten und Kontakt über {{ .Title }}{{ with $city }} in {{ . }}{{ end }}">
+    {{- else -}}
+    <meta name="description" content="Finde den Lieblingsdöner in deiner Stadt">
+    {{- end }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta property="og:site_name" content="Dönieren">
+    <meta property="og:title" content='{{- block "og_title" . -}}doenieren.in{{- end -}}'>
+    <meta property="og:type" content='{{- block "og_type" . -}}website{{- end -}}'>
+    <meta property="og:url" content='{{- .Permalink -}}'>
+    <meta property="og:image" content='{{- block "og_image" . -}}/images/logo.png{{- end -}}'>
+    <meta property="og:description" content='{{- block "og_description" . -}}Finde den Lieblingsdöner in deiner Stadt{{- end -}}'>
+    
+    <link rel="canonical" href="{{- .Permalink -}}">
+    
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/touch-icon.png">
+
+    {{- $style := resources.Get "scss/doenieren.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  </head>
+  <body>
+    <main>
+      {{ block "main" . -}}{{- end }}
+    </main>
+
+    {{- partialCached "footer.html" . -}}
+
+    {{- $app := resources.Get "/js/app.js" -}}
+    {{- $js := $app | minify | fingerprint }}
+    <script defer src="{{ $js.Permalink }}"></script>
+  </body>
+</html>

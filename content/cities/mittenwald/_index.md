@@ -1,0 +1,4 @@
+---
+title: Mittenwald
+url: "/mittenwald/"
+---

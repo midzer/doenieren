@@ -1,0 +1,4 @@
+---
+title: Schweinfurt
+url: "/schweinfurt/"
+---

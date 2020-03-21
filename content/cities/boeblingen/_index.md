@@ -1,0 +1,4 @@
+---
+title: Böblingen
+url: "/boeblingen/"
+---

@@ -1,0 +1,4 @@
+---
+title: Wismar
+url: "/wismar/"
+---

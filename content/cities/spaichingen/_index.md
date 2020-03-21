@@ -1,0 +1,4 @@
+---
+title: Spaichingen
+url: "/spaichingen/"
+---

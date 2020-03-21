@@ -1,0 +1,4 @@
+---
+title: Bückeburg
+url: "/bueckeburg/"
+---

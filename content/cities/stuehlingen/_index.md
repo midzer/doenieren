@@ -1,0 +1,4 @@
+---
+title: Stühlingen
+url: "/stuehlingen/"
+---

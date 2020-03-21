@@ -1,0 +1,4 @@
+---
+title: Trostberg
+url: "/trostberg/"
+---

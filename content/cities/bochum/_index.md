@@ -1,0 +1,4 @@
+---
+title: Bochum
+url: "/bochum/"
+---

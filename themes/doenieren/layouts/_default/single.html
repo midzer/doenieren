@@ -1,0 +1,31 @@
+{{ define "main" }}
+<header>
+  <img src="/img/doener.gif">
+  <h1>{{ .Title }}</h1>
+</header>
+<button id="find-btn">Döner in deiner Nähe finden</button>
+<ul>
+  {{- $file := .File.BaseFileName -}}
+  {{- $helperdir := replace .File.Dir "cities/" "" }}
+  {{- $dir := replace $helperdir "/" "" -}}
+  {{- $cities := "cities" -}}
+  {{ $opening_hours := (index .Site.Data $cities $dir $file).opening_hours }}
+  {{ $phone := (index .Site.Data $cities $dir $file).phone }}
+  {{ $street := (index .Site.Data $cities $dir $file).street }}
+  {{ $housenumber := (index .Site.Data $cities $dir $file).housenumber }}
+  {{ $postcode := (index .Site.Data $cities $dir $file).postcode }}
+  {{ $city := (index .Site.Data $cities $dir $file).city }}
+  {{ $id := (index .Site.Data $cities $dir $file).id }}
+  {{ $website := (index .Site.Data $cities $dir $file).website }}
+  {{ with $opening_hours }}<li>Öffnungszeiten: {{ . }}</li>{{ end }}
+  {{ with $phone }}<li>Telefon: {{ . }}</li>{{ end }}
+  <li>{{ $street }} {{ $housenumber }} in {{ $postcode }} {{ $city }}</li>
+  {{ with $website }}<li><a href="{{ . }}" rel="nofollow noopener">{{ . }}</a></li>{{ end }}
+</ul>
+<p>{{ .Title }} in der <a href="https://www.openstreetmap.org/node/{{ $id }}" rel="nofollow noopener">OpenStreetMap</a> öffnen. Nicht mehr aktuelle Informationen können dort editiert werden.</p>
+<hr>
+<article>
+  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text über die Örtlichkeit. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ $file }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
+</article>
+<a href="/{{ $dir }}/">zurück zur Übersicht der Stadt</a>
+{{ end }}

@@ -1,0 +1,4 @@
+---
+title: Joachimsthal
+url: "/joachimsthal/"
+---

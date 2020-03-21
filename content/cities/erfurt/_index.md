@@ -1,0 +1,4 @@
+---
+title: Erfurt
+url: "/erfurt/"
+---

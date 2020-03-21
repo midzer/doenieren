@@ -1,0 +1,4 @@
+---
+title: Göppingen
+url: "/goeppingen/"
+---

@@ -1,0 +1,4 @@
+---
+title: Wendelstein
+url: "/wendelstein/"
+---

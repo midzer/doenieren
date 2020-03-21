@@ -1,0 +1,4 @@
+---
+title: Friesack
+url: "/friesack/"
+---

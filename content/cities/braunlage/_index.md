@@ -1,0 +1,4 @@
+---
+title: Braunlage
+url: "/braunlage/"
+---

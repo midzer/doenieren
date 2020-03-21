@@ -1,0 +1,4 @@
+---
+title: Fritzlar
+url: "/fritzlar/"
+---

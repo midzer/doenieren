@@ -1,0 +1,4 @@
+---
+title: Kulmbach
+url: "/kulmbach/"
+---

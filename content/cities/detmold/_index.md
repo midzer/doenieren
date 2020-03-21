@@ -1,0 +1,4 @@
+---
+title: Detmold
+url: "/detmold/"
+---

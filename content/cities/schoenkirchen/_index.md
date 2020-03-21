@@ -1,0 +1,4 @@
+---
+title: Schönkirchen
+url: "/schoenkirchen/"
+---

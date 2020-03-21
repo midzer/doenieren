@@ -1,0 +1,4 @@
+---
+title: Nürnberg
+url: "/nuernberg/"
+---

@@ -1,0 +1,4 @@
+---
+title: Gedern
+url: "/gedern/"
+---

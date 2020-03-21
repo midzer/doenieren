@@ -1,0 +1,4 @@
+---
+title: Karlsbad
+url: "/karlsbad/"
+---

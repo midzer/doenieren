@@ -1,0 +1,4 @@
+---
+title: Wedel
+url: "/wedel/"
+---

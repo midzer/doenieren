@@ -1,0 +1,4 @@
+---
+title: Ettlingen
+url: "/ettlingen/"
+---

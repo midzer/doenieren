@@ -1,0 +1,4 @@
+---
+title: Kaiserslautern
+url: "/kaiserslautern/"
+---
