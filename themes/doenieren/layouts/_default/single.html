@@ -20,7 +20,7 @@
 <p>{{ .Title }} in der <a href="https://www.openstreetmap.org/node/{{ $id }}" rel="nofollow noopener">OpenStreetMap</a> öffnen. Nicht mehr aktuelle Informationen können dort editiert werden.</p>
 <hr>
 <article>
-  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text über die Örtlichkeit. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ $file }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
+  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text über die Lokalität. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ $file }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
 </article>
 <a href="/{{ $dir }}/">zurück zur Übersicht der Stadt</a>
 {{ end }}
