@@ -23,6 +23,8 @@
     Mit &lt;3 gebaut von <a href="https://rohner.io/" rel="noopener">Rohner Solutions</a>
   </span>
   <span class="footer-item d-block">
-    Letztes Update am {{ now.Format "January 2, 2006" }}
+    {{ $citiesCount := len (.Site.GetPage "section" "cities").Sections }}
+    {{ $locationsCount := len .Site.RegularPages }}
+    <small>Datenbank: <samp>{{ $locationsCount }}</samp> Lokalitäten in <samp>{{ $citiesCount }}</samp> Städten, letztes Update am {{ now.Format "January 2, 2006" }}</small>
   </span>
 </footer>
