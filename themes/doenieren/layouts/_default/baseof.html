@@ -35,7 +35,7 @@
     <link rel="manifest" href="/site.webmanifest">
     <meta name="theme-color" content="#675ccb">
 
-    {{- $style := resources.Get "scss/doenieren.scss" | toCSS | minify | fingerprint }}
+    {{- $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
   </head>
   <body>
