@@ -181,11 +181,11 @@ function buildMap () {
         description: `<a href="${location.href}">${location.textContent}</a>`
       },
       {
-        externalGraphic: '/js/img/marker.png',
-        graphicHeight: 25,
-        graphicWidth: 21,
-        graphicXOffset: -12,
-        graphicYOffset:-25
+        externalGraphic: '/img/marker.png',
+        graphicHeight: 44,
+        graphicWidth: 20,
+        graphicXOffset: -10,
+        graphicYOffset: -44
       }
     );
     vectorLayer.addFeatures(feature);
