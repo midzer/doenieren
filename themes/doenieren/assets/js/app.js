@@ -107,31 +107,33 @@ function getLocation() {
 
 let overlay;
 const entries = [];
-const button = document.getElementById('find-btn');
-button.onclick = function () {
-  if (navigator.geolocation) {
-    // Create overlay with loader as upcoming task may take a while
-    overlay = document.createElement('div');
-    overlay.className = 'overlay';
-    const loader = document.createElement('div');
-    loader.className = 'loader';
-    overlay.appendChild(loader);
-    document.body.appendChild(overlay);
-
-    if (!entries.length) {
-      // Get data
-      fetch('/index.json')
-      .then(blob => blob.json())
-      .then(data => entries.push(...data))
-      .then(() => getLocation());
+const findButton = document.getElementById('find-btn');
+if (findButton) {
+  findButton.onclick = function () {
+    if (navigator.geolocation) {
+      // Create overlay with loader as upcoming task may take a while
+      overlay = document.createElement('div');
+      overlay.className = 'overlay';
+      const loader = document.createElement('div');
+      loader.className = 'loader';
+      overlay.appendChild(loader);
+      document.body.appendChild(overlay);
+  
+      if (!entries.length) {
+        // Get data
+        fetch('/index.json')
+        .then(blob => blob.json())
+        .then(data => entries.push(...data))
+        .then(() => getLocation());
+      }
+      else {
+        getLocation();
+      }
+    } else {
+      alert('Geolocation wird von deinem Browser nicht unterstützt.');
     }
-    else {
-      getLocation();
-    }
-  } else {
-    alert('Geolocation wird von deinem Browser nicht unterstützt.');
-  }
-};
+  };
+}
 // Filter input
 function startFilter() {
   const regex = new RegExp(this.value, 'gi');
