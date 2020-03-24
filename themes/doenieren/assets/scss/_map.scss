@@ -6,6 +6,7 @@
 
   &.is-overlay {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: $doe-blue;
@@ -17,11 +18,16 @@
     background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
   }
 
-  p {
-    cursor: pointer;
+  > a,
+  > button {
     background-color: $white;
+    border: $doe-black;
     border-radius: 1rem;
+    color: $doe-black;
+    font-size: 14px;
     padding: 1rem;
+    margin: 1rem;
+    text-decoration: none;
   }
 
   .olControlAttribution {

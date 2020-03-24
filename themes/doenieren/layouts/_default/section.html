@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ partialCached "map.html" . }}
-{{ partialCached "finder.html" . }}
+{{ partialCached "find-btn.html" . }}
 <p>Du möchtest gerne in {{ .Title }} dönieren? Super Idee! Probiers doch mal bei</p>
 <input type="text" placeholder="Name filtern..." aria-label="Name filtern...">
 <ul>
@@ -11,7 +11,6 @@
   <li><a href="{{ .RelPermalink }}" data-lat="{{ $location.latitude }}" data-lon="{{ $location.longitude }}">{{ .Title }}</a></li>
 {{ end }}
 </ul>
-<hr>
 <article>
   {{ with .Content }}{{ . }}{{ else }}<p>Ooops, es gibt noch keinen Text zur allgemeinen Dönerlage in {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}_index.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
 </article>

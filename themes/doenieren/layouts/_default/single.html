@@ -1,19 +1,22 @@
 {{ define "main" }}
-{{ partialCached "map.html" . }}
-{{ partialCached "finder.html" . }}
+{{- $file := .File.BaseFileName -}}
+{{- $helperdir := replace .File.Dir "cities/" "" }}
+{{- $dir := replace $helperdir "/" "" -}}
+{{- $cities := "cities" -}}
+{{ $opening_hours := (index .Site.Data $cities $dir $file).opening_hours }}
+{{ $phone := (index .Site.Data $cities $dir $file).phone }}
+{{ $street := (index .Site.Data $cities $dir $file).street }}
+{{ $housenumber := (index .Site.Data $cities $dir $file).housenumber }}
+{{ $postcode := (index .Site.Data $cities $dir $file).postcode }}
+{{ $city := (index .Site.Data $cities $dir $file).city }}
+{{ $id := (index .Site.Data $cities $dir $file).id }}
+{{ $website := (index .Site.Data $cities $dir $file).website }}
+<div id="map" class="is-overlay">
+  {{ partialCached "load-btn.html" . }}
+  <a href="https://www.openstreetmap.org/node/{{ $id }}" rel="nofollow noopener">oder auf OpenStreetMap öffnen</a>
+</div>
+{{ partialCached "find-btn.html" . }}
 <ul>
-  {{- $file := .File.BaseFileName -}}
-  {{- $helperdir := replace .File.Dir "cities/" "" }}
-  {{- $dir := replace $helperdir "/" "" -}}
-  {{- $cities := "cities" -}}
-  {{ $opening_hours := (index .Site.Data $cities $dir $file).opening_hours }}
-  {{ $phone := (index .Site.Data $cities $dir $file).phone }}
-  {{ $street := (index .Site.Data $cities $dir $file).street }}
-  {{ $housenumber := (index .Site.Data $cities $dir $file).housenumber }}
-  {{ $postcode := (index .Site.Data $cities $dir $file).postcode }}
-  {{ $city := (index .Site.Data $cities $dir $file).city }}
-  {{ $id := (index .Site.Data $cities $dir $file).id }}
-  {{ $website := (index .Site.Data $cities $dir $file).website }}
   {{ with $opening_hours }}<li>Öffnungszeiten: {{ . }}</li>{{ end }}
   {{ with $phone }}<li>Telefon: {{ . }}</li>{{ end }}
   <li>{{ $street }} {{ $housenumber }} in {{ $postcode }} {{ $city }}</li>
@@ -23,10 +26,8 @@
   {{- $location := index .Site.Data "cities" $city .File.BaseFileName }}
   <li hidden><a href="{{ .RelPermalink }}" data-lat="{{ $location.latitude }}" data-lon="{{ $location.longitude }}">{{ .Title }}</a></li>
 </ul>
-<p>{{ .Title }} in der <a href="https://www.openstreetmap.org/node/{{ $id }}" rel="nofollow noopener">OpenStreetMap</a> öffnen. Nicht mehr aktuelle Informationen können dort editiert werden.</p>
-<hr>
 <article>
-  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text über die Lokalität. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ $file }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
+  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text über {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ $file }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
 </article>
 <a href="/{{ $dir }}/">zurück zur Übersicht der Stadt</a>
 {{ end }}
