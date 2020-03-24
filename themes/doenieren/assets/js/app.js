@@ -1,21 +1,16 @@
 // Helpers
-function rad2degr(rad) { return rad * 180 / Math.PI; }
-function degr2rad(degr) { return degr * Math.PI / 180; }
-
 // adopted from https://github.com/gabmontes/fast-haversine
-const R = 6378137; // m
+const R = 6378;
 const PI_360 = Math.PI / 360;
 
 function distance(lat1, lon1, lat2, lon2) {
-  const R = 6371; // km
-  const dLat = degr2rad(lat2-lat1);
-  const dLon = degr2rad(lon2-lon1);
-  lat1 = degr2rad(lat1);
-  lat2 = degr2rad(lat2);
+  const cLat = Math.cos((lat1 + lat2) * PI_360);
+  const dLat = (lat2 - lat1) * PI_360;
+  const dLon = (lon2 - lon1) * PI_360;
 
-  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-    Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2); 
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+  const f = dLat * dLat + cLat * cLat * dLon * dLon;
+  const c = 2 * Math.atan2(Math.sqrt(f), Math.sqrt(1 - f));
+
   return R * c;
 }
 
@@ -28,6 +23,9 @@ function distance(lat1, lon1, lat2, lon2) {
  * @return array with the center latitude longtitude pairs in 
  *   degrees.
  */
+function rad2degr(rad) { return rad * 180 / Math.PI; }
+function degr2rad(degr) { return degr * Math.PI / 180; }
+
 function getLatLngCenter(latLngInDegr) {
   var LATIDX = 0;
   var LNGIDX = 1;
@@ -77,7 +75,12 @@ function success(position) {
   let url = '/';
   entries.forEach(entry => {
     entry.locations.forEach(location => {
-      const result = distance(position.coords.latitude, position.coords.longitude, location.lat, location.lon);
+      const result = distance(
+        position.coords.latitude,
+        position.coords.longitude,
+        parseFloat(location.lat),
+        parseFloat(location.lon)
+      );
       if (result < minimumDistance) {
         minimumDistance = result;
         url = `/${entry.city}/${location.name}/`;
