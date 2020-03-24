@@ -1,6 +1,6 @@
 baseURL = "https://doenieren.in"
 languageCode = "de-DE"
-title = "doenieren.in"
+title = "Dönieren"
 theme = "doenieren"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
