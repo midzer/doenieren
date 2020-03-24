@@ -1,3 +1,9 @@
+{{ define "title" -}}
+Döner essen bei {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "heading" -}}
+Döner essen bei {{ .Title }}
+{{- end }}
 {{ define "main" }}
 {{- $file := .File.BaseFileName -}}
 {{- $helperdir := replace .File.Dir "cities/" "" }}

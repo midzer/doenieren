@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{- block "page_title" . -}}{{ .Title | htmlUnescape }}{{- end }}</title>
+    <title>{{ block "title" . }}{{ if ne .IsHome -}}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     {{ if eq .Kind "section" -}}
     <meta name="description" content="Finde deinen Lieblingsdöner in {{ .Title }}">
     {{- else if ne .Kind "home" -}}
@@ -37,7 +37,10 @@
   </head>
   <body>
 
-    {{ partial "header.html" . }}
+    <header>
+      <a href="/" aria-label="Zur Startseite navigieren"><img src="/img/doener.gif" width="55" height="75" alt="Logo"></a>
+      <h1>{{ block "heading" . }}{{ .Title }}{{ end }}</h1>
+    </header>
 
     <main>
       {{ block "main" . }}{{ end }}

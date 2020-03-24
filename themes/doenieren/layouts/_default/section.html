@@ -1,3 +1,9 @@
+{{ define "title" -}}
+Döner essen in {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "heading" -}}
+Döner essen in {{ .Title }}
+{{- end }}
 {{ define "main" }}
 {{ partialCached "map.html" . }}
 {{ partialCached "find-btn.html" . }}
