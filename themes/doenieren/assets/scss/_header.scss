@@ -1,13 +1,11 @@
 header {
-  > div {
-    display: flex;
-  }
+  display: flex;
   
-  img {
+  > img {
     align-self: start;
   }
 
-  h1 {
+  > h1 {
     margin: 0;
     align-self: center;
   }
