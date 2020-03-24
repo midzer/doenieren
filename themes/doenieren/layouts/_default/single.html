@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ partialCached "map.html" . }}
+{{ partialCached "finder.html" . }}
 <ul>
   {{- $file := .File.BaseFileName -}}
   {{- $helperdir := replace .File.Dir "cities/" "" }}
