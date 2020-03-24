@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div id="map"></div>
+{{ partialCached "map.html" . }}
 <ul>
   {{- $file := .File.BaseFileName -}}
   {{- $helperdir := replace .File.Dir "cities/" "" }}

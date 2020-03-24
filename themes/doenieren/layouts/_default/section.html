@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div id="map"></div>
+{{ partialCached "map.html" . }}
 <p>Du möchtest gerne in {{ .Title }} dönieren? Super Idee! Probiers doch mal bei</p>
 <input type="text" placeholder="Name filtern..." aria-label="Name filtern...">
 <ul>

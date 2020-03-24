@@ -56,6 +56,22 @@ function getLatLngCenter(latLngInDegr) {
   return ([rad2degr(lat), rad2degr(lng)]);
 }
 
+function loadScript (file) {
+  return new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = `/js/${file}`;
+    script.onload = resolve;
+    script.onerror = reject;
+    if (document.head.lastChild.src !== script.src) {
+      document.head.appendChild(script);
+    }
+    else {
+      resolve();
+    }
+  })
+}
+// Find nearest doener
 function success(position) {
   let minimumDistance = 100000;
   let url = '/';
@@ -193,33 +209,42 @@ function buildMap () {
   map.setCenter(lonLat, zoom);
 
   // Add a selector control to the vectorLayer with popup functions
-  var controls = {
+  const controls = {
     selector: new OpenLayers.Control.SelectFeature(vectorLayer, { onSelect: createPopup, onUnselect: destroyPopup })
   };
 
   function createPopup(feature) {
-  feature.popup = new OpenLayers.Popup.FramedCloud("pop",
+    feature.popup = new OpenLayers.Popup.FramedCloud("pop",
       feature.geometry.getBounds().getCenterLonLat(),
       null,
       feature.attributes.description,
       null,
       true,
-      function() { controls['selector'].unselectAll(); }
-  );
-  //feature.popup.closeOnMove = true;
-  map.addPopup(feature.popup);
-}
+      function() {
+        controls['selector'].unselectAll();
+      }
+    );
+    //feature.popup.closeOnMove = true;
+    map.addPopup(feature.popup);
+  }
+  
+  function destroyPopup(feature) {
+    feature.popup.destroy();
+    feature.popup = null;
+  }
 
-function destroyPopup(feature) {
-  feature.popup.destroy();
-  feature.popup = null;
-}
-
-map.addControl(controls['selector']);
-controls['selector'].activate();
-
+  map.addControl(controls['selector']);
+  controls['selector'].activate();
 }
 const mapContainer = document.getElementById('map');
 if (mapContainer) {
-  buildMap();
+  const button = mapContainer.firstElementChild;
+  button.onclick = function () {
+    loadScript('OpenLayers.js')
+    .then(() => {
+      mapContainer.removeChild(button);
+      mapContainer.classList.remove('is-overlay');
+      buildMap();
+    });
+  };
 }
