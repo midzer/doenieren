@@ -4,32 +4,36 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ block "title" . }}{{ if ne .Kind "home" -}}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    {{ if eq .Kind "section" -}}
-    <meta name="description" content="Finde deinen Lieblingsdöner in {{ .Title }}">
+    {{- $description := "Finde den Lieblingsdöner in deiner Stadt" -}}
+    {{- if eq .Kind "section" -}}
+      {{ $description = printf "Finde deinen Lieblingsdöner in %s" .Title }}
     {{- else if ne .Kind "home" -}}
-    {{- $file := .File.BaseFileName -}}
-    {{- $helperdir := replace .File.Dir "cities/" "" }}
-    {{- $dir := replace $helperdir "/" "" -}}
-    {{- $cities := "cities" -}}
-    {{ $city := (index .Site.Data $cities $dir $file).city }}
-    <meta name="description" content="Kurzinfos wie Adresse, Öffnungszeiten und Kontakt über {{ .Title }}{{ with $city }} in {{ . }}{{ end }}">
-    {{- else -}}
-    <meta name="description" content="Finde den Lieblingsdöner in deiner Stadt">
+      {{- $file := .File.BaseFileName -}}
+      {{- $helperdir := replace .File.Dir "cities/" "" }}
+      {{- $dir := replace $helperdir "/" "" -}}
+      {{- $cities := "cities" -}}
+      {{- $city := (index .Site.Data $cities $dir $file).city -}}
+      {{ $description = printf "Adresse, Öffnungszeiten und Kontakt von %s in %s" .Title $city }}
     {{- end }}
+    <meta name="description" content="{{ $description }}">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
 
     <meta property="og:site_name" content="Dönieren">
-    <meta property="og:title" content='{{- block "og_title" . -}}doenieren.in{{- end -}}'>
-    <meta property="og:type" content='{{- block "og_type" . -}}website{{- end -}}'>
-    <meta property="og:url" content='{{- .Permalink -}}'>
-    <meta property="og:image" content='{{- block "og_image" . -}}/images/logo.png{{- end -}}'>
-    <meta property="og:description" content='{{- block "og_description" . -}}Finde den Lieblingsdöner in deiner Stadt{{- end -}}'>
+    <meta property="og:title" content="doenieren.in">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="/img/logo.png">
+    <meta property="og:description" content="{{ $description }}">
     
     <link rel="canonical" href="{{- .Permalink -}}">
     
     <link rel="icon" href="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3e%3ctext y='.9em' font-size='90'%3e🥙%3c/text%3e%3c/svg%3e">
+
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#675ccb">
 
     {{- $style := resources.Get "scss/doenieren.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
