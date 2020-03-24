@@ -1,4 +1,5 @@
 {{ define "main" }}
+<div id="map"></div>
 <ul>
   {{- $file := .File.BaseFileName -}}
   {{- $helperdir := replace .File.Dir "cities/" "" }}
@@ -16,6 +17,10 @@
   {{ with $phone }}<li>Telefon: {{ . }}</li>{{ end }}
   <li>{{ $street }} {{ $housenumber }} in {{ $postcode }} {{ $city }}</li>
   {{ with $website }}<li><a href="{{ . }}" rel="nofollow noopener">{{ . }}</a></li>{{ end }}
+  {{- $dir := replace .File.Dir "cities/" "" }}
+  {{- $city := replace $dir "/" "" }}
+  {{- $location := index .Site.Data "cities" $city .File.BaseFileName }}
+  <li hidden><a href="{{ .RelPermalink }}" data-lat="{{ $location.latitude }}" data-lon="{{ $location.longitude }}">{{ .Title }}</a></li>
 </ul>
 <p>{{ .Title }} in der <a href="https://www.openstreetmap.org/node/{{ $id }}" rel="nofollow noopener">OpenStreetMap</a> öffnen. Nicht mehr aktuelle Informationen können dort editiert werden.</p>
 <hr>

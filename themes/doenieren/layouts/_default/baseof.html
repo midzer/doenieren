@@ -45,8 +45,10 @@
 
     {{ partialCached "footer.html" . }}
 
+    {{- $openlayers := resources.Get "/js/OpenLayers.js" -}}
     {{- $app := resources.Get "/js/app.js" -}}
     {{- $js := $app | minify | fingerprint }}
+    <script defer src="{{ $openlayers.Permalink }}"></script>
     <script defer src="{{ $js.Permalink }}"></script>
   </body>
 </html>

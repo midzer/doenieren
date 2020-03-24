@@ -1,14 +1,21 @@
 [
-{{- range $i, $e := .Site.RegularPages -}}
-  {{ if $i }}, {{ end }}
+  {{- range $i, $c := (.Site.GetPage "section" "cities").Sections -}}
+  {{ if $i }},{{ end }}
   {
-    {{- $file := .File.BaseFileName -}}
-    {{- $helperdir := replace .File.Dir "cities/" "" }}
-    {{- $dir := replace $helperdir "/" "" -}}
-    {{- $cities := "cities" -}}
-    "lat" : "{{ (index .Site.Data $cities $dir $file).latitude }}",
-    "lon" : "{{ (index .Site.Data $cities $dir $file).longitude }}",
-    "url": "{{ .RelPermalink }}"
+    {{- $dir := replace .File.Dir "cities/" "" }}
+    {{- $city := replace $dir "/" "" }}
+    "city": "{{ $city }}",
+    "locations": [
+      {{- range $j, $l := .RegularPages -}}
+      {{ if $j }},{{ end }}
+      {
+        {{- $location := index .Site.Data "cities" $city .File.BaseFileName }}
+        "name": "{{ .File.BaseFileName }}",
+        "lat": "{{ $location.latitude }}",
+        "lon": "{{ $location.longitude }}"
+      }
+      {{- end }}
+    ]
   }
-{{ end }}
+  {{- end }}
 ]
