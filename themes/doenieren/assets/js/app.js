@@ -195,13 +195,10 @@ function buildMap () {
   const lonLat = new OpenLayers.LonLat(center[1], center[0]).transform(epsg4326, projectTo);
   const count = locations.length;
   let zoom = 15;
-  if (count > 100) {
-    zoom = 11;
-  }
-  else if (count > 25) {
+  if (count > 50) {
     zoom = 12;
   }
-  else if (count > 10) {
+  else if (count > 25) {
     zoom = 13;
   }
   else if (count > 5) {
