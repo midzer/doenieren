@@ -236,14 +236,18 @@ function buildMap () {
   map.addControl(controls['selector']);
   controls['selector'].activate();
 }
-const mapContainer = document.getElementById('map');
-if (mapContainer) {
-  const button = mapContainer.firstElementChild;
-  button.onclick = function () {
+const mapButton = document.querySelector('#map button');
+if (mapButton) {
+  mapButton.onclick = function () {
     loadScript('OpenLayers.js')
     .then(() => {
-      mapContainer.removeChild(button);
-      mapContainer.classList.remove('is-overlay');
+      mapButton.style.display = 'none';
+      const sibling = mapButton.nextElementSibling;
+      if (sibling) {
+        // Pages have an addition button
+        sibling.style.display = 'none';
+      }
+      mapButton.parentNode.classList.remove('is-overlay');
       buildMap();
     });
   };
