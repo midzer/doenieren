@@ -5,7 +5,9 @@ Döner essen in {{ .Title }} | {{ .Site.Title }}
 Döner essen in {{ .Title }}
 {{- end }}
 {{ define "main" }}
-{{ partialCached "map.html" . }}
+<div id="map" class="is-overlay">
+  {{ partialCached "load-btn.html" . }}
+</div>
 {{ partialCached "find-btn.html" . }}
 <p>Du möchtest gerne in {{ .Title }} dönieren? Super Idee! Probiers doch mal bei</p>
 <input type="text" placeholder="Name filtern..." aria-label="Name filtern...">
