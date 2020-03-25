@@ -168,6 +168,14 @@ if (input) {
 // multiple markers with clickable popups
 // via http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
 function buildMap() {
+  function createLonLat(longitude, latitude) {
+    return new OpenLayers.LonLat(longitude, latitude).transform(epsg4326, projectTo);
+  }
+  
+  function createGeometryPoint(longitude, latitude) {
+    return new OpenLayers.Geometry.Point(longitude, latitude).transform(epsg4326, projectTo);
+  }
+  
   const map = new OpenLayers.Map('map');
   map.addLayer(new OpenLayers.Layer.OSM());
   const vectorLayer = new OpenLayers.Layer.Vector('Overlay');
@@ -176,15 +184,14 @@ function buildMap() {
   const epsg4326 = new OpenLayers.Projection('EPSG:4326'); // WGS 1984 projection
   const projectTo = map.getProjectionObject(); // The map projection (Spherical Mercator)
 
-  const locations = Array.from(document.querySelectorAll('li > a[data-lat]'));
-
   const array = [];
+  const locations = Array.from(document.querySelectorAll('li > a[data-lat]'));
   locations.forEach(location => {
     array.push([location.dataset.lat, location.dataset.lon]);
 
     // Define markers as "features" of the vector layer:
     const feature = new OpenLayers.Feature.Vector(
-      new OpenLayers.Geometry.Point(location.dataset.lon, location.dataset.lat).transform(epsg4326, projectTo),
+      createGeometryPoint(location.dataset.lon, location.dataset.lat),
       {
         description: `<a href="${location.href}">${location.textContent}</a>`
       },
@@ -199,10 +206,8 @@ function buildMap() {
     vectorLayer.addFeatures(feature);
   });
   // Determine map center
-  const center = getLatLngCenter(array);
-  const lonLat = new OpenLayers.LonLat(center[1], center[0]).transform(epsg4326, projectTo);
-  const count = locations.length;
   let zoom = 15;
+  const count = locations.length;
   if (count > 50) {
     zoom = 12;
   }
@@ -212,7 +217,8 @@ function buildMap() {
   else if (count > 5) {
     zoom = 14;
   }
-  map.setCenter(lonLat, zoom);
+  const center = getLatLngCenter(array);
+  map.setCenter(createLonLat(center[1], center[0]), zoom);
 
   // Add a selector control to the vectorLayer with popup functions
   const controls = {
@@ -230,7 +236,7 @@ function buildMap() {
         controls['selector'].unselectAll();
       }
     );
-    //feature.popup.closeOnMove = true;
+    feature.popup.closeOnMove = true;
     map.addPopup(feature.popup);
   }
   
@@ -243,38 +249,41 @@ function buildMap() {
   controls['selector'].activate();
 
   // Locate user position
-  let userFeature;
-  let centering = true;
   function locateSuccess(position) {
+    const longitude = position.coords.longitude;
+    const latitude = position.coords.latitude;
+    const lonLat = createLonLat(longitude, latitude);
+    if (first) {
+      // Create (new) marker for user location
+      userFeature = new OpenLayers.Feature.Vector(
+        createGeometryPoint(longitude, latitude),
+        {
+          description: `Mein Standort`
+        },
+        {
+          externalGraphic: '/js/img/marker.png',
+          graphicHeight: 25,
+          graphicWidth: 21,
+          graphicXOffset: -10,
+          graphicYOffset: -25
+        }
+      );
+      vectorLayer.addFeatures(userFeature);
+
+      // and center map
+      map.setCenter(lonLat, 16);
+      first = false;
+    }
+    else {
+      // Move feature to new position
+      userFeature.move(lonLat);
+    }
+    // Set button
     locateButton.classList.add('tracking');
     locateButton.textContent = 'Tracken beenden';
-    if (userFeature) {
-      // Remove old marker from layer
-      vectorLayer.removeFeatures([userFeature]);
-    }
-    // Create (new) marker for user location
-    userFeature = new OpenLayers.Feature.Vector(
-      new OpenLayers.Geometry.Point(position.coords.longitude, position.coords.latitude).transform(epsg4326, projectTo),
-      {
-        description: `Mein Standort`
-      },
-      {
-        externalGraphic: '/js/img/marker.png',
-        graphicHeight: 25,
-        graphicWidth: 21,
-        graphicXOffset: -10,
-        graphicYOffset: -25
-      }
-    );
-    vectorLayer.addFeatures(userFeature);
-
-    // and reposition map once
-    if (centering) {
-      map.setCenter(new OpenLayers.LonLat(position.coords.longitude, position.coords.latitude).transform(epsg4326, projectTo), 16);
-      centering = false;
-    }
   }
-  
+  let userFeature;
+  let first = true;
   let watchID;
   const locateButton = document.getElementById('locate-btn');
   locateButton.onclick = function () {
