@@ -8,12 +8,10 @@
     {{- if eq .Kind "section" -}}
       {{ $description = printf "Finde deinen Lieblingsdöner in %s" .Title }}
     {{- else if ne .Kind "home" -}}
-      {{- $file := .File.BaseFileName -}}
-      {{- $helperdir := replace .File.Dir "cities/" "" }}
-      {{- $dir := replace $helperdir "/" "" -}}
-      {{- $cities := "cities" -}}
-      {{- $city := (index .Site.Data $cities $dir $file).city -}}
-      {{ $description = printf "Adresse, Öffnungszeiten und Kontakt von %s in %s" .Title $city }}
+      {{- $dir := replace .File.Dir "cities/" "" }}
+      {{- $city := replace $dir "/" "" -}}
+      {{- $name := (index .Site.Data "cities" $city .File.BaseFileName).city -}}
+      {{ $description = printf "Adresse, Öffnungszeiten und Kontakt von %s in %s" .Title $name }}
     {{- end }}
     <meta name="description" content="{{ $description }}">
     
