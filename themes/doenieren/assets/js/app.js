@@ -54,7 +54,7 @@ function getLatLngCenter(latLngInDegr) {
   return ([rad2degr(lat), rad2degr(lng)]);
 }
 
-function loadScript (file) {
+function loadScript(file) {
   return new Promise((resolve, reject) => {
     const script = document.createElement('script');
     script.async = true;
@@ -70,7 +70,7 @@ function loadScript (file) {
   })
 }
 // Find nearest doener
-function success(position) {
+function findSuccess(position) {
   let minimumDistance = 100000;
   let url = '/';
   entries.forEach(entry => {
@@ -96,13 +96,17 @@ function success(position) {
   }
 }
 
-function error() {
+function geolocationError() {
   alert('Standortabfrage nicht erfolgreich');
 }
 
-function getLocation() {
+function geolocationAlert() {
+  alert('Geolocation wird von deinem Browser nicht unterstützt.');
+}
+
+function findLocation() {
   // We might need permission for this
-  navigator.geolocation.getCurrentPosition(success, error);
+  navigator.geolocation.getCurrentPosition(findSuccess, geolocationError);
 
   // Don't forget to clean up
   overlay.parentNode.removeChild(overlay);
@@ -127,13 +131,14 @@ if (findButton) {
         fetch('/index.json')
         .then(blob => blob.json())
         .then(data => entries.push(...data))
-        .then(() => getLocation());
+        .then(() => findLocation());
       }
       else {
-        getLocation();
+        findLocation();
       }
-    } else {
-      alert('Geolocation wird von deinem Browser nicht unterstützt.');
+    }
+    else {
+      geolocationAlert();
     }
   };
 }
@@ -162,7 +167,7 @@ if (input) {
 // Map
 // multiple markers with clickable popups
 // via http://harrywood.co.uk/maps/examples/openlayers/marker-popups.view.html
-function buildMap () {
+function buildMap() {
   const map = new OpenLayers.Map('map');
   map.addLayer(new OpenLayers.Layer.OSM());
   const vectorLayer = new OpenLayers.Layer.Vector('Overlay');
@@ -178,7 +183,7 @@ function buildMap () {
     array.push([location.dataset.lat, location.dataset.lon]);
 
     // Define markers as "features" of the vector layer:
-    var feature = new OpenLayers.Feature.Vector(
+    const feature = new OpenLayers.Feature.Vector(
       new OpenLayers.Geometry.Point(location.dataset.lon, location.dataset.lat).transform(epsg4326, projectTo),
       {
         description: `<a href="${location.href}">${location.textContent}</a>`
@@ -193,8 +198,8 @@ function buildMap () {
     );
     vectorLayer.addFeatures(feature);
   });
+  // Determine map center
   const center = getLatLngCenter(array);
-
   const lonLat = new OpenLayers.LonLat(center[1], center[0]).transform(epsg4326, projectTo);
   const count = locations.length;
   let zoom = 15;
@@ -207,7 +212,6 @@ function buildMap () {
   else if (count > 5) {
     zoom = 14;
   }
-  // Finally set center
   map.setCenter(lonLat, zoom);
 
   // Add a selector control to the vectorLayer with popup functions
@@ -237,20 +241,78 @@ function buildMap () {
 
   map.addControl(controls['selector']);
   controls['selector'].activate();
+
+  // Locate user position
+  let userFeature;
+  let centering = true;
+  function locateSuccess(position) {
+    locateButton.classList.add('tracking');
+    locateButton.textContent = 'Tracken beenden';
+    if (userFeature) {
+      // Remove old marker from layer
+      vectorLayer.removeFeatures([userFeature]);
+    }
+    // Create (new) marker for user location
+    userFeature = new OpenLayers.Feature.Vector(
+      new OpenLayers.Geometry.Point(position.coords.longitude, position.coords.latitude).transform(epsg4326, projectTo),
+      {
+        description: `Mein Standort`
+      },
+      {
+        externalGraphic: '/js/img/marker.png',
+        graphicHeight: 25,
+        graphicWidth: 21,
+        graphicXOffset: -10,
+        graphicYOffset: -25
+      }
+    );
+    vectorLayer.addFeatures(userFeature);
+
+    // and reposition map once
+    if (centering) {
+      map.setCenter(new OpenLayers.LonLat(position.coords.longitude, position.coords.latitude).transform(epsg4326, projectTo), 16);
+      centering = false;
+    }
+  }
+  
+  let watchID;
+  const locateButton = document.getElementById('locate-btn');
+  locateButton.onclick = function () {
+    if (navigator.geolocation) {
+      if (!this.classList.contains('tracking')) {
+        watchID = navigator.geolocation.watchPosition(locateSuccess, geolocationError, { enableHighAccuracy: true });
+      }
+      else {
+        navigator.geolocation.clearWatch(watchID);
+        this.classList.remove('tracking');
+        this.textContent = 'Meinen Standort tracken';
+        centering = true;
+      }
+    }
+    else {
+      geolocationAlert();
+    }
+  }
 }
 const mapButton = document.querySelector('#map button');
 if (mapButton) {
   mapButton.onclick = function () {
     loadScript('OpenLayers.js')
     .then(() => {
+      // Hide buttons and overlay
       mapButton.style.display = 'none';
       const sibling = mapButton.nextElementSibling;
       if (sibling) {
-        // Pages have an addition button
+        // Only pages have an additional navigate to OSM button
         sibling.style.display = 'none';
       }
       mapButton.parentNode.classList.remove('is-overlay');
+      
+      // and start building map
       buildMap();
+
+      // finally show locate button
+      sibling.nextElementSibling.style.display = 'inline-block';
     });
   };
 }

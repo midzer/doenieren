@@ -3,6 +3,7 @@
   height: 256px;
   max-width: 100%;
   border: 1px solid $gray-700;
+  position: relative;
 
   &.is-overlay {
     display: flex;
@@ -25,8 +26,8 @@
     border-radius: 1rem;
     color: $doe-black;
     font-size: 14px;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 0.75rem;
+    margin: 0.5rem;
     text-decoration: none;
   }
 

@@ -11,6 +11,7 @@ Döner essen bei {{ .Title }}
 <div id="map" class="is-overlay">
   {{ partialCached "load-btn.html" . }}
   <a href="https://www.openstreetmap.org/node/{{ $location.id }}" rel="nofollow noopener">oder auf OpenStreetMap öffnen</a>
+  {{ partialCached "locate-btn.html" . }}
 </div>
 {{ partialCached "find-btn.html" . }}
 <ul>
