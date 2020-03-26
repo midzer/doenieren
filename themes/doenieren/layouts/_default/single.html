@@ -10,7 +10,7 @@ Döner essen bei {{ .Title }}
 {{ $location := index .Site.Data "cities" $city .File.BaseFileName }}
 <div id="map" class="is-overlay">
   {{ partialCached "load-btn.html" . }}
-  <a href="https://www.openstreetmap.org/node/{{ $location.id }}" rel="nofollow noopener"><em>OpenStreetMap ↗</em></a>
+  <a href="https://www.openstreetmap.org/node/{{ $location.id }}" rel="nofollow noopener">OpenStreetMap ↗</a>
   {{ partialCached "locate-btn.html" . }}
 </div>
 {{ partialCached "find-btn.html" . }}

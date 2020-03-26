@@ -19,11 +19,17 @@
     background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
   }
 
-  > a em,
+  > a,
   > button {
     background-color: $white;
     border-color: $white;
     color: $doe-black;
+  }
+
+  > a {
+    border-radius: var(--border-radius);
+    margin: 1.5rem 0 .5rem;
+    padding: 1rem 2rem;
   }
 
   .olControlAttribution {
