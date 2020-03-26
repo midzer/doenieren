@@ -303,7 +303,7 @@ function buildMap() {
       else {
         navigator.geolocation.clearWatch(watchID);
         this.classList.remove('tracking');
-        this.textContent = 'Meinen Standort tracken';
+        this.textContent = 'Standort tracken';
         centering = true;
       }
     }
