@@ -1,35 +1,24 @@
 <footer class="text-center">
-  <span class="footer-item">
+  <hr>
+  <div>
     <a href="https://github.com/midzer/doenieren" rel="noopener">
-      Quelltext
+      Quelltext ↗
     </a>
-  </span>
-  <span class="footer-item">
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" rel="nofollow noopener">
-        BY-NC
-      </a>
-  </span>
-  <span class="footer-item">
-      <a href="/impressum/">
-        Impressum
-      </a>
-  </span>
-  <span class="footer-item">
-      <a href="/datenschutz/">
-        Datenschutz
-      </a>
-  </span>
-  <span class="footer-item">
-      <a href="https://kiwiirc.com/nextclient/#irc://irc.freenode.net:+6697/#doenieren" rel="nofollow noopener">
-        Chat
-      </a>
-  </span>
-  <span class="footer-item d-block">
-    Mit &lt;3 gebaut von <a href="https://rohner.io/" rel="noopener">Rohner Solutions</a>
-  </span>
-  <span class="footer-item d-block">
-    {{ $citiesCount := len (.Site.GetPage "section" "cities").Sections }}
-    {{ $locationsCount := len .Site.RegularPages }}
-    <small>Datenbank: <samp>{{ $locationsCount }}</samp> Lokalitäten in <samp>{{ $citiesCount }}</samp> Städten, letztes Update am {{ now.Format "January 2, 2006" }}</small>
-  </span>
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" rel="nofollow noopener">
+      BY-NC ↗
+    </a>
+    <a href="https://kiwiirc.com/nextclient/#irc://irc.freenode.net:+6697/#doenieren" rel="nofollow noopener">
+      Chat ↗
+    </a>
+    <a href="/impressum/">
+      Impressum
+    </a>
+    <a href="/datenschutz/">
+      Datenschutz
+    </a>
+  </div>
+  <p>Mit &lt;3 gebaut von <a href="https://rohner.io/" rel="noopener">Rohner Solutions ↗</a></p>
+  {{ $citiesCount := len (.Site.GetPage "section" "cities").Sections }}
+  {{ $locationsCount := len .Site.RegularPages }}
+  <code>{{ $locationsCount }} Lokalitäten in {{ $citiesCount }} Städten, letztes Update am {{ now.Format "January 2, 2006" }}</code>
 </footer>

@@ -2,7 +2,7 @@
   width: 512px;
   height: 256px;
   max-width: 100%;
-  border: 1px solid $gray-700;
+  border: 1px solid $doe-black;
   position: relative;
 
   &.is-overlay {
@@ -10,7 +10,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: $doe-blue;
+    background-color: $doe-orange;
     background-image: linear-gradient(white 2px, transparent 2px),
     linear-gradient(90deg, white 2px, transparent 2px),
     linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
@@ -19,16 +19,11 @@
     background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
   }
 
-  > a,
+  > a em,
   > button {
     background-color: $white;
-    border: $doe-black;
-    border-radius: 1rem;
+    border-color: $white;
     color: $doe-black;
-    font-size: 14px;
-    padding: 0.75rem;
-    margin: 0.5rem;
-    text-decoration: none;
   }
 
   .olControlAttribution {

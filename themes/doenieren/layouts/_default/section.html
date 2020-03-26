@@ -7,7 +7,7 @@ Döner essen in {{ .Title }}
 {{ define "main" }}
 <div id="map" class="is-overlay">
   {{ partialCached "load-btn.html" . }}
-  <a href="https://www.openstreetmap.org/search?query={{ .Title }}" rel="nofollow noopener">oder auf OpenStreetMap öffnen</a>
+  <a href="https://www.openstreetmap.org/search?query={{ .Title }}" rel="nofollow noopener"><em>OpenStreetMap ↗</em></a>
   {{ partialCached "locate-btn.html" . }}
 </div>
 {{ partialCached "find-btn.html" . }}
@@ -21,8 +21,6 @@ Döner essen in {{ .Title }}
   <li><a href="{{ .RelPermalink }}" data-lat="{{ $location.latitude }}" data-lon="{{ $location.longitude }}">{{ .Title }}</a></li>
 {{ end }}
 </ul>
-<article>
-  {{ with .Content }}{{ . }}{{ else }}<p>Es gibt noch keinen Text zur allgemeinen Dönerlage in {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ with .File }}{{ .Dir }}{{ end }}_index.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
-</article>
+{{ with .Content }}{{ . }}{{ else }}<p>Es gibt noch keinen Text zur allgemeinen Dönerlage in {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ with .File }}{{ .Dir }}{{ end }}_index.md" rel="nofollow noopener">hier ↗</a> eintragen :)</p>{{ end }}
 <a href="/">zurück zur Startseite</a>
 {{ end }}

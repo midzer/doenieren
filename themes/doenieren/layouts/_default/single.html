@@ -10,7 +10,7 @@ Döner essen bei {{ .Title }}
 {{ $location := index .Site.Data "cities" $city .File.BaseFileName }}
 <div id="map" class="is-overlay">
   {{ partialCached "load-btn.html" . }}
-  <a href="https://www.openstreetmap.org/node/{{ $location.id }}" rel="nofollow noopener">oder auf OpenStreetMap öffnen</a>
+  <a href="https://www.openstreetmap.org/node/{{ $location.id }}" rel="nofollow noopener"><em>OpenStreetMap ↗</em></a>
   {{ partialCached "locate-btn.html" . }}
 </div>
 {{ partialCached "find-btn.html" . }}
@@ -21,8 +21,6 @@ Döner essen bei {{ .Title }}
   {{ with $location.website }}<li><a href="{{ . }}" rel="nofollow noopener">{{ . }}</a></li>{{ end }}
   <li hidden><a href="{{ .RelPermalink }}" data-lat="{{ $location.latitude }}" data-lon="{{ $location.longitude }}">{{ .Title }}</a></li>
 </ul>
-<article>
-  {{ with .Content }}{{ . }}{{ else }}<p>Hier gibt es noch keinen Text über {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ .File.BaseFileName }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
-</article>
+{{ with .Content }}{{ . }}{{ else }}<p>Hier gibt es noch keinen Text über {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ .File.BaseFileName }}.md" rel="nofollow noopener">hier ↗</a> eintragen :)</p>{{ end }}
 <a href="/{{ $dir }}/">zurück zur Übersicht der Stadt</a>
 {{ end }}
