@@ -308,20 +308,16 @@ if (mapButton) {
   mapButton.onclick = function () {
     loadScript('OpenLayers.js')
     .then(() => {
-      // Hide buttons and overlay
-      mapButton.style.display = 'none';
-      const sibling = mapButton.nextElementSibling;
-      if (sibling) {
-        // Only pages have an additional navigate to OSM button
-        sibling.style.display = 'none';
-      }
-      mapButton.parentNode.classList.remove('is-overlay');
-      
-      // and start building map
       buildMap();
 
-      // finally show locate button
-      sibling.nextElementSibling.style.display = 'inline-block';
+      // and hide buttons and overlay
+      mapButton.style.display = 'none';
+      const parent = mapButton.parentNode;  
+      parent.children[1].style.display = 'none';
+      parent.classList.remove('is-overlay');
+
+      // Dont forget to show locate button
+      parent.children[2].style.display = 'inline-block';
     });
   };
 }
