@@ -95,7 +95,9 @@ function findSuccess(position) {
     alert(`Der nächste Döner ist nur ${minimumDistance.toFixed(1)} km von dir entfernt. Du wirst nun dorthin weitergeleitet.`);
     window.location = url;
   }
-  alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
+  else {
+    alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
+  }
 }
 
 function geolocationError(error) {
