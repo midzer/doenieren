@@ -138,6 +138,7 @@ nav ul li {
 }
 
 /* Typography */
+samp,
 code {
     display: inline-block;
     margin: 0 0.1rem;
@@ -149,7 +150,7 @@ samp {
     background-color: var(--color-accent);
     color: var(--color-text);
     border-radius: var(--border-radius);
-    text-align: var(--justify-normal);
+    //text-align: var(--justify-normal);
 }
 
 h1,
@@ -176,7 +177,7 @@ p {
 }
 
 samp {
-    display: block;
+    //display: block;
     margin: 1rem 0;
     max-width: var(--width-card-wide);
     padding: 1rem;

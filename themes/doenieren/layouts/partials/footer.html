@@ -20,5 +20,5 @@
   <p>Mit &lt;3 gebaut von <a href="https://rohner.io/" rel="noopener">Rohner Solutions ↗</a></p>
   {{ $citiesCount := len (.Site.GetPage "section" "cities").Sections }}
   {{ $locationsCount := len .Site.RegularPages }}
-  <code>{{ $locationsCount }} Lokalitäten in {{ $citiesCount }} Städten, letztes Update am {{ now.Format "January 2, 2006" }}</code>
+  <samp>{{ $locationsCount }} Lokalitäten in {{ $citiesCount }} Städten<br>Letztes Update am {{ now.Format "January 2, 2006" }}</samp>
 </footer>
