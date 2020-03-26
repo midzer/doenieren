@@ -71,33 +71,46 @@ function loadScript(file) {
 }
 // Find nearest doener
 function findSuccess(position) {
-  let minimumDistance = 100000;
-  let url = '/';
-  entries.forEach(entry => {
-    entry.locations.forEach(location => {
-      const result = distance(
-        position.coords.latitude,
-        position.coords.longitude,
-        parseFloat(location.lat),
-        parseFloat(location.lon)
-      );
-      if (result < minimumDistance) {
-        minimumDistance = result;
-        url = `/${entry.city}/${location.name}/`;
-      }
+  // Create overlay with loader as upcoming task may take a while
+  const overlay = document.createElement('div');
+  overlay.className = 'overlay';
+  const loader = document.createElement('div');
+  loader.className = 'loader';
+  overlay.appendChild(loader);
+  document.body.appendChild(overlay);
+
+  // Get data
+  fetch('/index.json')
+  .then(blob => blob.json())
+  .then(data => {
+    let minimumDistance = 100000;
+    let url = '/';
+    data.forEach(entry => {
+      entry.locations.forEach(location => {
+        const result = distance(
+          position.coords.latitude,
+          position.coords.longitude,
+          parseFloat(location.lat),
+          parseFloat(location.lon)
+        );
+        if (result < minimumDistance) {
+          minimumDistance = result;
+          url = `/${entry.city}/${location.name}/`;
+        }
+      });
     });
+    // Don't forget to clean up
+    overlay.parentNode.removeChild(overlay);
+    
+    // Show alert and redirect
+    if (window.location.pathname != url) {
+      alert(`Der nächste Döner ist nur ${minimumDistance.toFixed(1)} km von dir entfernt. Du wirst nun dorthin weitergeleitet.`);
+      window.location = url;
+    }
+    else {
+      alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
+    }
   });
-  // Don't forget to clean up
-  overlay.parentNode.removeChild(overlay);
-  
-  // Show alert and redirect
-  if (window.location.pathname != url) {
-    alert(`Der nächste Döner ist nur ${minimumDistance.toFixed(1)} km von dir entfernt. Du wirst nun dorthin weitergeleitet.`);
-    window.location = url;
-  }
-  else {
-    alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
-  }
 }
 
 function geolocationError(error) {
@@ -126,35 +139,12 @@ function geolocationAlert() {
   alert('Geolocation wird von deinem Browser nicht unterstützt.');
 }
 
-function findLocation() {
-  // We might need permission for this
-  navigator.geolocation.getCurrentPosition(findSuccess, geolocationError);
-}
-
-let overlay;
-const entries = [];
 const findButton = document.getElementById('find-btn');
 if (findButton) {
   findButton.onclick = function () {
     if (navigator.geolocation) {
-      // Create overlay with loader as upcoming task may take a while
-      overlay = document.createElement('div');
-      overlay.className = 'overlay';
-      const loader = document.createElement('div');
-      loader.className = 'loader';
-      overlay.appendChild(loader);
-      document.body.appendChild(overlay);
-  
-      if (!entries.length) {
-        // Get data
-        fetch('/index.json')
-        .then(blob => blob.json())
-        .then(data => entries.push(...data))
-        .then(() => findLocation());
-      }
-      else {
-        findLocation();
-      }
+      // We might need permission for this
+      navigator.geolocation.getCurrentPosition(findSuccess, geolocationError);
     }
     else {
       geolocationAlert();
