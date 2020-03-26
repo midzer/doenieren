@@ -87,17 +87,31 @@ function findSuccess(position) {
       }
     });
   });
+  // Show alert and redirect
   if (window.location.pathname != url) {
     alert(`Der nächste Döner ist nur ${minimumDistance.toFixed(1)} km von dir entfernt. Du wirst nun dorthin weitergeleitet.`);
     window.location = url;
   }
-  else {
-    alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
-  }
+  alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
 }
 
-function geolocationError() {
-  alert('Standortabfrage nicht erfolgreich');
+function geolocationError(error) {
+  let message = 'Standortabfrage nicht erfolgreich.';
+  switch(error.code) {
+    case error.PERMISSION_DENIED:
+      message = 'Nutzer verweigerte die Geolocationanfrage.';
+      break;
+    case error.POSITION_UNAVAILABLE:
+      message = 'Standortinformation nicht verfügbar.';
+      break;
+    case error.TIMEOUT:
+      message = 'Zeitüberschreiung bei der Anfrage des Nutzerstandorts.';
+      break;
+    case error.UNKNOWN_ERROR:
+      message = 'Ein unbekannter Fehler trat auf.';
+      break;
+  }
+  alert(message);
 }
 
 function geolocationAlert() {
