@@ -22,7 +22,7 @@ Döner essen bei {{ .Title }}
   <li hidden><a href="{{ .RelPermalink }}" data-lat="{{ $location.latitude }}" data-lon="{{ $location.longitude }}">{{ .Title }}</a></li>
 </ul>
 <article>
-  {{ with .Content }}{{ . }}{{ else }}<p>Ooops, hier gibt es noch keinen Text über {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ .File.BaseFileName }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
+  {{ with .Content }}{{ . }}{{ else }}<p>Hier gibt es noch keinen Text über {{ .Title }}. Du kannst eine Beschreibung <a href="https://github.com/midzer/doenieren/edit/master/content/{{ .File.Dir }}{{ .File.BaseFileName }}.md" rel="nofollow noopener">hier</a> eintragen :)</p>{{ end }}
 </article>
 <a href="/{{ $dir }}/">zurück zur Übersicht der Stadt</a>
 {{ end }}
