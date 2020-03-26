@@ -87,6 +87,9 @@ function findSuccess(position) {
       }
     });
   });
+  // Don't forget to clean up
+  overlay.parentNode.removeChild(overlay);
+  
   // Show alert and redirect
   if (window.location.pathname != url) {
     alert(`Der nächste Döner ist nur ${minimumDistance.toFixed(1)} km von dir entfernt. Du wirst nun dorthin weitergeleitet.`);
@@ -96,6 +99,9 @@ function findSuccess(position) {
 }
 
 function geolocationError(error) {
+  // Don't forget to clean up
+  overlay.parentNode.removeChild(overlay);
+
   let message = 'Standortabfrage nicht erfolgreich.';
   switch(error.code) {
     case error.PERMISSION_DENIED:
@@ -121,9 +127,6 @@ function geolocationAlert() {
 function findLocation() {
   // We might need permission for this
   navigator.geolocation.getCurrentPosition(findSuccess, geolocationError);
-
-  // Don't forget to clean up
-  overlay.parentNode.removeChild(overlay);
 }
 
 let overlay;
