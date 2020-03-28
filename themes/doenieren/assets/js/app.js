@@ -55,7 +55,7 @@ function getLatLngCenter(latLngInDegr) {
 }
 
 function loadScript(file) {
-  return new Promise((resolve, reject) => {
+  return new Promise(function(resolve, reject) {
     const script = document.createElement('script');
     script.async = true;
     script.src = '/js/' + file;
