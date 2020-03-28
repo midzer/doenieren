@@ -116,9 +116,6 @@ function findSuccess(position) {
 }
 
 function geolocationError(error) {
-  // Don't forget to clean up
-  overlay.parentNode.removeChild(overlay);
-
   let message = 'Standortabfrage nicht erfolgreich.';
   switch(error.code) {
     case error.PERMISSION_DENIED:
