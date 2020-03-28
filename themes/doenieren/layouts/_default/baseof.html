@@ -51,6 +51,18 @@
     
     {{- $app := resources.Get "/js/app.js" -}}
     {{- $js := $app | minify | fingerprint }}
+    <script>
+    // IE11 polyfills
+    if (!('fetch' in window && 'assign' in Object)) {
+      const polyfills = ['polyfills', 'es6-promise.auto.min', 'fetch.umd'];
+      for (let i = 0; i < polyfills.length; i++) {
+        const script = document.createElement('script');
+        script.async = false;
+        script.src = '/js/' + polyfills[i] + '.js';
+        document.head.appendChild(script);
+      }
+    }
+    </script>
     <script defer src="{{ $js.Permalink }}"></script>
   </body>
 </html>
