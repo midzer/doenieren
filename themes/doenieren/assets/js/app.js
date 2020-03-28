@@ -153,7 +153,7 @@ if (findButton) {
 // Filter input
 function startFilter() {
   const regex = new RegExp(this.value, 'gi');
-  const entries = document.querySelectorAll('li');
+  const entries = Array.from(document.querySelectorAll('li'));
   entries.forEach(function(entry) {
     entry.style.display = regex.test(entry.textContent) ? 'list-item' : 'none';
   });
