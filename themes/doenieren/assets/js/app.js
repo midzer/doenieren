@@ -58,7 +58,7 @@ function loadScript(file) {
   return new Promise((resolve, reject) => {
     const script = document.createElement('script');
     script.async = true;
-    script.src = `/js/${file}`;
+    script.src = '/js/' + file;
     script.onload = resolve;
     script.onerror = reject;
     if (document.head.lastChild.src !== script.src) {
@@ -81,12 +81,14 @@ function findSuccess(position) {
 
   // Get data
   fetch('/index.json')
-  .then(blob => blob.json())
-  .then(data => {
+  .then(function(blob) {
+    return blob.json();
+  })
+  .then(function(data) {
     let minimumDistance = 100000;
     let url = '/';
-    data.forEach(entry => {
-      entry.locations.forEach(location => {
+    data.forEach(function(entry) {
+      entry.locations.forEach(function(location) {
         const result = distance(
           position.coords.latitude,
           position.coords.longitude,
@@ -95,7 +97,7 @@ function findSuccess(position) {
         );
         if (result < minimumDistance) {
           minimumDistance = result;
-          url = `/${entry.city}/${location.name}/`;
+          url = '/' + entry.city + '/' + location.name +'/';
         }
       });
     });
@@ -104,11 +106,11 @@ function findSuccess(position) {
     
     // Show alert and redirect
     if (window.location.pathname != url) {
-      alert(`Der nächste Döner ist nur ${minimumDistance.toFixed(1)} km von dir entfernt. Du wirst nun dorthin weitergeleitet.`);
+      alert('Der nächste Döner ist nur ' + minimumDistance.toFixed(1) + ' km von dir entfernt. Du wirst nun dorthin weitergeleitet.');
       window.location = url;
     }
     else {
-      alert(`Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ${minimumDistance.toFixed(1)} km von dir entfernt.`);
+      alert('Super, du befindest dich bereits beim Döner in deiner Nähe. Er ist nur ' + minimumDistance.toFixed(1) + ' km von dir entfernt.');
     }
   });
 }
@@ -155,19 +157,14 @@ if (findButton) {
 function startFilter() {
   const regex = new RegExp(this.value, 'gi');
   const entries = document.querySelectorAll('li');
-  entries.forEach(entry => {
-    if (!entry.textContent.match(regex)) {
-      entry.style.display = 'none';
-    }
-    else {
-      entry.style.display = 'list-item';
-    }
+  entries.forEach(function(entry) {
+    entry.style.display = regex.test(entry.textContent) ? 'list-item' : 'none';
   });
 }
 const input = document.querySelector('input');
 if (input) {
   input.addEventListener('keyup', startFilter);
-  input.addEventListener('keypress', event => {
+  input.addEventListener('keypress', function(event) {
     if (event.keyCode === 13) {
       event.preventDefault();
     }
@@ -195,14 +192,14 @@ function buildMap() {
 
   const array = [];
   const locations = Array.from(document.querySelectorAll('li > a[data-lat]'));
-  locations.forEach(location => {
+  locations.forEach(function(location) {
     array.push([location.dataset.lat, location.dataset.lon]);
 
     // Define markers as "features" of the vector layer:
     const feature = new OpenLayers.Feature.Vector(
       createGeometryPoint(location.dataset.lon, location.dataset.lat),
       {
-        description: `<a href="${location.href}">${location.textContent}</a>`
+        description: '<a href="' + location.href + '">' + location.textContent + '</a>'
       },
       {
         externalGraphic: '/img/marker.png',
@@ -235,7 +232,7 @@ function buildMap() {
   };
 
   function createPopup(feature) {
-    feature.popup = new OpenLayers.Popup.FramedCloud("pop",
+    feature.popup = new OpenLayers.Popup.FramedCloud('pop',
       feature.geometry.getBounds().getCenterLonLat(),
       null,
       feature.attributes.description,
@@ -245,7 +242,7 @@ function buildMap() {
         controls['selector'].unselectAll();
       }
     );
-    feature.popup.closeOnMove = true;
+    //feature.popup.closeOnMove = true;
     map.addPopup(feature.popup);
   }
   
@@ -267,7 +264,7 @@ function buildMap() {
       userFeature = new OpenLayers.Feature.Vector(
         createGeometryPoint(longitude, latitude),
         {
-          description: `Mein Standort`
+          description: 'Mein Standort'
         },
         {
           externalGraphic: '/js/img/marker.png',
@@ -316,7 +313,7 @@ const mapButton = document.querySelector('#map button');
 if (mapButton) {
   mapButton.onclick = function () {
     loadScript('OpenLayers.js')
-    .then(() => {
+    .then(function() {
       buildMap();
 
       // and hide buttons and overlay
