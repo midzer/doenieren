@@ -1,0 +1,4 @@
+---
+title: Fredenbeck
+url: "/fredenbeck/"
+---

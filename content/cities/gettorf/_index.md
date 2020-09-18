@@ -1,4 +1,0 @@
----
-title: Gettorf
-url: "/gettorf/"
----

@@ -1,4 +1,0 @@
----
-title: Hasselfelde
-url: "/hasselfelde/"
----

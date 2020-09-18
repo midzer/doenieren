@@ -1,4 +1,0 @@
----
-title: Großpostwitz
-url: "/grosspostwitz/"
----

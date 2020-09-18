@@ -1,4 +1,0 @@
----
-title: Lohne
-url: "/lohne/"
----

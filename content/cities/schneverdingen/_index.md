@@ -1,4 +1,0 @@
----
-title: Schneverdingen
-url: "/schneverdingen/"
----

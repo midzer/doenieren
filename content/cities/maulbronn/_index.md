@@ -1,0 +1,4 @@
+---
+title: Maulbronn
+url: "/maulbronn/"
+---

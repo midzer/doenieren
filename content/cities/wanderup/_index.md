@@ -1,4 +1,0 @@
----
-title: Wanderup
-url: "/wanderup/"
----

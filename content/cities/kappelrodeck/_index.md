@@ -1,4 +1,0 @@
----
-title: Kappelrodeck
-url: "/kappelrodeck/"
----

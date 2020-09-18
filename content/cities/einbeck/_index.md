@@ -1,4 +1,0 @@
----
-title: Einbeck
-url: "/einbeck/"
----

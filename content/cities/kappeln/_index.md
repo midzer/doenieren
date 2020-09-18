@@ -1,4 +1,0 @@
----
-title: Kappeln
-url: "/kappeln/"
----

@@ -1,4 +1,0 @@
----
-title: Bruchköbel
-url: "/bruchkoebel/"
----

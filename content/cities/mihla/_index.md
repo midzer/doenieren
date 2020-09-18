@@ -1,4 +1,0 @@
----
-title: Mihla
-url: "/mihla/"
----

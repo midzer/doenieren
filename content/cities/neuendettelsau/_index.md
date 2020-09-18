@@ -1,4 +1,0 @@
----
-title: Neuendettelsau
-url: "/neuendettelsau/"
----

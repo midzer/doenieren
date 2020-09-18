@@ -1,4 +1,0 @@
----
-title: Wörth
-url: "/woerth/"
----

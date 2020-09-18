@@ -1,4 +1,0 @@
----
-title: Lichtenstein
-url: "/lichtenstein/"
----

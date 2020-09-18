@@ -1,4 +1,0 @@
----
-title: Scheeßel
-url: "/scheessel/"
----
