@@ -1,4 +1,4 @@
 ---
 title: Leonberg
-url: "/leonberg/"
+url: /leonberg/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bingen am Rhein
-url: "/bingen-am-rhein/"
+url: /bingen-am-rhein/
 ---

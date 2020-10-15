@@ -1,4 +1,4 @@
 ---
-title: Haci Baba
-url: "/hagen/haci-baba/"
+title: "Haci Baba"
+url: /hagen/haci-baba/
 ---

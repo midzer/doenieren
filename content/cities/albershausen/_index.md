@@ -1,4 +1,4 @@
 ---
 title: Albershausen
-url: "/albershausen/"
+url: /albershausen/
 ---

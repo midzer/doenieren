@@ -1,4 +1,4 @@
 ---
-title: Arkadasch
-url: "/hamburg/arkadasch/"
+title: "Arkadasch"
+url: /hamburg/arkadasch/
 ---

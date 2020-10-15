@@ -1,4 +1,4 @@
 ---
-title: Nese Döner
-url: "/luebeck/nese-doener/"
+title: "Nese Döner"
+url: /luebeck/nese-doener/
 ---

@@ -1,9 +1,9 @@
 id: 945855102
 latitude: 51.274981700000005
 longitude: 7.223024400000001
-postcode: 42277
+postcode: "42277"
 city: Wuppertal
-street: Rittershauser Brücke
+street: "Rittershauser Brücke"
 housenumber: 3
 phone: ""
 opening_hours: ""

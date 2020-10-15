@@ -1,4 +1,4 @@
 ---
-title: Palast
-url: "/berlin/palast/"
+title: "Palast"
+url: /berlin/palast/
 ---

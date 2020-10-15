@@ -1,9 +1,9 @@
 id: 643424345
 latitude: 47.760587900000004
 longitude: 8.836347100000001
-postcode: 78224
+postcode: "78224"
 city: Singen
-street: Scheffelstraße
+street: "Scheffelstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

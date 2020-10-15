@@ -1,4 +1,4 @@
 ---
-title: Orient Express
-url: "/wiesbaden/orient-express/"
+title: "Orient Express"
+url: /wiesbaden/orient-express/
 ---

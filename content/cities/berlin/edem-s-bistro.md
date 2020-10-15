@@ -1,4 +1,4 @@
 ---
-title: Edem´s Bistro
-url: "/berlin/edem-s-bistro/"
+title: "Edem´s Bistro"
+url: /berlin/edem-s-bistro/
 ---

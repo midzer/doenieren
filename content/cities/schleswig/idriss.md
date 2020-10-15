@@ -1,4 +1,4 @@
 ---
-title: Idriss
-url: "/schleswig/idriss/"
+title: "Idriss"
+url: /schleswig/idriss/
 ---

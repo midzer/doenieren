@@ -1,9 +1,9 @@
 id: 4494913682
 latitude: 51.88221600000001
 longitude: 8.2346346
-postcode: 33442
+postcode: "33442"
 city: Herzebrock-Clarholz
-street: Clarholzer Straße
+street: "Clarholzer Straße"
 housenumber: 57
 phone: ""
 opening_hours: "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00"

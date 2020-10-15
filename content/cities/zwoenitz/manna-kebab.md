@@ -1,4 +1,4 @@
 ---
-title: Manna Kebab
-url: "/zwoenitz/manna-kebab/"
+title: "Manna Kebab"
+url: /zwoenitz/manna-kebab/
 ---

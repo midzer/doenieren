@@ -1,4 +1,4 @@
 ---
-title: Krispy Kebab
-url: "/bielefeld/krispy-kebab/"
+title: "Krispy Kebab"
+url: /bielefeld/krispy-kebab/
 ---

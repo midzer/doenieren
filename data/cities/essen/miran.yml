@@ -1,9 +1,9 @@
 id: 4350282759
 latitude: 51.438261700000005
 longitude: 7.0058572
-postcode: 45130
+postcode: "45130"
 city: Essen
-street: Rüttenscheider Straße
+street: "Rüttenscheider Straße"
 housenumber: 89
 phone: ""
 opening_hours: "Mo-Th 11:00-23:00, Fr,Sa 11:00-24:00, Su,PH 12:00-22:00"

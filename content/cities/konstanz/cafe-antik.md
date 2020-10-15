@@ -1,4 +1,4 @@
 ---
-title: Café Antik
-url: "/konstanz/cafe-antik/"
+title: "Café Antik"
+url: /konstanz/cafe-antik/
 ---

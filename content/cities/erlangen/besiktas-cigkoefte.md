@@ -1,4 +1,4 @@
 ---
-title: Besiktas Cigköfte
-url: "/erlangen/besiktas-cigkoefte/"
+title: "Besiktas Cigköfte"
+url: /erlangen/besiktas-cigkoefte/
 ---

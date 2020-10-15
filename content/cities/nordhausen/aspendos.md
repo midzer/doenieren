@@ -1,4 +1,4 @@
 ---
-title: Aspendos
-url: "/nordhausen/aspendos/"
+title: "Aspendos"
+url: /nordhausen/aspendos/
 ---

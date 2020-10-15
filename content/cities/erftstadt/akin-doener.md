@@ -1,4 +1,4 @@
 ---
-title: Akin Döner
-url: "/erftstadt/akin-doener/"
+title: "Akin Döner"
+url: /erftstadt/akin-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Walsrode
-url: "/walsrode/"
+url: /walsrode/
 ---

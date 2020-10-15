@@ -1,4 +1,4 @@
 ---
-title: Babylon Grill
-url: "/neustadt-a-d-waldnaab/babylon-grill/"
+title: "Babylon Grill"
+url: /neustadt-a-d-waldnaab/babylon-grill/
 ---

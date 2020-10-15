@@ -1,4 +1,4 @@
 ---
-title: Salzmann Bistro
-url: "/berlin/salzmann-bistro/"
+title: "Salzmann Bistro"
+url: /berlin/salzmann-bistro/
 ---

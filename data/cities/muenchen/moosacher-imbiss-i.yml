@@ -1,9 +1,9 @@
 id: 2505263098
 latitude: 48.1806306
 longitude: 11.5118007
-postcode: 80992
+postcode: "80992"
 city: München
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 423
 phone: ""
 opening_hours: "06:00-22:00"

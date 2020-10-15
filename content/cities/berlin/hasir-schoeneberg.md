@@ -1,4 +1,4 @@
 ---
-title: Hasir (Schöneberg)
-url: "/berlin/hasir-schoeneberg/"
+title: "Hasir (Schöneberg)"
+url: /berlin/hasir-schoeneberg/
 ---

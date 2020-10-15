@@ -1,4 +1,4 @@
 ---
 title: Rangsdorf
-url: "/rangsdorf/"
+url: /rangsdorf/
 ---

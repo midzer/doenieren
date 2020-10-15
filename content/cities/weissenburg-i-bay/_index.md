@@ -1,4 +1,4 @@
 ---
 title: Weißenburg i. Bay.
-url: "/weissenburg-i-bay/"
+url: /weissenburg-i-bay/
 ---

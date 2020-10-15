@@ -1,4 +1,4 @@
 ---
-title: le'zzet
-url: "/bielefeld/lezzet/"
+title: "le'zzet"
+url: /bielefeld/lezzet/
 ---

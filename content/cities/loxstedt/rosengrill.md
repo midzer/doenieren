@@ -1,4 +1,4 @@
 ---
-title: Rosengrill
-url: "/loxstedt/rosengrill/"
+title: "Rosengrill"
+url: /loxstedt/rosengrill/
 ---

@@ -1,9 +1,9 @@
 id: 7858406355
 latitude: 51.6246359
 longitude: 12.3298862
-postcode: 06749
+postcode: "06749"
 city: Bitterfeld-Wolfen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00"

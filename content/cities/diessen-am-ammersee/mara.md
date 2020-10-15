@@ -1,4 +1,4 @@
 ---
-title: Mara
-url: "/diessen-am-ammersee/mara/"
+title: "Mara"
+url: /diessen-am-ammersee/mara/
 ---

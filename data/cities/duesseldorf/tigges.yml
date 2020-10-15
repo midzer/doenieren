@@ -1,9 +1,9 @@
 id: 3243803799
 latitude: 51.207305100000006
 longitude: 6.7773694
-postcode: 40223
+postcode: "40223"
 city: Düsseldorf
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 14:00-01:00, Sa,Su 11:00-01:00"

@@ -1,9 +1,9 @@
 id: 1077054625
 latitude: 51.9340112
 longitude: 7.625556400000001
-postcode: 48153
+postcode: "48153"
 city: Münster
-street: Hammer Straße
+street: "Hammer Straße"
 housenumber: 282
 phone: ""
 opening_hours: ""

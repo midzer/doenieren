@@ -1,9 +1,9 @@
 id: 4542091124
 latitude: 52.4581017
 longitude: 13.5800031
-postcode: 12555
+postcode: "12555"
 city: Berlin
-street: Elcknerplatz
+street: "Elcknerplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Su-Th 10:00-02:00, Fr,Sa 10:00-03:00"

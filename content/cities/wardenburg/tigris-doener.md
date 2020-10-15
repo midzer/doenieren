@@ -1,4 +1,4 @@
 ---
-title: Tigris Döner
-url: "/wardenburg/tigris-doener/"
+title: "Tigris Döner"
+url: /wardenburg/tigris-doener/
 ---

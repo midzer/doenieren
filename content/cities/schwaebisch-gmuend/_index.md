@@ -1,4 +1,4 @@
 ---
 title: Schwäbisch Gmünd
-url: "/schwaebisch-gmuend/"
+url: /schwaebisch-gmuend/
 ---

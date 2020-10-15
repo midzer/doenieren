@@ -1,4 +1,4 @@
 ---
-title: Pascha Imbiss
-url: "/hannover/pascha-imbiss/"
+title: "Pascha Imbiss"
+url: /hannover/pascha-imbiss/
 ---

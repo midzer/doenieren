@@ -1,4 +1,4 @@
 ---
-title: Grillecke
-url: "/iserlohn/grillecke/"
+title: "Grillecke"
+url: /iserlohn/grillecke/
 ---

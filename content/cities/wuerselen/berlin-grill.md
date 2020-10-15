@@ -1,4 +1,4 @@
 ---
-title: Berlin Grill
-url: "/wuerselen/berlin-grill/"
+title: "Berlin Grill"
+url: /wuerselen/berlin-grill/
 ---

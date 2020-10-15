@@ -1,4 +1,4 @@
 ---
-title: Khoros
-url: "/regensburg/khoros/"
+title: "Khoros"
+url: /regensburg/khoros/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Newroz
-url: "/dresden/newroz/"
+title: "Newroz"
+url: /dresden/newroz/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Baris
-url: "/hamburg/baris/"
+title: "Baris"
+url: /hamburg/baris/
 ---

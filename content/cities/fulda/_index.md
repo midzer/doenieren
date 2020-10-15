@@ -1,4 +1,4 @@
 ---
 title: Fulda
-url: "/fulda/"
+url: /fulda/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alaturka
-url: "/stuttgart/alaturka/"
+title: "Alaturka"
+url: /stuttgart/alaturka/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Han Restaurant
-url: "/witten/han-restaurant/"
+title: "Han Restaurant"
+url: /witten/han-restaurant/
 ---

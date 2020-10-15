@@ -1,4 +1,4 @@
 ---
-title: Orient Grill
-url: "/naumburg/orient-grill/"
+title: "Orient Grill"
+url: /naumburg/orient-grill/
 ---

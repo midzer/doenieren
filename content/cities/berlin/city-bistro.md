@@ -1,4 +1,4 @@
 ---
-title: City Bistro
-url: "/berlin/city-bistro/"
+title: "City Bistro"
+url: /berlin/city-bistro/
 ---

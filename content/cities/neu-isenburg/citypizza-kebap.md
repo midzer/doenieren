@@ -1,4 +1,4 @@
 ---
-title: Citypizza Kebap
-url: "/neu-isenburg/citypizza-kebap/"
+title: "Citypizza Kebap"
+url: /neu-isenburg/citypizza-kebap/
 ---

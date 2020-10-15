@@ -1,4 +1,4 @@
 ---
-title: Profi Croques und Döner Haus
-url: "/lengede/profi-croques-und-doener-haus/"
+title: "Profi Croques und Döner Haus"
+url: /lengede/profi-croques-und-doener-haus/
 ---

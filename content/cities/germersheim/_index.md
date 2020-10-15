@@ -1,4 +1,4 @@
 ---
 title: Germersheim
-url: "/germersheim/"
+url: /germersheim/
 ---

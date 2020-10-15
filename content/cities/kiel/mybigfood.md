@@ -1,4 +1,4 @@
 ---
-title: MyBigFood
-url: "/kiel/mybigfood/"
+title: "MyBigFood"
+url: /kiel/mybigfood/
 ---

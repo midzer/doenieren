@@ -1,4 +1,4 @@
 ---
-title: Bistro Lavash
-url: "/muenchen/bistro-lavash/"
+title: "Bistro Lavash"
+url: /muenchen/bistro-lavash/
 ---

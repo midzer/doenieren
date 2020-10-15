@@ -1,9 +1,9 @@
 id: 1879068201
 latitude: 52.0276586
 longitude: 8.5313424
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Su-Fr 09:00-01:00, Sa 09:00-04:00"

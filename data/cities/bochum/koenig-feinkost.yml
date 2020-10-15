@@ -1,9 +1,9 @@
 id: 5264546110
 latitude: 51.481171800000006
 longitude: 7.209768400000001
-postcode: 44793
+postcode: "44793"
 city: Bochum
-street: Alleestraße
+street: "Alleestraße"
 housenumber: 40
 phone: ""
 opening_hours: ""

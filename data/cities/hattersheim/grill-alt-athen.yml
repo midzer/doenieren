@@ -1,9 +1,9 @@
 id: 2112603113
 latitude: 50.0700854
 longitude: 8.4895908
-postcode: 65795
+postcode: "65795"
 city: Hattersheim
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

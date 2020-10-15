@@ -1,4 +1,4 @@
 ---
-title: Reyna
-url: "/bad-oeynhausen/reyna/"
+title: "Reyna"
+url: /bad-oeynhausen/reyna/
 ---

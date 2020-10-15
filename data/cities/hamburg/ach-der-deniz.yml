@@ -1,9 +1,9 @@
 id: 6775289706
 latitude: 53.4749076
 longitude: 9.875714400000001
-postcode: 21147
+postcode: "21147"
 city: Hamburg
-street: Rehrstieg
+street: "Rehrstieg"
 housenumber: 30C
 phone: ""
 opening_hours: ""

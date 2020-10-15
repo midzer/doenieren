@@ -1,9 +1,9 @@
 id: 1859546306
 latitude: 52.3741196
 longitude: 9.7048207
-postcode: 30451
+postcode: "30451"
 city: Hannover
-street: Kötnerholzweg
+street: "Kötnerholzweg"
 housenumber: 39
 phone: ""
 opening_hours: ""

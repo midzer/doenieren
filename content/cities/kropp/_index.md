@@ -1,4 +1,4 @@
 ---
 title: Kropp
-url: "/kropp/"
+url: /kropp/
 ---

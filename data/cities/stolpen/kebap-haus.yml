@@ -1,9 +1,9 @@
 id: 4876500729
 latitude: 51.049660900000006
 longitude: 14.084156400000001
-postcode: 01833
+postcode: "01833"
 city: Stolpen
-street: Bischofswerdaer Straße
+street: "Bischofswerdaer Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 11:00-21:00; Sa-Su 16:00-21:00"

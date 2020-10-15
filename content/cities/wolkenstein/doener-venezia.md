@@ -1,4 +1,4 @@
 ---
-title: Döner Venezia
-url: "/wolkenstein/doener-venezia/"
+title: "Döner Venezia"
+url: /wolkenstein/doener-venezia/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Forsting
-url: "/forsting/"
+url: /forsting/
 ---

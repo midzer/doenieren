@@ -1,4 +1,4 @@
 ---
 title: Heiligenhafen
-url: "/heiligenhafen/"
+url: /heiligenhafen/
 ---

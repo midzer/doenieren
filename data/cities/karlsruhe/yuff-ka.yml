@@ -1,9 +1,9 @@
 id: 310463810
 latitude: 49.0095656
 longitude: 8.395427900000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
-street: Erbprinzenstraße
+street: "Erbprinzenstraße"
 housenumber: 40
 phone: "+49 721 1205935"
 opening_hours: "Mo-Th 11:00-22:45; Fr,Sa 11:00-23:45"

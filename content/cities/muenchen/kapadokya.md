@@ -1,4 +1,4 @@
 ---
-title: Kapadokya
-url: "/muenchen/kapadokya/"
+title: "Kapadokya"
+url: /muenchen/kapadokya/
 ---

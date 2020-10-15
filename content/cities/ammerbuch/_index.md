@@ -1,4 +1,4 @@
 ---
 title: Ammerbuch
-url: "/ammerbuch/"
+url: /ammerbuch/
 ---

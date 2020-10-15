@@ -1,4 +1,4 @@
 ---
-title: Royal Kebap
-url: "/berlin/royal-kebap/"
+title: "Royal Kebap"
+url: /berlin/royal-kebap/
 ---

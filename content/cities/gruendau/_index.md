@@ -1,4 +1,4 @@
 ---
 title: Gründau
-url: "/gruendau/"
+url: /gruendau/
 ---

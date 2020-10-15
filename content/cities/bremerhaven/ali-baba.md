@@ -1,4 +1,4 @@
 ---
-title: Ali Baba
-url: "/bremerhaven/ali-baba/"
+title: "Ali Baba"
+url: /bremerhaven/ali-baba/
 ---

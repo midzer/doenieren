@@ -1,4 +1,4 @@
 ---
-title: Flamingo
-url: "/tostedt/flamingo/"
+title: "Flamingo"
+url: /tostedt/flamingo/
 ---

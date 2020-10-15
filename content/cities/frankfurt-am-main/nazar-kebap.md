@@ -1,4 +1,4 @@
 ---
-title: Nazar Kebap
-url: "/frankfurt-am-main/nazar-kebap/"
+title: "Nazar Kebap"
+url: /frankfurt-am-main/nazar-kebap/
 ---

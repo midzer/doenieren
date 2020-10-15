@@ -1,4 +1,4 @@
 ---
-title: Alpen Bistro Imbiss
-url: "/muenchen/alpen-bistro-imbiss/"
+title: "Alpen Bistro Imbiss"
+url: /muenchen/alpen-bistro-imbiss/
 ---

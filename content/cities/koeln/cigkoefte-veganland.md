@@ -1,4 +1,4 @@
 ---
-title: Çiğköfte VeganLand
-url: "/koeln/cigkoefte-veganland/"
+title: "Çiğköfte VeganLand"
+url: /koeln/cigkoefte-veganland/
 ---

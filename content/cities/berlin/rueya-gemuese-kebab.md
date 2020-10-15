@@ -1,4 +1,4 @@
 ---
-title: Rüya Gemüse Kebab
-url: "/berlin/rueya-gemuese-kebab/"
+title: "Rüya Gemüse Kebab"
+url: /berlin/rueya-gemuese-kebab/
 ---

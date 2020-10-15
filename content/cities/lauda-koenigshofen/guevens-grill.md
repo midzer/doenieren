@@ -1,4 +1,4 @@
 ---
-title: Güven's Grill
-url: "/lauda-koenigshofen/guevens-grill/"
+title: "Güven's Grill"
+url: /lauda-koenigshofen/guevens-grill/
 ---

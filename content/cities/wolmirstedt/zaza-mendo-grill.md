@@ -1,4 +1,4 @@
 ---
-title: Zaza Mendo Grill
-url: "/wolmirstedt/zaza-mendo-grill/"
+title: "Zaza Mendo Grill"
+url: /wolmirstedt/zaza-mendo-grill/
 ---

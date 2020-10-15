@@ -1,4 +1,4 @@
 ---
-title: Anatolia Kebab Haus
-url: "/mainz/anatolia-kebab-haus/"
+title: "Anatolia Kebab Haus"
+url: /mainz/anatolia-kebab-haus/
 ---

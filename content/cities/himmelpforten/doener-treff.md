@@ -1,4 +1,4 @@
 ---
-title: Döner Treff
-url: "/himmelpforten/doener-treff/"
+title: "Döner Treff"
+url: /himmelpforten/doener-treff/
 ---

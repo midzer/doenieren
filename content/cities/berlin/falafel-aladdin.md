@@ -1,4 +1,4 @@
 ---
-title: Falafel Aladdin
-url: "/berlin/falafel-aladdin/"
+title: "Falafel Aladdin"
+url: /berlin/falafel-aladdin/
 ---

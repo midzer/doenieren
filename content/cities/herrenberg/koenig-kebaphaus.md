@@ -1,4 +1,4 @@
 ---
-title: König Kebaphaus
-url: "/herrenberg/koenig-kebaphaus/"
+title: "König Kebaphaus"
+url: /herrenberg/koenig-kebaphaus/
 ---

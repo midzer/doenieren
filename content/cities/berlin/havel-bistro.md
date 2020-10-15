@@ -1,4 +1,4 @@
 ---
-title: Havel Bistro
-url: "/berlin/havel-bistro/"
+title: "Havel Bistro"
+url: /berlin/havel-bistro/
 ---

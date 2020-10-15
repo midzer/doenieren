@@ -1,4 +1,4 @@
 ---
-title: Big Baba
-url: "/ulm/big-baba/"
+title: "Big Baba"
+url: /ulm/big-baba/
 ---

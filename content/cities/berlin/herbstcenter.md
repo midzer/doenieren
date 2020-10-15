@@ -1,4 +1,4 @@
 ---
-title: Herbstcenter
-url: "/berlin/herbstcenter/"
+title: "Herbstcenter"
+url: /berlin/herbstcenter/
 ---

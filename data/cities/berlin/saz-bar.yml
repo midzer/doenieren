@@ -1,9 +1,9 @@
 id: 874278868
 latitude: 52.5006612
 longitude: 13.418287300000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
-street: Adalbertstraße
+street: "Adalbertstraße"
 housenumber: 95a
 phone: ""
 opening_hours: ""

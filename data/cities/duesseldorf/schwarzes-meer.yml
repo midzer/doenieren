@@ -1,9 +1,9 @@
 id: 5473276247
 latitude: 51.2190248
 longitude: 6.7846902
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
-street: Graf-Adolf-Straße
+street: "Graf-Adolf-Straße"
 housenumber: 60
 phone: "+49 211 50086899"
 opening_hours: "Mo-Th 08:00-23:00; Fr-Su 08:00-00:30"

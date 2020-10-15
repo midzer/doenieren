@@ -1,4 +1,4 @@
 ---
-title: Istanbul Imbiss
-url: "/binz/istanbul-imbiss/"
+title: "Istanbul Imbiss"
+url: /binz/istanbul-imbiss/
 ---

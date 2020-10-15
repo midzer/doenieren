@@ -1,4 +1,4 @@
 ---
-title: SIDE
-url: "/bochum/side/"
+title: "SIDE"
+url: /bochum/side/
 ---

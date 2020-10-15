@@ -1,4 +1,4 @@
 ---
 title: Lensahn
-url: "/lensahn/"
+url: /lensahn/
 ---

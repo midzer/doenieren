@@ -1,4 +1,4 @@
 ---
-title: Ada Imbiss
-url: "/monheim/ada-imbiss/"
+title: "Ada Imbiss"
+url: /monheim/ada-imbiss/
 ---

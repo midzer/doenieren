@@ -1,9 +1,9 @@
 id: 341792058
 latitude: 53.5567719
 longitude: 10.0106344
-postcode: 20099
+postcode: "20099"
 city: Hamburg
-street: Carl-von-Ossietzky-Platz
+street: "Carl-von-Ossietzky-Platz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Su 10:00-02:00"

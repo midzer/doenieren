@@ -1,4 +1,4 @@
 ---
-title: Ipeks Döneria
-url: "/rinteln/ipeks-doeneria/"
+title: "Ipeks Döneria"
+url: /rinteln/ipeks-doeneria/
 ---

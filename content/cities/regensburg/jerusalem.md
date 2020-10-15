@@ -1,4 +1,4 @@
 ---
-title: Jerusalem
-url: "/regensburg/jerusalem/"
+title: "Jerusalem"
+url: /regensburg/jerusalem/
 ---

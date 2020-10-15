@@ -1,4 +1,4 @@
 ---
-title: Bazur Döner
-url: "/loebau/bazur-doener/"
+title: "Bazur Döner"
+url: /loebau/bazur-doener/
 ---

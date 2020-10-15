@@ -1,4 +1,4 @@
 ---
-title: Zara Grill
-url: "/vlotho/zara-grill/"
+title: "Zara Grill"
+url: /vlotho/zara-grill/
 ---

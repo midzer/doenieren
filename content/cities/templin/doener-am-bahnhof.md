@@ -1,4 +1,4 @@
 ---
-title: Döner am Bahnhof
-url: "/templin/doener-am-bahnhof/"
+title: "Döner am Bahnhof"
+url: /templin/doener-am-bahnhof/
 ---

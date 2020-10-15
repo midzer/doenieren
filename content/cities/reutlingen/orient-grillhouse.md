@@ -1,4 +1,4 @@
 ---
-title: Orient Grillhouse
-url: "/reutlingen/orient-grillhouse/"
+title: "Orient Grillhouse"
+url: /reutlingen/orient-grillhouse/
 ---

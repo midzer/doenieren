@@ -1,4 +1,4 @@
 ---
 title: Küssaberg
-url: "/kuessaberg/"
+url: /kuessaberg/
 ---

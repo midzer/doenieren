@@ -1,4 +1,4 @@
 ---
 title: Kernen im Remstal
-url: "/kernen-im-remstal/"
+url: /kernen-im-remstal/
 ---

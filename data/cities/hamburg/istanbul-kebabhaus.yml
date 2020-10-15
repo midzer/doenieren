@@ -1,9 +1,9 @@
 id: 3710974982
 latitude: 53.632609300000006
 longitude: 10.026071400000001
-postcode: 22339
+postcode: "22339"
 city: Hamburg
-street: Kleekamp
+street: "Kleekamp"
 housenumber: 10
 phone: "+49 40 55203991"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Can Ocakbaşı
-url: "/bielefeld/can-ocakbasi/"
+title: "Can Ocakbaşı"
+url: /bielefeld/can-ocakbasi/
 ---

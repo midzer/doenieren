@@ -1,4 +1,4 @@
 ---
 title: Gießen
-url: "/giessen/"
+url: /giessen/
 ---

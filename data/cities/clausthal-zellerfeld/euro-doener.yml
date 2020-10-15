@@ -1,9 +1,9 @@
 id: 3169641229
 latitude: 51.8049739
 longitude: 10.333756300000001
-postcode: 38678
+postcode: "38678"
 city: Clausthal-Zellerfeld
-street: Adolph-Roemer-Straße
+street: "Adolph-Roemer-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "11:00-23:00"

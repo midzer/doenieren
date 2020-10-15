@@ -1,4 +1,4 @@
 ---
 title: Bremervörde
-url: "/bremervoerde/"
+url: /bremervoerde/
 ---

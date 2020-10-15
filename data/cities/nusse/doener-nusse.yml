@@ -1,9 +1,9 @@
 id: 2832446506
 latitude: 53.658807200000005
 longitude: 10.578022800000001
-postcode: 23896
+postcode: "23896"
 city: Nusse
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 4543 8889664"
 opening_hours: ""

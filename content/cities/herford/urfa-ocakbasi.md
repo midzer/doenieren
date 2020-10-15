@@ -1,4 +1,4 @@
 ---
-title: Urfa Ocakbaşı
-url: "/herford/urfa-ocakbasi/"
+title: "Urfa Ocakbaşı"
+url: /herford/urfa-ocakbasi/
 ---

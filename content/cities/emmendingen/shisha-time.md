@@ -1,4 +1,4 @@
 ---
-title: Shisha Time
-url: "/emmendingen/shisha-time/"
+title: "Shisha Time"
+url: /emmendingen/shisha-time/
 ---

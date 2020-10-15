@@ -1,9 +1,9 @@
 id: 6037440711
 latitude: 51.2599049
 longitude: 6.7535334
-postcode: 40474
+postcode: "40474"
 city: Düsseldorf
-street: Stockumer Kirchstraße
+street: "Stockumer Kirchstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 11:00-21:00; Su,PH 11:00-21:00"

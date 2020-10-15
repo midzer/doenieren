@@ -1,10 +1,10 @@
 id: 2321765133
 latitude: 50.5684886
 longitude: 8.5025498
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
-street: Niedergirmeser Weg
+street: "Niedergirmeser Weg"
 housenumber: 24
 phone: ""
-opening_hours: ""
+opening_hours: "Sa: off"
 website: ""

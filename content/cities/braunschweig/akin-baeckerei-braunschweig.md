@@ -1,4 +1,4 @@
 ---
-title: Akin Bäckerei Braunschweig
-url: "/braunschweig/akin-baeckerei-braunschweig/"
+title: "Akin Bäckerei Braunschweig"
+url: /braunschweig/akin-baeckerei-braunschweig/
 ---

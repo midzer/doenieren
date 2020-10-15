@@ -1,4 +1,4 @@
 ---
-title: Anatolien Kebap
-url: "/moenchengladbach/anatolien-kebap/"
+title: "Anatolien Kebap"
+url: /moenchengladbach/anatolien-kebap/
 ---

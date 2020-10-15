@@ -1,4 +1,4 @@
 ---
-title: Kale
-url: "/hannover/kale/"
+title: "Kale"
+url: /hannover/kale/
 ---

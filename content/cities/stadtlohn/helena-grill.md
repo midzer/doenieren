@@ -1,4 +1,4 @@
 ---
-title: Helena Grill
-url: "/stadtlohn/helena-grill/"
+title: "Helena Grill"
+url: /stadtlohn/helena-grill/
 ---

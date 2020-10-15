@@ -1,4 +1,4 @@
 ---
-title: Divan
-url: "/freiburg-im-breisgau/divan/"
+title: "Divan"
+url: /freiburg-im-breisgau/divan/
 ---

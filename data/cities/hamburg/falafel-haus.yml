@@ -1,9 +1,9 @@
 id: 1391523618
 latitude: 53.5660967
 longitude: 9.9824643
-postcode: 20146
+postcode: "20146"
 city: Hamburg
-street: Grindelallee
+street: "Grindelallee"
 housenumber: 44
 phone: ""
 opening_hours: ""

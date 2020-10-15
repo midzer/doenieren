@@ -1,4 +1,4 @@
 ---
 title: Bad Wimpfen
-url: "/bad-wimpfen/"
+url: /bad-wimpfen/
 ---

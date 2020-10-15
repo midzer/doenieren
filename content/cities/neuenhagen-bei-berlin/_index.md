@@ -1,4 +1,4 @@
 ---
 title: Neuenhagen bei Berlin
-url: "/neuenhagen-bei-berlin/"
+url: /neuenhagen-bei-berlin/
 ---

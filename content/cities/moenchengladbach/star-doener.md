@@ -1,4 +1,4 @@
 ---
-title: Star Döner
-url: "/moenchengladbach/star-doener/"
+title: "Star Döner"
+url: /moenchengladbach/star-doener/
 ---

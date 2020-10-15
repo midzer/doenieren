@@ -1,4 +1,4 @@
 ---
-title: Dürümcü Baba
-url: "/koeln/dueruemcue-baba/"
+title: "Dürümcü Baba"
+url: /koeln/dueruemcue-baba/
 ---

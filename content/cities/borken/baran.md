@@ -1,4 +1,4 @@
 ---
-title: Baran
-url: "/borken/baran/"
+title: "Baran"
+url: /borken/baran/
 ---

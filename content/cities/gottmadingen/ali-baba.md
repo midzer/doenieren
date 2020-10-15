@@ -1,4 +1,4 @@
 ---
-title: Ali Baba
-url: "/gottmadingen/ali-baba/"
+title: "Ali Baba"
+url: /gottmadingen/ali-baba/
 ---

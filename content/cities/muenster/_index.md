@@ -1,4 +1,4 @@
 ---
 title: Münster
-url: "/muenster/"
+url: /muenster/
 ---

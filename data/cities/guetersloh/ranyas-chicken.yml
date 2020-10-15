@@ -1,9 +1,9 @@
 id: 321601628
 latitude: 51.906984300000005
 longitude: 8.3756195
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
-street: Münsterstraße
+street: "Münsterstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

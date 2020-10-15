@@ -1,4 +1,4 @@
 ---
 title: Singen (Hohentwiel)
-url: "/singen-hohentwiel/"
+url: /singen-hohentwiel/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Aslan
-url: "/karlsruhe/aslan/"
+title: "Aslan"
+url: /karlsruhe/aslan/
 ---

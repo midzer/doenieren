@@ -1,9 +1,9 @@
 id: 5240616476
 latitude: 50.780098100000004
 longitude: 6.080430300000001
-postcode: 52062
+postcode: "52062"
 city: Aachen
-street: Pontdriesch
+street: "Pontdriesch"
 housenumber: 43
 phone: ""
 opening_hours: ""

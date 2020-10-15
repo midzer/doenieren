@@ -1,4 +1,4 @@
 ---
-title: Döner-Quelle
-url: "/neumuenster/doener-quelle/"
+title: "Döner-Quelle"
+url: /neumuenster/doener-quelle/
 ---

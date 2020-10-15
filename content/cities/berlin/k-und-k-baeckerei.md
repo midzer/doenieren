@@ -1,4 +1,4 @@
 ---
-title: K & K Bäckerei
-url: "/berlin/k-und-k-baeckerei/"
+title: "K & K Bäckerei"
+url: /berlin/k-und-k-baeckerei/
 ---

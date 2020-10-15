@@ -1,4 +1,4 @@
 ---
-title: Kebaphaus Ahmed
-url: "/hermeskeil/kebaphaus-ahmed/"
+title: "Kebaphaus Ahmed"
+url: /hermeskeil/kebaphaus-ahmed/
 ---

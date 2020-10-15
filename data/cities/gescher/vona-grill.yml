@@ -1,9 +1,9 @@
 id: 1923308076
 latitude: 51.955245700000006
 longitude: 7.0105819
-postcode: 48712
+postcode: "48712"
 city: Gescher
-street: Hauskampstraße
+street: "Hauskampstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Adana
-url: "/fulda/adana/"
+title: "Adana"
+url: /fulda/adana/
 ---

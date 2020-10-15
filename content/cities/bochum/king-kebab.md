@@ -1,4 +1,4 @@
 ---
-title: King Kebab
-url: "/bochum/king-kebab/"
+title: "King Kebab"
+url: /bochum/king-kebab/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Evin Kebab
-url: "/trossingen/evin-kebab/"
+title: "Evin Kebab"
+url: /trossingen/evin-kebab/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Forchheim
-url: "/forchheim/"
+url: /forchheim/
 ---

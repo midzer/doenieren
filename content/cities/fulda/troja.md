@@ -1,4 +1,4 @@
 ---
-title: Troja
-url: "/fulda/troja/"
+title: "Troja"
+url: /fulda/troja/
 ---

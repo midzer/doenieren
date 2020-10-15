@@ -1,9 +1,9 @@
 id: 6103357637
 latitude: 52.101153000000004
 longitude: 9.3709849
-postcode: 31785
+postcode: "31785"
 city: Hameln
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

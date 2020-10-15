@@ -1,4 +1,4 @@
 ---
-title: Ali Babas Grill
-url: "/balve/ali-babas-grill/"
+title: "Ali Babas Grill"
+url: /balve/ali-babas-grill/
 ---

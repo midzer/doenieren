@@ -1,4 +1,4 @@
 ---
-title: Akcaabat
-url: "/berlin/akcaabat/"
+title: "Akcaabat"
+url: /berlin/akcaabat/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Gelsenkirchen
-url: "/gelsenkirchen/"
+url: /gelsenkirchen/
 ---

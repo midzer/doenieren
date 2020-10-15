@@ -1,4 +1,4 @@
 ---
-title: Döner Werk
-url: "/flensburg/doener-werk/"
+title: "Döner Werk"
+url: /flensburg/doener-werk/
 ---

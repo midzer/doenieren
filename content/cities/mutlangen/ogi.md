@@ -1,4 +1,4 @@
 ---
-title: OGI
-url: "/mutlangen/ogi/"
+title: "OGI"
+url: /mutlangen/ogi/
 ---

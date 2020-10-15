@@ -1,4 +1,4 @@
 ---
 title: Enger
-url: "/enger/"
+url: /enger/
 ---

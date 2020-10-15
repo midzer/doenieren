@@ -1,4 +1,4 @@
 ---
 title: Zweibrücken
-url: "/zweibruecken/"
+url: /zweibruecken/
 ---

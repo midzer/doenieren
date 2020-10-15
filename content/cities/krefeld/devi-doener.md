@@ -1,4 +1,4 @@
 ---
-title: Devi Döner
-url: "/krefeld/devi-doener/"
+title: "Devi Döner"
+url: /krefeld/devi-doener/
 ---

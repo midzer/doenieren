@@ -1,9 +1,9 @@
 id: 1540282442
 latitude: 50.501591100000006
 longitude: 9.1238255
-postcode: 63679
+postcode: "63679"
 city: Schotten
-street: Vogelsbergstraße
+street: "Vogelsbergstraße"
 housenumber: 83
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Imbiß Rogahnin Rheinsberg
-url: "/rheinsberg/imbiss-rogahnin-rheinsberg/"
+title: "Imbiß Rogahnin Rheinsberg"
+url: /rheinsberg/imbiss-rogahnin-rheinsberg/
 ---

@@ -1,9 +1,9 @@
 id: 307087380
 latitude: 48.125877200000005
 longitude: 8.3328538
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
-street: Bärenplatz
+street: "Bärenplatz"
 housenumber: 21
 phone: "+49 7724 918617"
 opening_hours: "Mo-Sa 10:00-21:00"

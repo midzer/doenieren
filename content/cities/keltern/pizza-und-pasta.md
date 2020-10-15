@@ -1,4 +1,4 @@
 ---
-title: Pizza & Pasta
-url: "/keltern/pizza-und-pasta/"
+title: "Pizza & Pasta"
+url: /keltern/pizza-und-pasta/
 ---

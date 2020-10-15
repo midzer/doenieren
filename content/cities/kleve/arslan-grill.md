@@ -1,4 +1,4 @@
 ---
-title: Arslan Grill
-url: "/kleve/arslan-grill/"
+title: "Arslan Grill"
+url: /kleve/arslan-grill/
 ---

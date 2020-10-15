@@ -1,9 +1,9 @@
 id: 570036684
 latitude: 49.4400301
 longitude: 7.7614125000000005
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
-street: Medicusstraße
+street: "Medicusstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00, Su,PH 12:00-21:00"

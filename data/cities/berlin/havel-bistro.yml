@@ -1,9 +1,9 @@
 id: 740152658
 latitude: 52.5558161
 longitude: 13.207291000000001
-postcode: 13587
+postcode: "13587"
 city: Berlin
-street: Streitstraße
+street: "Streitstraße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Su 09:00-03:00"

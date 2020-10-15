@@ -1,4 +1,4 @@
 ---
-title: Döner Kebap
-url: "/groebenzell/doener-kebap/"
+title: "Döner Kebap"
+url: /groebenzell/doener-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Pascham
-url: "/augsburg/pascham/"
+title: "Pascham"
+url: /augsburg/pascham/
 ---

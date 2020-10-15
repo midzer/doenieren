@@ -1,4 +1,4 @@
 ---
-title: Baklava
-url: "/bochum/baklava/"
+title: "Baklava"
+url: /bochum/baklava/
 ---

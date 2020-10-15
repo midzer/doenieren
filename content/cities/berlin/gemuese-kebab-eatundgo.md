@@ -1,4 +1,4 @@
 ---
-title: Gemüse Kebab Eat&Go
-url: "/berlin/gemuese-kebab-eatundgo/"
+title: "Gemüse Kebab Eat&Go"
+url: /berlin/gemuese-kebab-eatundgo/
 ---

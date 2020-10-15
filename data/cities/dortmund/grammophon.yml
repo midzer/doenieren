@@ -1,9 +1,9 @@
 id: 4639655277
 latitude: 51.534612700000004
 longitude: 7.461741600000001
-postcode: 44145
+postcode: "44145"
 city: Dortmund
-street: Eberstraße
+street: "Eberstraße"
 housenumber: 30
 phone: "+49 231 84796767"
 opening_hours: "off"

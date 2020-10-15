@@ -1,4 +1,4 @@
 ---
-title: Best Grill Imbiss
-url: "/werder-havel/best-grill-imbiss/"
+title: "Best Grill Imbiss"
+url: /werder-havel/best-grill-imbiss/
 ---

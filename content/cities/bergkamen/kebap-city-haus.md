@@ -1,4 +1,4 @@
 ---
-title: Kebap City Haus
-url: "/bergkamen/kebap-city-haus/"
+title: "Kebap City Haus"
+url: /bergkamen/kebap-city-haus/
 ---

@@ -1,9 +1,9 @@
 id: 5213191120
 latitude: 52.2166566
 longitude: 13.216062200000001
-postcode: 14959
+postcode: "14959"
 city: Trebbin
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:30-19:00"

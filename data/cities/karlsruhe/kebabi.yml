@@ -1,9 +1,9 @@
 id: 2377345483
 latitude: 49.010132600000006
 longitude: 8.397586
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
-street: Kaiserpassage
+street: "Kaiserpassage"
 housenumber: 3
 phone: ""
 opening_hours: ""

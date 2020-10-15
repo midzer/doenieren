@@ -1,4 +1,4 @@
 ---
-title: Khani`s Döner
-url: "/halle-saale/khani-s-doener/"
+title: "Khani`s Döner"
+url: /halle-saale/khani-s-doener/
 ---

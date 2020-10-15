@@ -1,9 +1,9 @@
 id: 627729956
 latitude: 50.928829300000004
 longitude: 11.589125600000001
-postcode: 07743
+postcode: "07743"
 city: Jena
-street: Schloßgasse
+street: "Schloßgasse"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Su 09:00-24:00"

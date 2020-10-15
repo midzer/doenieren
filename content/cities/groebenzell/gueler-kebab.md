@@ -1,4 +1,4 @@
 ---
-title: Güler Kebab
-url: "/groebenzell/gueler-kebab/"
+title: "Güler Kebab"
+url: /groebenzell/gueler-kebab/
 ---

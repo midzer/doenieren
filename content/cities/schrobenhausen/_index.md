@@ -1,4 +1,4 @@
 ---
 title: Schrobenhausen
-url: "/schrobenhausen/"
+url: /schrobenhausen/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Dornbusch Kebap Haus
-url: "/frankfurt-am-main/dornbusch-kebap-haus/"
+title: "Dornbusch Kebap Haus"
+url: /frankfurt-am-main/dornbusch-kebap-haus/
 ---

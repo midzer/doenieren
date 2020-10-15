@@ -1,4 +1,4 @@
 ---
-title: Elysium
-url: "/paderborn/elysium/"
+title: "Elysium"
+url: /paderborn/elysium/
 ---

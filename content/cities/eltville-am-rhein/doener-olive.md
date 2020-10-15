@@ -1,4 +1,4 @@
 ---
-title: Döner Olive
-url: "/eltville-am-rhein/doener-olive/"
+title: "Döner Olive"
+url: /eltville-am-rhein/doener-olive/
 ---

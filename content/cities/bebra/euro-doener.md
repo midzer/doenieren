@@ -1,4 +1,4 @@
 ---
-title: Euro Döner
-url: "/bebra/euro-doener/"
+title: "Euro Döner"
+url: /bebra/euro-doener/
 ---

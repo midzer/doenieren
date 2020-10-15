@@ -1,9 +1,9 @@
 id: 2473600896
 latitude: 50.1422772
 longitude: 8.156592700000001
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
-street: Aarstraße
+street: "Aarstraße"
 housenumber: 121
 phone: ""
 opening_hours: ""

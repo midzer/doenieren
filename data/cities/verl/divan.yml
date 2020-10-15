@@ -1,9 +1,9 @@
 id: 1170894139
 latitude: 51.884404800000006
 longitude: 8.5074397
-postcode: 33415
+postcode: "33415"
 city: Verl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27
 phone: ""
 opening_hours: "PH,Mo-Su 11:00-23:00"

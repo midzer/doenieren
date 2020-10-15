@@ -1,4 +1,4 @@
 ---
-title: Mardini
-url: "/dresden/mardini/"
+title: "Mardini"
+url: /dresden/mardini/
 ---

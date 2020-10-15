@@ -1,4 +1,4 @@
 ---
-title: Adar Imbiss
-url: "/braunschweig/adar-imbiss/"
+title: "Adar Imbiss"
+url: /braunschweig/adar-imbiss/
 ---

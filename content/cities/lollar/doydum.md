@@ -1,4 +1,4 @@
 ---
-title: Doydum
-url: "/lollar/doydum/"
+title: "Doydum"
+url: /lollar/doydum/
 ---

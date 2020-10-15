@@ -1,4 +1,4 @@
 ---
 title: Mittweida
-url: "/mittweida/"
+url: /mittweida/
 ---

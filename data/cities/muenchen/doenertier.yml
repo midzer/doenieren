@@ -1,9 +1,9 @@
 id: 945074182
 latitude: 48.177831100000006
 longitude: 11.530948
-postcode: 80992
+postcode: "80992"
 city: München
-street: Gärtnerstraße
+street: "Gärtnerstraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

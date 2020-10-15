@@ -1,4 +1,4 @@
 ---
-title: Tanriverdi
-url: "/wiesbaden/tanriverdi/"
+title: "Tanriverdi"
+url: /wiesbaden/tanriverdi/
 ---

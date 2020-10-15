@@ -1,9 +1,9 @@
 id: 3039050402
 latitude: 52.5482846
 longitude: 13.4518219
-postcode: 13088
+postcode: "13088"
 city: Berlin
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 40
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Döner Factory
-url: "/paderborn/doener-factory/"
+title: "Döner Factory"
+url: /paderborn/doener-factory/
 ---

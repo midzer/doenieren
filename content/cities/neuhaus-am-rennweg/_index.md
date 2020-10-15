@@ -1,4 +1,4 @@
 ---
 title: Neuhaus am Rennweg
-url: "/neuhaus-am-rennweg/"
+url: /neuhaus-am-rennweg/
 ---

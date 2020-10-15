@@ -1,4 +1,4 @@
 ---
-title: Antiochia
-url: "/duesseldorf/antiochia/"
+title: "Antiochia"
+url: /duesseldorf/antiochia/
 ---

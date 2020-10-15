@@ -1,0 +1,4 @@
+---
+title: Fully
+url: /fully/
+---

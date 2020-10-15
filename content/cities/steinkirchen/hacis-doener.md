@@ -1,4 +1,4 @@
 ---
-title: Haci's Döner
-url: "/steinkirchen/hacis-doener/"
+title: "Haci's Döner"
+url: /steinkirchen/hacis-doener/
 ---

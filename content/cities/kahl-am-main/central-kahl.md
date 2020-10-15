@@ -1,4 +1,4 @@
 ---
-title: Central Kahl
-url: "/kahl-am-main/central-kahl/"
+title: "Central Kahl"
+url: /kahl-am-main/central-kahl/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Tandurem
-url: "/fulda/tandurem/"
+title: "Tandurem"
+url: /fulda/tandurem/
 ---

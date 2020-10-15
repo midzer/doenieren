@@ -1,4 +1,4 @@
 ---
 title: Norderstedt
-url: "/norderstedt/"
+url: /norderstedt/
 ---

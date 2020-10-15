@@ -1,4 +1,4 @@
 ---
-title: Efendi's
-url: "/darmstadt/efendis/"
+title: "Efendi's"
+url: /darmstadt/efendis/
 ---

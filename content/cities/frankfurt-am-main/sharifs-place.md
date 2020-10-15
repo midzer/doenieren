@@ -1,4 +1,4 @@
 ---
-title: Sharif's Place
-url: "/frankfurt-am-main/sharifs-place/"
+title: "Sharif's Place"
+url: /frankfurt-am-main/sharifs-place/
 ---

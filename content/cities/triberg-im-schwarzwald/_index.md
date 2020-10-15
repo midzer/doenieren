@@ -1,4 +1,4 @@
 ---
 title: Triberg im Schwarzwald
-url: "/triberg-im-schwarzwald/"
+url: /triberg-im-schwarzwald/
 ---

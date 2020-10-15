@@ -1,9 +1,9 @@
 id: 4544880374
 latitude: 52.425861600000005
 longitude: 13.483621600000001
-postcode: 12357
+postcode: "12357"
 city: Berlin
-street: Neuköllner Straße
+street: "Neuköllner Straße"
 housenumber: 259
 phone: "+49 173 1981007"
 opening_hours: "24/7"

@@ -1,4 +1,4 @@
 ---
-title: Anatolien-Imbiss
-url: "/schleswig/anatolien-imbiss/"
+title: "Anatolien-Imbiss"
+url: /schleswig/anatolien-imbiss/
 ---

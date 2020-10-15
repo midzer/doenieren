@@ -1,4 +1,4 @@
 ---
-title: Bosporus Grill-Restaurant
-url: "/meschede/bosporus-grill-restaurant/"
+title: "Bosporus Grill-Restaurant"
+url: /meschede/bosporus-grill-restaurant/
 ---

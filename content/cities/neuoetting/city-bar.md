@@ -1,4 +1,4 @@
 ---
-title: City Bar
-url: "/neuoetting/city-bar/"
+title: "City Bar"
+url: /neuoetting/city-bar/
 ---

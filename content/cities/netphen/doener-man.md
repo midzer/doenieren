@@ -1,4 +1,4 @@
 ---
-title: Döner Man
-url: "/netphen/doener-man/"
+title: "Döner Man"
+url: /netphen/doener-man/
 ---

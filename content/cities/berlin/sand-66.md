@@ -1,4 +1,4 @@
 ---
-title: Sand 66
-url: "/berlin/sand-66/"
+title: "Sand 66"
+url: /berlin/sand-66/
 ---

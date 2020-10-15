@@ -1,9 +1,9 @@
 id: 1743413898
 latitude: 49.236957600000004
 longitude: 9.3277994
-postcode: 74196
+postcode: "74196"
 city: Neuenstadt am Kocher
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Th 00:00-01:00,09:30-24:00; Fr,Sa 00:00-02:15,09:30-24:00; Su 10:00-24:00"

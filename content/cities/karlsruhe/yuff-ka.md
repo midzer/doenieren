@@ -1,4 +1,4 @@
 ---
-title: Yuff..Ka
-url: "/karlsruhe/yuff-ka/"
+title: "Yuff..Ka"
+url: /karlsruhe/yuff-ka/
 ---

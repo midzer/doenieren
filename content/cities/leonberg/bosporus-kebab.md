@@ -1,4 +1,4 @@
 ---
-title: Bosporus Kebab
-url: "/leonberg/bosporus-kebab/"
+title: "Bosporus Kebab"
+url: /leonberg/bosporus-kebab/
 ---

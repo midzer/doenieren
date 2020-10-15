@@ -1,4 +1,4 @@
 ---
-title: Usta Kebab
-url: "/aachen/usta-kebab/"
+title: "Usta Kebab"
+url: /aachen/usta-kebab/
 ---

@@ -1,9 +1,9 @@
 id: 5411121676
 latitude: 51.751901200000006
 longitude: 8.951905700000001
-postcode: 33184
+postcode: "33184"
 city: Altenbeken
-street: Hüttenstraße
+street: "Hüttenstraße"
 housenumber: 126
 phone: "+49 5255 933380"
 opening_hours: "Mo-Su 11:00-22:00"

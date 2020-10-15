@@ -1,4 +1,4 @@
 ---
-title: Behoz Kebab
-url: "/saarburg/behoz-kebab/"
+title: "Behoz Kebab"
+url: /saarburg/behoz-kebab/
 ---

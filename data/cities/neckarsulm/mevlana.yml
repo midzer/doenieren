@@ -1,9 +1,9 @@
 id: 517346743
 latitude: 49.184875000000005
 longitude: 9.2249928
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 67
 phone: "+4971324509700"
 opening_hours: "Mo-Sa 09:00-00:00"

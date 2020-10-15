@@ -1,4 +1,4 @@
 ---
-title: Saulheimer Kebaphaus
-url: "/saulheim/saulheimer-kebaphaus/"
+title: "Saulheimer Kebaphaus"
+url: /saulheim/saulheimer-kebaphaus/
 ---

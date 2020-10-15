@@ -1,9 +1,9 @@
 id: 1907574970
 latitude: 51.5712473
 longitude: 6.3628732
-postcode: 47608
+postcode: "47608"
 city: Geldern
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 7
 phone: "+49 2838 4379317"
 opening_hours: ""

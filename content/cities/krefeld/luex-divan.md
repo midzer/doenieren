@@ -1,4 +1,4 @@
 ---
-title: Lüx Divan
-url: "/krefeld/luex-divan/"
+title: "Lüx Divan"
+url: /krefeld/luex-divan/
 ---

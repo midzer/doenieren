@@ -1,4 +1,4 @@
 ---
 title: Bispingen
-url: "/bispingen/"
+url: /bispingen/
 ---

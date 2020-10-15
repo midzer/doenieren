@@ -1,4 +1,4 @@
 ---
 title: Zittau
-url: "/zittau/"
+url: /zittau/
 ---

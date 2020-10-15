@@ -1,4 +1,4 @@
 ---
 title: Weißwasser/O.L.
-url: "/weisswasser-o-l/"
+url: /weisswasser-o-l/
 ---

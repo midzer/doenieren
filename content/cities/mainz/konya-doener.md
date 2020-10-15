@@ -1,4 +1,4 @@
 ---
-title: Konya Döner
-url: "/mainz/konya-doener/"
+title: "Konya Döner"
+url: /mainz/konya-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: komagene
-url: "/bielefeld/komagene/"
+title: "komagene"
+url: /bielefeld/komagene/
 ---

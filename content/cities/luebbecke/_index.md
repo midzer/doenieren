@@ -1,4 +1,4 @@
 ---
 title: Lübbecke
-url: "/luebbecke/"
+url: /luebbecke/
 ---

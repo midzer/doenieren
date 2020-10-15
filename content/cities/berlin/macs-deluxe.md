@@ -1,4 +1,4 @@
 ---
-title: Mac's Deluxe
-url: "/berlin/macs-deluxe/"
+title: "Mac's Deluxe"
+url: /berlin/macs-deluxe/
 ---

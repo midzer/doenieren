@@ -1,4 +1,4 @@
 ---
-title: Keb UP
-url: "/muenchen/keb-up/"
+title: "Keb UP"
+url: /muenchen/keb-up/
 ---

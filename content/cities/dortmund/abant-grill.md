@@ -1,4 +1,4 @@
 ---
-title: Abant Grill
-url: "/dortmund/abant-grill/"
+title: "Abant Grill"
+url: /dortmund/abant-grill/
 ---

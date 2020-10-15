@@ -1,4 +1,4 @@
 ---
-title: Alaturka
-url: "/leinfelden-echterdingen/alaturka/"
+title: "Alaturka"
+url: /leinfelden-echterdingen/alaturka/
 ---

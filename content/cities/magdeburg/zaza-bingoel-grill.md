@@ -1,4 +1,4 @@
 ---
-title: ZAZA Bingöl Grill
-url: "/magdeburg/zaza-bingoel-grill/"
+title: "ZAZA Bingöl Grill"
+url: /magdeburg/zaza-bingoel-grill/
 ---

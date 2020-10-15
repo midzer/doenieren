@@ -1,4 +1,4 @@
 ---
-title: Divan Restaurant
-url: "/dortmund/divan-restaurant/"
+title: "Divan Restaurant"
+url: /dortmund/divan-restaurant/
 ---

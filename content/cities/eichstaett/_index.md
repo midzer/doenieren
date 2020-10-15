@@ -1,0 +1,4 @@
+---
+title: Eichstätt
+url: /eichstaett/
+---

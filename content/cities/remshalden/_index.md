@@ -1,4 +1,4 @@
 ---
 title: Remshalden
-url: "/remshalden/"
+url: /remshalden/
 ---

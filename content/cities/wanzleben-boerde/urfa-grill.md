@@ -1,4 +1,4 @@
 ---
-title: Urfa Grill
-url: "/wanzleben-boerde/urfa-grill/"
+title: "Urfa Grill"
+url: /wanzleben-boerde/urfa-grill/
 ---

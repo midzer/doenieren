@@ -1,4 +1,4 @@
 ---
-title: Kapadokya
-url: "/lahnstein/kapadokya/"
+title: "Kapadokya"
+url: /lahnstein/kapadokya/
 ---

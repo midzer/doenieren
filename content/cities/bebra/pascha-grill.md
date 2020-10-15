@@ -1,4 +1,4 @@
 ---
-title: Pascha Grill
-url: "/bebra/pascha-grill/"
+title: "Pascha Grill"
+url: /bebra/pascha-grill/
 ---

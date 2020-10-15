@@ -1,4 +1,4 @@
 ---
-title: Picknick Döner
-url: "/zittau/picknick-doener/"
+title: "Picknick Döner"
+url: /zittau/picknick-doener/
 ---

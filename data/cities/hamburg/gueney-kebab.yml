@@ -1,9 +1,9 @@
 id: 3877019093
 latitude: 53.561123
 longitude: 9.9544343
-postcode: 22765
+postcode: "22765"
 city: Hamburg
-street: Max-Brauer-Allee
+street: "Max-Brauer-Allee"
 housenumber: 217
 phone: ""
 opening_hours: ""

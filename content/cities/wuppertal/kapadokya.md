@@ -1,4 +1,4 @@
 ---
-title: Kapadokya
-url: "/wuppertal/kapadokya/"
+title: "Kapadokya"
+url: /wuppertal/kapadokya/
 ---

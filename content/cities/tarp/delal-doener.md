@@ -1,4 +1,4 @@
 ---
-title: Delal Döner
-url: "/tarp/delal-doener/"
+title: "Delal Döner"
+url: /tarp/delal-doener/
 ---

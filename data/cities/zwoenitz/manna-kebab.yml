@@ -1,9 +1,9 @@
 id: 7557630789
 latitude: 50.631857800000006
 longitude: 12.807784600000002
-postcode: 08297
+postcode: "08297"
 city: Zwönitz
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:30; Sa 11:00-18:00; Su,PH off"

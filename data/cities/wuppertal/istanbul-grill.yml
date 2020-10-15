@@ -1,9 +1,9 @@
 id: 2859889207
 latitude: 51.230459
 longitude: 7.068850800000001
-postcode: 42329
+postcode: "42329"
 city: Wuppertal
-street: Vohwinkeler Straße
+street: "Vohwinkeler Straße"
 housenumber: 11
 phone: "+4920274718142"
 opening_hours: "Mo-Sa 11:00-22:00; Su,PH 12:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Çiğköftem
-url: "/frankfurt-am-main/cigkoeftem/"
+title: "Çiğköftem"
+url: /frankfurt-am-main/cigkoeftem/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sidos
-url: "/wathlingen/sidos/"
+title: "Sidos"
+url: /wathlingen/sidos/
 ---

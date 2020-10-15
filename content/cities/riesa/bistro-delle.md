@@ -1,4 +1,4 @@
 ---
-title: Bistro "Delle"
-url: "/riesa/bistro-delle/"
+title: "Bistro Delle"
+url: /riesa/bistro-delle/
 ---

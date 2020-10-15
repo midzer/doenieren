@@ -1,4 +1,4 @@
 ---
-title: Cemo
-url: "/bad-schoenborn/cemo/"
+title: "Cemo"
+url: /bad-schoenborn/cemo/
 ---

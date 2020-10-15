@@ -1,4 +1,4 @@
 ---
-title: Kösem
-url: "/emmendingen/koesem/"
+title: "Kösem"
+url: /emmendingen/koesem/
 ---

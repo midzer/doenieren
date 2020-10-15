@@ -1,4 +1,4 @@
 ---
-title: Öz Urfa Kebap
-url: "/goettingen/oez-urfa-kebap/"
+title: "Öz Urfa Kebap"
+url: /goettingen/oez-urfa-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alatürk
-url: "/essen/alatuerk/"
+title: "Alatürk"
+url: /essen/alatuerk/
 ---

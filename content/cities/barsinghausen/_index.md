@@ -1,4 +1,4 @@
 ---
 title: Barsinghausen
-url: "/barsinghausen/"
+url: /barsinghausen/
 ---

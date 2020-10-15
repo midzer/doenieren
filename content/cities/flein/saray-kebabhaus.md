@@ -1,4 +1,4 @@
 ---
-title: Saray Kebabhaus
-url: "/flein/saray-kebabhaus/"
+title: "Saray Kebabhaus"
+url: /flein/saray-kebabhaus/
 ---

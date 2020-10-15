@@ -1,4 +1,4 @@
 ---
-title: Ali Baba Grillhaus
-url: "/korbach/ali-baba-grillhaus/"
+title: "Ali Baba Grillhaus"
+url: /korbach/ali-baba-grillhaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: City Grill
-url: "/blankenfelde-mahlow/city-grill/"
+title: "City Grill"
+url: /blankenfelde-mahlow/city-grill/
 ---

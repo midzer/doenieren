@@ -1,4 +1,4 @@
 ---
-title: Kebabi
-url: "/karlsruhe/kebabi/"
+title: "Kebabi"
+url: /karlsruhe/kebabi/
 ---

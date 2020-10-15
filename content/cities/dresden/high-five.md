@@ -1,4 +1,4 @@
 ---
-title: High Five
-url: "/dresden/high-five/"
+title: "High Five"
+url: /dresden/high-five/
 ---

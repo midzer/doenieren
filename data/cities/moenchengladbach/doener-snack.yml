@@ -1,9 +1,9 @@
 id: 3829300201
 latitude: 51.191924300000004
 longitude: 6.440571500000001
-postcode: 41061
+postcode: "41061"
 city: Mönchengladbach
-street: Berliner Platz
+street: "Berliner Platz"
 housenumber: 7
 phone: ""
 opening_hours: ""

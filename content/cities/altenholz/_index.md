@@ -1,4 +1,4 @@
 ---
 title: Altenholz
-url: "/altenholz/"
+url: /altenholz/
 ---

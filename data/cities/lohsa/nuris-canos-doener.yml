@@ -1,9 +1,9 @@
 id: 5144502716
 latitude: 51.3887736
 longitude: 14.4043462
-postcode: 02999
+postcode: "02999"
 city: Lohsa
-street: Am Park
+street: "Am Park"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00; Su 16:00-21:00"

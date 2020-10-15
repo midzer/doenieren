@@ -1,4 +1,4 @@
 ---
-title: Hammurabi
-url: "/muenchen/hammurabi/"
+title: "Hammurabi"
+url: /muenchen/hammurabi/
 ---

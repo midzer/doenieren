@@ -1,4 +1,4 @@
 ---
-title: Aydin
-url: "/schwerte/aydin/"
+title: "Aydin"
+url: /schwerte/aydin/
 ---

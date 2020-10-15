@@ -1,9 +1,9 @@
 id: 369485133
 latitude: 48.1006489
 longitude: 11.6301935
-postcode: 81737
+postcode: "81737"
 city: München
-street: Pfanzeltplatz
+street: "Pfanzeltplatz"
 housenumber: 16
 phone: "+49 89 6708123"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00"

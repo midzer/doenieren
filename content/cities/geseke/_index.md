@@ -1,4 +1,4 @@
 ---
 title: Geseke
-url: "/geseke/"
+url: /geseke/
 ---

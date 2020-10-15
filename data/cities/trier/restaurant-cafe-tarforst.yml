@@ -1,9 +1,9 @@
 id: 1168057578
 latitude: 49.7394362
 longitude: 6.6951732
-postcode: 54296
+postcode: "54296"
 city: Trier
-street: Kohlenstraße
+street: "Kohlenstraße"
 housenumber: 64
 phone: ""
 opening_hours: ""

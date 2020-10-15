@@ -1,0 +1,4 @@
+---
+title: Bussigny
+url: /bussigny/
+---

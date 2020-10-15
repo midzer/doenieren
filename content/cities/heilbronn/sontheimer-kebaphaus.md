@@ -1,4 +1,4 @@
 ---
-title: Sontheimer Kebaphaus
-url: "/heilbronn/sontheimer-kebaphaus/"
+title: "Sontheimer Kebaphaus"
+url: /heilbronn/sontheimer-kebaphaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alaturka Grillrestaurant
-url: "/heilbronn/alaturka-grillrestaurant/"
+title: "Alaturka Grillrestaurant"
+url: /heilbronn/alaturka-grillrestaurant/
 ---

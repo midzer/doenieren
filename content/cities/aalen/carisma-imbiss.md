@@ -1,4 +1,4 @@
 ---
-title: Carisma-Imbiss
-url: "/aalen/carisma-imbiss/"
+title: "Carisma-Imbiss"
+url: /aalen/carisma-imbiss/
 ---

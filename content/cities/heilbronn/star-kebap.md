@@ -1,4 +1,4 @@
 ---
-title: Star Kebap
-url: "/heilbronn/star-kebap/"
+title: "Star Kebap"
+url: /heilbronn/star-kebap/
 ---

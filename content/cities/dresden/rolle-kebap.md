@@ -1,4 +1,4 @@
 ---
-title: Rolle Kebap
-url: "/dresden/rolle-kebap/"
+title: "Rolle Kebap"
+url: /dresden/rolle-kebap/
 ---

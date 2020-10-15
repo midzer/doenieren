@@ -1,4 +1,4 @@
 ---
-title: Schlon
-url: "/pforzheim/schlon/"
+title: "Schlon"
+url: /pforzheim/schlon/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Döneria
-url: "/berlin/doeneria/"
+title: "Döneria"
+url: /berlin/doeneria/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mega Tandur
-url: "/giessen/mega-tandur/"
+title: "Mega Tandur"
+url: /giessen/mega-tandur/
 ---

@@ -1,9 +1,9 @@
 id: 846353672
 latitude: 51.4380443
 longitude: 7.331624400000001
-postcode: 58452
+postcode: "58452"
 city: Witten
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 48
 phone: ""
 opening_hours: ""

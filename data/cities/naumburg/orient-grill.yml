@@ -1,9 +1,9 @@
 id: 2582962545
 latitude: 51.2488813
 longitude: 9.1659165
-postcode: 34311
+postcode: "34311"
 city: Naumburg
-street: Untere Straße
+street: "Untere Straße"
 housenumber: 1
 phone: "+49 5625 3490778"
 opening_hours: "Mo-Fr 11:00-22:30; Sa off; Su 12:00-22:00"

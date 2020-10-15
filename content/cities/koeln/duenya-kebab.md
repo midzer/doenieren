@@ -1,4 +1,4 @@
 ---
-title: Dünya Kebab
-url: "/koeln/duenya-kebab/"
+title: "Dünya Kebab"
+url: /koeln/duenya-kebab/
 ---

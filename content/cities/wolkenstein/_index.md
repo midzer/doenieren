@@ -1,4 +1,4 @@
 ---
 title: Wolkenstein
-url: "/wolkenstein/"
+url: /wolkenstein/
 ---

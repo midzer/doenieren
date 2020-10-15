@@ -1,4 +1,4 @@
 ---
 title: Dauchingen
-url: "/dauchingen/"
+url: /dauchingen/
 ---

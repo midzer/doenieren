@@ -1,4 +1,4 @@
 ---
-title: Nokta Grillhaus
-url: "/berlin/nokta-grillhaus/"
+title: "Nokta Grillhaus"
+url: /berlin/nokta-grillhaus/
 ---

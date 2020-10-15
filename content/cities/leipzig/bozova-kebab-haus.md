@@ -1,4 +1,4 @@
 ---
-title: Bozova Kebab Haus
-url: "/leipzig/bozova-kebab-haus/"
+title: "Bozova Kebab Haus"
+url: /leipzig/bozova-kebab-haus/
 ---

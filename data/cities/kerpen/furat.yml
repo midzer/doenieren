@@ -1,9 +1,9 @@
 id: 1895285063
 latitude: 50.8984954
 longitude: 6.682536900000001
-postcode: 50170
+postcode: "50170"
 city: Kerpen
-street: Kerpener Straße
+street: "Kerpener Straße"
 housenumber: 175
 phone: ""
 opening_hours: "Su-Th 10:00-12:00; Fr-Sa 10:00-01:30"

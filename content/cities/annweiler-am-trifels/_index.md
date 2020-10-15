@@ -1,4 +1,4 @@
 ---
 title: Annweiler am Trifels
-url: "/annweiler-am-trifels/"
+url: /annweiler-am-trifels/
 ---

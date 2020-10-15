@@ -1,4 +1,4 @@
 ---
-title: Kebab Lounge
-url: "/schleswig/kebab-lounge/"
+title: "Kebab Lounge"
+url: /schleswig/kebab-lounge/
 ---

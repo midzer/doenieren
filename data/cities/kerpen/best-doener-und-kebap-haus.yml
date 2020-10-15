@@ -1,9 +1,9 @@
 id: 6778115993
 latitude: 50.904925600000006
 longitude: 6.673963700000001
-postcode: 50170
+postcode: "50170"
 city: Kerpen
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 37
 phone: "+49 2273 9531353"
 opening_hours: "Mo-Fr 12:00-21:30; Sa-Su 14:00-21:30"

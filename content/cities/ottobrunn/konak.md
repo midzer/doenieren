@@ -1,4 +1,4 @@
 ---
-title: KONAK
-url: "/ottobrunn/konak/"
+title: "KONAK"
+url: /ottobrunn/konak/
 ---

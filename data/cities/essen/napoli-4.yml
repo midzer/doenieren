@@ -1,9 +1,9 @@
 id: 4301975101
 latitude: 51.4392949
 longitude: 7.0131756
-postcode: 45130
+postcode: "45130"
 city: Essen
-street: Paulinenstraße
+street: "Paulinenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "closed"

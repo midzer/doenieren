@@ -1,4 +1,4 @@
 ---
-title: Antep
-url: "/geratal/antep/"
+title: "Antep"
+url: /geratal/antep/
 ---

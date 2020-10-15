@@ -1,4 +1,4 @@
 ---
-title: Misir Carsisi
-url: "/berlin/misir-carsisi/"
+title: "Misir Carsisi"
+url: /berlin/misir-carsisi/
 ---

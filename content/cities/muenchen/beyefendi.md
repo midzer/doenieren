@@ -1,4 +1,4 @@
 ---
-title: BeyEfendi
-url: "/muenchen/beyefendi/"
+title: "BeyEfendi"
+url: /muenchen/beyefendi/
 ---

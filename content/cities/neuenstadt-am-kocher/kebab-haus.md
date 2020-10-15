@@ -1,4 +1,4 @@
 ---
-title: Kebab Haus
-url: "/neuenstadt-am-kocher/kebab-haus/"
+title: "Kebab Haus"
+url: /neuenstadt-am-kocher/kebab-haus/
 ---

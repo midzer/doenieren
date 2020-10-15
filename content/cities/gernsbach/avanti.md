@@ -1,4 +1,4 @@
 ---
-title: Avanti
-url: "/gernsbach/avanti/"
+title: "Avanti"
+url: /gernsbach/avanti/
 ---

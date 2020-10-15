@@ -1,4 +1,4 @@
 ---
-title: Döner Lädle
-url: "/trossingen/doener-laedle/"
+title: "Döner Lädle"
+url: /trossingen/doener-laedle/
 ---

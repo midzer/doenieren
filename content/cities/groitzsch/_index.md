@@ -1,4 +1,4 @@
 ---
 title: Groitzsch
-url: "/groitzsch/"
+url: /groitzsch/
 ---

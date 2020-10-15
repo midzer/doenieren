@@ -1,4 +1,4 @@
 ---
-title: Leon
-url: "/plettenberg/leon/"
+title: "Leon"
+url: /plettenberg/leon/
 ---

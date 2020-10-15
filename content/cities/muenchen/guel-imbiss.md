@@ -1,4 +1,4 @@
 ---
-title: Gül Imbiss
-url: "/muenchen/guel-imbiss/"
+title: "Gül Imbiss"
+url: /muenchen/guel-imbiss/
 ---

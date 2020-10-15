@@ -1,9 +1,9 @@
 id: 768427110
 latitude: 48.702577600000005
 longitude: 9.656177900000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
-street: Poststraße
+street: "Poststraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 10:00-22:00; Su 12:00-21:30"

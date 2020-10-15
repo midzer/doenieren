@@ -1,4 +1,4 @@
 ---
-title: Lapping's
-url: "/darmstadt/lappings/"
+title: "Lapping's"
+url: /darmstadt/lappings/
 ---

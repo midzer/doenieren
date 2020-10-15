@@ -1,4 +1,4 @@
 ---
-title: Pontgarten
-url: "/aachen/pontgarten/"
+title: "Pontgarten"
+url: /aachen/pontgarten/
 ---

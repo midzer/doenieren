@@ -1,9 +1,9 @@
 id: 1282791827
 latitude: 53.0987346
 longitude: 11.0968502
-postcode: 29451
+postcode: "29451"
 city: Dannenberg
-street: Schloßgraben
+street: "Schloßgraben"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su,PH 11:00-22:00"

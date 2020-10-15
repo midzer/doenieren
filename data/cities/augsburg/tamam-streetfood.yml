@@ -1,9 +1,9 @@
 id: 6438288515
 latitude: 48.369479600000005
 longitude: 10.8983649
-postcode: 86150
+postcode: "86150"
 city: Augsburg
-street: Karolinenstraße
+street: "Karolinenstraße"
 housenumber: 2
 phone: "+49 821 29752273"
 opening_hours: "Sa-Th 10:00-22:00; Fr 10:00-19:00"

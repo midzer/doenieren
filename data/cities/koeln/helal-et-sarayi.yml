@@ -1,9 +1,9 @@
 id: 1593180456
 latitude: 50.957641
 longitude: 7.0107574
-postcode: 51065
+postcode: "51065"
 city: Köln
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 74
 phone: ""
 opening_hours: ""

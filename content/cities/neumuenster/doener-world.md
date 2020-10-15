@@ -1,4 +1,4 @@
 ---
-title: Döner World
-url: "/neumuenster/doener-world/"
+title: "Döner World"
+url: /neumuenster/doener-world/
 ---

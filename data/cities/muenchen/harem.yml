@@ -1,9 +1,9 @@
 id: 278829173
 latitude: 48.1797787
 longitude: 11.485521
-postcode: 80997
+postcode: "80997"
 city: München
-street: Allacher Straße
+street: "Allacher Straße"
 housenumber: 177
 phone: "+49 89 140 1533"
 opening_hours: "Mo-Su 16:00-23:00"

@@ -1,9 +1,9 @@
 id: 1143535889
 latitude: 53.537615
 longitude: 13.261814300000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Su 10:00-21:00"

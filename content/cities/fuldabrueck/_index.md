@@ -1,4 +1,4 @@
 ---
 title: Fuldabrück
-url: "/fuldabrueck/"
+url: /fuldabrueck/
 ---

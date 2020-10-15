@@ -1,4 +1,4 @@
 ---
-title: Förde-Döner
-url: "/flensburg/foerde-doener/"
+title: "Förde-Döner"
+url: /flensburg/foerde-doener/
 ---

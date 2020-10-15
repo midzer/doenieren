@@ -1,4 +1,4 @@
 ---
-title: Sultan Döner
-url: "/nuernberg/sultan-doener/"
+title: "Sultan Döner"
+url: /nuernberg/sultan-doener/
 ---

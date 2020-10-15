@@ -1,4 +1,4 @@
 ---
 title: Schenefeld
-url: "/schenefeld/"
+url: /schenefeld/
 ---

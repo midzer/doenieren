@@ -1,4 +1,4 @@
 ---
-title: Vatan Kebap
-url: "/remscheid/vatan-kebap/"
+title: "Vatan Kebap"
+url: /remscheid/vatan-kebap/
 ---

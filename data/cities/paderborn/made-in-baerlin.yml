@@ -1,9 +1,9 @@
 id: 2410668936
 latitude: 51.716127500000006
 longitude: 8.7471093
-postcode: 33098
+postcode: "33098"
 city: Paderborn
-street: Westernmauer
+street: "Westernmauer"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-We 11:00-2:00; Th-Su 11:00+"

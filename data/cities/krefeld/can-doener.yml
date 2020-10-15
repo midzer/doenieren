@@ -1,9 +1,9 @@
 id: 2203620311
 latitude: 51.3413685
 longitude: 6.556837000000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
-street: Hülser Straße
+street: "Hülser Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00; PH 13:00-22:00"

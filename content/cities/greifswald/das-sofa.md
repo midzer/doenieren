@@ -1,4 +1,4 @@
 ---
-title: Das Sofa
-url: "/greifswald/das-sofa/"
+title: "Das Sofa"
+url: /greifswald/das-sofa/
 ---

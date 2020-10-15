@@ -1,4 +1,4 @@
 ---
-title: Bone'ma
-url: "/loebau/bonema/"
+title: "Bone'ma"
+url: /loebau/bonema/
 ---

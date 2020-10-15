@@ -1,4 +1,4 @@
 ---
-title: GülDeniz Kebaphaus
-url: "/stuttgart/gueldeniz-kebaphaus/"
+title: "GülDeniz Kebaphaus"
+url: /stuttgart/gueldeniz-kebaphaus/
 ---

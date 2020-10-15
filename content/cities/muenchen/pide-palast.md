@@ -1,4 +1,4 @@
 ---
-title: Pide Palast
-url: "/muenchen/pide-palast/"
+title: "Pide Palast"
+url: /muenchen/pide-palast/
 ---

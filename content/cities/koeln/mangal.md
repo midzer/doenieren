@@ -1,4 +1,4 @@
 ---
-title: Mangal
-url: "/koeln/mangal/"
+title: "Mangal"
+url: /koeln/mangal/
 ---

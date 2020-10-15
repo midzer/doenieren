@@ -1,4 +1,4 @@
 ---
-title: Döner Classico
-url: "/bremen/doener-classico/"
+title: "Döner Classico"
+url: /bremen/doener-classico/
 ---

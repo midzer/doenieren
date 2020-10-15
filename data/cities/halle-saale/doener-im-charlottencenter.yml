@@ -1,9 +1,9 @@
 id: 3709100631
 latitude: 51.48040700000001
 longitude: 11.980316700000001
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
-street: Augustastraße
+street: "Augustastraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

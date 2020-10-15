@@ -1,4 +1,4 @@
 ---
-title: Theater Kebab
-url: "/coburg/theater-kebab/"
+title: "Theater Kebab"
+url: /coburg/theater-kebab/
 ---

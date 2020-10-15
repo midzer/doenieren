@@ -1,9 +1,9 @@
 id: 1619539532
 latitude: 49.756516700000006
 longitude: 8.6347733
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
-street: Alte Bergstraße
+street: "Alte Bergstraße"
 housenumber: 52
 phone: "+49 6257 5051720"
 opening_hours: "Mo-Sa 11:30-14:30; Mo-Su 17:00-21:45"

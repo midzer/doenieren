@@ -1,4 +1,4 @@
 ---
-title: Buffet & Bistro
-url: "/heidelberg/buffet-und-bistro/"
+title: "Buffet & Bistro"
+url: /heidelberg/buffet-und-bistro/
 ---

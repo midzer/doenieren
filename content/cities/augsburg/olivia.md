@@ -1,4 +1,4 @@
 ---
-title: Olivia
-url: "/augsburg/olivia/"
+title: "Olivia"
+url: /augsburg/olivia/
 ---

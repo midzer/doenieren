@@ -1,4 +1,4 @@
 ---
 title: Steinbach-Hallenberg
-url: "/steinbach-hallenberg/"
+url: /steinbach-hallenberg/
 ---

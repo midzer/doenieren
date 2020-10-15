@@ -1,4 +1,4 @@
 ---
-title: Alla Turca
-url: "/nuernberg/alla-turca/"
+title: "Alla Turca"
+url: /nuernberg/alla-turca/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Döner Haus
-url: "/oranienburg/doener-haus/"
+title: "Döner Haus"
+url: /oranienburg/doener-haus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Athen
-url: "/wunstorf/athen/"
+title: "Athen"
+url: /wunstorf/athen/
 ---

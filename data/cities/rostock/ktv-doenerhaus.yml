@@ -1,9 +1,9 @@
 id: 1092777209
 latitude: 54.087973100000006
 longitude: 12.1128823
-postcode: 18057
+postcode: "18057"
 city: Rostock
-street: Fritz-Reuter-Straße
+street: "Fritz-Reuter-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "11:00-22:00"

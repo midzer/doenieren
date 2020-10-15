@@ -1,4 +1,4 @@
 ---
-title: Musti Döner
-url: "/berlin/musti-doener/"
+title: "Musti Döner"
+url: /berlin/musti-doener/
 ---

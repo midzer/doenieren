@@ -1,4 +1,4 @@
 ---
 title: Oberharz am Brocken
-url: "/oberharz-am-brocken/"
+url: /oberharz-am-brocken/
 ---

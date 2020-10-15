@@ -1,9 +1,9 @@
 id: 869289588
 latitude: 51.027082
 longitude: 13.731184
-postcode: 01069
+postcode: "01069"
 city: Dresden
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Fr 09:00-23:00; Sa-Su 10:00-23:00"

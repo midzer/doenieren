@@ -1,4 +1,4 @@
 ---
 title: Haltern am See
-url: "/haltern-am-see/"
+url: /haltern-am-see/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Grillhaus
-url: "/berlin/grillhaus/"
+title: "Grillhaus"
+url: /berlin/grillhaus/
 ---

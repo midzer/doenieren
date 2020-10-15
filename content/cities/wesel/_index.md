@@ -1,4 +1,4 @@
 ---
 title: Wesel
-url: "/wesel/"
+url: /wesel/
 ---

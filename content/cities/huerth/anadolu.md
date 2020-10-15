@@ -1,4 +1,4 @@
 ---
-title: Anadolu
-url: "/huerth/anadolu/"
+title: "Anadolu"
+url: /huerth/anadolu/
 ---

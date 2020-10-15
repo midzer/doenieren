@@ -1,0 +1,4 @@
+---
+title: Rheinmünster
+url: /rheinmuenster/
+---

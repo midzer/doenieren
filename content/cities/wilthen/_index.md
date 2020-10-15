@@ -1,4 +1,4 @@
 ---
 title: Wilthen
-url: "/wilthen/"
+url: /wilthen/
 ---

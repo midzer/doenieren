@@ -1,4 +1,4 @@
 ---
-title: Mustafa Demir's Retro Döner
-url: "/berlin/mustafa-demirs-retro-doener/"
+title: "Mustafa Demir's Retro Döner"
+url: /berlin/mustafa-demirs-retro-doener/
 ---

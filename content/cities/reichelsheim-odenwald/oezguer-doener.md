@@ -1,4 +1,4 @@
 ---
-title: Özgür Döner
-url: "/reichelsheim-odenwald/oezguer-doener/"
+title: "Özgür Döner"
+url: /reichelsheim-odenwald/oezguer-doener/
 ---

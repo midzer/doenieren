@@ -1,4 +1,4 @@
 ---
 title: Stendal
-url: "/stendal/"
+url: /stendal/
 ---

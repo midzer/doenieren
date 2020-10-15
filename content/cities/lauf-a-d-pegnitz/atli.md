@@ -1,4 +1,4 @@
 ---
-title: Atli
-url: "/lauf-a-d-pegnitz/atli/"
+title: "Atli"
+url: /lauf-a-d-pegnitz/atli/
 ---

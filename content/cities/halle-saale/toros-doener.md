@@ -1,4 +1,4 @@
 ---
-title: Toros Döner
-url: "/halle-saale/toros-doener/"
+title: "Toros Döner"
+url: /halle-saale/toros-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alanya Grill
-url: "/holzminden/alanya-grill/"
+title: "Alanya Grill"
+url: /holzminden/alanya-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Hisar
-url: "/berlin/hisar/"
+title: "Hisar"
+url: /berlin/hisar/
 ---

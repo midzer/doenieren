@@ -1,4 +1,4 @@
 ---
-title: Öz Urfa Kebab Haus
-url: "/babenhausen/oez-urfa-kebab-haus/"
+title: "Öz Urfa Kebab Haus"
+url: /babenhausen/oez-urfa-kebab-haus/
 ---

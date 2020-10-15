@@ -1,4 +1,4 @@
 ---
-title: Rathausgrill
-url: "/bad-honnef/rathausgrill/"
+title: "Rathausgrill"
+url: /bad-honnef/rathausgrill/
 ---

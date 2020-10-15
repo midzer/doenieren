@@ -1,4 +1,4 @@
 ---
 title: Herscheid
-url: "/herscheid/"
+url: /herscheid/
 ---

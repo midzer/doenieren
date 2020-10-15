@@ -1,4 +1,4 @@
 ---
 title: Mertert
-url: "/mertert/"
+url: /mertert/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Wanzleben-Börde
-url: "/wanzleben-boerde/"
+url: /wanzleben-boerde/
 ---

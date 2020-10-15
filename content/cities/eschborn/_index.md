@@ -1,4 +1,4 @@
 ---
 title: Eschborn
-url: "/eschborn/"
+url: /eschborn/
 ---

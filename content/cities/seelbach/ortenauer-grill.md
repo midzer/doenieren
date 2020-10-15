@@ -1,4 +1,4 @@
 ---
-title: Ortenauer Grill
-url: "/seelbach/ortenauer-grill/"
+title: "Ortenauer Grill"
+url: /seelbach/ortenauer-grill/
 ---

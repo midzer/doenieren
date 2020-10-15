@@ -1,4 +1,4 @@
 ---
-title: Pamukkale Kebaphaus
-url: "/fulda/pamukkale-kebaphaus/"
+title: "Pamukkale Kebaphaus"
+url: /fulda/pamukkale-kebaphaus/
 ---

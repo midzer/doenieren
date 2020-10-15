@@ -1,9 +1,9 @@
 id: 2961394591
 latitude: 50.7152618
 longitude: 7.0482712
-postcode: 53123
+postcode: "53123"
 city: Bonn
-street: Im Burgacker
+street: "Im Burgacker"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Su 08:00-23:00"

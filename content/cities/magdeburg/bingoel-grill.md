@@ -1,4 +1,4 @@
 ---
-title: Bingöl Grill
-url: "/magdeburg/bingoel-grill/"
+title: "Bingöl Grill"
+url: /magdeburg/bingoel-grill/
 ---

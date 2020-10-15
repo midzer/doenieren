@@ -1,4 +1,4 @@
 ---
-title: Atas Grill- Döner Kebab
-url: "/halle-saale/atas-grill-doener-kebab/"
+title: "Atas Grill- Döner Kebab"
+url: /halle-saale/atas-grill-doener-kebab/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Cigköftem
-url: "/freiburg-im-breisgau/cigkoeftem/"
+title: "Cigköftem"
+url: /freiburg-im-breisgau/cigkoeftem/
 ---

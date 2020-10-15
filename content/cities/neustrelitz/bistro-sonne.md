@@ -1,4 +1,4 @@
 ---
-title: Bistro Sonne
-url: "/neustrelitz/bistro-sonne/"
+title: "Bistro Sonne"
+url: /neustrelitz/bistro-sonne/
 ---

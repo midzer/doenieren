@@ -1,4 +1,4 @@
 ---
-title: Weseramer Grill
-url: "/roskow/weseramer-grill/"
+title: "Weseramer Grill"
+url: /roskow/weseramer-grill/
 ---

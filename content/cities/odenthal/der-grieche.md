@@ -1,4 +1,4 @@
 ---
-title: Der Grieche
-url: "/odenthal/der-grieche/"
+title: "Der Grieche"
+url: /odenthal/der-grieche/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Herten
-url: "/herten/"
+url: /herten/
 ---

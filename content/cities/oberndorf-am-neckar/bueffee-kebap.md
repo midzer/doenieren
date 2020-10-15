@@ -1,4 +1,4 @@
 ---
-title: Büffee Kebap
-url: "/oberndorf-am-neckar/bueffee-kebap/"
+title: "Büffee Kebap"
+url: /oberndorf-am-neckar/bueffee-kebap/
 ---

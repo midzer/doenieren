@@ -1,4 +1,4 @@
 ---
-title: Pivaz
-url: "/brilon/pivaz/"
+title: "Pivaz"
+url: /brilon/pivaz/
 ---

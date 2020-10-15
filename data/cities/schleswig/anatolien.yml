@@ -1,9 +1,9 @@
 id: 2123658487
 latitude: 54.522981200000004
 longitude: 9.544201600000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
-street: Flensburger Straße
+street: "Flensburger Straße"
 housenumber: 80
 phone: "+49 4621 984363"
 opening_hours: "Mo-Su 10:00-24:00"

@@ -1,4 +1,4 @@
 ---
-title: Restaurant Maya
-url: "/bruchsal/restaurant-maya/"
+title: "Restaurant Maya"
+url: /bruchsal/restaurant-maya/
 ---

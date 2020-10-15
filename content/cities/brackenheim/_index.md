@@ -1,4 +1,4 @@
 ---
 title: Brackenheim
-url: "/brackenheim/"
+url: /brackenheim/
 ---

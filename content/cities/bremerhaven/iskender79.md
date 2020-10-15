@@ -1,4 +1,4 @@
 ---
-title: Iskender79
-url: "/bremerhaven/iskender79/"
+title: "Iskender79"
+url: /bremerhaven/iskender79/
 ---

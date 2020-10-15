@@ -1,4 +1,4 @@
 ---
-title: AL MAXI
-url: "/boehl-iggelheim/al-maxi/"
+title: "AL MAXI"
+url: /boehl-iggelheim/al-maxi/
 ---

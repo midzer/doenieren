@@ -1,4 +1,4 @@
 ---
-title: Dieburger Döner Kebap
-url: "/dieburg/dieburger-doener-kebap/"
+title: "Dieburger Döner Kebap"
+url: /dieburg/dieburger-doener-kebap/
 ---

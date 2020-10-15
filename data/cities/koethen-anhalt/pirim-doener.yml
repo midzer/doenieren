@@ -1,9 +1,9 @@
 id: 5745397030
 latitude: 51.7557361
 longitude: 11.977330100000001
-postcode: 06366
+postcode: "06366"
 city: Köthen (Anhalt)
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu - Fr 10:00 - 22:00, Sa 11:00 - 22:00, Su 12:00 - 22:00"

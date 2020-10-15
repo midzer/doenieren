@@ -1,4 +1,4 @@
 ---
-title: Euro Kebap Haus
-url: "/bensheim/euro-kebap-haus/"
+title: "Euro Kebap Haus"
+url: /bensheim/euro-kebap-haus/
 ---

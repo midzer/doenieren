@@ -1,4 +1,4 @@
 ---
-title: Kebaphaus
-url: "/alsfeld/kebaphaus/"
+title: "Kebaphaus"
+url: /alsfeld/kebaphaus/
 ---

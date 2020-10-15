@@ -1,9 +1,9 @@
 id: 6797239223
 latitude: 50.9858569
 longitude: 12.972043800000002
-postcode: 09648
+postcode: "09648"
 city: Mittweida
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 10:30-20:00, Su 12:00-22:00"

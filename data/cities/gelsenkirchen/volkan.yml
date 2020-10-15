@@ -1,9 +1,9 @@
 id: 4059911496
 latitude: 51.5268662
 longitude: 7.106304700000001
-postcode: 45889
+postcode: "45889"
 city: Gelsenkirchen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 189
 phone: "+49 209 81 82 899"
 opening_hours: "24/7"

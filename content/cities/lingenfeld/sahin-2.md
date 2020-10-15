@@ -1,4 +1,4 @@
 ---
-title: Sahin 2
-url: "/lingenfeld/sahin-2/"
+title: "Sahin 2"
+url: /lingenfeld/sahin-2/
 ---

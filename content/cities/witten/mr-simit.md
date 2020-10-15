@@ -1,4 +1,4 @@
 ---
-title: Mr. Simit
-url: "/witten/mr-simit/"
+title: "Mr. Simit"
+url: /witten/mr-simit/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Dö-Pi
-url: "/dortmund/doe-pi/"
+title: "Dö-Pi"
+url: /dortmund/doe-pi/
 ---

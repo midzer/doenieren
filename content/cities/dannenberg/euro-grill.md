@@ -1,4 +1,4 @@
 ---
-title: Euro Grill
-url: "/dannenberg/euro-grill/"
+title: "Euro Grill"
+url: /dannenberg/euro-grill/
 ---

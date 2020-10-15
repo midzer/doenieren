@@ -1,9 +1,9 @@
 id: 459595143
 latitude: 51.4023059
 longitude: 7.1888367
-postcode: 45525
+postcode: "45525"
 city: Hattingen
-street: Welperstraße
+street: "Welperstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 13:00-22:30"

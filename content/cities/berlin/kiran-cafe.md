@@ -1,4 +1,4 @@
 ---
-title: Kiran Café
-url: "/berlin/kiran-cafe/"
+title: "Kiran Café"
+url: /berlin/kiran-cafe/
 ---

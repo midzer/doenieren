@@ -1,4 +1,4 @@
 ---
-title: Kristall Imbiss
-url: "/berlin/kristall-imbiss/"
+title: "Kristall Imbiss"
+url: /berlin/kristall-imbiss/
 ---

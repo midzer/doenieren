@@ -1,4 +1,4 @@
 ---
-title: Ayse's Sofra
-url: "/diessen-am-ammersee/ayses-sofra/"
+title: "Ayse's Sofra"
+url: /diessen-am-ammersee/ayses-sofra/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ützel Brützel
-url: "/renningen/uetzel-bruetzel/"
+title: "Ützel Brützel"
+url: /renningen/uetzel-bruetzel/
 ---

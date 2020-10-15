@@ -1,4 +1,4 @@
 ---
-title: Istambul Grillhaus Kranichstein
-url: "/darmstadt/istambul-grillhaus-kranichstein/"
+title: "Istambul Grillhaus Kranichstein"
+url: /darmstadt/istambul-grillhaus-kranichstein/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Picolo To Go
-url: "/taunusstein/picolo-to-go/"
+title: "Picolo To Go"
+url: /taunusstein/picolo-to-go/
 ---

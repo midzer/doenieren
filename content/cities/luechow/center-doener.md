@@ -1,4 +1,4 @@
 ---
-title: Center-Döner
-url: "/luechow/center-doener/"
+title: "Center-Döner"
+url: /luechow/center-doener/
 ---

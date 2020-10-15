@@ -1,4 +1,4 @@
 ---
 title: Bad Laasphe
-url: "/bad-laasphe/"
+url: /bad-laasphe/
 ---

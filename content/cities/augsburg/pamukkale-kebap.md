@@ -1,4 +1,4 @@
 ---
-title: Pamukkale Kebap
-url: "/augsburg/pamukkale-kebap/"
+title: "Pamukkale Kebap"
+url: /augsburg/pamukkale-kebap/
 ---

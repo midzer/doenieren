@@ -1,4 +1,4 @@
 ---
 title: Herzogenrath
-url: "/herzogenrath/"
+url: /herzogenrath/
 ---

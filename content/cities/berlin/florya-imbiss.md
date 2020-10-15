@@ -1,4 +1,4 @@
 ---
-title: Florya Imbiss
-url: "/berlin/florya-imbiss/"
+title: "Florya Imbiss"
+url: /berlin/florya-imbiss/
 ---

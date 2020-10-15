@@ -1,9 +1,9 @@
 id: 1770308159
 latitude: 51.2668776
 longitude: 7.148068800000001
-postcode: 42107
+postcode: "42107"
 city: Wuppertal
-street: Uellendahler Straße
+street: "Uellendahler Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

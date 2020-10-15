@@ -1,9 +1,9 @@
 id: 2528432258
 latitude: 51.1622387
 longitude: 6.8749633
-postcode: 40597
+postcode: "40597"
 city: Düsseldorf
-street: Heubesstraße
+street: "Heubesstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Brand-Erbisdorf
-url: "/brand-erbisdorf/"
+url: /brand-erbisdorf/
 ---

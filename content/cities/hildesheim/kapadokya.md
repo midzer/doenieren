@@ -1,4 +1,4 @@
 ---
-title: Kapadokya
-url: "/hildesheim/kapadokya/"
+title: "Kapadokya"
+url: /hildesheim/kapadokya/
 ---

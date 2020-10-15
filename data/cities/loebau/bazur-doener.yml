@@ -1,9 +1,9 @@
 id: 4319442912
 latitude: 51.095924800000006
 longitude: 14.666491800000001
-postcode: 02708
+postcode: "02708"
 city: Löbau
-street: Nicolaistraße
+street: "Nicolaistraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Su 11:00-21:30"

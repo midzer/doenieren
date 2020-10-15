@@ -1,9 +1,9 @@
 id: 355846179
 latitude: 47.913166100000005
 longitude: 11.42661
-postcode: 82515
+postcode: "82515"
 city: Wolfratshausen
-street: Sauerlacher Straße
+street: "Sauerlacher Straße"
 housenumber: 30
 phone: "+49 8171 267730"
 opening_hours: ""

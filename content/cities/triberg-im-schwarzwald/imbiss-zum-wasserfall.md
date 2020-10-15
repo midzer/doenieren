@@ -1,4 +1,4 @@
 ---
-title: Imbiss zum Wasserfall
-url: "/triberg-im-schwarzwald/imbiss-zum-wasserfall/"
+title: "Imbiss zum Wasserfall"
+url: /triberg-im-schwarzwald/imbiss-zum-wasserfall/
 ---

@@ -1,9 +1,9 @@
 id: 3066309261
 latitude: 50.044718800000005
 longitude: 8.1996193
-postcode: 65201
+postcode: "65201"
 city: Wiesbaden
-street: Rheingaustraße
+street: "Rheingaustraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:30; Sa-Su 12:00-22:30"

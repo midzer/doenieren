@@ -1,4 +1,4 @@
 ---
-title: Samis
-url: "/freiburg-im-breisgau/samis/"
+title: "Samis"
+url: /freiburg-im-breisgau/samis/
 ---

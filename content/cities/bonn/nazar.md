@@ -1,4 +1,4 @@
 ---
-title: Nazar
-url: "/bonn/nazar/"
+title: "Nazar"
+url: /bonn/nazar/
 ---

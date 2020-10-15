@@ -1,4 +1,4 @@
 ---
-title: Hari Döner
-url: "/berlin/hari-doener/"
+title: "Hari Döner"
+url: /berlin/hari-doener/
 ---

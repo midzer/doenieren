@@ -1,4 +1,4 @@
 ---
-title: Tamam Streetfood
-url: "/augsburg/tamam-streetfood/"
+title: "Tamam Streetfood"
+url: /augsburg/tamam-streetfood/
 ---

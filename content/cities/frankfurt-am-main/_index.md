@@ -1,4 +1,4 @@
 ---
 title: Frankfurt am Main
-url: "/frankfurt-am-main/"
+url: /frankfurt-am-main/
 ---

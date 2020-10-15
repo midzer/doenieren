@@ -1,4 +1,4 @@
 ---
-title: Kapadokya
-url: "/weilheim-in-oberbayern/kapadokya/"
+title: "Kapadokya"
+url: /weilheim-in-oberbayern/kapadokya/
 ---

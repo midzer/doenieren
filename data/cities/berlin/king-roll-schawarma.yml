@@ -1,9 +1,9 @@
 id: 2339246308
 latitude: 52.481911100000005
 longitude: 13.320163500000001
-postcode: 10713
+postcode: "10713"
 city: Berlin
-street: Blissestraße
+street: "Blissestraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

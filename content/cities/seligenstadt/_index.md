@@ -1,4 +1,4 @@
 ---
 title: Seligenstadt
-url: "/seligenstadt/"
+url: /seligenstadt/
 ---

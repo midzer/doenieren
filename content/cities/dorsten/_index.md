@@ -1,4 +1,4 @@
 ---
 title: Dorsten
-url: "/dorsten/"
+url: /dorsten/
 ---

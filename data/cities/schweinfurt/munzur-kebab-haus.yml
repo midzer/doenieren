@@ -1,9 +1,9 @@
 id: 271039058
 latitude: 50.0456579
 longitude: 10.210106000000001
-postcode: 97421
+postcode: "97421"
 city: Schweinfurt
-street: Ignaz-Schön-Straße
+street: "Ignaz-Schön-Straße"
 housenumber: 34
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Mössingen
-url: "/moessingen/"
+url: /moessingen/
 ---

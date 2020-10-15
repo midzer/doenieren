@@ -1,4 +1,4 @@
 ---
 title: Euskirchen
-url: "/euskirchen/"
+url: /euskirchen/
 ---

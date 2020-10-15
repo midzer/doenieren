@@ -1,4 +1,4 @@
 ---
-title: Imbiss Babylon
-url: "/geiselhoering/imbiss-babylon/"
+title: "Imbiss Babylon"
+url: /geiselhoering/imbiss-babylon/
 ---

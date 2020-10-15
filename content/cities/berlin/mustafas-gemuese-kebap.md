@@ -1,4 +1,4 @@
 ---
-title: Mustafa's Gemüse Kebap
-url: "/berlin/mustafas-gemuese-kebap/"
+title: "Mustafa's Gemüse Kebap"
+url: /berlin/mustafas-gemuese-kebap/
 ---

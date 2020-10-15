@@ -1,4 +1,4 @@
 ---
-title: Chicken Maxx
-url: "/wolfsburg/chicken-maxx/"
+title: "Chicken Maxx"
+url: /wolfsburg/chicken-maxx/
 ---

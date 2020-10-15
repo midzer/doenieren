@@ -1,4 +1,4 @@
 ---
-title: Bistro Algermissen
-url: "/algermissen/bistro-algermissen/"
+title: "Bistro Algermissen"
+url: /algermissen/bistro-algermissen/
 ---

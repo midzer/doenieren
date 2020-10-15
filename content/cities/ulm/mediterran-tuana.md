@@ -1,4 +1,4 @@
 ---
-title: Mediterran Tuana
-url: "/ulm/mediterran-tuana/"
+title: "Mediterran Tuana"
+url: /ulm/mediterran-tuana/
 ---

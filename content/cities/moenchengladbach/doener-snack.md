@@ -1,4 +1,4 @@
 ---
-title: Döner Snack
-url: "/moenchengladbach/doener-snack/"
+title: "Döner Snack"
+url: /moenchengladbach/doener-snack/
 ---

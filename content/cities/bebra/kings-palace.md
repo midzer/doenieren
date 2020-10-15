@@ -1,4 +1,4 @@
 ---
-title: King's Palace
-url: "/bebra/kings-palace/"
+title: "King's Palace"
+url: /bebra/kings-palace/
 ---

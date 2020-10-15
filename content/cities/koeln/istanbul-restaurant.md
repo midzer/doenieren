@@ -1,4 +1,4 @@
 ---
-title: Istanbul Restaurant
-url: "/koeln/istanbul-restaurant/"
+title: "Istanbul Restaurant"
+url: /koeln/istanbul-restaurant/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Yildiz
-url: "/meissen/yildiz/"
+title: "Yildiz"
+url: /meissen/yildiz/
 ---

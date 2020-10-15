@@ -1,9 +1,9 @@
 id: 1160266293
 latitude: 49.144470000000005
 longitude: 9.119742
-postcode: 74211
+postcode: "74211"
 city: Leingarten
-street: Eppinger Straße
+street: "Eppinger Straße"
 housenumber: 13
 phone: "+4971319199080"
 opening_hours: "Mo-Fr 11:00-14:30; Mo-Fr 17:30-23:00; Sa,Su 09:00-17:00; Sa,Su 17:30-23:00"

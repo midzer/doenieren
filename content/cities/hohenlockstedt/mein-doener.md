@@ -1,4 +1,4 @@
 ---
-title: Mein Döner
-url: "/hohenlockstedt/mein-doener/"
+title: "Mein Döner"
+url: /hohenlockstedt/mein-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: City Döner
-url: "/vechta/city-doener/"
+title: "City Döner"
+url: /vechta/city-doener/
 ---

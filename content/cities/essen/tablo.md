@@ -1,4 +1,4 @@
 ---
-title: tablo
-url: "/essen/tablo/"
+title: "tablo"
+url: /essen/tablo/
 ---

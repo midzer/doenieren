@@ -1,4 +1,4 @@
 ---
-title: City Kebap
-url: "/rottenburg-am-neckar/city-kebap/"
+title: "City Kebap"
+url: /rottenburg-am-neckar/city-kebap/
 ---

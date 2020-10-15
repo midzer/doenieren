@@ -1,4 +1,4 @@
 ---
-title: Sultans of Kebab
-url: "/aachen/sultans-of-kebab/"
+title: "Sultans of Kebab"
+url: /aachen/sultans-of-kebab/
 ---

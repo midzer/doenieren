@@ -1,4 +1,4 @@
 ---
-title: Bistro Aslan
-url: "/langelsheim/bistro-aslan/"
+title: "Bistro Aslan"
+url: /langelsheim/bistro-aslan/
 ---

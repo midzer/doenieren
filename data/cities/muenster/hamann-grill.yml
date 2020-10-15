@@ -1,9 +1,9 @@
 id: 1324430350
 latitude: 51.9937181
 longitude: 7.648086800000001
-postcode: 48157
+postcode: "48157"
 city: Münster
-street: Hamannplatz
+street: "Hamannplatz"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Mangal
-url: "/versmold/mangal/"
+title: "Mangal"
+url: /versmold/mangal/
 ---

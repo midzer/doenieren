@@ -1,9 +1,9 @@
 id: 1204593609
 latitude: 50.685809500000005
 longitude: 7.153544500000001
-postcode: 53173
+postcode: "53173"
 city: Bonn
-street: Koblenzer Straße
+street: "Koblenzer Straße"
 housenumber: 7
 phone: "+49228 9359148"
 opening_hours: ""

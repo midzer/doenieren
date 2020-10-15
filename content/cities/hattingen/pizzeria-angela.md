@@ -1,4 +1,4 @@
 ---
-title: Pizzeria Angela
-url: "/hattingen/pizzeria-angela/"
+title: "Pizzeria Angela"
+url: /hattingen/pizzeria-angela/
 ---

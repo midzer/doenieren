@@ -1,4 +1,4 @@
 ---
-title: nane
-url: "/unna/nane/"
+title: "nane"
+url: /unna/nane/
 ---

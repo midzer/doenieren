@@ -1,9 +1,9 @@
 id: 813918027
 latitude: 52.4431579
 longitude: 13.2968098
-postcode: 12205
+postcode: "12205"
 city: Berlin
-street: Drakestraße
+street: "Drakestraße"
 housenumber: 33a
 phone: ""
 opening_hours: ""

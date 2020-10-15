@@ -1,4 +1,4 @@
 ---
-title: Delikat Döner
-url: "/wolfsburg/delikat-doener/"
+title: "Delikat Döner"
+url: /wolfsburg/delikat-doener/
 ---

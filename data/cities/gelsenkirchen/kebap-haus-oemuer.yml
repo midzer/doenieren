@@ -1,9 +1,9 @@
 id: 5602800240
 latitude: 51.543032700000005
 longitude: 7.0651954
-postcode: 45897
+postcode: "45897"
 city: Gelsenkirchen
-street: Theodor-Otte-Straße
+street: "Theodor-Otte-Straße"
 housenumber: 123
 phone: ""
 opening_hours: ""

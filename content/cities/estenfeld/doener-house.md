@@ -1,4 +1,4 @@
 ---
-title: Döner House
-url: "/estenfeld/doener-house/"
+title: "Döner House"
+url: /estenfeld/doener-house/
 ---

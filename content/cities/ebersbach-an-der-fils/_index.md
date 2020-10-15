@@ -1,4 +1,4 @@
 ---
 title: Ebersbach an der Fils
-url: "/ebersbach-an-der-fils/"
+url: /ebersbach-an-der-fils/
 ---

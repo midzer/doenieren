@@ -1,4 +1,4 @@
 ---
-title: Mrs Robinson's
-url: "/berlin/mrs-robinsons/"
+title: "Mrs Robinson's"
+url: /berlin/mrs-robinsons/
 ---

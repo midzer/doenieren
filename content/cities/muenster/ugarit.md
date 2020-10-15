@@ -1,4 +1,4 @@
 ---
-title: Ugarit
-url: "/muenster/ugarit/"
+title: "Ugarit"
+url: /muenster/ugarit/
 ---

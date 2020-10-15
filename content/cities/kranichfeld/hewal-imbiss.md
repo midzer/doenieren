@@ -1,4 +1,4 @@
 ---
-title: Hewal Imbiss
-url: "/kranichfeld/hewal-imbiss/"
+title: "Hewal Imbiss"
+url: /kranichfeld/hewal-imbiss/
 ---

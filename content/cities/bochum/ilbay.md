@@ -1,4 +1,4 @@
 ---
-title: il’bAy
-url: "/bochum/ilbay/"
+title: "il’bAy"
+url: /bochum/ilbay/
 ---

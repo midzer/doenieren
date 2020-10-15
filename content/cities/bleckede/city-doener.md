@@ -1,4 +1,4 @@
 ---
-title: City Döner
-url: "/bleckede/city-doener/"
+title: "City Döner"
+url: /bleckede/city-doener/
 ---

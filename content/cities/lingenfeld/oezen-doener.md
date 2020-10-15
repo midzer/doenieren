@@ -1,4 +1,4 @@
 ---
-title: Özen Döner
-url: "/lingenfeld/oezen-doener/"
+title: "Özen Döner"
+url: /lingenfeld/oezen-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Laußnitz
-url: "/laussnitz/"
+url: /laussnitz/
 ---

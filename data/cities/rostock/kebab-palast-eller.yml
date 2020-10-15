@@ -1,9 +1,9 @@
 id: 1025961119
 latitude: 54.088913000000005
 longitude: 12.134924000000002
-postcode: 18055
+postcode: "18055"
 city: Rostock
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

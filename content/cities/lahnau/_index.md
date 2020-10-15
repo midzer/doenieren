@@ -1,4 +1,4 @@
 ---
 title: Lahnau
-url: "/lahnau/"
+url: /lahnau/
 ---

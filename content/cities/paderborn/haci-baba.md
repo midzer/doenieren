@@ -1,4 +1,4 @@
 ---
-title: Haci Baba
-url: "/paderborn/haci-baba/"
+title: "Haci Baba"
+url: /paderborn/haci-baba/
 ---

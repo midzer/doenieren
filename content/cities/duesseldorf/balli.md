@@ -1,4 +1,4 @@
 ---
-title: Balli
-url: "/duesseldorf/balli/"
+title: "Balli"
+url: /duesseldorf/balli/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Kreuzau
-url: "/kreuzau/"
+url: /kreuzau/
 ---

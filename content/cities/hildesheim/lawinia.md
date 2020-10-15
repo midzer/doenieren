@@ -1,4 +1,4 @@
 ---
-title: Lawinia
-url: "/hildesheim/lawinia/"
+title: "Lawinia"
+url: /hildesheim/lawinia/
 ---

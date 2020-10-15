@@ -1,4 +1,4 @@
 ---
-title: Kebab Werk
-url: "/witten/kebab-werk/"
+title: "Kebab Werk"
+url: /witten/kebab-werk/
 ---

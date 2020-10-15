@@ -1,9 +1,9 @@
 id: 510836052
 latitude: 49.017243900000004
 longitude: 8.3664292
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
-street: Stösserstraße
+street: "Stösserstraße"
 housenumber: 28
 phone: "+49 721 1615047"
 opening_hours: "Mar-Oct: Mo-Fr 10:30-21:30; Oct-Mar: Mo-Fr 10:30-21:00; Mar-Oct: Su 11:30-21:30; Oct-Mar: Su 11:30-21:00"

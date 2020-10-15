@@ -1,9 +1,9 @@
 id: 3596031278
 latitude: 51.519797000000004
 longitude: 10.230047
-postcode: 37115
+postcode: "37115"
 city: Duderstadt
-street: Westeröder Straße
+street: "Westeröder Straße"
 housenumber: 12
 phone: "+49 5527 9979010"
 opening_hours: ""

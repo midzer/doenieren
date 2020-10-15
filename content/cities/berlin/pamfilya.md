@@ -1,4 +1,4 @@
 ---
-title: Pamfilya
-url: "/berlin/pamfilya/"
+title: "Pamfilya"
+url: /berlin/pamfilya/
 ---

@@ -1,0 +1,4 @@
+---
+title: Adelsheim
+url: /adelsheim/
+---

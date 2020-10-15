@@ -1,4 +1,4 @@
 ---
-title: Örnek Künefe
-url: "/berlin/oernek-kuenefe/"
+title: "Örnek Künefe"
+url: /berlin/oernek-kuenefe/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Black & White Istanbul
-url: "/berlin/black-und-white-istanbul/"
+title: "Black & White Istanbul"
+url: /berlin/black-und-white-istanbul/
 ---

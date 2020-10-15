@@ -1,9 +1,9 @@
 id: 1773584717
 latitude: 51.178903700000006
 longitude: 14.4251293
-postcode: 02625
+postcode: "02625"
 city: Bautzen
-street: Goschwitzstraße
+street: "Goschwitzstraße"
 housenumber: 11
 phone: "+49 3591 275302"
 opening_hours: ""

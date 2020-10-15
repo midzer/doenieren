@@ -1,4 +1,4 @@
 ---
-title: Metropol
-url: "/heilbronn/metropol/"
+title: "Metropol"
+url: /heilbronn/metropol/
 ---

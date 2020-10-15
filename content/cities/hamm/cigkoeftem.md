@@ -1,4 +1,4 @@
 ---
-title: Cigköftem
-url: "/hamm/cigkoeftem/"
+title: "Cigköftem"
+url: /hamm/cigkoeftem/
 ---

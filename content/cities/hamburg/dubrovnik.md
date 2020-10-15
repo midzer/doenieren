@@ -1,4 +1,4 @@
 ---
-title: Dubrovnik
-url: "/hamburg/dubrovnik/"
+title: "Dubrovnik"
+url: /hamburg/dubrovnik/
 ---

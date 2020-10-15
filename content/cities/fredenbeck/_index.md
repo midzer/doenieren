@@ -1,4 +1,4 @@
 ---
 title: Fredenbeck
-url: "/fredenbeck/"
+url: /fredenbeck/
 ---

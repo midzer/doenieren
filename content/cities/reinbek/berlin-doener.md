@@ -1,4 +1,4 @@
 ---
-title: Berlin Döner
-url: "/reinbek/berlin-doener/"
+title: "Berlin Döner"
+url: /reinbek/berlin-doener/
 ---

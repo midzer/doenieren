@@ -1,4 +1,4 @@
 ---
-title: Istanbul Restaurant
-url: "/nuernberg/istanbul-restaurant/"
+title: "Istanbul Restaurant"
+url: /nuernberg/istanbul-restaurant/
 ---

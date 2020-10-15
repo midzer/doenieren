@@ -1,4 +1,4 @@
 ---
-title: Güney Kebab
-url: "/hamburg/gueney-kebab/"
+title: "Güney Kebab"
+url: /hamburg/gueney-kebab/
 ---

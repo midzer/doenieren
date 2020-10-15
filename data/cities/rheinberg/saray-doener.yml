@@ -1,9 +1,9 @@
 id: 761941845
 latitude: 51.545910500000005
 longitude: 6.6022375
-postcode: 47495
+postcode: "47495"
 city: Rheinberg
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 3
 phone: ""
 opening_hours: "12:00 - 23:00"

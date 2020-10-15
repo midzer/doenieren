@@ -1,4 +1,4 @@
 ---
-title: Bosporus Kebap
-url: "/bad-rappenau/bosporus-kebap/"
+title: "Bosporus Kebap"
+url: /bad-rappenau/bosporus-kebap/
 ---

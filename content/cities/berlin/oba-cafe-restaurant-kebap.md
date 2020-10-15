@@ -1,4 +1,4 @@
 ---
-title: Oba Cafe Restaurant Kebap
-url: "/berlin/oba-cafe-restaurant-kebap/"
+title: "Oba Cafe Restaurant Kebap"
+url: /berlin/oba-cafe-restaurant-kebap/
 ---

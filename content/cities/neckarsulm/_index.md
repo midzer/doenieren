@@ -1,4 +1,4 @@
 ---
 title: Neckarsulm
-url: "/neckarsulm/"
+url: /neckarsulm/
 ---

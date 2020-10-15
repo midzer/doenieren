@@ -1,4 +1,4 @@
 ---
-title: Artemis
-url: "/hamburg/artemis/"
+title: "Artemis"
+url: /hamburg/artemis/
 ---

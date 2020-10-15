@@ -1,4 +1,4 @@
 ---
-title: Emir Kebap
-url: "/kempten-allgaeu/emir-kebap/"
+title: "Emir Kebap"
+url: /kempten-allgaeu/emir-kebap/
 ---

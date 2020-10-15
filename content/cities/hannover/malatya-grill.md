@@ -1,4 +1,4 @@
 ---
-title: Malatya Grill
-url: "/hannover/malatya-grill/"
+title: "Malatya Grill"
+url: /hannover/malatya-grill/
 ---

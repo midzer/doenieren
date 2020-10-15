@@ -1,4 +1,4 @@
 ---
-title: Konya Kebab
-url: "/koenigswinter/konya-kebab/"
+title: "Konya Kebab"
+url: /koenigswinter/konya-kebab/
 ---

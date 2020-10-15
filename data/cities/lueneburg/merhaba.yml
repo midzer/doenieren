@@ -1,9 +1,9 @@
 id: 1837791203
 latitude: 53.2517903
 longitude: 10.4094184
-postcode: 21335
+postcode: "21335"
 city: Lüneburg
-street: Bardowicker Straße
+street: "Bardowicker Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 12:00-22:00"

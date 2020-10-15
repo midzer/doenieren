@@ -1,4 +1,4 @@
 ---
-title: Sumak
-url: "/berlin/sumak/"
+title: "Sumak"
+url: /berlin/sumak/
 ---

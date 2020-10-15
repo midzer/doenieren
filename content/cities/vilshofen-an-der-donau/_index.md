@@ -1,4 +1,4 @@
 ---
 title: Vilshofen an der Donau
-url: "/vilshofen-an-der-donau/"
+url: /vilshofen-an-der-donau/
 ---

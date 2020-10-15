@@ -1,9 +1,9 @@
 id: 3741221863
 latitude: 52.252583200000004
 longitude: 10.8162815
-postcode: 38154
+postcode: "38154"
 city: Königslutter am Elm
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: "+49 5353 2626"
 opening_hours: ""

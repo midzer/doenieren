@@ -1,4 +1,4 @@
 ---
-title: Sulzbacher Big-Dürüm
-url: "/nuernberg/sulzbacher-big-dueruem/"
+title: "Sulzbacher Big-Dürüm"
+url: /nuernberg/sulzbacher-big-dueruem/
 ---

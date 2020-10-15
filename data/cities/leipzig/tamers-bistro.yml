@@ -1,9 +1,9 @@
 id: 1789114876
 latitude: 51.3419551
 longitude: 12.3590584
-postcode: 04109
+postcode: "04109"
 city: Leipzig
-street: Jahnallee
+street: "Jahnallee"
 housenumber: 31
 phone: ""
 opening_hours: ""

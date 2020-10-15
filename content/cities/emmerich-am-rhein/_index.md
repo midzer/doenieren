@@ -1,4 +1,4 @@
 ---
 title: Emmerich am Rhein
-url: "/emmerich-am-rhein/"
+url: /emmerich-am-rhein/
 ---

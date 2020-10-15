@@ -1,4 +1,4 @@
 ---
-title: Lale Restaurant
-url: "/mannheim/lale-restaurant/"
+title: "Lale Restaurant"
+url: /mannheim/lale-restaurant/
 ---

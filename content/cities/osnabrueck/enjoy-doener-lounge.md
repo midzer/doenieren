@@ -1,4 +1,4 @@
 ---
-title: Enjoy Döner Lounge
-url: "/osnabrueck/enjoy-doener-lounge/"
+title: "Enjoy Döner Lounge"
+url: /osnabrueck/enjoy-doener-lounge/
 ---

@@ -1,9 +1,9 @@
 id: 308264334
 latitude: 52.271828000000006
 longitude: 8.0496432
-postcode: 49074
+postcode: "49074"
 city: Osnabrück
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 51
 phone: "+49 541 3502968"
 opening_hours: "Mo-Su 10:00-03:00"

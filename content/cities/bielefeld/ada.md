@@ -1,4 +1,4 @@
 ---
-title: Ada
-url: "/bielefeld/ada/"
+title: "Ada"
+url: /bielefeld/ada/
 ---

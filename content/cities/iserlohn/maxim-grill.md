@@ -1,4 +1,4 @@
 ---
-title: Maxim Grill
-url: "/iserlohn/maxim-grill/"
+title: "Maxim Grill"
+url: /iserlohn/maxim-grill/
 ---

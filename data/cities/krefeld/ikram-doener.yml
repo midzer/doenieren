@@ -1,9 +1,9 @@
 id: 3755488056
 latitude: 51.304816300000006
 longitude: 6.588076200000001
-postcode: 47807
+postcode: "47807"
 city: Krefeld
-street: Kölner Straße
+street: "Kölner Straße"
 housenumber: 542
 phone: ""
 opening_hours: ""

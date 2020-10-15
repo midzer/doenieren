@@ -1,4 +1,4 @@
 ---
-title: Altstadt-Döner
-url: "/aichach/altstadt-doener/"
+title: "Altstadt-Döner"
+url: /aichach/altstadt-doener/
 ---

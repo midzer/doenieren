@@ -1,4 +1,4 @@
 ---
-title: Basta Pasta
-url: "/ingolstadt/basta-pasta/"
+title: "Basta Pasta"
+url: /ingolstadt/basta-pasta/
 ---

@@ -1,9 +1,9 @@
 id: 3379995572
 latitude: 51.258394900000006
 longitude: 9.4130631
-postcode: 34225
+postcode: "34225"
 city: Baunatal
-street: Altenritter Straße
+street: "Altenritter Straße"
 housenumber: 27a
 phone: "+49 561 99859388"
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-21:00"

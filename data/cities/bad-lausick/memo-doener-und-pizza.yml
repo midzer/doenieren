@@ -1,9 +1,9 @@
 id: 685760930
 latitude: 51.142632400000004
 longitude: 12.644976400000001
-postcode: 04651
+postcode: "04651"
 city: Bad Lausick
-street: Rochlitzer Straße
+street: "Rochlitzer Straße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00; Sa 12:00-22:00; Su 17:00-22:00"

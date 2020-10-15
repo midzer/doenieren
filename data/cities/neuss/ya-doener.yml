@@ -1,9 +1,9 @@
 id: 1702654291
 latitude: 51.201803500000004
 longitude: 6.7177531
-postcode: 41460
+postcode: "41460"
 city: Neuss
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 2-4
 phone: "+49-2131-4018688"
 opening_hours: "Mo-Sa 10:00-20:00"

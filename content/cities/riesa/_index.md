@@ -1,4 +1,4 @@
 ---
 title: Riesa
-url: "/riesa/"
+url: /riesa/
 ---

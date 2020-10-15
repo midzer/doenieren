@@ -1,4 +1,4 @@
 ---
 title: Winsen (Luhe)
-url: "/winsen-luhe/"
+url: /winsen-luhe/
 ---

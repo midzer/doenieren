@@ -1,4 +1,4 @@
 ---
-title: Miss Döner
-url: "/hamburg/miss-doener/"
+title: "Miss Döner"
+url: /hamburg/miss-doener/
 ---

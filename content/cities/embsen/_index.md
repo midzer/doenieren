@@ -1,4 +1,4 @@
 ---
 title: Embsen
-url: "/embsen/"
+url: /embsen/
 ---

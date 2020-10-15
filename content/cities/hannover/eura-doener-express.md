@@ -1,4 +1,4 @@
 ---
-title: Eura Döner Express
-url: "/hannover/eura-doener-express/"
+title: "Eura Döner Express"
+url: /hannover/eura-doener-express/
 ---

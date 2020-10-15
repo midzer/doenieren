@@ -1,4 +1,4 @@
 ---
-title: Firat
-url: "/bad-ems/firat/"
+title: "Firat"
+url: /bad-ems/firat/
 ---

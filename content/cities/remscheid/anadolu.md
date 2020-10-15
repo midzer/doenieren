@@ -1,4 +1,4 @@
 ---
-title: Anadolu
-url: "/remscheid/anadolu/"
+title: "Anadolu"
+url: /remscheid/anadolu/
 ---

@@ -1,9 +1,9 @@
 id: 4324773172
 latitude: 52.5512615
 longitude: 13.350073
-postcode: 13349
+postcode: "13349"
 city: Berlin
-street: Müllerstraße
+street: "Müllerstraße"
 housenumber: 133A
 phone: ""
 opening_hours: "07:00-22:00"

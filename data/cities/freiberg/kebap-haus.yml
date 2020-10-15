@@ -1,9 +1,9 @@
 id: 390981611
 latitude: 50.916932700000004
 longitude: 13.341550600000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
-street: Petriplatz
+street: "Petriplatz"
 housenumber: 10
 phone: "+49 3731 22582"
 opening_hours: ""

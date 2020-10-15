@@ -1,4 +1,4 @@
 ---
-title: Bistro Istanbul
-url: "/berlin/bistro-istanbul/"
+title: "Bistro Istanbul"
+url: /berlin/bistro-istanbul/
 ---

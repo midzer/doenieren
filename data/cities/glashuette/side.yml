@@ -1,9 +1,9 @@
 id: 506805974
 latitude: 50.852176500000006
 longitude: 13.778749000000001
-postcode: 01768
+postcode: "01768"
 city: Glashütte
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 8
 phone: "+49 35053 31503"
 opening_hours: "Mo-Fr 10:00-21:00; Sa 11:00-21:00; Su 12:00-21:00"

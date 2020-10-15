@@ -1,4 +1,4 @@
 ---
 title: Bocholt
-url: "/bocholt/"
+url: /bocholt/
 ---

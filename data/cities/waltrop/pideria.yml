@@ -1,9 +1,9 @@
 id: 3619431955
 latitude: 51.623347900000006
 longitude: 7.4111047
-postcode: 45731
+postcode: "45731"
 city: Waltrop
-street: Dortmunder Straße
+street: "Dortmunder Straße"
 housenumber: 133
 phone: "+492309783080"
 opening_hours: "Tu-Sa 11:30-23:00; Su 12:00-22:00"

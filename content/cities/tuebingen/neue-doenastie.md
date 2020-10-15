@@ -1,4 +1,4 @@
 ---
-title: Neue Dönastie
-url: "/tuebingen/neue-doenastie/"
+title: "Neue Dönastie"
+url: /tuebingen/neue-doenastie/
 ---

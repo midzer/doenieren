@@ -1,4 +1,4 @@
 ---
-title: Üstadin Yeri
-url: "/berlin/uestadin-yeri/"
+title: "Üstadin Yeri"
+url: /berlin/uestadin-yeri/
 ---

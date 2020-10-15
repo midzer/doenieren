@@ -1,4 +1,4 @@
 ---
-title: HazanBaba
-url: "/koblenz/hazanbaba/"
+title: "HazanBaba"
+url: /koblenz/hazanbaba/
 ---

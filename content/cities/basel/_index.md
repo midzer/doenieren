@@ -1,0 +1,4 @@
+---
+title: Basel
+url: /basel/
+---

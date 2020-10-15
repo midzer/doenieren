@@ -1,4 +1,4 @@
 ---
 title: Bückeburg
-url: "/bueckeburg/"
+url: /bueckeburg/
 ---

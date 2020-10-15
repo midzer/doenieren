@@ -1,4 +1,4 @@
 ---
-title: keep up
-url: "/goslar/keep-up/"
+title: "keep up"
+url: /goslar/keep-up/
 ---

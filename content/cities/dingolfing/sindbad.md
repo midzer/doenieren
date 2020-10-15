@@ -1,4 +1,4 @@
 ---
-title: Sindbad
-url: "/dingolfing/sindbad/"
+title: "Sindbad"
+url: /dingolfing/sindbad/
 ---

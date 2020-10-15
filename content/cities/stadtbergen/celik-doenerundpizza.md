@@ -1,4 +1,4 @@
 ---
-title: Çelik Döner&Pizza
-url: "/stadtbergen/celik-doenerundpizza/"
+title: "Çelik Döner&Pizza"
+url: /stadtbergen/celik-doenerundpizza/
 ---

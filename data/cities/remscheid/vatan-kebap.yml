@@ -1,9 +1,9 @@
 id: 6004899300
 latitude: 51.184167
 longitude: 7.178813600000001
-postcode: 42853
+postcode: "42853"
 city: Remscheid
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00; Sa,Su,PH 12:00-22:00"

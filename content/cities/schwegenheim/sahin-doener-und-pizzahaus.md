@@ -1,4 +1,4 @@
 ---
-title: Sahin Döner & Pizzahaus
-url: "/schwegenheim/sahin-doener-und-pizzahaus/"
+title: "Sahin Döner & Pizzahaus"
+url: /schwegenheim/sahin-doener-und-pizzahaus/
 ---

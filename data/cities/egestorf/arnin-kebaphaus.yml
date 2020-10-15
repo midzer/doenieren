@@ -1,9 +1,9 @@
 id: 3230632231
 latitude: 53.1931316
 longitude: 10.0633461
-postcode: 21272
+postcode: "21272"
 city: Egestorf
-street: Barkhof
+street: "Barkhof"
 housenumber: 1
 phone: "+49 4175 8021793"
 opening_hours: "11:30 - 21:00"

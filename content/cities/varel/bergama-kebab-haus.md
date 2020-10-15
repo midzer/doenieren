@@ -1,4 +1,4 @@
 ---
-title: Bergama Kebab Haus
-url: "/varel/bergama-kebab-haus/"
+title: "Bergama Kebab Haus"
+url: /varel/bergama-kebab-haus/
 ---

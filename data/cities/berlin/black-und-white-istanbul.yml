@@ -1,9 +1,9 @@
 id: 2501081533
 latitude: 52.502251400000006
 longitude: 13.3381307
-postcode: 10789
+postcode: "10789"
 city: Berlin
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

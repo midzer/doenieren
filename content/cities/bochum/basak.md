@@ -1,4 +1,4 @@
 ---
-title: Basak
-url: "/bochum/basak/"
+title: "Basak"
+url: /bochum/basak/
 ---

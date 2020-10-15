@@ -1,4 +1,4 @@
 ---
 title: Kehl
-url: "/kehl/"
+url: /kehl/
 ---

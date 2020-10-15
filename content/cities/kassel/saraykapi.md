@@ -1,4 +1,4 @@
 ---
-title: Saraykapi
-url: "/kassel/saraykapi/"
+title: "Saraykapi"
+url: /kassel/saraykapi/
 ---

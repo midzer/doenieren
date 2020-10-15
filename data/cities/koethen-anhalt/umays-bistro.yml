@@ -1,9 +1,9 @@
 id: 3763096275
 latitude: 51.7447924
 longitude: 11.958234200000001
-postcode: 06366
+postcode: "06366"
 city: Köthen (Anhalt)
-street: Anhaltische Straße
+street: "Anhaltische Straße"
 housenumber: 7
 phone: "+49 3496 5095946"
 opening_hours: "Mo - Su 10:00 - 22:00"

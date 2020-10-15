@@ -1,4 +1,4 @@
 ---
-title: Uludag
-url: "/augsburg/uludag/"
+title: "Uludag"
+url: /augsburg/uludag/
 ---

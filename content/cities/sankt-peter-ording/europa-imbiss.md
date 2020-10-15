@@ -1,4 +1,4 @@
 ---
-title: Europa Imbiss
-url: "/sankt-peter-ording/europa-imbiss/"
+title: "Europa Imbiss"
+url: /sankt-peter-ording/europa-imbiss/
 ---

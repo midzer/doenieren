@@ -1,4 +1,4 @@
 ---
-title: Nuri's Cano's Döner
-url: "/lohsa/nuris-canos-doener/"
+title: "Nuri's Cano's Döner"
+url: /lohsa/nuris-canos-doener/
 ---

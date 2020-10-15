@@ -1,9 +1,9 @@
 id: 1411362930
 latitude: 49.0165432
 longitude: 12.0956635
-postcode: 93047
+postcode: "93047"
 city: Regensburg
-street: Obermünsterplatz
+street: "Obermünsterplatz"
 housenumber: 1
 phone: ""
 opening_hours: ""

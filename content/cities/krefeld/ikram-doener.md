@@ -1,4 +1,4 @@
 ---
-title: ikram Döner
-url: "/krefeld/ikram-doener/"
+title: "ikram Döner"
+url: /krefeld/ikram-doener/
 ---

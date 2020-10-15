@@ -1,4 +1,4 @@
 ---
-title: Orient Bistro Kepabhaus
-url: "/zwickau/orient-bistro-kepabhaus/"
+title: "Orient Bistro Kepabhaus"
+url: /zwickau/orient-bistro-kepabhaus/
 ---

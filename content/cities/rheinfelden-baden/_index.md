@@ -1,4 +1,4 @@
 ---
 title: Rheinfelden (Baden)
-url: "/rheinfelden-baden/"
+url: /rheinfelden-baden/
 ---

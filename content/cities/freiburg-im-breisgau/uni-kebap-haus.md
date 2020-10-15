@@ -1,4 +1,4 @@
 ---
-title: Uni-Kebap Haus
-url: "/freiburg-im-breisgau/uni-kebap-haus/"
+title: "Uni-Kebap Haus"
+url: /freiburg-im-breisgau/uni-kebap-haus/
 ---

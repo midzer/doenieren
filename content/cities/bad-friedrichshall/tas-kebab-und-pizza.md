@@ -1,4 +1,4 @@
 ---
-title: TAS Kebab & Pizza
-url: "/bad-friedrichshall/tas-kebab-und-pizza/"
+title: "TAS Kebab & Pizza"
+url: /bad-friedrichshall/tas-kebab-und-pizza/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ranya's Chicken
-url: "/guetersloh/ranyas-chicken/"
+title: "Ranya's Chicken"
+url: /guetersloh/ranyas-chicken/
 ---

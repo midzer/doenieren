@@ -1,4 +1,4 @@
 ---
 title: Kerpen
-url: "/kerpen/"
+url: /kerpen/
 ---

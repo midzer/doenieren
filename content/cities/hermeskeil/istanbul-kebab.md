@@ -1,4 +1,4 @@
 ---
-title: Istanbul Kebab
-url: "/hermeskeil/istanbul-kebab/"
+title: "Istanbul Kebab"
+url: /hermeskeil/istanbul-kebab/
 ---

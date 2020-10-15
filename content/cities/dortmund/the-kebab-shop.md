@@ -1,4 +1,4 @@
 ---
-title: The Kebab Shop
-url: "/dortmund/the-kebab-shop/"
+title: "The Kebab Shop"
+url: /dortmund/the-kebab-shop/
 ---

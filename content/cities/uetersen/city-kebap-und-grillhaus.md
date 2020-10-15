@@ -1,4 +1,4 @@
 ---
-title: City Kebap & Grillhaus
-url: "/uetersen/city-kebap-und-grillhaus/"
+title: "City Kebap & Grillhaus"
+url: /uetersen/city-kebap-und-grillhaus/
 ---

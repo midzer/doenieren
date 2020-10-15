@@ -1,4 +1,4 @@
 ---
 title: Torgau
-url: "/torgau/"
+url: /torgau/
 ---

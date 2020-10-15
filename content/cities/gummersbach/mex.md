@@ -1,4 +1,4 @@
 ---
-title: MEX
-url: "/gummersbach/mex/"
+title: "MEX"
+url: /gummersbach/mex/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kamza Kebab
-url: "/greifswald/kamza-kebab/"
+title: "Kamza Kebab"
+url: /greifswald/kamza-kebab/
 ---

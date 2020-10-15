@@ -1,4 +1,4 @@
 ---
-title: mangal Döner
-url: "/bonn/mangal-doener/"
+title: "mangal Döner"
+url: /bonn/mangal-doener/
 ---

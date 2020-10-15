@@ -1,9 +1,9 @@
 id: 4239409089
 latitude: 51.593409300000005
 longitude: 7.0514288
-postcode: 45896
+postcode: "45896"
 city: Gelsenkirchen
-street: Polsumer Straße
+street: "Polsumer Straße"
 housenumber: 91
 phone: ""
 opening_hours: "Mo-Su 11:30-22:00"

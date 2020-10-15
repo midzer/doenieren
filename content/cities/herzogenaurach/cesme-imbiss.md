@@ -1,4 +1,4 @@
 ---
-title: Cesme Imbiss
-url: "/herzogenaurach/cesme-imbiss/"
+title: "Cesme Imbiss"
+url: /herzogenaurach/cesme-imbiss/
 ---

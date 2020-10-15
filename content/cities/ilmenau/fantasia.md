@@ -1,4 +1,4 @@
 ---
-title: Fantasia
-url: "/ilmenau/fantasia/"
+title: "Fantasia"
+url: /ilmenau/fantasia/
 ---

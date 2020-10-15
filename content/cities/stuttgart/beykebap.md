@@ -1,4 +1,4 @@
 ---
-title: Beykebap
-url: "/stuttgart/beykebap/"
+title: "Beykebap"
+url: /stuttgart/beykebap/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Eltville am Rhein
-url: "/eltville-am-rhein/"
+url: /eltville-am-rhein/
 ---

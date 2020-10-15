@@ -1,4 +1,4 @@
 ---
-title: Döner-Treff
-url: "/bergkamen/doener-treff/"
+title: "Döner-Treff"
+url: /bergkamen/doener-treff/
 ---

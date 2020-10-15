@@ -1,4 +1,4 @@
 ---
 title: Nordheim
-url: "/nordheim/"
+url: /nordheim/
 ---

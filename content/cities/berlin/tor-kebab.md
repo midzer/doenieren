@@ -1,4 +1,4 @@
 ---
-title: Tor Kebab
-url: "/berlin/tor-kebab/"
+title: "Tor Kebab"
+url: /berlin/tor-kebab/
 ---

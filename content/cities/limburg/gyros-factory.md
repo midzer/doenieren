@@ -1,4 +1,4 @@
 ---
-title: Gyros Factory
-url: "/limburg/gyros-factory/"
+title: "Gyros Factory"
+url: /limburg/gyros-factory/
 ---

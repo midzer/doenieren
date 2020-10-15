@@ -1,4 +1,4 @@
 ---
-title: PASAM Grillhaus
-url: "/heitersheim/pasam-grillhaus/"
+title: "PASAM Grillhaus"
+url: /heitersheim/pasam-grillhaus/
 ---

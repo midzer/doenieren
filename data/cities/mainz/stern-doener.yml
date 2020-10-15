@@ -1,9 +1,9 @@
 id: 2101897391
 latitude: 49.9788082
 longitude: 8.2996051
-postcode: 55130
+postcode: "55130"
 city: Mainz
-street: Bleichstraße
+street: "Bleichstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

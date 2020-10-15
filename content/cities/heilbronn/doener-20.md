@@ -1,4 +1,4 @@
 ---
-title: Döner 20
-url: "/heilbronn/doener-20/"
+title: "Döner 20"
+url: /heilbronn/doener-20/
 ---

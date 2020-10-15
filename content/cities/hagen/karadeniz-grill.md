@@ -1,4 +1,4 @@
 ---
-title: Karadeniz Grill
-url: "/hagen/karadeniz-grill/"
+title: "Karadeniz Grill"
+url: /hagen/karadeniz-grill/
 ---

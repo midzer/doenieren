@@ -1,4 +1,4 @@
 ---
-title: Opa's Döner Stube
-url: "/oldenburg-in-holstein/opas-doener-stube/"
+title: "Opa's Döner Stube"
+url: /oldenburg-in-holstein/opas-doener-stube/
 ---

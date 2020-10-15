@@ -1,4 +1,4 @@
 ---
-title: erbil
-url: "/flensburg/erbil/"
+title: "erbil"
+url: /flensburg/erbil/
 ---

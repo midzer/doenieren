@@ -1,4 +1,4 @@
 ---
 title: Mering
-url: "/mering/"
+url: /mering/
 ---

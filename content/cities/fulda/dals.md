@@ -1,4 +1,4 @@
 ---
-title: Dal's
-url: "/fulda/dals/"
+title: "Dal's"
+url: /fulda/dals/
 ---

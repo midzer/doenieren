@@ -1,4 +1,4 @@
 ---
-title: Gül Imbiss
-url: "/trittau/guel-imbiss/"
+title: "Gül Imbiss"
+url: /trittau/guel-imbiss/
 ---

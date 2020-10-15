@@ -1,9 +1,9 @@
 id: 6838163023
 latitude: 51.383667100000004
 longitude: 7.674210400000001
-postcode: 58638
+postcode: "58638"
 city: Iserlohn
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:00-22:00"

@@ -1,9 +1,9 @@
 id: 1996948776
 latitude: 47.8553912
 longitude: 12.344716
-postcode: 83209
+postcode: "83209"
 city: Prien am Chiemsee
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 09:00-22:00"

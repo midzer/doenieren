@@ -1,4 +1,4 @@
 ---
-title: Dilan
-url: "/muenchen/dilan/"
+title: "Dilan"
+url: /muenchen/dilan/
 ---

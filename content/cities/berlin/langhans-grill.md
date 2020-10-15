@@ -1,4 +1,4 @@
 ---
-title: Langhans-Grill
-url: "/berlin/langhans-grill/"
+title: "Langhans-Grill"
+url: /berlin/langhans-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus Dessau
-url: "/dessau-rosslau/doenerhaus-dessau/"
+title: "Dönerhaus Dessau"
+url: /dessau-rosslau/doenerhaus-dessau/
 ---

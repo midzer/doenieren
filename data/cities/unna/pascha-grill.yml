@@ -1,9 +1,9 @@
 id: 3404204277
 latitude: 51.534545
 longitude: 7.6852121
-postcode: 59423
+postcode: "59423"
 city: Unna
-street: Massener Straße
+street: "Massener Straße"
 housenumber: 33
 phone: ""
 opening_hours: "Tu-Su 12:00-22:00"

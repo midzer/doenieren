@@ -1,4 +1,4 @@
 ---
-title: Antalya Kebab
-url: "/kroev/antalya-kebab/"
+title: "Antalya Kebab"
+url: /kroev/antalya-kebab/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mahlzeit
-url: "/duisburg/mahlzeit/"
+title: "Mahlzeit"
+url: /duisburg/mahlzeit/
 ---

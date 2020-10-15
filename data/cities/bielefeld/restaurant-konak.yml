@@ -1,9 +1,9 @@
 id: 1357203366
 latitude: 52.0281102
 longitude: 8.5338904
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
-street: Herbert-Hinnendahl-Straße
+street: "Herbert-Hinnendahl-Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

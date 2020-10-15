@@ -1,4 +1,4 @@
 ---
-title: Saroli Kebab Haus
-url: "/bickenbach/saroli-kebab-haus/"
+title: "Saroli Kebab Haus"
+url: /bickenbach/saroli-kebab-haus/
 ---

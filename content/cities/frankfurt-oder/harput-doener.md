@@ -1,4 +1,4 @@
 ---
-title: Harput-Döner
-url: "/frankfurt-oder/harput-doener/"
+title: "Harput-Döner"
+url: /frankfurt-oder/harput-doener/
 ---

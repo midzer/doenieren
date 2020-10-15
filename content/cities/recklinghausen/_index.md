@@ -1,4 +1,4 @@
 ---
 title: Recklinghausen
-url: "/recklinghausen/"
+url: /recklinghausen/
 ---

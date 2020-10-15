@@ -1,4 +1,4 @@
 ---
-title: Anadolu Grill
-url: "/gladbeck/anadolu-grill/"
+title: "Anadolu Grill"
+url: /gladbeck/anadolu-grill/
 ---

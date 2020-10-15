@@ -1,4 +1,4 @@
 ---
-title: Kebab Döner "Istanbul"
-url: "/koethen-anhalt/kebab-doener-istanbul/"
+title: "Kebab Döner Istanbul"
+url: /koethen-anhalt/kebab-doener-istanbul/
 ---

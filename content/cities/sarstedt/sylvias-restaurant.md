@@ -1,4 +1,4 @@
 ---
-title: Sylvia's Restaurant
-url: "/sarstedt/sylvias-restaurant/"
+title: "Sylvia's Restaurant"
+url: /sarstedt/sylvias-restaurant/
 ---

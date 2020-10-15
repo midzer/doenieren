@@ -1,4 +1,4 @@
 ---
-title: Saray, Kebap - Grill - Pizza
-url: "/mainz/saray-kebap-grill-pizza/"
+title: "Saray, Kebap - Grill - Pizza"
+url: /mainz/saray-kebap-grill-pizza/
 ---

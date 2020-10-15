@@ -1,4 +1,4 @@
 ---
-title: Dönerland
-url: "/riesa/doenerland/"
+title: "Dönerland"
+url: /riesa/doenerland/
 ---

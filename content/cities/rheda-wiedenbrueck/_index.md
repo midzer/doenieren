@@ -1,4 +1,4 @@
 ---
 title: Rheda-Wiedenbrück
-url: "/rheda-wiedenbrueck/"
+url: /rheda-wiedenbrueck/
 ---

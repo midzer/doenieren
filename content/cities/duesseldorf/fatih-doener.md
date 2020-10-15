@@ -1,4 +1,4 @@
 ---
-title: Fatih Döner
-url: "/duesseldorf/fatih-doener/"
+title: "Fatih Döner"
+url: /duesseldorf/fatih-doener/
 ---

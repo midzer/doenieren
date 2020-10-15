@@ -1,4 +1,4 @@
 ---
-title: Giresun Kebap
-url: "/dortmund/giresun-kebap/"
+title: "Giresun Kebap"
+url: /dortmund/giresun-kebap/
 ---

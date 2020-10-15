@@ -1,9 +1,9 @@
 id: 540451162
 latitude: 51.4703729
 longitude: 7.2110691000000005
-postcode: 44789
+postcode: "44789"
 city: Bochum
-street: Gilsingstraße
+street: "Gilsingstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00; Sa 12:00-22:00; Su,PH 13:00-22:00"

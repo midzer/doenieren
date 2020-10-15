@@ -1,4 +1,4 @@
 ---
-title: Bosporus
-url: "/bad-salzungen/bosporus/"
+title: "Bosporus"
+url: /bad-salzungen/bosporus/
 ---

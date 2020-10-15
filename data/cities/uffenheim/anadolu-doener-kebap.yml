@@ -1,9 +1,9 @@
 id: 410723810
 latitude: 49.5467643
 longitude: 10.233853400000001
-postcode: 97215
+postcode: "97215"
 city: Uffenheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 9
 phone: "+49-9842 - 89 70"
 opening_hours: ""

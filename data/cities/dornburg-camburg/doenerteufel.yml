@@ -1,9 +1,9 @@
 id: 724260436
 latitude: 51.008360200000006
 longitude: 11.6830551
-postcode: 07774
+postcode: "07774"
 city: Dornburg-Camburg
-street: Eschenstraße
+street: "Eschenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 11:00-21:00; Su 12:00-21:00"

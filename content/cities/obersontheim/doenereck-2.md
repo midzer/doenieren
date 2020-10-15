@@ -1,4 +1,4 @@
 ---
-title: Dönereck 2
-url: "/obersontheim/doenereck-2/"
+title: "Dönereck 2"
+url: /obersontheim/doenereck-2/
 ---

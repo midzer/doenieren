@@ -1,4 +1,4 @@
 ---
-title: Hakiki
-url: "/berlin/hakiki/"
+title: "Hakiki"
+url: /berlin/hakiki/
 ---

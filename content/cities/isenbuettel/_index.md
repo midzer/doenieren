@@ -1,4 +1,4 @@
 ---
 title: Isenbüttel
-url: "/isenbuettel/"
+url: /isenbuettel/
 ---

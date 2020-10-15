@@ -1,4 +1,4 @@
 ---
-title: Enz-König
-url: "/muehlacker/enz-koenig/"
+title: "Enz-König"
+url: /muehlacker/enz-koenig/
 ---

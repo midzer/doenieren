@@ -1,4 +1,4 @@
 ---
-title: Topkapi Restaurant Neuhaus
-url: "/koenigsbrunn/topkapi-restaurant-neuhaus/"
+title: "Topkapi Restaurant Neuhaus"
+url: /koenigsbrunn/topkapi-restaurant-neuhaus/
 ---

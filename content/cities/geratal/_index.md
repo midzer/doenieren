@@ -1,4 +1,4 @@
 ---
 title: Geratal
-url: "/geratal/"
+url: /geratal/
 ---

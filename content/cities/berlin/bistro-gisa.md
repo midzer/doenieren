@@ -1,4 +1,4 @@
 ---
-title: Bistro Gisa
-url: "/berlin/bistro-gisa/"
+title: "Bistro Gisa"
+url: /berlin/bistro-gisa/
 ---

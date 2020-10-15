@@ -1,4 +1,4 @@
 ---
 title: Bad Windsheim
-url: "/bad-windsheim/"
+url: /bad-windsheim/
 ---

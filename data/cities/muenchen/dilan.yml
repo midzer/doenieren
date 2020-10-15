@@ -1,9 +1,9 @@
 id: 1371548820
 latitude: 48.1242011
 longitude: 11.589897
-postcode: 81541
+postcode: "81541"
 city: München
-street: Gebsattelstraße
+street: "Gebsattelstraße"
 housenumber: 15
 phone: "+49 89 1590 0097"
 opening_hours: "Mo-Fr 11:30-14:30,17:00-01:00, Sa 17:00-01:00, Su 10:00-15:00,17:00-01:00"

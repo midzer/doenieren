@@ -1,4 +1,4 @@
 ---
-title: Essato
-url: "/oldenburg/essato/"
+title: "Essato"
+url: /oldenburg/essato/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Babemi
-url: "/sondershausen/babemi/"
+title: "Babemi"
+url: /sondershausen/babemi/
 ---

@@ -1,4 +1,4 @@
 ---
-title: LEZZET
-url: "/remscheid/lezzet/"
+title: "LEZZET"
+url: /remscheid/lezzet/
 ---

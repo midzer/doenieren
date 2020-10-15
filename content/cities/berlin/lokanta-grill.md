@@ -1,4 +1,4 @@
 ---
-title: Lokanta Grill
-url: "/berlin/lokanta-grill/"
+title: "Lokanta Grill"
+url: /berlin/lokanta-grill/
 ---

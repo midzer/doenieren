@@ -1,0 +1,4 @@
+---
+title: Chur
+url: /chur/
+---

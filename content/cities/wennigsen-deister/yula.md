@@ -1,4 +1,4 @@
 ---
-title: Yula
-url: "/wennigsen-deister/yula/"
+title: "Yula"
+url: /wennigsen-deister/yula/
 ---

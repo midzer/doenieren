@@ -1,4 +1,4 @@
 ---
-title: Tan Grill
-url: "/koeln/tan-grill/"
+title: "Tan Grill"
+url: /koeln/tan-grill/
 ---

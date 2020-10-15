@@ -1,4 +1,4 @@
 ---
-title: Grillhaus Aziz
-url: "/bueren/grillhaus-aziz/"
+title: "Grillhaus Aziz"
+url: /bueren/grillhaus-aziz/
 ---

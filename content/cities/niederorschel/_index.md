@@ -1,4 +1,4 @@
 ---
 title: Niederorschel
-url: "/niederorschel/"
+url: /niederorschel/
 ---

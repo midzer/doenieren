@@ -1,4 +1,4 @@
 ---
-title: Westend Döner
-url: "/muenchen/westend-doener/"
+title: "Westend Döner"
+url: /muenchen/westend-doener/
 ---

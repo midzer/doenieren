@@ -1,4 +1,4 @@
 ---
-title: Aksar Döner
-url: "/margetshoechheim/aksar-doener/"
+title: "Aksar Döner"
+url: /margetshoechheim/aksar-doener/
 ---

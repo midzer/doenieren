@@ -1,9 +1,9 @@
 id: 2832650515
 latitude: 50.059285100000004
 longitude: 8.807110400000001
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 26
 phone: "+49 6104 6707875"
 opening_hours: ""

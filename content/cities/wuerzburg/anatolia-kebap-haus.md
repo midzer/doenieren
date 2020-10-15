@@ -1,4 +1,4 @@
 ---
-title: Anatolia Kebap Haus
-url: "/wuerzburg/anatolia-kebap-haus/"
+title: "Anatolia Kebap Haus"
+url: /wuerzburg/anatolia-kebap-haus/
 ---

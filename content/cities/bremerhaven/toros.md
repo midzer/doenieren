@@ -1,4 +1,4 @@
 ---
-title: Toros
-url: "/bremerhaven/toros/"
+title: "Toros"
+url: /bremerhaven/toros/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mira
-url: "/berlin/mira/"
+title: "Mira"
+url: /berlin/mira/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Köthen (Anhalt)
-url: "/koethen-anhalt/"
+url: /koethen-anhalt/
 ---

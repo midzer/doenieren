@@ -1,4 +1,4 @@
 ---
 title: Leverkusen
-url: "/leverkusen/"
+url: /leverkusen/
 ---

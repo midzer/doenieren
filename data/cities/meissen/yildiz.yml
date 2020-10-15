@@ -1,9 +1,9 @@
 id: 4349881789
 latitude: 51.1648276
 longitude: 13.4728551
-postcode: 01662
+postcode: "01662"
 city: Meißen
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 15
 phone: "+49 3521 4850760"
 opening_hours: "Mo-Fr 11:00-23:00; Sa+So 12:00-22:00"

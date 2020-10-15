@@ -1,4 +1,4 @@
 ---
-title: Saray Kebab
-url: "/fellbach/saray-kebab/"
+title: "Saray Kebab"
+url: /fellbach/saray-kebab/
 ---

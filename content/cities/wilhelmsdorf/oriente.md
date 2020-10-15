@@ -1,4 +1,4 @@
 ---
-title: Oriente
-url: "/wilhelmsdorf/oriente/"
+title: "Oriente"
+url: /wilhelmsdorf/oriente/
 ---

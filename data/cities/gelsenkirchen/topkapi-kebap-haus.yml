@@ -1,9 +1,9 @@
 id: 4439155936
 latitude: 51.5095206
 longitude: 7.0966674
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
-street: Neumarkt
+street: "Neumarkt"
 housenumber: 6
 phone: ""
 opening_hours: ""

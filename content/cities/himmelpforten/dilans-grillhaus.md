@@ -1,4 +1,4 @@
 ---
-title: Dilan's Grillhaus
-url: "/himmelpforten/dilans-grillhaus/"
+title: "Dilan's Grillhaus"
+url: /himmelpforten/dilans-grillhaus/
 ---

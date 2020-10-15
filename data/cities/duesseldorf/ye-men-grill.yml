@@ -1,9 +1,9 @@
 id: 3689604539
 latitude: 51.20981260000001
 longitude: 6.7764347
-postcode: 40217
+postcode: "40217"
 city: Düsseldorf
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 144
 phone: ""
 opening_hours: ""

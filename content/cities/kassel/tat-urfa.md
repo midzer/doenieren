@@ -1,4 +1,4 @@
 ---
-title: Tat-Urfa
-url: "/kassel/tat-urfa/"
+title: "Tat-Urfa"
+url: /kassel/tat-urfa/
 ---

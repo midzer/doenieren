@@ -1,4 +1,4 @@
 ---
-title: 27 Kebabhaus
-url: "/kornwestheim/27-kebabhaus/"
+title: "27 Kebabhaus"
+url: /kornwestheim/27-kebabhaus/
 ---

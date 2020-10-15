@@ -1,4 +1,4 @@
 ---
 title: Schotten
-url: "/schotten/"
+url: /schotten/
 ---

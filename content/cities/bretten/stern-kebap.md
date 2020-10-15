@@ -1,4 +1,4 @@
 ---
-title: Stern Kebap
-url: "/bretten/stern-kebap/"
+title: "Stern Kebap"
+url: /bretten/stern-kebap/
 ---

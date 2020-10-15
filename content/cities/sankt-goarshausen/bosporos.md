@@ -1,4 +1,4 @@
 ---
-title: Bosporos
-url: "/sankt-goarshausen/bosporos/"
+title: "Bosporos"
+url: /sankt-goarshausen/bosporos/
 ---

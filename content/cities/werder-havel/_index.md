@@ -1,4 +1,4 @@
 ---
 title: Werder (Havel)
-url: "/werder-havel/"
+url: /werder-havel/
 ---

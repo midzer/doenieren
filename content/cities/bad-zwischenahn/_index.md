@@ -1,4 +1,4 @@
 ---
 title: Bad Zwischenahn
-url: "/bad-zwischenahn/"
+url: /bad-zwischenahn/
 ---

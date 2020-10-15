@@ -1,4 +1,4 @@
 ---
-title: Kebap- + Pizzahaus
-url: "/strassenhaus/kebap-pizzahaus/"
+title: "Kebap- + Pizzahaus"
+url: /strassenhaus/kebap-pizzahaus/
 ---

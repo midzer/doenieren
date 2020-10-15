@@ -1,4 +1,4 @@
 ---
-title: Antalya Ufuk
-url: "/groemitz/antalya-ufuk/"
+title: "Antalya Ufuk"
+url: /groemitz/antalya-ufuk/
 ---

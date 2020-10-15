@@ -1,9 +1,9 @@
 id: 4055362566
 latitude: 49.988434000000005
 longitude: 6.899433500000001
-postcode: 54516
+postcode: "54516"
 city: Wittlich
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Sa 11:00-23:00; Su 12:00-23:00"

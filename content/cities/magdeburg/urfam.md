@@ -1,4 +1,4 @@
 ---
-title: Urfam
-url: "/magdeburg/urfam/"
+title: "Urfam"
+url: /magdeburg/urfam/
 ---

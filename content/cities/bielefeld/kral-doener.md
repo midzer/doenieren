@@ -1,4 +1,4 @@
 ---
-title: Kral Döner
-url: "/bielefeld/kral-doener/"
+title: "Kral Döner"
+url: /bielefeld/kral-doener/
 ---

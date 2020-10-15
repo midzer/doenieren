@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus
-url: "/schwentinental/doenerhaus/"
+title: "Dönerhaus"
+url: /schwentinental/doenerhaus/
 ---

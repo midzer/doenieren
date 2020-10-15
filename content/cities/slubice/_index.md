@@ -1,4 +1,4 @@
 ---
 title: Słubice
-url: "/slubice/"
+url: /slubice/
 ---

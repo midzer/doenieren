@@ -1,9 +1,9 @@
 id: 880134433
 latitude: 49.197334100000006
 longitude: 8.112092500000001
-postcode: 76829
+postcode: "76829"
 city: Landau in der Pfalz
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 73
 phone: "+49 6341 956484"
 opening_hours: ""

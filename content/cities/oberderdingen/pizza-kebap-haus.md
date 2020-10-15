@@ -1,4 +1,4 @@
 ---
-title: Pizza Kebap Haus
-url: "/oberderdingen/pizza-kebap-haus/"
+title: "Pizza Kebap Haus"
+url: /oberderdingen/pizza-kebap-haus/
 ---

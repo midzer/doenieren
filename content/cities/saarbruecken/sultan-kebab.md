@@ -1,4 +1,4 @@
 ---
-title: Sultan Kebab
-url: "/saarbruecken/sultan-kebab/"
+title: "Sultan Kebab"
+url: /saarbruecken/sultan-kebab/
 ---

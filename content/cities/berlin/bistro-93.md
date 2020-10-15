@@ -1,4 +1,4 @@
 ---
-title: Bistro 93
-url: "/berlin/bistro-93/"
+title: "Bistro 93"
+url: /berlin/bistro-93/
 ---

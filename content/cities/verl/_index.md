@@ -1,4 +1,4 @@
 ---
 title: Verl
-url: "/verl/"
+url: /verl/
 ---

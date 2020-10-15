@@ -1,9 +1,9 @@
 id: 2316934995
 latitude: 52.406142900000006
 longitude: 9.799169200000001
-postcode: 30659
+postcode: "30659"
 city: Hannover
-street: Podbielskistraße
+street: "Podbielskistraße"
 housenumber: 313
 phone: ""
 opening_hours: "Mo-Su 08:00-24:00"

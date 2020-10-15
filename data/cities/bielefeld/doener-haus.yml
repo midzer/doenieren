@@ -1,9 +1,9 @@
 id: 3048680864
 latitude: 52.01502970000001
 longitude: 8.5471457
-postcode: 33604
+postcode: "33604"
 city: Bielefeld
-street: Oelmühlenstraße
+street: "Oelmühlenstraße"
 housenumber: 48
 phone: ""
 opening_hours: ""

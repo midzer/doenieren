@@ -1,4 +1,4 @@
 ---
-title: Ökmen Kebap
-url: "/koeln/oekmen-kebap/"
+title: "Ökmen Kebap"
+url: /koeln/oekmen-kebap/
 ---

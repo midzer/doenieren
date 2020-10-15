@@ -1,4 +1,4 @@
 ---
-title: Der Grill Mann
-url: "/essen/der-grill-mann/"
+title: "Der Grill Mann"
+url: /essen/der-grill-mann/
 ---

@@ -1,4 +1,4 @@
 ---
-title: M&M Döner
-url: "/taufkirchen/mundm-doener/"
+title: "M&M Döner"
+url: /taufkirchen/mundm-doener/
 ---

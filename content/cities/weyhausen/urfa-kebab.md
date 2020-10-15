@@ -1,4 +1,4 @@
 ---
-title: Urfa Kebab
-url: "/weyhausen/urfa-kebab/"
+title: "Urfa Kebab"
+url: /weyhausen/urfa-kebab/
 ---

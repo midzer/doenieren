@@ -1,4 +1,4 @@
 ---
-title: Mr. Kebap
-url: "/berlin/mr-kebap/"
+title: "Mr. Kebap"
+url: /berlin/mr-kebap/
 ---

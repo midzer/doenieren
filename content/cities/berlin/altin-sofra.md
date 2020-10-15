@@ -1,4 +1,4 @@
 ---
-title: Altin Sofra
-url: "/berlin/altin-sofra/"
+title: "Altin Sofra"
+url: /berlin/altin-sofra/
 ---

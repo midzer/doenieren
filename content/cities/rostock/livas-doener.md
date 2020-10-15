@@ -1,4 +1,4 @@
 ---
-title: LIVAS Döner
-url: "/rostock/livas-doener/"
+title: "LIVAS Döner"
+url: /rostock/livas-doener/
 ---

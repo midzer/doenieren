@@ -1,4 +1,4 @@
 ---
-title: Bülbül Grill
-url: "/hannover/buelbuel-grill/"
+title: "Bülbül Grill"
+url: /hannover/buelbuel-grill/
 ---

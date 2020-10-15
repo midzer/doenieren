@@ -1,4 +1,4 @@
 ---
 title: Tostedt
-url: "/tostedt/"
+url: /tostedt/
 ---

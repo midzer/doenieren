@@ -1,4 +1,4 @@
 ---
-title: Alanya Grill
-url: "/ratingen/alanya-grill/"
+title: "Alanya Grill"
+url: /ratingen/alanya-grill/
 ---

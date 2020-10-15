@@ -1,9 +1,9 @@
 id: 297653683
 latitude: 52.265365800000005
 longitude: 10.520580800000001
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
-street: Schild
+street: "Schild"
 housenumber: 2-3
 phone: ""
 opening_hours: ""

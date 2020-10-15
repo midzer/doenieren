@@ -1,4 +1,4 @@
 ---
-title: Çiğköftem
-url: "/neu-ulm/cigkoeftem/"
+title: "Çiğköftem"
+url: /neu-ulm/cigkoeftem/
 ---

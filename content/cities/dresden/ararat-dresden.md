@@ -1,4 +1,4 @@
 ---
-title: Ararat Dresden
-url: "/dresden/ararat-dresden/"
+title: "Ararat Dresden"
+url: /dresden/ararat-dresden/
 ---

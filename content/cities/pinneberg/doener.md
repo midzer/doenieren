@@ -1,4 +1,4 @@
 ---
-title: Döner
-url: "/pinneberg/doener/"
+title: "Döner"
+url: /pinneberg/doener/
 ---

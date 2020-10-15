@@ -1,4 +1,4 @@
 ---
-title: Sevran
-url: "/bochum/sevran/"
+title: "Sevran"
+url: /bochum/sevran/
 ---

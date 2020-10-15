@@ -1,4 +1,4 @@
 ---
-title: CAN Döner
-url: "/krefeld/can-doener/"
+title: "CAN Döner"
+url: /krefeld/can-doener/
 ---

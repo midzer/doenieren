@@ -1,9 +1,9 @@
 id: 675070277
 latitude: 51.4813819
 longitude: 7.2118871
-postcode: 44787
+postcode: "44787"
 city: Bochum
-street: Alleestraße
+street: "Alleestraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Su 08:00-02:00"

@@ -1,4 +1,4 @@
 ---
-title: Maxi Kebab
-url: "/teningen/maxi-kebab/"
+title: "Maxi Kebab"
+url: /teningen/maxi-kebab/
 ---

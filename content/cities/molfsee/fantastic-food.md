@@ -1,4 +1,4 @@
 ---
-title: Fantastic Food
-url: "/molfsee/fantastic-food/"
+title: "Fantastic Food"
+url: /molfsee/fantastic-food/
 ---

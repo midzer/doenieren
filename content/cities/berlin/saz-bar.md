@@ -1,4 +1,4 @@
 ---
-title: Saz Bar
-url: "/berlin/saz-bar/"
+title: "Saz Bar"
+url: /berlin/saz-bar/
 ---

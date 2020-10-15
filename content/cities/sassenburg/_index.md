@@ -1,4 +1,4 @@
 ---
 title: Sassenburg
-url: "/sassenburg/"
+url: /sassenburg/
 ---

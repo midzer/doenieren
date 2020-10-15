@@ -1,4 +1,4 @@
 ---
 title: Castrop-Rauxel
-url: "/castrop-rauxel/"
+url: /castrop-rauxel/
 ---

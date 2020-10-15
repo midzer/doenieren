@@ -1,4 +1,4 @@
 ---
-title: Montana
-url: "/muenchen/montana/"
+title: "Montana"
+url: /muenchen/montana/
 ---

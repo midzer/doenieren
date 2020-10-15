@@ -1,4 +1,4 @@
 ---
-title: ada Grill
-url: "/bad-lippspringe/ada-grill/"
+title: "ada Grill"
+url: /bad-lippspringe/ada-grill/
 ---

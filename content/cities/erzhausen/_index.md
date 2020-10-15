@@ -1,4 +1,4 @@
 ---
 title: Erzhausen
-url: "/erzhausen/"
+url: /erzhausen/
 ---

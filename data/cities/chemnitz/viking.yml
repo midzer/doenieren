@@ -1,9 +1,9 @@
 id: 542014717
 latitude: 50.8247202
 longitude: 12.9250392
-postcode: 09111
+postcode: "09111"
 city: Chemnitz
-street: Reichenhainer Straße
+street: "Reichenhainer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-23:00; Sa 12:00-23:00"

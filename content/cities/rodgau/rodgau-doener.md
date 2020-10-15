@@ -1,4 +1,4 @@
 ---
-title: Rodgau Döner
-url: "/rodgau/rodgau-doener/"
+title: "Rodgau Döner"
+url: /rodgau/rodgau-doener/
 ---

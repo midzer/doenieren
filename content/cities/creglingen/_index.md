@@ -1,4 +1,4 @@
 ---
 title: Creglingen
-url: "/creglingen/"
+url: /creglingen/
 ---

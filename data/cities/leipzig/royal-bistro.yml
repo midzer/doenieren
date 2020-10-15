@@ -1,9 +1,9 @@
 id: 2194357816
 latitude: 51.3367529
 longitude: 12.3372205
-postcode: 04177
+postcode: "04177"
 city: Leipzig
-street: Kuhturmstraße
+street: "Kuhturmstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 11:00-24:00, Sa-Su 12:00-24:00"

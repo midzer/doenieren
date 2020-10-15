@@ -1,4 +1,4 @@
 ---
-title: Kiels Kumpir
-url: "/kiel/kiels-kumpir/"
+title: "Kiels Kumpir"
+url: /kiel/kiels-kumpir/
 ---

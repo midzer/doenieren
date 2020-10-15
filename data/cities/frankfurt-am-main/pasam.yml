@@ -1,9 +1,9 @@
 id: 5867322849
 latitude: 50.115280000000006
 longitude: 8.698309400000001
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
-street: Alfred-Brehm-Platz
+street: "Alfred-Brehm-Platz"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Aue Kebaphaus
-url: "/karlsruhe/aue-kebaphaus/"
+title: "Aue Kebaphaus"
+url: /karlsruhe/aue-kebaphaus/
 ---

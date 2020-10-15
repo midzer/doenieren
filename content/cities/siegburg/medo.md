@@ -1,4 +1,4 @@
 ---
-title: Medo
-url: "/siegburg/medo/"
+title: "Medo"
+url: /siegburg/medo/
 ---

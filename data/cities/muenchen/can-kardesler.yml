@@ -1,9 +1,9 @@
 id: 266698160
 latitude: 48.126634300000006
 longitude: 11.5968554
-postcode: 81669
+postcode: "81669"
 city: München
-street: Rosenheimer Straße
+street: "Rosenheimer Straße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

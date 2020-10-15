@@ -1,4 +1,4 @@
 ---
-title: Adria Döner
-url: "/burgdorf/adria-doener/"
+title: "Adria Döner"
+url: /burgdorf/adria-doener/
 ---

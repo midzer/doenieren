@@ -1,4 +1,4 @@
 ---
-title: Kebabking
-url: "/wanfried/kebabking/"
+title: "Kebabking"
+url: /wanfried/kebabking/
 ---

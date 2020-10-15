@@ -1,4 +1,4 @@
 ---
-title: Antalya Grill
-url: "/goettingen/antalya-grill/"
+title: "Antalya Grill"
+url: /goettingen/antalya-grill/
 ---

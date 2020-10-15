@@ -1,4 +1,4 @@
 ---
-title: Devrim Imbiss
-url: "/bremen/devrim-imbiss/"
+title: "Devrim Imbiss"
+url: /bremen/devrim-imbiss/
 ---

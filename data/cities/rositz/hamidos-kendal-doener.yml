@@ -1,9 +1,9 @@
 id: 1716702388
 latitude: 51.017842900000005
 longitude: 12.367615
-postcode: 04617
+postcode: "04617"
 city: Rositz
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00; PH 15:00-21:00; Su off"

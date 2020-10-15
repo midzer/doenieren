@@ -1,4 +1,4 @@
 ---
 title: Bad Salzungen
-url: "/bad-salzungen/"
+url: /bad-salzungen/
 ---

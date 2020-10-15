@@ -1,4 +1,4 @@
 ---
 title: Hemer
-url: "/hemer/"
+url: /hemer/
 ---

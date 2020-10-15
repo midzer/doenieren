@@ -1,4 +1,4 @@
 ---
 title: Peine
-url: "/peine/"
+url: /peine/
 ---

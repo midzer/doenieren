@@ -1,9 +1,9 @@
 id: 429437776
 latitude: 50.9230086
 longitude: 6.9673813
-postcode: 50678
+postcode: "50678"
 city: Köln
-street: Anna-Schneider-Steig
+street: "Anna-Schneider-Steig"
 housenumber: 22
 phone: "+4922139760407"
 opening_hours: "Mo-Su 10:00-24:00"

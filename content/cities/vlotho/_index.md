@@ -1,4 +1,4 @@
 ---
 title: Vlotho
-url: "/vlotho/"
+url: /vlotho/
 ---

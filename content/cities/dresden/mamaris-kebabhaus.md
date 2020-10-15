@@ -1,4 +1,4 @@
 ---
-title: Mamaris Kebabhaus
-url: "/dresden/mamaris-kebabhaus/"
+title: "Mamaris Kebabhaus"
+url: /dresden/mamaris-kebabhaus/
 ---

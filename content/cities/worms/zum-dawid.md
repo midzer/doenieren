@@ -1,4 +1,4 @@
 ---
-title: Zum Dawid
-url: "/worms/zum-dawid/"
+title: "Zum Dawid"
+url: /worms/zum-dawid/
 ---

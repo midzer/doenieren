@@ -1,9 +1,9 @@
 id: 1133911705
 latitude: 50.1012682
 longitude: 8.6584719
-postcode: 60327
+postcode: "60327"
 city: Frankfurt am Main
-street: Gutleutstraße
+street: "Gutleutstraße"
 housenumber: 148
 phone: ""
 opening_hours: "Mo-Fr 10:00-22:00; Su,PH 14:00-22:00"

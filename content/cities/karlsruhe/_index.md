@@ -1,4 +1,4 @@
 ---
 title: Karlsruhe
-url: "/karlsruhe/"
+url: /karlsruhe/
 ---

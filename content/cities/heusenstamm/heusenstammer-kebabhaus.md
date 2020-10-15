@@ -1,4 +1,4 @@
 ---
-title: Heusenstammer Kebabhaus
-url: "/heusenstamm/heusenstammer-kebabhaus/"
+title: "Heusenstammer Kebabhaus"
+url: /heusenstamm/heusenstammer-kebabhaus/
 ---

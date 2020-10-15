@@ -1,4 +1,4 @@
 ---
-title: Oliva
-url: "/muenchen/oliva/"
+title: "Oliva"
+url: /muenchen/oliva/
 ---

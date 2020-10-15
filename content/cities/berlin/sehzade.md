@@ -1,4 +1,4 @@
 ---
-title: Şehzade
-url: "/berlin/sehzade/"
+title: "Şehzade"
+url: /berlin/sehzade/
 ---

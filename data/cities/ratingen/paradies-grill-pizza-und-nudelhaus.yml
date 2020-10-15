@@ -1,9 +1,9 @@
 id: 777253794
 latitude: 51.310091400000005
 longitude: 6.8183419
-postcode: 40880
+postcode: "40880"
 city: Ratingen
-street: Sohlstättenstraße
+street: "Sohlstättenstraße"
 housenumber: 34a
 phone: ""
 opening_hours: ""

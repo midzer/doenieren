@@ -1,9 +1,9 @@
 id: 292359811
 latitude: 52.39440930000001
 longitude: 9.693683100000001
-postcode: 30419
+postcode: "30419"
 city: Hannover
-street: Schaumburgstraße
+street: "Schaumburgstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Lahnstein
-url: "/lahnstein/"
+url: /lahnstein/
 ---

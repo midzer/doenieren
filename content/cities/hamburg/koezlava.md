@@ -1,4 +1,4 @@
 ---
-title: Közlava
-url: "/hamburg/koezlava/"
+title: "Közlava"
+url: /hamburg/koezlava/
 ---

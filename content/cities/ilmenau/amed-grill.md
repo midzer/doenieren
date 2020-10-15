@@ -1,4 +1,4 @@
 ---
-title: Amed-Grill
-url: "/ilmenau/amed-grill/"
+title: "Amed-Grill"
+url: /ilmenau/amed-grill/
 ---

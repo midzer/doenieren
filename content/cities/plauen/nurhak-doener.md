@@ -1,4 +1,4 @@
 ---
-title: Nurhak Döner
-url: "/plauen/nurhak-doener/"
+title: "Nurhak Döner"
+url: /plauen/nurhak-doener/
 ---

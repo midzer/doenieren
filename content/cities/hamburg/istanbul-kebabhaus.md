@@ -1,4 +1,4 @@
 ---
-title: Istanbul Kebabhaus
-url: "/hamburg/istanbul-kebabhaus/"
+title: "Istanbul Kebabhaus"
+url: /hamburg/istanbul-kebabhaus/
 ---

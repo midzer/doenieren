@@ -1,4 +1,4 @@
 ---
-title: Damas-Imbiss
-url: "/saalfeld-saale/damas-imbiss/"
+title: "Damas-Imbiss"
+url: /saalfeld-saale/damas-imbiss/
 ---

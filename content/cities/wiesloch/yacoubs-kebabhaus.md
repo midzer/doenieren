@@ -1,4 +1,4 @@
 ---
-title: Yacoubs Kebabhaus
-url: "/wiesloch/yacoubs-kebabhaus/"
+title: "Yacoubs Kebabhaus"
+url: /wiesloch/yacoubs-kebabhaus/
 ---

@@ -1,9 +1,9 @@
 id: 2418136472
 latitude: 51.4364044
 longitude: 7.0056194000000005
-postcode: 45130
+postcode: "45130"
 city: Essen
-street: Dorotheenstraße
+street: "Dorotheenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 11:00-23:00"

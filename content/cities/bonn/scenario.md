@@ -1,4 +1,4 @@
 ---
-title: Scenario
-url: "/bonn/scenario/"
+title: "Scenario"
+url: /bonn/scenario/
 ---

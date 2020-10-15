@@ -1,4 +1,4 @@
 ---
-title: Kurdischer McDöner
-url: "/erfurt/kurdischer-mcdoener/"
+title: "Kurdischer McDöner"
+url: /erfurt/kurdischer-mcdoener/
 ---

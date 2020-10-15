@@ -1,4 +1,4 @@
 ---
-title: Caglayan
-url: "/berlin/caglayan/"
+title: "Caglayan"
+url: /berlin/caglayan/
 ---

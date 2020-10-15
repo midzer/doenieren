@@ -1,4 +1,4 @@
 ---
-title: B-West
-url: "/potsdam/b-west/"
+title: "B-West"
+url: /potsdam/b-west/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Badenstedter Döner
-url: "/hannover/badenstedter-doener/"
+title: "Badenstedter Döner"
+url: /hannover/badenstedter-doener/
 ---

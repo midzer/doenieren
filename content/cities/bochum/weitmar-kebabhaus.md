@@ -1,4 +1,4 @@
 ---
-title: Weitmar Kebabhaus
-url: "/bochum/weitmar-kebabhaus/"
+title: "Weitmar Kebabhaus"
+url: /bochum/weitmar-kebabhaus/
 ---

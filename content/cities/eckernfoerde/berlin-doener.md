@@ -1,4 +1,4 @@
 ---
-title: Berlin Döner
-url: "/eckernfoerde/berlin-doener/"
+title: "Berlin Döner"
+url: /eckernfoerde/berlin-doener/
 ---

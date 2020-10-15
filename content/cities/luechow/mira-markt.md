@@ -1,4 +1,4 @@
 ---
-title: Mira Markt
-url: "/luechow/mira-markt/"
+title: "Mira Markt"
+url: /luechow/mira-markt/
 ---

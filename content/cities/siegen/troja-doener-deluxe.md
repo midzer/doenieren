@@ -1,4 +1,4 @@
 ---
-title: Troja Döner deluxe
-url: "/siegen/troja-doener-deluxe/"
+title: "Troja Döner deluxe"
+url: /siegen/troja-doener-deluxe/
 ---

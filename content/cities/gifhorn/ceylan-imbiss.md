@@ -1,4 +1,4 @@
 ---
-title: Ceylan Imbiss
-url: "/gifhorn/ceylan-imbiss/"
+title: "Ceylan Imbiss"
+url: /gifhorn/ceylan-imbiss/
 ---

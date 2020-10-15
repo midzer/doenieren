@@ -1,4 +1,4 @@
 ---
 title: Kirchhundem
-url: "/kirchhundem/"
+url: /kirchhundem/
 ---

@@ -1,4 +1,4 @@
 ---
-title: My Döner
-url: "/dieburg/my-doener/"
+title: "My Döner"
+url: /dieburg/my-doener/
 ---

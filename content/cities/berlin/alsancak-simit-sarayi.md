@@ -1,4 +1,4 @@
 ---
-title: Alsancak Simit Sarayi
-url: "/berlin/alsancak-simit-sarayi/"
+title: "Alsancak Simit Sarayi"
+url: /berlin/alsancak-simit-sarayi/
 ---

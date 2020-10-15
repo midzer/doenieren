@@ -1,4 +1,4 @@
 ---
-title: Oase
-url: "/weinstadt/oase/"
+title: "Oase"
+url: /weinstadt/oase/
 ---

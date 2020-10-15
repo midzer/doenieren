@@ -1,9 +1,9 @@
 id: 391561336
 latitude: 50.1426286
 longitude: 8.561745100000001
-postcode: 65760
+postcode: "65760"
 city: Eschborn
-street: Schwalbacher Straße
+street: "Schwalbacher Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Su 11:00-22:00"

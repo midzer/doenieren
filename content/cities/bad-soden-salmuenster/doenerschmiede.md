@@ -1,4 +1,4 @@
 ---
-title: Dönerschmiede
-url: "/bad-soden-salmuenster/doenerschmiede/"
+title: "Dönerschmiede"
+url: /bad-soden-salmuenster/doenerschmiede/
 ---

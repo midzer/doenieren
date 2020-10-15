@@ -1,4 +1,4 @@
 ---
-title: Asude Restaurant
-url: "/berlin/asude-restaurant/"
+title: "Asude Restaurant"
+url: /berlin/asude-restaurant/
 ---

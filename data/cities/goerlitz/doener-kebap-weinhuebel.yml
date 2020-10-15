@@ -1,9 +1,9 @@
 id: 3318914981
 latitude: 51.119467900000004
 longitude: 14.981360200000001
-postcode: 02827
+postcode: "02827"
 city: Görlitz
-street: Zittauer Straße
+street: "Zittauer Straße"
 housenumber: 170
 phone: ""
 opening_hours: "10:30-21:00"

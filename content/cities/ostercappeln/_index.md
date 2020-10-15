@@ -1,4 +1,4 @@
 ---
 title: Ostercappeln
-url: "/ostercappeln/"
+url: /ostercappeln/
 ---

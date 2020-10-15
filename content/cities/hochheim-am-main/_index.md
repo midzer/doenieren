@@ -1,4 +1,4 @@
 ---
 title: Hochheim am Main
-url: "/hochheim-am-main/"
+url: /hochheim-am-main/
 ---

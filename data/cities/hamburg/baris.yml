@@ -1,9 +1,9 @@
 id: 411016977
 latitude: 53.570001600000005
 longitude: 10.0279222
-postcode: 22081
+postcode: "22081"
 city: Hamburg
-street: Lerchenfeld
+street: "Lerchenfeld"
 housenumber: 48
 phone: "+49 40 2299055"
 opening_hours: "Mo-Su 12:00-24:00"

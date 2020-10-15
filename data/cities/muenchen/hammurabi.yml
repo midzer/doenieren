@@ -1,9 +1,9 @@
 id: 863187491
 latitude: 48.1434493
 longitude: 11.5601575
-postcode: 80335
+postcode: "80335"
 city: München
-street: Dachauer Straße
+street: "Dachauer Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Th 10:00-24:00, Fr,Sa 10:00-02:00, Su 10:00-24:00"

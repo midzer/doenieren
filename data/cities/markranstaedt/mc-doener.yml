@@ -1,9 +1,9 @@
 id: 7101021499
 latitude: 51.3049892
 longitude: 12.224068500000001
-postcode: 04420
+postcode: "04420"
 city: Markranstädt
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Bistro International
-url: "/berlin/bistro-international/"
+title: "Bistro International"
+url: /berlin/bistro-international/
 ---

@@ -1,9 +1,9 @@
 id: 2848233512
 latitude: 48.837231100000004
 longitude: 10.0915338
-postcode: 73430
+postcode: "73430"
 city: Aalen
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; Su, PH off"

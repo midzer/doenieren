@@ -1,0 +1,4 @@
+---
+title: Bregenz
+url: /bregenz/
+---

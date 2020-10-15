@@ -1,4 +1,4 @@
 ---
-title: Efes Döner
-url: "/goettingen/efes-doener/"
+title: "Efes Döner"
+url: /goettingen/efes-doener/
 ---

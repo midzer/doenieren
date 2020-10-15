@@ -1,4 +1,4 @@
 ---
 title: Hennef (Sieg)
-url: "/hennef-sieg/"
+url: /hennef-sieg/
 ---

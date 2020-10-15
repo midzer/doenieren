@@ -1,4 +1,4 @@
 ---
-title: Alis Kebap
-url: "/waldshut-tiengen/alis-kebap/"
+title: "Alis Kebap"
+url: /waldshut-tiengen/alis-kebap/
 ---

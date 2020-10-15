@@ -1,4 +1,4 @@
 ---
 title: Radebeul
-url: "/radebeul/"
+url: /radebeul/
 ---

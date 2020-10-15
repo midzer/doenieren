@@ -1,4 +1,4 @@
 ---
-title: Efes
-url: "/aachen/efes/"
+title: "Efes"
+url: /aachen/efes/
 ---

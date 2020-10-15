@@ -1,4 +1,4 @@
 ---
-title: Sultan´s
-url: "/bad-saeckingen/sultan-s/"
+title: "Sultan´s"
+url: /bad-saeckingen/sultan-s/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Özde Imbiss
-url: "/herrieden/oezde-imbiss/"
+title: "Özde Imbiss"
+url: /herrieden/oezde-imbiss/
 ---

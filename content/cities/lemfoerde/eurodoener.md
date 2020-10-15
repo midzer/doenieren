@@ -1,4 +1,4 @@
 ---
-title: Eurodöner
-url: "/lemfoerde/eurodoener/"
+title: "Eurodöner"
+url: /lemfoerde/eurodoener/
 ---

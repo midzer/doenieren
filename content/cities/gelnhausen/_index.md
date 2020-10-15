@@ -1,4 +1,4 @@
 ---
 title: Gelnhausen
-url: "/gelnhausen/"
+url: /gelnhausen/
 ---

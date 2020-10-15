@@ -1,9 +1,9 @@
 id: 1549527272
 latitude: 51.0435585
 longitude: 13.7027414
-postcode: 01159
+postcode: "01159"
 city: Dresden
-street: Kesselsdorfer Straße
+street: "Kesselsdorfer Straße"
 housenumber: 1
 phone: "+493514276602"
 opening_hours: "Su-Th 10:00-02:00; Fr-Sa 10:00-05:00"

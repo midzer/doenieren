@@ -1,4 +1,4 @@
 ---
-title: Anjali
-url: "/dresden/anjali/"
+title: "Anjali"
+url: /dresden/anjali/
 ---

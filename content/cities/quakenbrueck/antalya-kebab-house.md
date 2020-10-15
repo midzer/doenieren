@@ -1,4 +1,4 @@
 ---
-title: Antalya Kebab House
-url: "/quakenbrueck/antalya-kebab-house/"
+title: "Antalya Kebab House"
+url: /quakenbrueck/antalya-kebab-house/
 ---

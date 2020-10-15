@@ -1,9 +1,9 @@
 id: 6612617869
 latitude: 51.0135385
 longitude: 13.6638259
-postcode: 01705
+postcode: "01705"
 city: Freital
-street: Dresdner Straße
+street: "Dresdner Straße"
 housenumber: 53
 phone: "+49 1516 417690"
 opening_hours: "Mo-Th 11:00-21:00; Fr 11:00-13:00,15:00-21:00; Sa 12:00-21:00"

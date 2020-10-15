@@ -1,9 +1,9 @@
 id: 5772194894
 latitude: 51.515663200000006
 longitude: 7.4665974
-postcode: 44135
+postcode: "44135"
 city: Dortmund
-street: Brückstraße
+street: "Brückstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -1,9 +1,9 @@
 id: 4020308467
 latitude: 48.9991015
 longitude: 8.8086844
-postcode: 75433
+postcode: "75433"
 city: Maulbronn
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00 So 10:00-21:00"

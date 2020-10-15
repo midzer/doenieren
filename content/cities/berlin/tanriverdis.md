@@ -1,4 +1,4 @@
 ---
-title: Tanriverdi's
-url: "/berlin/tanriverdis/"
+title: "Tanriverdi's"
+url: /berlin/tanriverdis/
 ---

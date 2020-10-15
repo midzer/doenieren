@@ -1,9 +1,9 @@
 id: 5892969552
 latitude: 47.875114200000006
 longitude: 7.653935700000001
-postcode: 79423
+postcode: "79423"
 city: Heitersheim
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Su 10:00-23:00"

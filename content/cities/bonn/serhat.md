@@ -1,4 +1,4 @@
 ---
-title: Serhat
-url: "/bonn/serhat/"
+title: "Serhat"
+url: /bonn/serhat/
 ---

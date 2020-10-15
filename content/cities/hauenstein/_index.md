@@ -1,4 +1,4 @@
 ---
 title: Hauenstein
-url: "/hauenstein/"
+url: /hauenstein/
 ---

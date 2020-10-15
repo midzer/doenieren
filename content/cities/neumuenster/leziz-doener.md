@@ -1,4 +1,4 @@
 ---
-title: Leziz-Döner
-url: "/neumuenster/leziz-doener/"
+title: "Leziz-Döner"
+url: /neumuenster/leziz-doener/
 ---

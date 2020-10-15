@@ -1,9 +1,9 @@
 id: 2967985374
 latitude: 48.0905823
 longitude: 8.553597700000001
-postcode: 78083
+postcode: "78083"
 city: Dauchingen
-street: Vordere Straße
+street: "Vordere Straße"
 housenumber: 19
 phone: "+49 7720 3049050"
 opening_hours: ""

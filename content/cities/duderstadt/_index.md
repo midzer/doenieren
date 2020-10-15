@@ -1,4 +1,4 @@
 ---
 title: Duderstadt
-url: "/duderstadt/"
+url: /duderstadt/
 ---

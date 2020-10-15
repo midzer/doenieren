@@ -1,4 +1,4 @@
 ---
-title: Tayba Bistro
-url: "/heilbronn/tayba-bistro/"
+title: "Tayba Bistro"
+url: /heilbronn/tayba-bistro/
 ---

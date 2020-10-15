@@ -1,4 +1,4 @@
 ---
-title: bonjour Kumpir
-url: "/hamburg/bonjour-kumpir/"
+title: "bonjour Kumpir"
+url: /hamburg/bonjour-kumpir/
 ---

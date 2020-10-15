@@ -1,4 +1,4 @@
 ---
 title: Stutensee
-url: "/stutensee/"
+url: /stutensee/
 ---

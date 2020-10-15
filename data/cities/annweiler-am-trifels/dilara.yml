@@ -1,9 +1,9 @@
 id: 3312242004
 latitude: 49.2029677
 longitude: 7.9658240000000005
-postcode: 76855
+postcode: "76855"
 city: Annweiler am Trifels
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 63
 phone: ""
 opening_hours: "Mo-Th 11:00-23:00; Fr, Sa 11:00-24:00; Su, PH 12:00-22:00"

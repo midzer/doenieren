@@ -1,4 +1,4 @@
 ---
 title: Lichtenstein/Sa.
-url: "/lichtenstein-sa/"
+url: /lichtenstein-sa/
 ---

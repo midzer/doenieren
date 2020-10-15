@@ -1,4 +1,4 @@
 ---
 title: Marquartstein
-url: "/marquartstein/"
+url: /marquartstein/
 ---

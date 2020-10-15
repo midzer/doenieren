@@ -1,4 +1,4 @@
 ---
 title: Chemnitz
-url: "/chemnitz/"
+url: /chemnitz/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mauritius
-url: "/dresden/mauritius/"
+title: "Mauritius"
+url: /dresden/mauritius/
 ---

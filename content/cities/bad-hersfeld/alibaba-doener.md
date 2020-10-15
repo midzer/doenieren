@@ -1,4 +1,4 @@
 ---
-title: Alibaba Döner
-url: "/bad-hersfeld/alibaba-doener/"
+title: "Alibaba Döner"
+url: /bad-hersfeld/alibaba-doener/
 ---

@@ -1,9 +1,9 @@
 id: 4567468014
 latitude: 49.5064526
 longitude: 6.526394300000001
-postcode: 66693
+postcode: "66693"
 city: Mettlach
-street: Schmiedewäldchen
+street: "Schmiedewäldchen"
 housenumber: 23
 phone: "+49 6865 2040531"
 opening_hours: "Tu-Su 11:00-23:00"

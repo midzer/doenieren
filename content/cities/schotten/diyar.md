@@ -1,4 +1,4 @@
 ---
-title: Diyar
-url: "/schotten/diyar/"
+title: "Diyar"
+url: /schotten/diyar/
 ---

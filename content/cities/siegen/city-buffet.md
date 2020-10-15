@@ -1,4 +1,4 @@
 ---
-title: City Buffet
-url: "/siegen/city-buffet/"
+title: "City Buffet"
+url: /siegen/city-buffet/
 ---

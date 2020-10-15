@@ -1,9 +1,9 @@
 id: 3906894577
 latitude: 52.5122324
 longitude: 13.4520754
-postcode: 10243
+postcode: "10243"
 city: Berlin
-street: Warschauer Straße
+street: "Warschauer Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

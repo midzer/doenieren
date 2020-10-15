@@ -1,9 +1,9 @@
 id: 1149270914
 latitude: 52.5017293
 longitude: 13.417319500000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
-street: Oranienstraße
+street: "Oranienstraße"
 housenumber: 168
 phone: ""
 opening_hours: ""

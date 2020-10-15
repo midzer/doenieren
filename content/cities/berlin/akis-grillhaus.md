@@ -1,4 +1,4 @@
 ---
-title: Akis Grillhaus
-url: "/berlin/akis-grillhaus/"
+title: "Akis Grillhaus"
+url: /berlin/akis-grillhaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Castello Grill
-url: "/kassel/castello-grill/"
+title: "Castello Grill"
+url: /kassel/castello-grill/
 ---

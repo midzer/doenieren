@@ -1,4 +1,4 @@
 ---
-title: Döner am Rathaus
-url: "/hann-muenden/doener-am-rathaus/"
+title: "Döner am Rathaus"
+url: /hann-muenden/doener-am-rathaus/
 ---

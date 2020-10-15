@@ -1,4 +1,4 @@
 ---
-title: Alibaba
-url: "/jena/alibaba/"
+title: "Alibaba"
+url: /jena/alibaba/
 ---

@@ -1,9 +1,9 @@
 id: 1453673976
 latitude: 50.8174185
 longitude: 12.9293241
-postcode: 09126
+postcode: "09126"
 city: Chemnitz
-street: Reichenhainer Straße
+street: "Reichenhainer Straße"
 housenumber: 62
 phone: "+49 371 700 61 58"
 opening_hours: "Mo-Sa 10:00-23:00; Su 16:00-23:00"

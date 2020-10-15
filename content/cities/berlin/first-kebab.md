@@ -1,4 +1,4 @@
 ---
-title: First Kebab
-url: "/berlin/first-kebab/"
+title: "First Kebab"
+url: /berlin/first-kebab/
 ---

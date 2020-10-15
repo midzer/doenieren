@@ -1,4 +1,4 @@
 ---
-title: Hüso Kebap Haus
-url: "/bensheim/hueso-kebap-haus/"
+title: "Hüso Kebap Haus"
+url: /bensheim/hueso-kebap-haus/
 ---

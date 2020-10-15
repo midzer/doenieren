@@ -1,4 +1,4 @@
 ---
 title: Lorsch
-url: "/lorsch/"
+url: /lorsch/
 ---

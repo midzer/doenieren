@@ -1,9 +1,9 @@
 id: 1229519348
 latitude: 52.4152526
 longitude: 9.7820145
-postcode: 30657
+postcode: "30657"
 city: Hannover
-street: Kugelfangtrift
+street: "Kugelfangtrift"
 housenumber: 128
 phone: ""
 opening_hours: "Mo-Su 11:00-23:00"

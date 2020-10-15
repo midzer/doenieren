@@ -1,4 +1,4 @@
 ---
-title: Balli Restaurant
-url: "/berlin/balli-restaurant/"
+title: "Balli Restaurant"
+url: /berlin/balli-restaurant/
 ---

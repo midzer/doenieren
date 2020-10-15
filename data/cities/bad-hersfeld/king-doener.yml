@@ -1,9 +1,9 @@
 id: 1398504796
 latitude: 50.8685209
 longitude: 9.711535000000001
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
-street: Dudenstraße
+street: "Dudenstraße"
 housenumber: 8a
 phone: "+49 6621 78852"
 opening_hours: "Mo-Sa 10:30-23:30; Su 12:00-23:30"

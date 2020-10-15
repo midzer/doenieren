@@ -1,0 +1,4 @@
+---
+title: Füssen
+url: /fuessen/
+---

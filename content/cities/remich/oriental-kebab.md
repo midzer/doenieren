@@ -1,4 +1,4 @@
 ---
-title: Oriental Kebab
-url: "/remich/oriental-kebab/"
+title: "Oriental Kebab"
+url: /remich/oriental-kebab/
 ---

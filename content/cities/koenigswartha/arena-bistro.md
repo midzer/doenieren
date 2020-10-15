@@ -1,4 +1,4 @@
 ---
-title: Arena Bistro
-url: "/koenigswartha/arena-bistro/"
+title: "Arena Bistro"
+url: /koenigswartha/arena-bistro/
 ---

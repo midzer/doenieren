@@ -1,4 +1,4 @@
 ---
-title: Grünes Wasser
-url: "/berlin/gruenes-wasser/"
+title: "Grünes Wasser"
+url: /berlin/gruenes-wasser/
 ---

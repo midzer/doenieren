@@ -1,4 +1,4 @@
 ---
-title: Meshegur Inegöl Köfteci
-url: "/berlin/meshegur-inegoel-koefteci/"
+title: "Meshegur Inegöl Köfteci"
+url: /berlin/meshegur-inegoel-koefteci/
 ---

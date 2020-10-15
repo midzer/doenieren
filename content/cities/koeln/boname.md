@@ -1,4 +1,4 @@
 ---
-title: Bona'me
-url: "/koeln/boname/"
+title: "Bona'me"
+url: /koeln/boname/
 ---

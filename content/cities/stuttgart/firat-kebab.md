@@ -1,4 +1,4 @@
 ---
-title: Firat Kebab
-url: "/stuttgart/firat-kebab/"
+title: "Firat Kebab"
+url: /stuttgart/firat-kebab/
 ---

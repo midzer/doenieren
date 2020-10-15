@@ -1,0 +1,4 @@
+---
+title: Bergen
+url: /bergen/
+---

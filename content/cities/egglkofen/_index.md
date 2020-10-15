@@ -1,0 +1,4 @@
+---
+title: Egglkofen
+url: /egglkofen/
+---

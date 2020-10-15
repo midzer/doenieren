@@ -1,4 +1,4 @@
 ---
-title: Marmara Imbiss
-url: "/ilsede/marmara-imbiss/"
+title: "Marmara Imbiss"
+url: /ilsede/marmara-imbiss/
 ---

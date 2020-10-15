@@ -1,4 +1,4 @@
 ---
-title: Lezz‘ET
-url: "/kassel/lezz-et/"
+title: "Lezz‘ET"
+url: /kassel/lezz-et/
 ---

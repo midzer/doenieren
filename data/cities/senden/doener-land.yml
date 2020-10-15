@@ -1,9 +1,9 @@
 id: 1477944748
 latitude: 51.8576702
 longitude: 7.485733400000001
-postcode: 48308
+postcode: "48308"
 city: Senden
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

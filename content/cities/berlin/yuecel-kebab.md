@@ -1,4 +1,4 @@
 ---
-title: Yücel Kebab
-url: "/berlin/yuecel-kebab/"
+title: "Yücel Kebab"
+url: /berlin/yuecel-kebab/
 ---

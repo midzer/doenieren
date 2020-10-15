@@ -1,4 +1,4 @@
 ---
-title: Babylon-Grill
-url: "/baunatal/babylon-grill/"
+title: "Babylon-Grill"
+url: /baunatal/babylon-grill/
 ---

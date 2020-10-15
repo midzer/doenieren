@@ -1,4 +1,4 @@
 ---
-title: Café Trotzdem
-url: "/moenchengladbach/cafe-trotzdem/"
+title: "Café Trotzdem"
+url: /moenchengladbach/cafe-trotzdem/
 ---

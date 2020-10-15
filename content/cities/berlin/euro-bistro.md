@@ -1,4 +1,4 @@
 ---
-title: Euro Bistro
-url: "/berlin/euro-bistro/"
+title: "Euro Bistro"
+url: /berlin/euro-bistro/
 ---

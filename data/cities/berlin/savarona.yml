@@ -1,9 +1,9 @@
 id: 1866365541
 latitude: 52.525423800000006
 longitude: 13.3413575
-postcode: 10555
+postcode: "10555"
 city: Berlin
-street: Alt-Moabit
+street: "Alt-Moabit"
 housenumber: 86
 phone: ""
 opening_hours: ""

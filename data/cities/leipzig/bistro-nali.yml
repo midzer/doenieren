@@ -1,9 +1,9 @@
 id: 1628349227
 latitude: 51.3618455
 longitude: 12.3899564
-postcode: 04129
+postcode: "04129"
 city: Leipzig
-street: Anhalter Straße
+street: "Anhalter Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-21:00"

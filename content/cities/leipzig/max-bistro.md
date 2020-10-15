@@ -1,4 +1,4 @@
 ---
-title: Max Bistro
-url: "/leipzig/max-bistro/"
+title: "Max Bistro"
+url: /leipzig/max-bistro/
 ---

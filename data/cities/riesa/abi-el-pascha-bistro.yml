@@ -1,9 +1,9 @@
 id: 2208603184
 latitude: 51.3016647
 longitude: 13.263242900000002
-postcode: 01587
+postcode: "01587"
 city: Riesa
-street: Zwickauer Straße
+street: "Zwickauer Straße"
 housenumber: 5
 phone: "+49 3525 514841"
 opening_hours: "Mo-Sa 10:00-21:00"

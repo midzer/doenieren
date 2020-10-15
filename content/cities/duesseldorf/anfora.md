@@ -1,4 +1,4 @@
 ---
-title: Anfora
-url: "/duesseldorf/anfora/"
+title: "Anfora"
+url: /duesseldorf/anfora/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Höchst im Odenwald
-url: "/hoechst-im-odenwald/"
+url: /hoechst-im-odenwald/
 ---

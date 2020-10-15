@@ -1,4 +1,4 @@
 ---
-title: Döner Kebab
-url: "/karben/doener-kebab/"
+title: "Döner Kebab"
+url: /karben/doener-kebab/
 ---

@@ -1,9 +1,9 @@
 id: 893466725
 latitude: 51.0636717
 longitude: 13.8225344
-postcode: 01324
+postcode: "01324"
 city: Dresden
-street: Bautzner Landstraße
+street: "Bautzner Landstraße"
 housenumber: 11
 phone: "+49 351 2656346"
 opening_hours: ""

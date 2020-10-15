@@ -1,4 +1,4 @@
 ---
-title: Orienttraum
-url: "/deggendorf/orienttraum/"
+title: "Orienttraum"
+url: /deggendorf/orienttraum/
 ---

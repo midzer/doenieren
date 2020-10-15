@@ -1,4 +1,4 @@
 ---
 title: Lauda-Königshofen
-url: "/lauda-koenigshofen/"
+url: /lauda-koenigshofen/
 ---

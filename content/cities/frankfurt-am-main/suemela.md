@@ -1,4 +1,4 @@
 ---
-title: Sümela
-url: "/frankfurt-am-main/suemela/"
+title: "Sümela"
+url: /frankfurt-am-main/suemela/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Hanedan
-url: "/augsburg/hanedan/"
+title: "Hanedan"
+url: /augsburg/hanedan/
 ---

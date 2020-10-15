@@ -1,4 +1,4 @@
 ---
-title: Istanbul Restaurant
-url: "/ingelheim-am-rhein/istanbul-restaurant/"
+title: "Istanbul Restaurant"
+url: /ingelheim-am-rhein/istanbul-restaurant/
 ---

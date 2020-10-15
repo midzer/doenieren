@@ -1,4 +1,4 @@
 ---
-title: YA Döner
-url: "/neuss/ya-doener/"
+title: "YA Döner"
+url: /neuss/ya-doener/
 ---

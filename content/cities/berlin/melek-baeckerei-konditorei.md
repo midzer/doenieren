@@ -1,4 +1,4 @@
 ---
-title: Melek Bäckerei Konditorei
-url: "/berlin/melek-baeckerei-konditorei/"
+title: "Melek Bäckerei Konditorei"
+url: /berlin/melek-baeckerei-konditorei/
 ---

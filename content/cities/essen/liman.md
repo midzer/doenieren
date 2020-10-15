@@ -1,4 +1,4 @@
 ---
-title: Liman
-url: "/essen/liman/"
+title: "Liman"
+url: /essen/liman/
 ---

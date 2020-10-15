@@ -1,4 +1,4 @@
 ---
 title: Markranstädt
-url: "/markranstaedt/"
+url: /markranstaedt/
 ---

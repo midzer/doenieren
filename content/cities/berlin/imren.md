@@ -1,4 +1,4 @@
 ---
-title: Imren
-url: "/berlin/imren/"
+title: "Imren"
+url: /berlin/imren/
 ---

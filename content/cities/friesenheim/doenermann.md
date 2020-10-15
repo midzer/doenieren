@@ -1,4 +1,4 @@
 ---
-title: Dönermann
-url: "/friesenheim/doenermann/"
+title: "Dönermann"
+url: /friesenheim/doenermann/
 ---

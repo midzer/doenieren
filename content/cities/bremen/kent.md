@@ -1,4 +1,4 @@
 ---
-title: Kent
-url: "/bremen/kent/"
+title: "Kent"
+url: /bremen/kent/
 ---

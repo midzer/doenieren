@@ -1,4 +1,4 @@
 ---
-title: Key West Kebaphaus
-url: "/velbert/key-west-kebaphaus/"
+title: "Key West Kebaphaus"
+url: /velbert/key-west-kebaphaus/
 ---

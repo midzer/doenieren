@@ -1,4 +1,4 @@
 ---
-title: Idol Döner
-url: "/hamburg/idol-doener/"
+title: "Idol Döner"
+url: /hamburg/idol-doener/
 ---

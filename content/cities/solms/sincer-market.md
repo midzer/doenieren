@@ -1,4 +1,4 @@
 ---
-title: Sincer Market
-url: "/solms/sincer-market/"
+title: "Sincer Market"
+url: /solms/sincer-market/
 ---

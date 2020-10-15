@@ -1,9 +1,9 @@
 id: 3562471777
 latitude: 51.2203755
 longitude: 7.641361900000001
-postcode: 58511
+postcode: "58511"
 city: Lüdenscheid
-street: Werdohler Straße
+street: "Werdohler Straße"
 housenumber: 84
 phone: ""
 opening_hours: "Mo-Su 11:00-22:00"

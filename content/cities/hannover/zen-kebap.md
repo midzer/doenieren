@@ -1,4 +1,4 @@
 ---
-title: Zen Kebap
-url: "/hannover/zen-kebap/"
+title: "Zen Kebap"
+url: /hannover/zen-kebap/
 ---

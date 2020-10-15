@@ -1,4 +1,4 @@
 ---
-title: Mäc Döner (Suppenverkauf)
-url: "/luedenscheid/maec-doener-suppenverkauf/"
+title: "Mäc Döner (Suppenverkauf)"
+url: /luedenscheid/maec-doener-suppenverkauf/
 ---

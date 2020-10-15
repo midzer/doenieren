@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus Bosporus
-url: "/zwickau/doenerhaus-bosporus/"
+title: "Dönerhaus Bosporus"
+url: /zwickau/doenerhaus-bosporus/
 ---

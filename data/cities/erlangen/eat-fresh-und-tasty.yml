@@ -1,9 +1,9 @@
 id: 571429838
 latitude: 49.59725460000001
 longitude: 11.0105851
-postcode: 91054
+postcode: "91054"
 city: Erlangen
-street: Krankenhausstraße
+street: "Krankenhausstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:30-21:00; Sa 11:30-20:00; PH off"

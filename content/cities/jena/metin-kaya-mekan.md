@@ -1,4 +1,4 @@
 ---
-title: Metin Kaya MEKAN
-url: "/jena/metin-kaya-mekan/"
+title: "Metin Kaya MEKAN"
+url: /jena/metin-kaya-mekan/
 ---

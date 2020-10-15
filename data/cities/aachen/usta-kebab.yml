@@ -1,9 +1,9 @@
 id: 6840255684
 latitude: 50.7733104
 longitude: 6.0766062000000005
-postcode: 52064
+postcode: "52064"
 city: Aachen
-street: Karlsgraben
+street: "Karlsgraben"
 housenumber: 10
 phone: "+49 177 5011172"
 opening_hours: "Su-Th 10:00-22:00; Fr-Sa 10:00-01:00"

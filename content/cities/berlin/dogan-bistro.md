@@ -1,4 +1,4 @@
 ---
-title: Doğan Bistro
-url: "/berlin/dogan-bistro/"
+title: "Doğan Bistro"
+url: /berlin/dogan-bistro/
 ---

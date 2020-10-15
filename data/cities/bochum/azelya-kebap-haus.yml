@@ -1,9 +1,9 @@
 id: 1029922053
 latitude: 51.4722999
 longitude: 7.2492584
-postcode: 44803
+postcode: "44803"
 city: Bochum
-street: Wittener Straße
+street: "Wittener Straße"
 housenumber: 251
 phone: "+49 234 58731797"
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-22:00"

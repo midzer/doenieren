@@ -1,9 +1,9 @@
 id: 1262070367
 latitude: 50.398230700000006
 longitude: 7.6157827000000005
-postcode: 56179
+postcode: "56179"
 city: Vallendar
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 4
 phone: "+49 261 96387655"
 opening_hours: "Mo-Su 11:00-22:30"

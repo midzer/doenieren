@@ -1,4 +1,4 @@
 ---
 title: Göttingen
-url: "/goettingen/"
+url: /goettingen/
 ---

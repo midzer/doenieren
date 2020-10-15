@@ -1,4 +1,4 @@
 ---
-title: Rössledöner
-url: "/ostfildern/roessledoener/"
+title: "Rössledöner"
+url: /ostfildern/roessledoener/
 ---

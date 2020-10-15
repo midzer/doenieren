@@ -1,4 +1,4 @@
 ---
 title: Fürstenwalde/Spree
-url: "/fuerstenwalde-spree/"
+url: /fuerstenwalde-spree/
 ---

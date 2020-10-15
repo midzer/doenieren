@@ -1,4 +1,4 @@
 ---
-title: Barbarossa Grill
-url: "/berlin/barbarossa-grill/"
+title: "Barbarossa Grill"
+url: /berlin/barbarossa-grill/
 ---

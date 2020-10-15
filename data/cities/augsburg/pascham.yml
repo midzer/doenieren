@@ -1,9 +1,9 @@
 id: 880227792
 latitude: 48.381612100000005
 longitude: 10.8741655
-postcode: 86154
+postcode: "86154"
 city: Augsburg
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 44
 phone: "+49 821 241 39 79"
 opening_hours: "Mo-Fr 10:00-23:00, Sa,Su,PH 11:00-22:00"

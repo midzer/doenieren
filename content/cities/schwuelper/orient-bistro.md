@@ -1,4 +1,4 @@
 ---
-title: Orient Bistro
-url: "/schwuelper/orient-bistro/"
+title: "Orient Bistro"
+url: /schwuelper/orient-bistro/
 ---

@@ -1,9 +1,9 @@
 id: 2875570929
 latitude: 52.536506800000005
 longitude: 13.2045875
-postcode: 13597
+postcode: "13597"
 city: Berlin
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

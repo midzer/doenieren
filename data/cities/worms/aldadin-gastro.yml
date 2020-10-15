@@ -1,9 +1,9 @@
 id: 5932018802
 latitude: 49.6401874
 longitude: 8.333932800000001
-postcode: 67549
+postcode: "67549"
 city: Worms
-street: Binger Straße
+street: "Binger Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo: closed, Tu-Sa 12:00-22:00, Su: 16:00-22:00"

@@ -1,4 +1,4 @@
 ---
 title: Kupferzell
-url: "/kupferzell/"
+url: /kupferzell/
 ---

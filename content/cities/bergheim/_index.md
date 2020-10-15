@@ -1,4 +1,4 @@
 ---
 title: Bergheim
-url: "/bergheim/"
+url: /bergheim/
 ---

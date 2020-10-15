@@ -1,4 +1,4 @@
 ---
-title: Bistro Legende
-url: "/berlin/bistro-legende/"
+title: "Bistro Legende"
+url: /berlin/bistro-legende/
 ---

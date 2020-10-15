@@ -1,4 +1,4 @@
 ---
-title: Aslan Kebab Haus
-url: "/stuttgart/aslan-kebab-haus/"
+title: "Aslan Kebab Haus"
+url: /stuttgart/aslan-kebab-haus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Prima Döner
-url: "/krefeld/prima-doener/"
+title: "Prima Döner"
+url: /krefeld/prima-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kartoffel Döner
-url: "/berlin/kartoffel-doener/"
+title: "Kartoffel Döner"
+url: /berlin/kartoffel-doener/
 ---

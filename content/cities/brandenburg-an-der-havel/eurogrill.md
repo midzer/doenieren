@@ -1,4 +1,4 @@
 ---
-title: EuroGrill
-url: "/brandenburg-an-der-havel/eurogrill/"
+title: "EuroGrill"
+url: /brandenburg-an-der-havel/eurogrill/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Altlußheim
-url: "/altlussheim/"
+url: /altlussheim/
 ---

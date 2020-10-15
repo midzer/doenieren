@@ -1,9 +1,9 @@
 id: 3157064310
 latitude: 52.506582400000006
 longitude: 13.3900494
-postcode: 10969
+postcode: "10969"
 city: Berlin
-street: Kochstraße
+street: "Kochstraße"
 housenumber: 14
 phone: ""
 opening_hours: "00:00-24:00"

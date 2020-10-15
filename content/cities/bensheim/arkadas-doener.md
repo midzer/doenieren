@@ -1,4 +1,4 @@
 ---
-title: Arkadas Döner
-url: "/bensheim/arkadas-doener/"
+title: "Arkadas Döner"
+url: /bensheim/arkadas-doener/
 ---

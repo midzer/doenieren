@@ -1,9 +1,9 @@
 id: 970888787
 latitude: 50.904701
 longitude: 13.338221500000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
-street: Brander Straße
+street: "Brander Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; PH 11:30-22:00"

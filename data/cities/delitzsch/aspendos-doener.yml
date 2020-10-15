@@ -1,9 +1,9 @@
 id: 3315677093
 latitude: 51.5222503
 longitude: 12.3405793
-postcode: 04509
+postcode: "04509"
 city: Delitzsch
-street: Loberstraße
+street: "Loberstraße"
 housenumber: 9
 phone: "+49 1522 9395242"
 opening_hours: ""

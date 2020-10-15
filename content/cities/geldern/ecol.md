@@ -1,4 +1,4 @@
 ---
-title: ecol
-url: "/geldern/ecol/"
+title: "ecol"
+url: /geldern/ecol/
 ---

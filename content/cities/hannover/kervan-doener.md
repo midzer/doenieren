@@ -1,4 +1,4 @@
 ---
-title: Kervan Döner
-url: "/hannover/kervan-doener/"
+title: "Kervan Döner"
+url: /hannover/kervan-doener/
 ---

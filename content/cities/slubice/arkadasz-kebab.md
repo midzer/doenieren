@@ -1,4 +1,4 @@
 ---
-title: Arkadasz Kebab
-url: "/slubice/arkadasz-kebab/"
+title: "Arkadasz Kebab"
+url: /slubice/arkadasz-kebab/
 ---

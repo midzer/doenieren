@@ -1,9 +1,9 @@
 id: 4004777710
 latitude: 50.1164475
 longitude: 8.685097200000001
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
-street: Schäfergasse
+street: "Schäfergasse"
 housenumber: 40
 phone: ""
 opening_hours: ""

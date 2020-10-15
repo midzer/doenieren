@@ -1,9 +1,9 @@
 id: 873676400
 latitude: 54.346599700000006
 longitude: 10.132711
-postcode: 24106
+postcode: "24106"
 city: Kiel
-street: Holtenauer Straße
+street: "Holtenauer Straße"
 housenumber: 203
 phone: ""
 opening_hours: "Mo-Su 11:00-23:00"

@@ -1,4 +1,4 @@
 ---
-title: Döner Pavillion
-url: "/hamburg/doener-pavillion/"
+title: "Döner Pavillion"
+url: /hamburg/doener-pavillion/
 ---

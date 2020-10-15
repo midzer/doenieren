@@ -1,4 +1,4 @@
 ---
-title: Günay Döner
-url: "/wesel/guenay-doener/"
+title: "Günay Döner"
+url: /wesel/guenay-doener/
 ---

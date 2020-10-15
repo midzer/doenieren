@@ -1,4 +1,4 @@
 ---
-title: Sahin Kebaphaus
-url: "/erzhausen/sahin-kebaphaus/"
+title: "Sahin Kebaphaus"
+url: /erzhausen/sahin-kebaphaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Haydo
-url: "/seelze/haydo/"
+title: "Haydo"
+url: /seelze/haydo/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Al Hay
-url: "/oldenburg/al-hay/"
+title: "Al Hay"
+url: /oldenburg/al-hay/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bühl
-url: "/buehl/"
+url: /buehl/
 ---

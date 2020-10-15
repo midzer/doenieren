@@ -1,4 +1,4 @@
 ---
 title: Schlangen
-url: "/schlangen/"
+url: /schlangen/
 ---

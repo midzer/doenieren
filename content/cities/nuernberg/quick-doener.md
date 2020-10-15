@@ -1,4 +1,4 @@
 ---
-title: Quick Döner
-url: "/nuernberg/quick-doener/"
+title: "Quick Döner"
+url: /nuernberg/quick-doener/
 ---

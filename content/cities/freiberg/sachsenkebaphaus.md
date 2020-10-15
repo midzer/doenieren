@@ -1,4 +1,4 @@
 ---
-title: Sachsenkebaphaus
-url: "/freiberg/sachsenkebaphaus/"
+title: "Sachsenkebaphaus"
+url: /freiberg/sachsenkebaphaus/
 ---

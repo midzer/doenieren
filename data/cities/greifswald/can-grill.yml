@@ -1,9 +1,9 @@
 id: 4545974744
 latitude: 54.075356000000006
 longitude: 13.407326300000001
-postcode: 17491
+postcode: "17491"
 city: Greifswald
-street: Sandfuhr
+street: "Sandfuhr"
 housenumber: 1a
 phone: "+49 3834 854298"
 opening_hours: "Mo-Sa 10:00-21:00; PH off"

@@ -1,4 +1,4 @@
 ---
 title: Schemmerhofen
-url: "/schemmerhofen/"
+url: /schemmerhofen/
 ---

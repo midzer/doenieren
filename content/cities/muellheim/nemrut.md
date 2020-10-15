@@ -1,4 +1,4 @@
 ---
-title: Nemrut
-url: "/muellheim/nemrut/"
+title: "Nemrut"
+url: /muellheim/nemrut/
 ---

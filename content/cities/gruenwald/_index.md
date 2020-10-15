@@ -1,0 +1,4 @@
+---
+title: Grünwald
+url: /gruenwald/
+---

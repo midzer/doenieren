@@ -1,4 +1,4 @@
 ---
 title: Wildau
-url: "/wildau/"
+url: /wildau/
 ---

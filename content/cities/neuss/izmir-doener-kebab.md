@@ -1,4 +1,4 @@
 ---
-title: Izmir Döner Kebab
-url: "/neuss/izmir-doener-kebab/"
+title: "Izmir Döner Kebab"
+url: /neuss/izmir-doener-kebab/
 ---

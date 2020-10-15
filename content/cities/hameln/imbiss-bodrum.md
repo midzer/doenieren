@@ -1,4 +1,4 @@
 ---
-title: Imbiss Bodrum
-url: "/hameln/imbiss-bodrum/"
+title: "Imbiss Bodrum"
+url: /hameln/imbiss-bodrum/
 ---

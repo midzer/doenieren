@@ -1,9 +1,9 @@
 id: 4993040075
 latitude: 49.2275755
 longitude: 7.035710600000001
-postcode: 66121
+postcode: "66121"
 city: Saarbrücken
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 1a
 phone: "+49 681 93585594"
 opening_hours: "Mo-Sa 10:00-20:00"

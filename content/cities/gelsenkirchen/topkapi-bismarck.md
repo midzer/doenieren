@@ -1,4 +1,4 @@
 ---
-title: Topkapi Bismarck
-url: "/gelsenkirchen/topkapi-bismarck/"
+title: "Topkapi Bismarck"
+url: /gelsenkirchen/topkapi-bismarck/
 ---

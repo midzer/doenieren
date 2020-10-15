@@ -1,4 +1,4 @@
 ---
-title: Cem Grill
-url: "/berlin/cem-grill/"
+title: "Cem Grill"
+url: /berlin/cem-grill/
 ---

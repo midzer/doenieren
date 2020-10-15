@@ -1,4 +1,4 @@
 ---
-title: Cakir Döner - Imbiss
-url: "/marktheidenfeld/cakir-doener-imbiss/"
+title: "Cakir Döner - Imbiss"
+url: /marktheidenfeld/cakir-doener-imbiss/
 ---

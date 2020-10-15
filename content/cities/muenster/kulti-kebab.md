@@ -1,4 +1,4 @@
 ---
-title: Kulti Kebab
-url: "/muenster/kulti-kebab/"
+title: "Kulti Kebab"
+url: /muenster/kulti-kebab/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Cigköftem
-url: "/augsburg/cigkoeftem/"
+title: "Cigköftem"
+url: /augsburg/cigkoeftem/
 ---

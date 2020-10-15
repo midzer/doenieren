@@ -1,4 +1,4 @@
 ---
-title: Meister Döner
-url: "/muenchen/meister-doener/"
+title: "Meister Döner"
+url: /muenchen/meister-doener/
 ---

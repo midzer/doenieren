@@ -1,9 +1,9 @@
 id: 2325520006
 latitude: 51.4691805
 longitude: 7.368886300000001
-postcode: 58454
+postcode: "58454"
 city: Witten
-street: Hörder Straße
+street: "Hörder Straße"
 housenumber: 330
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; Su,PH 12:00-22:00"

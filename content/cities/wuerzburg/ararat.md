@@ -1,4 +1,4 @@
 ---
-title: Ararat
-url: "/wuerzburg/ararat/"
+title: "Ararat"
+url: /wuerzburg/ararat/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Aksu Grill
-url: "/wuppertal/aksu-grill/"
+title: "Aksu Grill"
+url: /wuppertal/aksu-grill/
 ---

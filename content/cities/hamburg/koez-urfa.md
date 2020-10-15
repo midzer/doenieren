@@ -1,4 +1,4 @@
 ---
-title: Köz Urfa
-url: "/hamburg/koez-urfa/"
+title: "Köz Urfa"
+url: /hamburg/koez-urfa/
 ---

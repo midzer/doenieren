@@ -1,4 +1,4 @@
 ---
-title: Arena Grill
-url: "/koeln/arena-grill/"
+title: "Arena Grill"
+url: /koeln/arena-grill/
 ---

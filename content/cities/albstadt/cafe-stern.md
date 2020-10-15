@@ -1,4 +1,4 @@
 ---
-title: Cafe Stern
-url: "/albstadt/cafe-stern/"
+title: "Cafe Stern"
+url: /albstadt/cafe-stern/
 ---

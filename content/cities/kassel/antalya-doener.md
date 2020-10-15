@@ -1,4 +1,4 @@
 ---
-title: Antalya Döner
-url: "/kassel/antalya-doener/"
+title: "Antalya Döner"
+url: /kassel/antalya-doener/
 ---

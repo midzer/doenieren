@@ -1,9 +1,9 @@
 id: 498114715
 latitude: 50.929230600000004
 longitude: 11.585949600000001
-postcode: 07743
+postcode: "07743"
 city: Jena
-street: Johannisstraße
+street: "Johannisstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-We 11:00-02:00, Th-Sa 11:00-03:00, Su,PH 15:00-22:00"

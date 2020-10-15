@@ -1,4 +1,4 @@
 ---
 title: Wendelstein
-url: "/wendelstein/"
+url: /wendelstein/
 ---

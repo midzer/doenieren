@@ -1,4 +1,4 @@
 ---
-title: Rot Kebap Haus
-url: "/stuttgart/rot-kebap-haus/"
+title: "Rot Kebap Haus"
+url: /stuttgart/rot-kebap-haus/
 ---

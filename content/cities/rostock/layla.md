@@ -1,4 +1,4 @@
 ---
-title: Layla
-url: "/rostock/layla/"
+title: "Layla"
+url: /rostock/layla/
 ---

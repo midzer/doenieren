@@ -1,4 +1,4 @@
 ---
-title: Deniz Kebap
-url: "/solms/deniz-kebap/"
+title: "Deniz Kebap"
+url: /solms/deniz-kebap/
 ---

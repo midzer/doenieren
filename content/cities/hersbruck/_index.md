@@ -1,4 +1,4 @@
 ---
 title: Hersbruck
-url: "/hersbruck/"
+url: /hersbruck/
 ---

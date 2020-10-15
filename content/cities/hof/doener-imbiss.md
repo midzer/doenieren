@@ -1,4 +1,4 @@
 ---
-title: Döner Imbiss
-url: "/hof/doener-imbiss/"
+title: "Döner Imbiss"
+url: /hof/doener-imbiss/
 ---

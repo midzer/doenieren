@@ -1,4 +1,4 @@
 ---
-title: Euphrat
-url: "/wiefelstede/euphrat/"
+title: "Euphrat"
+url: /wiefelstede/euphrat/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Saray Grill
-url: "/neubrandenburg/saray-grill/"
+title: "Saray Grill"
+url: /neubrandenburg/saray-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Amigos - Dönerladen
-url: "/buehl/amigos-doenerladen/"
+title: "Amigos - Dönerladen"
+url: /buehl/amigos-doenerladen/
 ---

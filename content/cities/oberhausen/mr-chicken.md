@@ -1,4 +1,4 @@
 ---
-title: Mr. Chicken
-url: "/oberhausen/mr-chicken/"
+title: "Mr. Chicken"
+url: /oberhausen/mr-chicken/
 ---

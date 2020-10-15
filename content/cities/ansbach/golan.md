@@ -1,4 +1,4 @@
 ---
-title: Golan
-url: "/ansbach/golan/"
+title: "Golan"
+url: /ansbach/golan/
 ---

@@ -1,4 +1,4 @@
 ---
-title: King Dönr Pizzahaus
-url: "/goeppingen/king-doenr-pizzahaus/"
+title: "King Dönr Pizzahaus"
+url: /goeppingen/king-doenr-pizzahaus/
 ---

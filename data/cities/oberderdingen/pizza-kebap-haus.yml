@@ -1,9 +1,9 @@
 id: 2194300771
 latitude: 49.0634881
 longitude: 8.801061500000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
-street: Flehinger Straße
+street: "Flehinger Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 10:00-24:00; Su 12:00-23:00"

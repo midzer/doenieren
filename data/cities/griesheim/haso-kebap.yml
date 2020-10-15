@@ -1,9 +1,9 @@
 id: 315366426
 latitude: 49.860618300000006
 longitude: 8.5661509
-postcode: 64347
+postcode: "64347"
 city: Griesheim
-street: Wolfsweg
+street: "Wolfsweg"
 housenumber: 2a
 phone: "+49-6155-77134"
 opening_hours: "Mo-Su 10:00-23:00"

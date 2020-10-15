@@ -1,4 +1,4 @@
 ---
-title: Sofra Restaurant
-url: "/wuppertal/sofra-restaurant/"
+title: "Sofra Restaurant"
+url: /wuppertal/sofra-restaurant/
 ---

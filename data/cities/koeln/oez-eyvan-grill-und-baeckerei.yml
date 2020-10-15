@@ -1,9 +1,9 @@
 id: 1024995662
 latitude: 50.940719
 longitude: 7.010594
-postcode: 51103
+postcode: "51103"
 city: Köln
-street: Eythstraße
+street: "Eythstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

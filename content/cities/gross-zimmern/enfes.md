@@ -1,4 +1,4 @@
 ---
-title: Enfes
-url: "/gross-zimmern/enfes/"
+title: "Enfes"
+url: /gross-zimmern/enfes/
 ---

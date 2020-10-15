@@ -1,0 +1,4 @@
+---
+title: Mendrisio
+url: /mendrisio/
+---

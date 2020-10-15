@@ -1,4 +1,4 @@
 ---
-title: Deniz Grill Döner
-url: "/luckenwalde/deniz-grill-doener/"
+title: "Deniz Grill Döner"
+url: /luckenwalde/deniz-grill-doener/
 ---

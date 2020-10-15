@@ -1,4 +1,4 @@
 ---
-title: Kebap Haus Azad
-url: "/neukirch-lausitz/kebap-haus-azad/"
+title: "Kebap Haus Azad"
+url: /neukirch-lausitz/kebap-haus-azad/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Dalyan Grill
-url: "/boppard/dalyan-grill/"
+title: "Dalyan Grill"
+url: /boppard/dalyan-grill/
 ---

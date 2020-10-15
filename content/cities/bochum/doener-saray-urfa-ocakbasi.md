@@ -1,4 +1,4 @@
 ---
-title: Döner Saray Urfa Ocakbaşı
-url: "/bochum/doener-saray-urfa-ocakbasi/"
+title: "Döner Saray Urfa Ocakbaşı"
+url: /bochum/doener-saray-urfa-ocakbasi/
 ---

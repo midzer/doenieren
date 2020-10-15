@@ -1,4 +1,4 @@
 ---
-title: Tempelhofer Bistro Grillhaus
-url: "/berlin/tempelhofer-bistro-grillhaus/"
+title: "Tempelhofer Bistro Grillhaus"
+url: /berlin/tempelhofer-bistro-grillhaus/
 ---

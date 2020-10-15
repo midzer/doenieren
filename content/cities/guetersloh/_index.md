@@ -1,4 +1,4 @@
 ---
 title: Gütersloh
-url: "/guetersloh/"
+url: /guetersloh/
 ---

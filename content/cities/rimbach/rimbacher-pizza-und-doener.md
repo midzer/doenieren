@@ -1,4 +1,4 @@
 ---
-title: Rimbacher Pizza & Döner
-url: "/rimbach/rimbacher-pizza-und-doener/"
+title: "Rimbacher Pizza & Döner"
+url: /rimbach/rimbacher-pizza-und-doener/
 ---

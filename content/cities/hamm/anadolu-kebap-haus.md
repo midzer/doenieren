@@ -1,4 +1,4 @@
 ---
-title: Anadolu Kebap-Haus
-url: "/hamm/anadolu-kebap-haus/"
+title: "Anadolu Kebap-Haus"
+url: /hamm/anadolu-kebap-haus/
 ---

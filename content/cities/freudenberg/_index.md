@@ -1,4 +1,4 @@
 ---
 title: Freudenberg
-url: "/freudenberg/"
+url: /freudenberg/
 ---

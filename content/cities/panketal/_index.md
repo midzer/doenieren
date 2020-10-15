@@ -1,4 +1,4 @@
 ---
 title: Panketal
-url: "/panketal/"
+url: /panketal/
 ---

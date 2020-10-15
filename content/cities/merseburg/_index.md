@@ -1,4 +1,4 @@
 ---
 title: Merseburg
-url: "/merseburg/"
+url: /merseburg/
 ---

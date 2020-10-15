@@ -1,4 +1,4 @@
 ---
-title: Döner Mo
-url: "/mittenwald/doener-mo/"
+title: "Döner Mo"
+url: /mittenwald/doener-mo/
 ---

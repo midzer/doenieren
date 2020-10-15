@@ -1,9 +1,9 @@
 id: 3623968273
 latitude: 50.461615
 longitude: 7.469441000000001
-postcode: 56567
+postcode: "56567"
 city: Neuwied
-street: Wiedbachstraße
+street: "Wiedbachstraße"
 housenumber: 65
 phone: "+49 2631 957795; +49 2631 9532495; +49 2631 9532496"
 opening_hours: ""

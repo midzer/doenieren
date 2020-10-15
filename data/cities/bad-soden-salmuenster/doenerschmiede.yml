@@ -1,9 +1,9 @@
 id: 3818493426
 latitude: 50.277644300000006
 longitude: 9.3692749
-postcode: 63628
+postcode: "63628"
 city: Bad Soden-Salmünster
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: "+49 6056 5483"
 opening_hours: "Tu-Su 10:00-22:00"

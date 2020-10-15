@@ -1,4 +1,4 @@
 ---
-title: Bosporus
-url: "/zimmern-ob-rottweil/bosporus/"
+title: "Bosporus"
+url: /zimmern-ob-rottweil/bosporus/
 ---

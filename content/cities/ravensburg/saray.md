@@ -1,4 +1,4 @@
 ---
-title: Saray
-url: "/ravensburg/saray/"
+title: "Saray"
+url: /ravensburg/saray/
 ---

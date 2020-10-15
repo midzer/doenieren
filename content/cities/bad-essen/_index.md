@@ -1,4 +1,4 @@
 ---
 title: Bad Essen
-url: "/bad-essen/"
+url: /bad-essen/
 ---

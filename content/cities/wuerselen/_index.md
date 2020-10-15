@@ -1,4 +1,4 @@
 ---
 title: Würselen
-url: "/wuerselen/"
+url: /wuerselen/
 ---

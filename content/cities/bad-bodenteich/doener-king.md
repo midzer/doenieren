@@ -1,4 +1,4 @@
 ---
-title: Döner King
-url: "/bad-bodenteich/doener-king/"
+title: "Döner King"
+url: /bad-bodenteich/doener-king/
 ---

@@ -1,9 +1,9 @@
 id: 3188822129
 latitude: 51.410560000000004
 longitude: 10.4221853
-postcode: 37339
+postcode: "37339"
 city: Breitenworbis
-street: Halle-Kasseler-Straße
+street: "Halle-Kasseler-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Su 11:00-23:00"

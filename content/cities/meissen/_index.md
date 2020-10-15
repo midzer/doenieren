@@ -1,4 +1,4 @@
 ---
 title: Meißen
-url: "/meissen/"
+url: /meissen/
 ---

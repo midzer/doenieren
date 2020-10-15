@@ -1,4 +1,4 @@
 ---
-title: Sebnitz Döner
-url: "/sebnitz/sebnitz-doener/"
+title: "Sebnitz Döner"
+url: /sebnitz/sebnitz-doener/
 ---

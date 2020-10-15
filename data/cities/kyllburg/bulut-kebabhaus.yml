@@ -1,9 +1,9 @@
 id: 5585105961
 latitude: 50.0403692
 longitude: 6.588886700000001
-postcode: 54655
+postcode: "54655"
 city: Kyllburg
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 14
 phone: "+49 163 2390065"
 opening_hours: "Mo-Th 11:00-22:30; Fr-Sa 11:00-24:00; Su,PH 12:00-22:30"

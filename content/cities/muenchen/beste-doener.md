@@ -1,4 +1,4 @@
 ---
-title: Beste Döner
-url: "/muenchen/beste-doener/"
+title: "Beste Döner"
+url: /muenchen/beste-doener/
 ---

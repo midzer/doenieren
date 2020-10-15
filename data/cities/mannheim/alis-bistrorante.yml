@@ -1,9 +1,9 @@
 id: 2017708660
 latitude: 49.541841000000005
 longitude: 8.448642300000001
-postcode: 68307
+postcode: "68307"
 city: Mannheim
-street: Sandhofer Straße
+street: "Sandhofer Straße"
 housenumber: 305
 phone: "+49 621 9766756"
 opening_hours: "Tu-Su 9:30-24:00"

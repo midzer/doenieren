@@ -1,0 +1,4 @@
+---
+title: Schmerikon
+url: /schmerikon/
+---

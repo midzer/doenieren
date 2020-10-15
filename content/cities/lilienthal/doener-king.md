@@ -1,4 +1,4 @@
 ---
-title: Döner-King
-url: "/lilienthal/doener-king/"
+title: "Döner-King"
+url: /lilienthal/doener-king/
 ---

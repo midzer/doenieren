@@ -1,4 +1,4 @@
 ---
-title: Yurt Market
-url: "/karlsruhe/yurt-market/"
+title: "Yurt Market"
+url: /karlsruhe/yurt-market/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Oelde
-url: "/oelde/"
+url: /oelde/
 ---

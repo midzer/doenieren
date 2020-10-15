@@ -1,4 +1,4 @@
 ---
 title: Bretten
-url: "/bretten/"
+url: /bretten/
 ---

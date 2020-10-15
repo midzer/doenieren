@@ -1,9 +1,9 @@
 id: 4889681830
 latitude: 52.4916563
 longitude: 13.392487800000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
-street: Gneisenaustraße
+street: "Gneisenaustraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Su 12:00-24:00"

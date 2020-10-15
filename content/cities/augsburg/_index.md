@@ -1,4 +1,4 @@
 ---
 title: Augsburg
-url: "/augsburg/"
+url: /augsburg/
 ---

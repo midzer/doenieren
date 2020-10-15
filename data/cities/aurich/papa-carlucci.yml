@@ -1,9 +1,9 @@
 id: 3268851977
 latitude: 53.467896700000004
 longitude: 7.4724979000000005
-postcode: 26603
+postcode: "26603"
 city: Aurich
-street: Oldersumer Straße
+street: "Oldersumer Straße"
 housenumber: 25
 phone: "+4949419911148"
 opening_hours: "Tu-Sa 11:30-14:30,17:00-23:00;Su 11:30-23:00"

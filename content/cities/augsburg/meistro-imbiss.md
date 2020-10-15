@@ -1,4 +1,4 @@
 ---
-title: Meistro Imbiss
-url: "/augsburg/meistro-imbiss/"
+title: "Meistro Imbiss"
+url: /augsburg/meistro-imbiss/
 ---

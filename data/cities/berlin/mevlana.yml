@@ -1,9 +1,9 @@
 id: 1170625374
 latitude: 52.463370000000005
 longitude: 13.3388012
-postcode: 12157
+postcode: "12157"
 city: Berlin
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

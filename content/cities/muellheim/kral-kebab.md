@@ -1,4 +1,4 @@
 ---
-title: Kral Kebab
-url: "/muellheim/kral-kebab/"
+title: "Kral Kebab"
+url: /muellheim/kral-kebab/
 ---

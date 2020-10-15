@@ -1,4 +1,4 @@
 ---
-title: Gül Imbiss
-url: "/lemwerder/guel-imbiss/"
+title: "Gül Imbiss"
+url: /lemwerder/guel-imbiss/
 ---

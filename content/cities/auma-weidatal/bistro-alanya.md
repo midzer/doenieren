@@ -1,4 +1,4 @@
 ---
-title: Bistro alanya
-url: "/auma-weidatal/bistro-alanya/"
+title: "Bistro alanya"
+url: /auma-weidatal/bistro-alanya/
 ---

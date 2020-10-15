@@ -1,4 +1,4 @@
 ---
-title: Gül Kebab
-url: "/pforzheim/guel-kebab/"
+title: "Gül Kebab"
+url: /pforzheim/guel-kebab/
 ---

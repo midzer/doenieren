@@ -1,4 +1,4 @@
 ---
-title: Pinocchio
-url: "/northeim/pinocchio/"
+title: "Pinocchio"
+url: /northeim/pinocchio/
 ---

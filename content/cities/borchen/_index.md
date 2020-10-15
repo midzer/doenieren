@@ -1,4 +1,4 @@
 ---
 title: Borchen
-url: "/borchen/"
+url: /borchen/
 ---

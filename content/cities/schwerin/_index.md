@@ -1,4 +1,4 @@
 ---
 title: Schwerin
-url: "/schwerin/"
+url: /schwerin/
 ---

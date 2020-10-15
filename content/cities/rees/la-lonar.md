@@ -1,4 +1,4 @@
 ---
-title: La Lonar
-url: "/rees/la-lonar/"
+title: "La Lonar"
+url: /rees/la-lonar/
 ---

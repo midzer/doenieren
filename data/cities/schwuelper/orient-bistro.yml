@@ -1,9 +1,9 @@
 id: 311129461
 latitude: 52.351247
 longitude: 10.4350419
-postcode: 38179
+postcode: "38179"
 city: Schwülper
-street: Braunschweiger Straße
+street: "Braunschweiger Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 10:30-22:00, Su 12:30-22:00"

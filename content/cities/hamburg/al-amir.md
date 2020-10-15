@@ -1,4 +1,4 @@
 ---
-title: Al Amir
-url: "/hamburg/al-amir/"
+title: "Al Amir"
+url: /hamburg/al-amir/
 ---

@@ -1,9 +1,9 @@
 id: 4828742475
 latitude: 54.7182163
 longitude: 9.671043000000001
-postcode: 24966
+postcode: "24966"
 city: Sörup
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 5
 phone: "+49 4635 8964281"
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-22:00"

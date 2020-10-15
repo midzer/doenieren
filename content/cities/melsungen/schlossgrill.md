@@ -1,4 +1,4 @@
 ---
-title: Schlossgrill
-url: "/melsungen/schlossgrill/"
+title: "Schlossgrill"
+url: /melsungen/schlossgrill/
 ---

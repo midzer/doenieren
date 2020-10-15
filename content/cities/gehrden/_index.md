@@ -1,4 +1,4 @@
 ---
 title: Gehrden
-url: "/gehrden/"
+url: /gehrden/
 ---

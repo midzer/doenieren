@@ -1,4 +1,4 @@
 ---
-title: Kral Kebaphaus
-url: "/augsburg/kral-kebaphaus/"
+title: "Kral Kebaphaus"
+url: /augsburg/kral-kebaphaus/
 ---

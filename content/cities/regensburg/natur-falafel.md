@@ -1,4 +1,4 @@
 ---
-title: Natur Falafel
-url: "/regensburg/natur-falafel/"
+title: "Natur Falafel"
+url: /regensburg/natur-falafel/
 ---

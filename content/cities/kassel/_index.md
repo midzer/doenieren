@@ -1,4 +1,4 @@
 ---
 title: Kassel
-url: "/kassel/"
+url: /kassel/
 ---

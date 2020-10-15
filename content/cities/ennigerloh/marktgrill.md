@@ -1,4 +1,4 @@
 ---
-title: Marktgrill
-url: "/ennigerloh/marktgrill/"
+title: "Marktgrill"
+url: /ennigerloh/marktgrill/
 ---

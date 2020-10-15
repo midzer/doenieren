@@ -1,4 +1,4 @@
 ---
-title: Kirşehir’li Gözlemeci
-url: "/berlin/kirsehirli-goezlemeci/"
+title: "Kirşehir’li Gözlemeci"
+url: /berlin/kirsehirli-goezlemeci/
 ---

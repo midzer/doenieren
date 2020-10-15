@@ -1,4 +1,4 @@
 ---
-title: Döner Delüx
-url: "/duesseldorf/doener-deluex/"
+title: "Döner Delüx"
+url: /duesseldorf/doener-deluex/
 ---

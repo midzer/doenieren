@@ -1,4 +1,4 @@
 ---
 title: Perl
-url: "/perl/"
+url: /perl/
 ---

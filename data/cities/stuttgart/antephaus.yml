@@ -1,9 +1,9 @@
 id: 6466809400
 latitude: 48.794030500000005
 longitude: 9.1925687
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
-street: Rosensteinstraße
+street: "Rosensteinstraße"
 housenumber: 22
 phone: "+49 711 28443141"
 opening_hours: "11:00-22:00; Fr 11:00-23:00; Sa 11:00-00:00"

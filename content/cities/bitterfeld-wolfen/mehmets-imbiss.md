@@ -1,4 +1,4 @@
 ---
-title: Mehmet's Imbiss
-url: "/bitterfeld-wolfen/mehmets-imbiss/"
+title: "Mehmet's Imbiss"
+url: /bitterfeld-wolfen/mehmets-imbiss/
 ---

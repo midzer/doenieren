@@ -1,4 +1,4 @@
 ---
-title: By Ali
-url: "/berlin/by-ali/"
+title: "By Ali"
+url: /berlin/by-ali/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kebaphaus
-url: "/ludwigsfelde/kebaphaus/"
+title: "Kebaphaus"
+url: /ludwigsfelde/kebaphaus/
 ---

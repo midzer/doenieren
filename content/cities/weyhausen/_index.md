@@ -1,4 +1,4 @@
 ---
 title: Weyhausen
-url: "/weyhausen/"
+url: /weyhausen/
 ---

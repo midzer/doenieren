@@ -1,4 +1,4 @@
 ---
-title: Saray Grill
-url: "/ingelheim-am-rhein/saray-grill/"
+title: "Saray Grill"
+url: /ingelheim-am-rhein/saray-grill/
 ---

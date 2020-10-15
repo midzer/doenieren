@@ -1,4 +1,4 @@
 ---
-title: By Papa
-url: "/saarbruecken/by-papa/"
+title: "By Papa"
+url: /saarbruecken/by-papa/
 ---

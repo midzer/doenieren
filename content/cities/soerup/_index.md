@@ -1,4 +1,4 @@
 ---
 title: Sörup
-url: "/soerup/"
+url: /soerup/
 ---

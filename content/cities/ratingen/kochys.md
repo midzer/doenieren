@@ -1,4 +1,4 @@
 ---
-title: Kochy's
-url: "/ratingen/kochys/"
+title: "Kochy's"
+url: /ratingen/kochys/
 ---

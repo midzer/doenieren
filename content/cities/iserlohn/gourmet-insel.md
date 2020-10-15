@@ -1,4 +1,4 @@
 ---
-title: Gourmet Insel
-url: "/iserlohn/gourmet-insel/"
+title: "Gourmet Insel"
+url: /iserlohn/gourmet-insel/
 ---

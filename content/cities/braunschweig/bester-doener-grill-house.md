@@ -1,4 +1,4 @@
 ---
-title: Bester Döner Grill House
-url: "/braunschweig/bester-doener-grill-house/"
+title: "Bester Döner Grill House"
+url: /braunschweig/bester-doener-grill-house/
 ---

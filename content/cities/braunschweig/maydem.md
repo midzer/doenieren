@@ -1,4 +1,4 @@
 ---
-title: maydem
-url: "/braunschweig/maydem/"
+title: "maydem"
+url: /braunschweig/maydem/
 ---

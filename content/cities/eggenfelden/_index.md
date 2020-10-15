@@ -1,4 +1,4 @@
 ---
 title: Eggenfelden
-url: "/eggenfelden/"
+url: /eggenfelden/
 ---

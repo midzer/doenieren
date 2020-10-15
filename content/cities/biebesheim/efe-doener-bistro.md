@@ -1,4 +1,4 @@
 ---
-title: Efe Döner Bistro
-url: "/biebesheim/efe-doener-bistro/"
+title: "Efe Döner Bistro"
+url: /biebesheim/efe-doener-bistro/
 ---

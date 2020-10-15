@@ -1,4 +1,4 @@
 ---
-title: Karthago
-url: "/karlsruhe/karthago/"
+title: "Karthago"
+url: /karlsruhe/karthago/
 ---

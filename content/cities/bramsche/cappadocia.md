@@ -1,4 +1,4 @@
 ---
-title: Cappadocia
-url: "/bramsche/cappadocia/"
+title: "Cappadocia"
+url: /bramsche/cappadocia/
 ---

@@ -1,4 +1,4 @@
 ---
-title: City Gemüse Kebab
-url: "/leipzig/city-gemuese-kebab/"
+title: "City Gemüse Kebab"
+url: /leipzig/city-gemuese-kebab/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kebap Haus Ömür
-url: "/gelsenkirchen/kebap-haus-oemuer/"
+title: "Kebap Haus Ömür"
+url: /gelsenkirchen/kebap-haus-oemuer/
 ---

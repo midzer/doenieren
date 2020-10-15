@@ -1,4 +1,4 @@
 ---
-title: Halis Kebap
-url: "/berlin/halis-kebap/"
+title: "Halis Kebap"
+url: /berlin/halis-kebap/
 ---

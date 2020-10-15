@@ -1,4 +1,4 @@
 ---
-title: Ibo's Döner
-url: "/gelsenkirchen/ibos-doener/"
+title: "Ibo's Döner"
+url: /gelsenkirchen/ibos-doener/
 ---

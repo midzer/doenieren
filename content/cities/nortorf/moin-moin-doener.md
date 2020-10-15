@@ -1,4 +1,4 @@
 ---
-title: Moin Moin Döner
-url: "/nortorf/moin-moin-doener/"
+title: "Moin Moin Döner"
+url: /nortorf/moin-moin-doener/
 ---

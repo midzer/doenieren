@@ -1,4 +1,4 @@
 ---
 title: Rheurdt
-url: "/rheurdt/"
+url: /rheurdt/
 ---

@@ -1,9 +1,9 @@
 id: 979273938
 latitude: 49.7835301
 longitude: 9.931520800000001
-postcode: 97072
+postcode: "97072"
 city: Würzburg
-street: Huttenstraße
+street: "Huttenstraße"
 housenumber: 17
 phone: "+49-931-883088"
 opening_hours: "Mo-Sa 11:30-23:30; Tu 17:30-23:30; Su 11:30-22:00"

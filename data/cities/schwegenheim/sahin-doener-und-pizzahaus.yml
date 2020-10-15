@@ -1,9 +1,9 @@
 id: 4760516773
 latitude: 49.269618200000004
 longitude: 8.330194500000001
-postcode: 67365
+postcode: "67365"
 city: Schwegenheim
-street: Am Lindenplatz
+street: "Am Lindenplatz"
 housenumber: 1
 phone: ""
 opening_hours: ""

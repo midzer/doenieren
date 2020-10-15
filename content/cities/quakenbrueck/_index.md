@@ -1,4 +1,4 @@
 ---
 title: Quakenbrück
-url: "/quakenbrueck/"
+url: /quakenbrueck/
 ---

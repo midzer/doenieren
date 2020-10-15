@@ -1,4 +1,4 @@
 ---
 title: Kodersdorf
-url: "/kodersdorf/"
+url: /kodersdorf/
 ---

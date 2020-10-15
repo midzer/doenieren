@@ -1,9 +1,9 @@
 id: 754423472
 latitude: 48.3639184
 longitude: 10.882114900000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
-street: Rosenaustraße
+street: "Rosenaustraße"
 housenumber: 31
 phone: "+49 821 38975"
 opening_hours: "Mo off; Tu-Th 15:00-22:30; Fr-Su 11:30-22:30"

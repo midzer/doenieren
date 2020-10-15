@@ -1,9 +1,9 @@
 id: 5625799849
 latitude: 52.503149300000004
 longitude: 13.3660423
-postcode: 10785
+postcode: "10785"
 city: Berlin
-street: Potsdamer Straße
+street: "Potsdamer Straße"
 housenumber: 69
 phone: ""
 opening_hours: ""

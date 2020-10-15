@@ -1,9 +1,9 @@
 id: 5040774322
 latitude: 50.024249600000005
 longitude: 8.266997400000001
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
-street: Wiesbadener Straße
+street: "Wiesbadener Straße"
 housenumber: 89-91
 phone: "+49 6134 2844606"
 opening_hours: "Tu-Su 11:00-23:00"

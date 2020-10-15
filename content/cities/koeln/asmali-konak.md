@@ -1,4 +1,4 @@
 ---
-title: Asmali Konak
-url: "/koeln/asmali-konak/"
+title: "Asmali Konak"
+url: /koeln/asmali-konak/
 ---

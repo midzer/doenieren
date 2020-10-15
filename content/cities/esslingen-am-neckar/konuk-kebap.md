@@ -1,4 +1,4 @@
 ---
-title: Konuk Kebap
-url: "/esslingen-am-neckar/konuk-kebap/"
+title: "Konuk Kebap"
+url: /esslingen-am-neckar/konuk-kebap/
 ---

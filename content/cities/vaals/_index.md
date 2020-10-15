@@ -1,4 +1,4 @@
 ---
 title: Vaals
-url: "/vaals/"
+url: /vaals/
 ---

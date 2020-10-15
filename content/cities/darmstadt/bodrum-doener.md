@@ -1,4 +1,4 @@
 ---
-title: Bodrum Döner
-url: "/darmstadt/bodrum-doener/"
+title: "Bodrum Döner"
+url: /darmstadt/bodrum-doener/
 ---

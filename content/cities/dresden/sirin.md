@@ -1,4 +1,4 @@
 ---
-title: Şirin
-url: "/dresden/sirin/"
+title: "Şirin"
+url: /dresden/sirin/
 ---

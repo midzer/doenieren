@@ -1,4 +1,4 @@
 ---
-title: Firat Grill
-url: "/bielefeld/firat-grill/"
+title: "Firat Grill"
+url: /bielefeld/firat-grill/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Aachen
-url: "/aachen/"
+url: /aachen/
 ---

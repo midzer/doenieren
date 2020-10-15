@@ -1,4 +1,4 @@
 ---
 title: Kempten (Allgäu)
-url: "/kempten-allgaeu/"
+url: /kempten-allgaeu/
 ---

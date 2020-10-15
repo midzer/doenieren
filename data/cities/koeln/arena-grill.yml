@@ -1,9 +1,9 @@
 id: 244915779
 latitude: 50.938946200000004
 longitude: 6.977734000000001
-postcode: 50679
+postcode: "50679"
 city: Köln
-street: Constantinstraße
+street: "Constantinstraße"
 housenumber: 94
 phone: ""
 opening_hours: "Mo-Su 11:00-22:00"

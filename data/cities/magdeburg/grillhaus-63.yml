@@ -1,9 +1,9 @@
 id: 4156990525
 latitude: 52.108137600000006
 longitude: 11.6191113
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
-street: Semmelweisstraße
+street: "Semmelweisstraße"
 housenumber: 13
 phone: "+49 391 / 810 66 341"
 opening_hours: "Mo-Sa 10:00-22:00; Su 11:00-22:00"

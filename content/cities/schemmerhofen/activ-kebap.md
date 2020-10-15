@@ -1,4 +1,4 @@
 ---
-title: Activ Kebap
-url: "/schemmerhofen/activ-kebap/"
+title: "Activ Kebap"
+url: /schemmerhofen/activ-kebap/
 ---

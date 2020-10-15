@@ -1,4 +1,4 @@
 ---
-title: Ostsee Snack
-url: "/schoenberg-holstein/ostsee-snack/"
+title: "Ostsee Snack"
+url: /schoenberg-holstein/ostsee-snack/
 ---

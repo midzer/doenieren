@@ -1,4 +1,4 @@
 ---
-title: Tuerkijem Döner
-url: "/essen/tuerkijem-doener/"
+title: "Tuerkijem Döner"
+url: /essen/tuerkijem-doener/
 ---

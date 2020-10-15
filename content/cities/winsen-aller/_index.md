@@ -1,4 +1,4 @@
 ---
 title: Winsen (Aller)
-url: "/winsen-aller/"
+url: /winsen-aller/
 ---

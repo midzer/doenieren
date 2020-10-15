@@ -1,4 +1,4 @@
 ---
-title: King's Diner
-url: "/herforst/kings-diner/"
+title: "King's Diner"
+url: /herforst/kings-diner/
 ---

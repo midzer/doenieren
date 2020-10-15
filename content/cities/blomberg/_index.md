@@ -1,4 +1,4 @@
 ---
 title: Blomberg
-url: "/blomberg/"
+url: /blomberg/
 ---

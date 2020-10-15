@@ -1,4 +1,4 @@
 ---
-title: Devran Döner
-url: "/schwabmuenchen/devran-doener/"
+title: "Devran Döner"
+url: /schwabmuenchen/devran-doener/
 ---

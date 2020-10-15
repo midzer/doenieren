@@ -1,9 +1,9 @@
 id: 428603767
 latitude: 52.296378100000005
 longitude: 13.630768600000001
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
-street: Bahnhofsvorplatz
+street: "Bahnhofsvorplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 10:30-21:30"

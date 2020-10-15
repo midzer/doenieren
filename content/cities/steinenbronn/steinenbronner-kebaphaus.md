@@ -1,4 +1,4 @@
 ---
-title: Steinenbronner Kebaphaus
-url: "/steinenbronn/steinenbronner-kebaphaus/"
+title: "Steinenbronner Kebaphaus"
+url: /steinenbronn/steinenbronner-kebaphaus/
 ---

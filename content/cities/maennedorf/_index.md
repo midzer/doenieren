@@ -1,0 +1,4 @@
+---
+title: Männedorf
+url: /maennedorf/
+---

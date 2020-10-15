@@ -1,4 +1,4 @@
 ---
-title: Qebap Gourmet
-url: "/bremerhaven/qebap-gourmet/"
+title: "Qebap Gourmet"
+url: /bremerhaven/qebap-gourmet/
 ---

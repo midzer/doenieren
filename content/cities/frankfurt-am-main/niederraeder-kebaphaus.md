@@ -1,4 +1,4 @@
 ---
-title: Niederräder Kebaphaus
-url: "/frankfurt-am-main/niederraeder-kebaphaus/"
+title: "Niederräder Kebaphaus"
+url: /frankfurt-am-main/niederraeder-kebaphaus/
 ---

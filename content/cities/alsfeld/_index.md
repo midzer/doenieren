@@ -1,4 +1,4 @@
 ---
 title: Alsfeld
-url: "/alsfeld/"
+url: /alsfeld/
 ---

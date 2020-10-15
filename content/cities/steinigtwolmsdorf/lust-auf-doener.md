@@ -1,4 +1,4 @@
 ---
-title: Lust auf Döner
-url: "/steinigtwolmsdorf/lust-auf-doener/"
+title: "Lust auf Döner"
+url: /steinigtwolmsdorf/lust-auf-doener/
 ---

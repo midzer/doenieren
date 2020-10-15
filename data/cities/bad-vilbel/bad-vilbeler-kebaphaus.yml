@@ -1,9 +1,9 @@
 id: 1707501361
 latitude: 50.1793161
 longitude: 8.7367074
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 123
 phone: "+49 6101 9816846"
 opening_hours: "Mo-Sa 08:30-22:00; Su,PH 12:30-22:00"

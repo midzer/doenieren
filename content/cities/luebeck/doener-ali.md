@@ -1,4 +1,4 @@
 ---
-title: Döner Ali
-url: "/luebeck/doener-ali/"
+title: "Döner Ali"
+url: /luebeck/doener-ali/
 ---

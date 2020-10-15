@@ -1,4 +1,4 @@
 ---
-title: Pasam
-url: "/dietzenbach/pasam/"
+title: "Pasam"
+url: /dietzenbach/pasam/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Antep
-url: "/weilheim-an-der-teck/antep/"
+title: "Antep"
+url: /weilheim-an-der-teck/antep/
 ---

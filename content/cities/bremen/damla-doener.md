@@ -1,4 +1,4 @@
 ---
-title: Damla Döner
-url: "/bremen/damla-doener/"
+title: "Damla Döner"
+url: /bremen/damla-doener/
 ---

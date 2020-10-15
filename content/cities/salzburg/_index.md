@@ -1,0 +1,4 @@
+---
+title: Salzburg
+url: /salzburg/
+---

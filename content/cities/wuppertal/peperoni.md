@@ -1,4 +1,4 @@
 ---
-title: PEPERONI
-url: "/wuppertal/peperoni/"
+title: "PEPERONI"
+url: /wuppertal/peperoni/
 ---

@@ -1,9 +1,9 @@
 id: 798502984
 latitude: 49.4501676
 longitude: 11.0821301
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
-street: Lorenzer Straße
+street: "Lorenzer Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

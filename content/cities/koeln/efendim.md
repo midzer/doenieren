@@ -1,4 +1,4 @@
 ---
-title: Efendim
-url: "/koeln/efendim/"
+title: "Efendim"
+url: /koeln/efendim/
 ---

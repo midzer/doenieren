@@ -1,9 +1,9 @@
 id: 863887797
 latitude: 51.938196100000006
 longitude: 10.332757200000001
-postcode: 38685
+postcode: "38685"
 city: Langelsheim
-street: Steimelstraße
+street: "Steimelstraße"
 housenumber: 4
 phone: "+49 5326 978840"
 opening_hours: "Mo-Su 16:00-22:00"

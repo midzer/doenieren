@@ -1,4 +1,4 @@
 ---
-title: Suppen Welt
-url: "/hamburg/suppen-welt/"
+title: "Suppen Welt"
+url: /hamburg/suppen-welt/
 ---

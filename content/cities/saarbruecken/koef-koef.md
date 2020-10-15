@@ -1,4 +1,4 @@
 ---
-title: Köf-Köf
-url: "/saarbruecken/koef-koef/"
+title: "Köf-Köf"
+url: /saarbruecken/koef-koef/
 ---

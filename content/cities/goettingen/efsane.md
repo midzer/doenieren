@@ -1,4 +1,4 @@
 ---
-title: Efsane
-url: "/goettingen/efsane/"
+title: "Efsane"
+url: /goettingen/efsane/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Efes-Bistro
-url: "/goerlitz/efes-bistro/"
+title: "Efes-Bistro"
+url: /goerlitz/efes-bistro/
 ---

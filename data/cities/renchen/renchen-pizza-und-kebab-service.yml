@@ -1,9 +1,9 @@
 id: 4709793016
 latitude: 48.585609700000006
 longitude: 8.0096177
-postcode: 77871
+postcode: "77871"
 city: Renchen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 83
 phone: "+49 7843 993187"
 opening_hours: "Mo off; Tu-Th 10:00-22:30; Fr,Sa 10:00-23:00; Su 11:00-22:00"

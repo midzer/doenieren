@@ -1,9 +1,9 @@
 id: 4018002315
 latitude: 50.9823986
 longitude: 11.327356700000001
-postcode: 99423
+postcode: "99423"
 city: Weimar
-street: Graben
+street: "Graben"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 10:30-22:00; Su,PH 11:00-22:00"

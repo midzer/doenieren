@@ -1,4 +1,4 @@
 ---
 title: Dormagen
-url: "/dormagen/"
+url: /dormagen/
 ---

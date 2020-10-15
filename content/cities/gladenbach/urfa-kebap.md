@@ -1,4 +1,4 @@
 ---
-title: Urfa Kebap
-url: "/gladenbach/urfa-kebap/"
+title: "Urfa Kebap"
+url: /gladenbach/urfa-kebap/
 ---

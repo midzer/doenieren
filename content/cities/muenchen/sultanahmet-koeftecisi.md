@@ -1,4 +1,4 @@
 ---
-title: Sultanahmet Köftecisi
-url: "/muenchen/sultanahmet-koeftecisi/"
+title: "Sultanahmet Köftecisi"
+url: /muenchen/sultanahmet-koeftecisi/
 ---

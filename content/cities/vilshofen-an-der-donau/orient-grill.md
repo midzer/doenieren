@@ -1,4 +1,4 @@
 ---
-title: Orient Grill
-url: "/vilshofen-an-der-donau/orient-grill/"
+title: "Orient Grill"
+url: /vilshofen-an-der-donau/orient-grill/
 ---

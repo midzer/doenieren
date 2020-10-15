@@ -1,4 +1,4 @@
 ---
 title: Flein
-url: "/flein/"
+url: /flein/
 ---

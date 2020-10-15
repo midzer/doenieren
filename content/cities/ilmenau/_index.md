@@ -1,4 +1,4 @@
 ---
 title: Ilmenau
-url: "/ilmenau/"
+url: /ilmenau/
 ---

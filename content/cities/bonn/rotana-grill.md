@@ -1,4 +1,4 @@
 ---
-title: Rotana Grill
-url: "/bonn/rotana-grill/"
+title: "Rotana Grill"
+url: /bonn/rotana-grill/
 ---

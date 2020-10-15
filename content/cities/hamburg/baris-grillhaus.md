@@ -1,4 +1,4 @@
 ---
-title: Barış Grillhaus
-url: "/hamburg/baris-grillhaus/"
+title: "Barış Grillhaus"
+url: /hamburg/baris-grillhaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Nefis Firin
-url: "/essen/nefis-firin/"
+title: "Nefis Firin"
+url: /essen/nefis-firin/
 ---

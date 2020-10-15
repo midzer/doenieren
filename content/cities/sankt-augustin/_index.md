@@ -1,4 +1,4 @@
 ---
 title: Sankt Augustin
-url: "/sankt-augustin/"
+url: /sankt-augustin/
 ---

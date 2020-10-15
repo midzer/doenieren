@@ -1,4 +1,4 @@
 ---
-title: City Grillpfanne
-url: "/wegberg/city-grillpfanne/"
+title: "City Grillpfanne"
+url: /wegberg/city-grillpfanne/
 ---

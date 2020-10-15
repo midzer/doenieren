@@ -1,4 +1,4 @@
 ---
 title: Grevenmacher
-url: "/grevenmacher/"
+url: /grevenmacher/
 ---

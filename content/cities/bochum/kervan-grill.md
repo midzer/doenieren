@@ -1,4 +1,4 @@
 ---
-title: Kervan Grill
-url: "/bochum/kervan-grill/"
+title: "Kervan Grill"
+url: /bochum/kervan-grill/
 ---

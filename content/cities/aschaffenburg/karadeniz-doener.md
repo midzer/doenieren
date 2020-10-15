@@ -1,4 +1,4 @@
 ---
-title: Karadeniz Döner
-url: "/aschaffenburg/karadeniz-doener/"
+title: "Karadeniz Döner"
+url: /aschaffenburg/karadeniz-doener/
 ---

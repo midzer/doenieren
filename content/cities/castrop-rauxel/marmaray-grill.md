@@ -1,4 +1,4 @@
 ---
-title: Marmaray Grill
-url: "/castrop-rauxel/marmaray-grill/"
+title: "Marmaray Grill"
+url: /castrop-rauxel/marmaray-grill/
 ---

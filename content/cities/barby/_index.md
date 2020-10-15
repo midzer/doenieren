@@ -1,4 +1,4 @@
 ---
 title: Barby
-url: "/barby/"
+url: /barby/
 ---

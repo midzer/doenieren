@@ -1,4 +1,4 @@
 ---
-title: Casablanca
-url: "/saarbruecken/casablanca/"
+title: "Casablanca"
+url: /saarbruecken/casablanca/
 ---

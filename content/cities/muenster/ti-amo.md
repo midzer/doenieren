@@ -1,4 +1,4 @@
 ---
-title: Ti Amo
-url: "/muenster/ti-amo/"
+title: "Ti Amo"
+url: /muenster/ti-amo/
 ---

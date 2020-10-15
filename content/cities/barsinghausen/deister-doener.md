@@ -1,4 +1,4 @@
 ---
-title: Deister Döner
-url: "/barsinghausen/deister-doener/"
+title: "Deister Döner"
+url: /barsinghausen/deister-doener/
 ---

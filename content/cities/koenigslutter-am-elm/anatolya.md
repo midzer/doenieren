@@ -1,4 +1,4 @@
 ---
-title: Anatolya
-url: "/koenigslutter-am-elm/anatolya/"
+title: "Anatolya"
+url: /koenigslutter-am-elm/anatolya/
 ---

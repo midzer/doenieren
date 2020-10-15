@@ -1,9 +1,9 @@
 id: 6847834889
 latitude: 50.1443913
 longitude: 8.920740200000001
-postcode: 63452
+postcode: "63452"
 city: Hanau
-street: Alter Rückinger Weg
+street: "Alter Rückinger Weg"
 housenumber: 57
 phone: "+49 6181 5770087"
 opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00; PH 09:00-23:00"

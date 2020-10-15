@@ -1,9 +1,9 @@
 id: 4067380238
 latitude: 49.460852900000006
 longitude: 11.056693200000002
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
-street: Schnieglinger Straße
+street: "Schnieglinger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

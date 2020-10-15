@@ -1,4 +1,4 @@
 ---
-title: Bült Döner
-url: "/muenster/buelt-doener/"
+title: "Bült Döner"
+url: /muenster/buelt-doener/
 ---

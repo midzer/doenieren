@@ -1,9 +1,9 @@
 id: 2620044839
 latitude: 51.319478200000006
 longitude: 9.4990422
-postcode: 34117
+postcode: "34117"
 city: Kassel
-street: Mauerstraße
+street: "Mauerstraße"
 housenumber: 26
 phone: "+49 561 20198968"
 opening_hours: "Mo-Th 08:00-04:00; Fr-Sa 08:00-05:00;Su 08:00-04:00"

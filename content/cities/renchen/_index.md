@@ -1,4 +1,4 @@
 ---
 title: Renchen
-url: "/renchen/"
+url: /renchen/
 ---

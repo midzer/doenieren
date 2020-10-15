@@ -1,4 +1,4 @@
 ---
-title: Orient Döner
-url: "/erlangen/orient-doener/"
+title: "Orient Döner"
+url: /erlangen/orient-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Markt Grill
-url: "/dormagen/markt-grill/"
+title: "Markt Grill"
+url: /dormagen/markt-grill/
 ---

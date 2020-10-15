@@ -1,9 +1,9 @@
 id: 497552530
 latitude: 50.331817300000004
 longitude: 7.721048700000001
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Tu-Su 11:00-22:00; Sa off"

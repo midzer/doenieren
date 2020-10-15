@@ -1,4 +1,4 @@
 ---
-title: Örmser
-url: "/urmitz/oermser/"
+title: "Örmser"
+url: /urmitz/oermser/
 ---

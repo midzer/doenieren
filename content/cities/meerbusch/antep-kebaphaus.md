@@ -1,4 +1,4 @@
 ---
-title: Antep Kebaphaus
-url: "/meerbusch/antep-kebaphaus/"
+title: "Antep Kebaphaus"
+url: /meerbusch/antep-kebaphaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: La Femme
-url: "/berlin/la-femme/"
+title: "La Femme"
+url: /berlin/la-femme/
 ---

@@ -1,9 +1,9 @@
 id: 526339378
 latitude: 49.8743223
 longitude: 8.6625413
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 11
 phone: "+49 6151 7873500"
 opening_hours: "Mo-Su 11:00-24:00"

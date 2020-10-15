@@ -1,4 +1,4 @@
 ---
-title: Ayman Döner
-url: "/hamminkeln/ayman-doener/"
+title: "Ayman Döner"
+url: /hamminkeln/ayman-doener/
 ---

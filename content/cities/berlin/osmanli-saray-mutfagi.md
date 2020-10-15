@@ -1,4 +1,4 @@
 ---
-title: Osmanlı Saray Mutfağı
-url: "/berlin/osmanli-saray-mutfagi/"
+title: "Osmanlı Saray Mutfağı"
+url: /berlin/osmanli-saray-mutfagi/
 ---

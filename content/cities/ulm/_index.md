@@ -1,4 +1,4 @@
 ---
 title: Ulm
-url: "/ulm/"
+url: /ulm/
 ---

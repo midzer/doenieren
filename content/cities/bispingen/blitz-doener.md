@@ -1,4 +1,4 @@
 ---
-title: Blitz Döner
-url: "/bispingen/blitz-doener/"
+title: "Blitz Döner"
+url: /bispingen/blitz-doener/
 ---

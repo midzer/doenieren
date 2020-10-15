@@ -1,9 +1,9 @@
 id: 745152800
 latitude: 48.0271222
 longitude: 12.551034900000001
-postcode: 83308
+postcode: "83308"
 city: Trostberg
-street: Vormarkt
+street: "Vormarkt"
 housenumber: 32
 phone: "+49 8621 6468264"
 opening_hours: "Mo-Su 10:30-22:00"

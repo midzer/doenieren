@@ -1,4 +1,4 @@
 ---
-title: Firat Spiesshaus
-url: "/augsburg/firat-spiesshaus/"
+title: "Firat Spiesshaus"
+url: /augsburg/firat-spiesshaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Quick
-url: "/nienburg-weser/quick/"
+title: "Quick"
+url: /nienburg-weser/quick/
 ---

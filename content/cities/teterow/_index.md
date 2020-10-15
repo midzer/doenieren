@@ -1,4 +1,4 @@
 ---
 title: Teterow
-url: "/teterow/"
+url: /teterow/
 ---

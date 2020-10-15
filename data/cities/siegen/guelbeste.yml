@@ -1,9 +1,9 @@
 id: 2130803289
 latitude: 50.915102700000006
 longitude: 8.0122665
-postcode: 57078
+postcode: "57078"
 city: Siegen
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 22
 phone: "+49-271-2385778"
 opening_hours: "11:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Med Kebaphaus
-url: "/gangelt/med-kebaphaus/"
+title: "Med Kebaphaus"
+url: /gangelt/med-kebaphaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Döner Food
-url: "/potsdam/doener-food/"
+title: "Döner Food"
+url: /potsdam/doener-food/
 ---

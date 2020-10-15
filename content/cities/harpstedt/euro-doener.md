@@ -1,4 +1,4 @@
 ---
-title: euro döner
-url: "/harpstedt/euro-doener/"
+title: "euro döner"
+url: /harpstedt/euro-doener/
 ---

@@ -1,0 +1,4 @@
+---
+title: Fürstenfeld
+url: /fuerstenfeld/
+---

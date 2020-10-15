@@ -1,4 +1,4 @@
 ---
 title: Löbau
-url: "/loebau/"
+url: /loebau/
 ---

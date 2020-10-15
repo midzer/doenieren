@@ -1,4 +1,4 @@
 ---
-title: Döner King
-url: "/rheda-wiedenbrueck/doener-king/"
+title: "Döner King"
+url: /rheda-wiedenbrueck/doener-king/
 ---

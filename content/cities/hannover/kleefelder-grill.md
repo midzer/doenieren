@@ -1,4 +1,4 @@
 ---
-title: Kleefelder Grill
-url: "/hannover/kleefelder-grill/"
+title: "Kleefelder Grill"
+url: /hannover/kleefelder-grill/
 ---

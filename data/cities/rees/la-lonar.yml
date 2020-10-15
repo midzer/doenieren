@@ -1,9 +1,9 @@
 id: 1572573907
 latitude: 51.769352700000006
 longitude: 6.4010537
-postcode: 46459
+postcode: "46459"
 city: Rees
-street: Empeler Straße
+street: "Empeler Straße"
 housenumber: 62
 phone: ""
 opening_hours: ""

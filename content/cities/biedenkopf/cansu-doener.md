@@ -1,4 +1,4 @@
 ---
-title: Cansu Döner
-url: "/biedenkopf/cansu-doener/"
+title: "Cansu Döner"
+url: /biedenkopf/cansu-doener/
 ---

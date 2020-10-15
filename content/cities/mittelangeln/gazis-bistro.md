@@ -1,4 +1,4 @@
 ---
-title: Gazi's Bistro
-url: "/mittelangeln/gazis-bistro/"
+title: "Gazi's Bistro"
+url: /mittelangeln/gazis-bistro/
 ---

@@ -1,9 +1,9 @@
 id: 769172838
 latitude: 48.393479600000006
 longitude: 9.998658800000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
-street: Hermann-Köhl-Straße
+street: "Hermann-Köhl-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

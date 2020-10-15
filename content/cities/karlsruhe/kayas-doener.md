@@ -1,4 +1,4 @@
 ---
-title: Kayas Döner
-url: "/karlsruhe/kayas-doener/"
+title: "Kayas Döner"
+url: /karlsruhe/kayas-doener/
 ---

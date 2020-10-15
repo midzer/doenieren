@@ -1,9 +1,9 @@
 id: 1361733724
 latitude: 51.7126438
 longitude: 8.7458466
-postcode: 33098
+postcode: "33098"
 city: Paderborn
-street: Borchener Straße
+street: "Borchener Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 11:00-23:00; Su,PH 10:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Hilal
-url: "/witten/hilal/"
+title: "Hilal"
+url: /witten/hilal/
 ---

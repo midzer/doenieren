@@ -1,4 +1,4 @@
 ---
-title: Lokma
-url: "/bielefeld/lokma/"
+title: "Lokma"
+url: /bielefeld/lokma/
 ---

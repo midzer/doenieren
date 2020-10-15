@@ -1,4 +1,4 @@
 ---
-title: City Imbiss
-url: "/bietigheim-bissingen/city-imbiss/"
+title: "City Imbiss"
+url: /bietigheim-bissingen/city-imbiss/
 ---

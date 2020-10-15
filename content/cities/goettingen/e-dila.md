@@ -1,4 +1,4 @@
 ---
-title: E. Dila
-url: "/goettingen/e-dila/"
+title: "E. Dila"
+url: /goettingen/e-dila/
 ---

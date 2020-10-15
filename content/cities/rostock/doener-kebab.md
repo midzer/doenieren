@@ -1,4 +1,4 @@
 ---
-title: Döner Kebab
-url: "/rostock/doener-kebab/"
+title: "Döner Kebab"
+url: /rostock/doener-kebab/
 ---

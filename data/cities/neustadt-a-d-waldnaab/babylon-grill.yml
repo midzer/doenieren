@@ -1,9 +1,9 @@
 id: 639147563
 latitude: 49.730246900000004
 longitude: 12.169084600000001
-postcode: 92660
+postcode: "92660"
 city: Neustadt a.d. Waldnaab
-street: Untere Vorstadt
+street: "Untere Vorstadt"
 housenumber: 16
 phone: "+49 9602 939 4594"
 opening_hours: ""

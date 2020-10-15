@@ -1,4 +1,4 @@
 ---
-title: Palais
-url: "/wetzlar/palais/"
+title: "Palais"
+url: /wetzlar/palais/
 ---

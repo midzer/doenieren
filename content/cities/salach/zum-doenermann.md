@@ -1,4 +1,4 @@
 ---
-title: Zum Dönermann
-url: "/salach/zum-doenermann/"
+title: "Zum Dönermann"
+url: /salach/zum-doenermann/
 ---

@@ -1,9 +1,9 @@
 id: 6817810199
 latitude: 50.538889100000006
 longitude: 8.4047835
-postcode: 35606
+postcode: "35606"
 city: Solms
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 25
 phone: "+49 6442 1632"
 opening_hours: "10:30-23:30"

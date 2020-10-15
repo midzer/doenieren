@@ -1,4 +1,4 @@
 ---
-title: Bahnhofsdöner
-url: "/koenigs-wusterhausen/bahnhofsdoener/"
+title: "Bahnhofsdöner"
+url: /koenigs-wusterhausen/bahnhofsdoener/
 ---

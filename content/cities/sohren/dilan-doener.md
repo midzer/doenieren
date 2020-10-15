@@ -1,4 +1,4 @@
 ---
-title: Dilan Döner
-url: "/sohren/dilan-doener/"
+title: "Dilan Döner"
+url: /sohren/dilan-doener/
 ---

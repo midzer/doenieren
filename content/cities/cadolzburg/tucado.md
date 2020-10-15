@@ -1,4 +1,4 @@
 ---
-title: tucado
-url: "/cadolzburg/tucado/"
+title: "tucado"
+url: /cadolzburg/tucado/
 ---

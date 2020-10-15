@@ -1,4 +1,4 @@
 ---
-title: Günes Grill
-url: "/selm/guenes-grill/"
+title: "Günes Grill"
+url: /selm/guenes-grill/
 ---

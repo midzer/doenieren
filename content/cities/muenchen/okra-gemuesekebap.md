@@ -1,4 +1,4 @@
 ---
-title: OKRA Gemüsekebap
-url: "/muenchen/okra-gemuesekebap/"
+title: "OKRA Gemüsekebap"
+url: /muenchen/okra-gemuesekebap/
 ---

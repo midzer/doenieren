@@ -1,4 +1,4 @@
 ---
-title: Cigdem Kebap
-url: "/oberkochen/cigdem-kebap/"
+title: "Cigdem Kebap"
+url: /oberkochen/cigdem-kebap/
 ---

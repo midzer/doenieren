@@ -1,9 +1,9 @@
 id: 1672527041
 latitude: 51.5245964
 longitude: 11.9562685
-postcode: 06118
+postcode: "06118"
 city: Halle (Saale)
-street: Köthener Straße
+street: "Köthener Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

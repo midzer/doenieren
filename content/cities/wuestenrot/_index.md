@@ -1,0 +1,4 @@
+---
+title: Wüstenrot
+url: /wuestenrot/
+---

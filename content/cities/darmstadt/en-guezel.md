@@ -1,4 +1,4 @@
 ---
-title: En Güzel
-url: "/darmstadt/en-guezel/"
+title: "En Güzel"
+url: /darmstadt/en-guezel/
 ---

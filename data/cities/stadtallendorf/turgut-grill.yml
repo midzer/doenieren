@@ -1,9 +1,9 @@
 id: 1334331408
 latitude: 50.82614
 longitude: 9.0164352
-postcode: 35260
+postcode: "35260"
 city: Stadtallendorf
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 7a
 phone: ""
 opening_hours: ""

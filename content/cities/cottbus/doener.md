@@ -1,4 +1,4 @@
 ---
-title: Döner
-url: "/cottbus/doener/"
+title: "Döner"
+url: /cottbus/doener/
 ---

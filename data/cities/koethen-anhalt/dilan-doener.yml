@@ -1,9 +1,9 @@
 id: 3536481680
 latitude: 51.751738100000004
 longitude: 11.9822831
-postcode: 06366
+postcode: "06366"
 city: Köthen (Anhalt)
-street: Weintraubenstraße
+street: "Weintraubenstraße"
 housenumber: 23
 phone: "+49 3496 405270"
 opening_hours: "Mo - Su 09:00 - 00:00"

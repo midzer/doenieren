@@ -1,4 +1,4 @@
 ---
-title: Bahar Imbiss
-url: "/regensburg/bahar-imbiss/"
+title: "Bahar Imbiss"
+url: /regensburg/bahar-imbiss/
 ---

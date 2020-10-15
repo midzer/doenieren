@@ -1,4 +1,4 @@
 ---
-title: Bad Vilbeler Kebaphaus
-url: "/bad-vilbel/bad-vilbeler-kebaphaus/"
+title: "Bad Vilbeler Kebaphaus"
+url: /bad-vilbel/bad-vilbeler-kebaphaus/
 ---

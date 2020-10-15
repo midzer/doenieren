@@ -1,9 +1,9 @@
 id: 2640262416
 latitude: 51.283751800000005
 longitude: 7.2921472000000005
-postcode: 58332
+postcode: "58332"
 city: Schwelm
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36
 phone: "+49 2336 9155349"
 opening_hours: "We-Su,Mo 11:00-22:00"

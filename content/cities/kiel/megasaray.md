@@ -1,4 +1,4 @@
 ---
-title: MegaSaray
-url: "/kiel/megasaray/"
+title: "MegaSaray"
+url: /kiel/megasaray/
 ---

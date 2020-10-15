@@ -1,4 +1,4 @@
 ---
-title: Mac's Döner
-url: "/kleinmachnow/macs-doener/"
+title: "Mac's Döner"
+url: /kleinmachnow/macs-doener/
 ---

@@ -1,9 +1,9 @@
 id: 1516947885
 latitude: 49.7279988
 longitude: 12.166185500000001
-postcode: 92660
+postcode: "92660"
 city: Neustadt a.d. Waldnaab
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: "+49 9602 619 9090"
 opening_hours: ""

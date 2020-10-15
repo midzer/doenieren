@@ -1,4 +1,4 @@
 ---
-title: Caprice Restaurant
-url: "/nuertingen/caprice-restaurant/"
+title: "Caprice Restaurant"
+url: /nuertingen/caprice-restaurant/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Grosbliederstroff
-url: "/grosbliederstroff/"
+url: /grosbliederstroff/
 ---

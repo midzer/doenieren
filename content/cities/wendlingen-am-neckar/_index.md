@@ -1,4 +1,4 @@
 ---
 title: Wendlingen am Neckar
-url: "/wendlingen-am-neckar/"
+url: /wendlingen-am-neckar/
 ---

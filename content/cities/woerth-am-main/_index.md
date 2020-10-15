@@ -1,4 +1,4 @@
 ---
 title: Wörth am Main
-url: "/woerth-am-main/"
+url: /woerth-am-main/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Corner
-url: "/muenchen/corner/"
+title: "Corner"
+url: /muenchen/corner/
 ---

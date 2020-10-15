@@ -1,4 +1,4 @@
 ---
-title: Kebap Haus Kirchseeon
-url: "/kirchseeon/kebap-haus-kirchseeon/"
+title: "Kebap Haus Kirchseeon"
+url: /kirchseeon/kebap-haus-kirchseeon/
 ---

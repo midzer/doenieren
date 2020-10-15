@@ -1,4 +1,4 @@
 ---
 title: Wedel
-url: "/wedel/"
+url: /wedel/
 ---

@@ -1,9 +1,9 @@
 id: 2636460903
 latitude: 51.966965300000005
 longitude: 7.581837
-postcode: 48149
+postcode: "48149"
 city: Münster
-street: Michaelweg
+street: "Michaelweg"
 housenumber: 64
 phone: "+49 251 703 68 86"
 opening_hours: ""

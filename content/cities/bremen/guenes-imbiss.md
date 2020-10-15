@@ -1,4 +1,4 @@
 ---
-title: Günes Imbiss
-url: "/bremen/guenes-imbiss/"
+title: "Günes Imbiss"
+url: /bremen/guenes-imbiss/
 ---

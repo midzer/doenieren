@@ -1,4 +1,4 @@
 ---
 title: Schönbrunn
-url: "/schoenbrunn/"
+url: /schoenbrunn/
 ---

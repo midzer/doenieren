@@ -1,9 +1,9 @@
 id: 340232023
 latitude: 50.974848800000004
 longitude: 7.013602700000001
-postcode: 51063
+postcode: "51063"
 city: Köln
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 131
 phone: ""
 opening_hours: ""

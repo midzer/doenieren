@@ -1,4 +1,4 @@
 ---
-title: Yakamoz
-url: "/eschweiler/yakamoz/"
+title: "Yakamoz"
+url: /eschweiler/yakamoz/
 ---

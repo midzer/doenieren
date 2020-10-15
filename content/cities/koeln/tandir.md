@@ -1,4 +1,4 @@
 ---
-title: Tandir
-url: "/koeln/tandir/"
+title: "Tandir"
+url: /koeln/tandir/
 ---

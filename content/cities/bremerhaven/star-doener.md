@@ -1,4 +1,4 @@
 ---
-title: Star Döner
-url: "/bremerhaven/star-doener/"
+title: "Star Döner"
+url: /bremerhaven/star-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sultan Ahmed's Kebap Haus
-url: "/berlin/sultan-ahmeds-kebap-haus/"
+title: "Sultan Ahmed's Kebap Haus"
+url: /berlin/sultan-ahmeds-kebap-haus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Yayla Kebap
-url: "/hochheim-am-main/yayla-kebap/"
+title: "Yayla Kebap"
+url: /hochheim-am-main/yayla-kebap/
 ---

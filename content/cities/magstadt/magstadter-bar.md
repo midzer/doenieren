@@ -1,4 +1,4 @@
 ---
-title: Magstadter Bar
-url: "/magstadt/magstadter-bar/"
+title: "Magstadter Bar"
+url: /magstadt/magstadter-bar/
 ---

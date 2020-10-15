@@ -1,4 +1,4 @@
 ---
 title: Diepholz
-url: "/diepholz/"
+url: /diepholz/
 ---

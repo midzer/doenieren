@@ -1,4 +1,4 @@
 ---
-title: Troja Lounge
-url: "/giessen/troja-lounge/"
+title: "Troja Lounge"
+url: /giessen/troja-lounge/
 ---

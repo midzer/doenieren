@@ -1,9 +1,9 @@
 id: 1874848254
 latitude: 50.003779300000005
 longitude: 8.2145734
-postcode: 55124
+postcode: "55124"
 city: Mainz
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Sa 10:00-24:00; Su 11:00-23:00"

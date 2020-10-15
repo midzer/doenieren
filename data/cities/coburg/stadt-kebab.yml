@@ -1,9 +1,9 @@
 id: 564987745
 latitude: 50.2579143
 longitude: 10.963769200000002
-postcode: 96450
+postcode: "96450"
 city: Coburg
-street: Rosengasse
+street: "Rosengasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

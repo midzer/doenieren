@@ -1,4 +1,4 @@
 ---
-title: Bergheimer Grill
-url: "/bergheim/bergheimer-grill/"
+title: "Bergheimer Grill"
+url: /bergheim/bergheimer-grill/
 ---

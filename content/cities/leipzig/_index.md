@@ -1,4 +1,4 @@
 ---
 title: Leipzig
-url: "/leipzig/"
+url: /leipzig/
 ---

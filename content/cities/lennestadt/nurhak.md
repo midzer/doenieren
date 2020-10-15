@@ -1,4 +1,4 @@
 ---
-title: Nurhak
-url: "/lennestadt/nurhak/"
+title: "Nurhak"
+url: /lennestadt/nurhak/
 ---

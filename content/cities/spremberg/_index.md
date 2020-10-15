@@ -1,4 +1,4 @@
 ---
 title: Spremberg
-url: "/spremberg/"
+url: /spremberg/
 ---

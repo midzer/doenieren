@@ -1,4 +1,4 @@
 ---
-title: Gül Kebap
-url: "/stuttgart/guel-kebap/"
+title: "Gül Kebap"
+url: /stuttgart/guel-kebap/
 ---

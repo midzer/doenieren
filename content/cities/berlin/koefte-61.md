@@ -1,4 +1,4 @@
 ---
-title: Köfte 61
-url: "/berlin/koefte-61/"
+title: "Köfte 61"
+url: /berlin/koefte-61/
 ---

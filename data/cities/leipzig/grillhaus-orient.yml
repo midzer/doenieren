@@ -1,9 +1,9 @@
 id: 566110699
 latitude: 51.334945600000005
 longitude: 12.3840015
-postcode: 04103
+postcode: "04103"
 city: Leipzig
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 10:00-22:30; Su 12:00-22:30"

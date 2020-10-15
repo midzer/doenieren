@@ -1,4 +1,4 @@
 ---
-title: Casa Mediha
-url: "/minden/casa-mediha/"
+title: "Casa Mediha"
+url: /minden/casa-mediha/
 ---

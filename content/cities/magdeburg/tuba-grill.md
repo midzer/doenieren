@@ -1,4 +1,4 @@
 ---
-title: Tuba Grill
-url: "/magdeburg/tuba-grill/"
+title: "Tuba Grill"
+url: /magdeburg/tuba-grill/
 ---

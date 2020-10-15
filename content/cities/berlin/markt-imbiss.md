@@ -1,4 +1,4 @@
 ---
-title: Markt-Imbiss
-url: "/berlin/markt-imbiss/"
+title: "Markt-Imbiss"
+url: /berlin/markt-imbiss/
 ---

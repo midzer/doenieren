@@ -1,9 +1,9 @@
 id: 2617231622
 latitude: 50.995597700000005
 longitude: 8.1143251
-postcode: 57271
+postcode: "57271"
 city: Hilchenbach
-street: In der Herrenwiese
+street: "In der Herrenwiese"
 housenumber: 44
 phone: "+49 2733 128815"
 opening_hours: "Mo-Sa 11:30-22:00; Su,PH 12:00-21:00"

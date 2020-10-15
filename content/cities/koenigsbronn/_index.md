@@ -1,0 +1,4 @@
+---
+title: Königsbronn
+url: /koenigsbronn/
+---

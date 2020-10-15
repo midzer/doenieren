@@ -1,4 +1,4 @@
 ---
-title: Euro Döner Aydar Derya
-url: "/leinefelde-worbis/euro-doener-aydar-derya/"
+title: "Euro Döner Aydar Derya"
+url: /leinefelde-worbis/euro-doener-aydar-derya/
 ---

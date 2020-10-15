@@ -1,4 +1,4 @@
 ---
-title: City Döner
-url: "/bad-bodenteich/city-doener/"
+title: "City Döner"
+url: /bad-bodenteich/city-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Oberwesel
-url: "/oberwesel/"
+url: /oberwesel/
 ---

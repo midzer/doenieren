@@ -1,4 +1,4 @@
 ---
-title: Harput Döner
-url: "/hamburg/harput-doener/"
+title: "Harput Döner"
+url: /hamburg/harput-doener/
 ---

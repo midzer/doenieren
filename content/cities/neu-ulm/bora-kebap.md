@@ -1,4 +1,4 @@
 ---
-title: Bora Kebap
-url: "/neu-ulm/bora-kebap/"
+title: "Bora Kebap"
+url: /neu-ulm/bora-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Bilakiss
-url: "/berlin/bilakiss/"
+title: "Bilakiss"
+url: /berlin/bilakiss/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Eddie's
-url: "/koeln/eddies/"
+title: "Eddie's"
+url: /koeln/eddies/
 ---

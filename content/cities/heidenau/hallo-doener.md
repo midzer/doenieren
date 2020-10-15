@@ -1,4 +1,4 @@
 ---
-title: Hallo Döner
-url: "/heidenau/hallo-doener/"
+title: "Hallo Döner"
+url: /heidenau/hallo-doener/
 ---

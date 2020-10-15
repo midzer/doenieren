@@ -1,4 +1,4 @@
 ---
-title: Devran Döner
-url: "/gernsheim/devran-doener/"
+title: "Devran Döner"
+url: /gernsheim/devran-doener/
 ---

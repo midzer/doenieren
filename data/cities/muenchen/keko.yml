@@ -1,9 +1,9 @@
 id: 656248273
 latitude: 48.125758600000005
 longitude: 11.5824181
-postcode: 81541
+postcode: "81541"
 city: München
-street: Mariahilfstraße
+street: "Mariahilfstraße"
 housenumber: 24
 phone: "+49 89 659969"
 opening_hours: "Mo-Su 17:00-01:00"

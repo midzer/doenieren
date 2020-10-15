@@ -1,9 +1,9 @@
 id: 3097365682
 latitude: 50.686203600000006
 longitude: 7.1565799000000005
-postcode: 53173
+postcode: "53173"
 city: Bonn
-street: Bürgerstraße
+street: "Bürgerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

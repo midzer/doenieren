@@ -1,4 +1,4 @@
 ---
-title: Gözlemecim
-url: "/offenbach-am-main/goezlemecim/"
+title: "Gözlemecim"
+url: /offenbach-am-main/goezlemecim/
 ---

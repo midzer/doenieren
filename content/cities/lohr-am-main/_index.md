@@ -1,4 +1,4 @@
 ---
 title: Lohr am Main
-url: "/lohr-am-main/"
+url: /lohr-am-main/
 ---

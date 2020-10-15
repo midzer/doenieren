@@ -1,4 +1,4 @@
 ---
 title: Plön
-url: "/ploen/"
+url: /ploen/
 ---

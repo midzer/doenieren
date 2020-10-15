@@ -1,4 +1,4 @@
 ---
-title: Grillhaus Butzbach
-url: "/butzbach/grillhaus-butzbach/"
+title: "Grillhaus Butzbach"
+url: /butzbach/grillhaus-butzbach/
 ---

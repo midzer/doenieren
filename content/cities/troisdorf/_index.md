@@ -1,4 +1,4 @@
 ---
 title: Troisdorf
-url: "/troisdorf/"
+url: /troisdorf/
 ---

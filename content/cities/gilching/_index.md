@@ -1,4 +1,4 @@
 ---
 title: Gilching
-url: "/gilching/"
+url: /gilching/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Zimmern ob Rottweil
-url: "/zimmern-ob-rottweil/"
+url: /zimmern-ob-rottweil/
 ---

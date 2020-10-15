@@ -1,9 +1,9 @@
 id: 1366841277
 latitude: 49.6675521
 longitude: 10.1440208
-postcode: 97340
+postcode: "97340"
 city: Marktbreit
-street: Schustergasse
+street: "Schustergasse"
 housenumber: 1
 phone: "+499332 - 590653"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Goldener Spieß
-url: "/kulmbach/goldener-spiess/"
+title: "Goldener Spieß"
+url: /kulmbach/goldener-spiess/
 ---

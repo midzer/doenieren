@@ -1,4 +1,4 @@
 ---
-title: Cloef Grill
-url: "/mettlach/cloef-grill/"
+title: "Cloef Grill"
+url: /mettlach/cloef-grill/
 ---

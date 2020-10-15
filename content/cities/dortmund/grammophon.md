@@ -1,4 +1,4 @@
 ---
-title: Grammophon
-url: "/dortmund/grammophon/"
+title: "Grammophon"
+url: /dortmund/grammophon/
 ---

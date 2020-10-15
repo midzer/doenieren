@@ -1,4 +1,4 @@
 ---
-title: Jimmy's Bistro
-url: "/wolfenbuettel/jimmys-bistro/"
+title: "Jimmy's Bistro"
+url: /wolfenbuettel/jimmys-bistro/
 ---

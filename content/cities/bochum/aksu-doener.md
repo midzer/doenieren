@@ -1,4 +1,4 @@
 ---
-title: Aksu Döner
-url: "/bochum/aksu-doener/"
+title: "Aksu Döner"
+url: /bochum/aksu-doener/
 ---

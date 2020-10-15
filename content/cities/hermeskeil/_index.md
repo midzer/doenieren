@@ -1,4 +1,4 @@
 ---
 title: Hermeskeil
-url: "/hermeskeil/"
+url: /hermeskeil/
 ---

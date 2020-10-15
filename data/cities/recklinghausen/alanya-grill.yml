@@ -1,9 +1,9 @@
 id: 4748509682
 latitude: 51.613402
 longitude: 7.1985467000000005
-postcode: 45657
+postcode: "45657"
 city: Recklinghausen
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Th 12:00-24:00; Fr-Sa 12:00-04:00"

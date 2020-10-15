@@ -1,4 +1,4 @@
 ---
-title: Dürüm Kebab Haus
-url: "/dresden/dueruem-kebab-haus/"
+title: "Dürüm Kebab Haus"
+url: /dresden/dueruem-kebab-haus/
 ---

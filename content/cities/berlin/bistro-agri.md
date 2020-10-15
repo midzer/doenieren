@@ -1,4 +1,4 @@
 ---
-title: Bistro Agri
-url: "/berlin/bistro-agri/"
+title: "Bistro Agri"
+url: /berlin/bistro-agri/
 ---

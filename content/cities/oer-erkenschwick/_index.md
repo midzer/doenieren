@@ -1,4 +1,4 @@
 ---
 title: Oer-Erkenschwick
-url: "/oer-erkenschwick/"
+url: /oer-erkenschwick/
 ---

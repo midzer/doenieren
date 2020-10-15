@@ -1,4 +1,4 @@
 ---
-title: City-Grill
-url: "/ilmenau/city-grill/"
+title: "City-Grill"
+url: /ilmenau/city-grill/
 ---

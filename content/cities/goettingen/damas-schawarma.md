@@ -1,4 +1,4 @@
 ---
-title: Damas Schawarma
-url: "/goettingen/damas-schawarma/"
+title: "Damas Schawarma"
+url: /goettingen/damas-schawarma/
 ---

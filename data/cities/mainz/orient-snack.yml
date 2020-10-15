@@ -1,9 +1,9 @@
 id: 3469218415
 latitude: 50.0004848
 longitude: 8.263536100000001
-postcode: 55116
+postcode: "55116"
 city: Mainz
-street: Münsterplatz
+street: "Münsterplatz"
 housenumber: 10
 phone: ""
 opening_hours: ""

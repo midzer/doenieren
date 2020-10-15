@@ -1,4 +1,4 @@
 ---
 title: Schwarzenbek
-url: "/schwarzenbek/"
+url: /schwarzenbek/
 ---

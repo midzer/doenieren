@@ -1,4 +1,4 @@
 ---
-title: Schönkirchener Dönertreff
-url: "/schoenkirchen/schoenkirchener-doenertreff/"
+title: "Schönkirchener Dönertreff"
+url: /schoenkirchen/schoenkirchener-doenertreff/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Baunatal
-url: "/baunatal/"
+url: /baunatal/
 ---

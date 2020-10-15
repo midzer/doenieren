@@ -1,4 +1,4 @@
 ---
-title: Köfte Türkitch Kebap
-url: "/muenchen/koefte-tuerkitch-kebap/"
+title: "Köfte Türkitch Kebap"
+url: /muenchen/koefte-tuerkitch-kebap/
 ---

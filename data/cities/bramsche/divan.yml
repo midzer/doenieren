@@ -1,9 +1,9 @@
 id: 4370218819
 latitude: 52.4101532
 longitude: 7.9796598
-postcode: 49565
+postcode: "49565"
 city: Bramsche
-street: Große Straße
+street: "Große Straße"
 housenumber: 30
 phone: "+495461945361"
 opening_hours: "Mo,We,Th 12:00-20:00; Fr-Sa 12:00-23:00; Su 12:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Keklik Cafe-Bistro
-url: "/stuehlingen/keklik-cafe-bistro/"
+title: "Keklik Cafe-Bistro"
+url: /stuehlingen/keklik-cafe-bistro/
 ---

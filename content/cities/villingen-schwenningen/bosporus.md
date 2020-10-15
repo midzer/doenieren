@@ -1,4 +1,4 @@
 ---
-title: Bosporus
-url: "/villingen-schwenningen/bosporus/"
+title: "Bosporus"
+url: /villingen-schwenningen/bosporus/
 ---

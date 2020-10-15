@@ -1,9 +1,9 @@
 id: 2334468449
 latitude: 51.5351494
 longitude: 7.6891014
-postcode: 59423
+postcode: "59423"
 city: Unna
-street: Gerhart-Hauptmann-Straße
+street: "Gerhart-Hauptmann-Straße"
 housenumber: 4
 phone: "+492303772520"
 opening_hours: ""

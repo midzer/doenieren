@@ -1,9 +1,9 @@
 id: 2014361009
 latitude: 49.975594
 longitude: 8.0539397
-postcode: 55218
+postcode: "55218"
 city: Ingelheim am Rhein
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: "+49 6132 716960"
 opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 11:00-23:00; Su 10:00-22:00"

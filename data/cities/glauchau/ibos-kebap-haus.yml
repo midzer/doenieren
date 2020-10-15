@@ -1,9 +1,9 @@
 id: 1728136376
 latitude: 50.8164304
 longitude: 12.5513738
-postcode: 08371
+postcode: "08371"
 city: Glauchau
-street: Chemnitzer Platz
+street: "Chemnitzer Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; Su,PH 15:00-22:00"

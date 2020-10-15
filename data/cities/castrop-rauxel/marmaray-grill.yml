@@ -1,9 +1,9 @@
 id: 4864113320
 latitude: 51.527654600000005
 longitude: 7.322938300000001
-postcode: 44577
+postcode: "44577"
 city: Castrop-Rauxel
-street: Wittener Straße
+street: "Wittener Straße"
 housenumber: 347
 phone: ""
 opening_hours: "Mo-Fr 12:30-21:30"

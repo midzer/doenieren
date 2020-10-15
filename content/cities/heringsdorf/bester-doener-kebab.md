@@ -1,4 +1,4 @@
 ---
-title: Bester Döner Kebab
-url: "/heringsdorf/bester-doener-kebab/"
+title: "Bester Döner Kebab"
+url: /heringsdorf/bester-doener-kebab/
 ---

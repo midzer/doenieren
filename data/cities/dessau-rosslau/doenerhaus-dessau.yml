@@ -1,9 +1,9 @@
 id: 4502280097
 latitude: 51.825244000000005
 longitude: 12.2423991
-postcode: 06842
+postcode: "06842"
 city: Dessau-Roßlau
-street: Franzstraße
+street: "Franzstraße"
 housenumber: 153
 phone: ""
 opening_hours: "Mo-Fr 10:30-21:00; Sa,Su,PH 12:00-21:00"

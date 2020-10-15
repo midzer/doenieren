@@ -1,0 +1,4 @@
+---
+title: Gols
+url: /gols/
+---

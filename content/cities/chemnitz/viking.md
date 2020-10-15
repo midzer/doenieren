@@ -1,4 +1,4 @@
 ---
-title: Viking
-url: "/chemnitz/viking/"
+title: "Viking"
+url: /chemnitz/viking/
 ---

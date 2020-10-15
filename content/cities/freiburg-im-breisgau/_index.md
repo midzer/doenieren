@@ -1,4 +1,4 @@
 ---
 title: Freiburg im Breisgau
-url: "/freiburg-im-breisgau/"
+url: /freiburg-im-breisgau/
 ---

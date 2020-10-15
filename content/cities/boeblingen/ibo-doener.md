@@ -1,4 +1,4 @@
 ---
-title: IBO Döner
-url: "/boeblingen/ibo-doener/"
+title: "IBO Döner"
+url: /boeblingen/ibo-doener/
 ---

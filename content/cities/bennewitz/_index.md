@@ -1,4 +1,4 @@
 ---
 title: Bennewitz
-url: "/bennewitz/"
+url: /bennewitz/
 ---

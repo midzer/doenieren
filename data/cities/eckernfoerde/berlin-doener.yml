@@ -1,9 +1,9 @@
 id: 5065540924
 latitude: 54.474046400000006
 longitude: 9.8325598
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
-street: Gaehtjestraße
+street: "Gaehtjestraße"
 housenumber: 19
 phone: "+49 4351 7136939"
 opening_hours: "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00"

@@ -1,4 +1,4 @@
 ---
 title: Burg (Dithmarschen)
-url: "/burg-dithmarschen/"
+url: /burg-dithmarschen/
 ---

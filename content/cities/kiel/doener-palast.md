@@ -1,4 +1,4 @@
 ---
-title: Döner-Palast
-url: "/kiel/doener-palast/"
+title: "Döner-Palast"
+url: /kiel/doener-palast/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Kirn
-url: "/kirn/"
+url: /kirn/
 ---

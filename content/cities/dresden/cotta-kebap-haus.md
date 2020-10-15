@@ -1,4 +1,4 @@
 ---
-title: Cotta Kebap Haus
-url: "/dresden/cotta-kebap-haus/"
+title: "Cotta Kebap Haus"
+url: /dresden/cotta-kebap-haus/
 ---

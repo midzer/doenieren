@@ -1,9 +1,9 @@
 id: 436171741
 latitude: 52.109654400000004
 longitude: 11.621776800000001
-postcode: 39112
+postcode: "39112"
 city: Magdeburg
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

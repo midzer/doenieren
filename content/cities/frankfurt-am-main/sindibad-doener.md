@@ -1,4 +1,4 @@
 ---
-title: Sindibad Döner
-url: "/frankfurt-am-main/sindibad-doener/"
+title: "Sindibad Döner"
+url: /frankfurt-am-main/sindibad-doener/
 ---

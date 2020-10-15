@@ -1,4 +1,4 @@
 ---
-title: Altayeb Grillhaus
-url: "/berlin/altayeb-grillhaus/"
+title: "Altayeb Grillhaus"
+url: /berlin/altayeb-grillhaus/
 ---

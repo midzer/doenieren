@@ -1,4 +1,4 @@
 ---
-title: Vi Valencia
-url: "/borken/vi-valencia/"
+title: "Vi Valencia"
+url: /borken/vi-valencia/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Luna de Istanbul
-url: "/haar/luna-de-istanbul/"
+title: "Luna de Istanbul"
+url: /haar/luna-de-istanbul/
 ---

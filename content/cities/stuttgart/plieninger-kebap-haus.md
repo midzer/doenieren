@@ -1,4 +1,4 @@
 ---
-title: Plieninger Kebap Haus
-url: "/stuttgart/plieninger-kebap-haus/"
+title: "Plieninger Kebap Haus"
+url: /stuttgart/plieninger-kebap-haus/
 ---

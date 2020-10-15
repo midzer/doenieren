@@ -1,4 +1,4 @@
 ---
-title: Sipan Grill
-url: "/erfurt/sipan-grill/"
+title: "Sipan Grill"
+url: /erfurt/sipan-grill/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Estenfeld
-url: "/estenfeld/"
+url: /estenfeld/
 ---

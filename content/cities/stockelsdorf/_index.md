@@ -1,4 +1,4 @@
 ---
 title: Stockelsdorf
-url: "/stockelsdorf/"
+url: /stockelsdorf/
 ---

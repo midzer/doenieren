@@ -1,4 +1,4 @@
 ---
 title: Eldena
-url: "/eldena/"
+url: /eldena/
 ---

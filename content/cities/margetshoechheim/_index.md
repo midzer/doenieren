@@ -1,4 +1,4 @@
 ---
 title: Margetshöchheim
-url: "/margetshoechheim/"
+url: /margetshoechheim/
 ---

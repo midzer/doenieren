@@ -1,4 +1,4 @@
 ---
-title: Tiryaki Döner
-url: "/augsburg/tiryaki-doener/"
+title: "Tiryaki Döner"
+url: /augsburg/tiryaki-doener/
 ---

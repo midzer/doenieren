@@ -1,9 +1,9 @@
 id: 5213944828
 latitude: 51.4574487
 longitude: 11.9721945
-postcode: 06110
+postcode: "06110"
 city: Halle (Saale)
-street: Elsa-Brändström-Straße
+street: "Elsa-Brändström-Straße"
 housenumber: 62
 phone: "+49 345 9773557"
 opening_hours: "Mo-Fr 10:00-22:00; Sa,Su,PH 11:00-22:00"

@@ -1,4 +1,4 @@
 ---
 title: Bad Schönborn
-url: "/bad-schoenborn/"
+url: /bad-schoenborn/
 ---

@@ -1,9 +1,9 @@
 id: 2173842994
 latitude: 51.333974500000004
 longitude: 6.561581800000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

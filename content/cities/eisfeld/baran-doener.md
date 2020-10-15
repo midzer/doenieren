@@ -1,4 +1,4 @@
 ---
-title: Baran Döner
-url: "/eisfeld/baran-doener/"
+title: "Baran Döner"
+url: /eisfeld/baran-doener/
 ---

@@ -1,9 +1,9 @@
 id: 1647185509
 latitude: 52.4813406
 longitude: 13.4378288
-postcode: 12043
+postcode: "12043"
 city: Berlin
-street: Erkstraße
+street: "Erkstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

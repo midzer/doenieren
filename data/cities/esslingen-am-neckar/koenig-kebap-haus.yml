@@ -1,9 +1,9 @@
 id: 2069685509
 latitude: 48.738655
 longitude: 9.312889400000001
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
-street: Obertorstraße
+street: "Obertorstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:00-23:00, Su 12:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Restaurant Dilara
-url: "/laatzen/restaurant-dilara/"
+title: "Restaurant Dilara"
+url: /laatzen/restaurant-dilara/
 ---

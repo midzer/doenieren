@@ -1,4 +1,4 @@
 ---
-title: Osoy Pizza Kebap Haus
-url: "/kirchardt/osoy-pizza-kebap-haus/"
+title: "Osoy Pizza Kebap Haus"
+url: /kirchardt/osoy-pizza-kebap-haus/
 ---

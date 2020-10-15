@@ -1,9 +1,9 @@
 id: 6628649334
 latitude: 48.264871500000005
 longitude: 10.9859577
-postcode: 86415
+postcode: "86415"
 city: Mering
-street: Münchener Straße
+street: "Münchener Straße"
 housenumber: 36
 phone: "+49 8233 7971566"
 opening_hours: "Mo-Sa 09:00-21:00"

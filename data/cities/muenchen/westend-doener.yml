@@ -1,9 +1,9 @@
 id: 329332093
 latitude: 48.1339873
 longitude: 11.522672
-postcode: 80686
+postcode: "80686"
 city: München
-street: Westendstraße
+street: "Westendstraße"
 housenumber: 193
 phone: "+49 179 1995244"
 opening_hours: "Mo-Tu 09:00-18:30; We 09:00-15:30; Th-Fr 09:00-18:30"

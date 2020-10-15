@@ -1,4 +1,4 @@
 ---
 title: Kühlungsborn
-url: "/kuehlungsborn/"
+url: /kuehlungsborn/
 ---

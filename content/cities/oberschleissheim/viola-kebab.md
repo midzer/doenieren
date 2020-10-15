@@ -1,4 +1,4 @@
 ---
-title: Viola Kebab
-url: "/oberschleissheim/viola-kebab/"
+title: "Viola Kebab"
+url: /oberschleissheim/viola-kebab/
 ---

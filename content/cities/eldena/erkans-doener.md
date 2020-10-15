@@ -1,4 +1,4 @@
 ---
-title: Erkan's Döner
-url: "/eldena/erkans-doener/"
+title: "Erkan's Döner"
+url: /eldena/erkans-doener/
 ---

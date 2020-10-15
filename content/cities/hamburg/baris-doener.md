@@ -1,4 +1,4 @@
 ---
-title: Baris Döner
-url: "/hamburg/baris-doener/"
+title: "Baris Döner"
+url: /hamburg/baris-doener/
 ---

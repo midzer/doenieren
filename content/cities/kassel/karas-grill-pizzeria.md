@@ -1,4 +1,4 @@
 ---
-title: Karas Grill-Pizzeria
-url: "/kassel/karas-grill-pizzeria/"
+title: "Karas Grill-Pizzeria"
+url: /kassel/karas-grill-pizzeria/
 ---

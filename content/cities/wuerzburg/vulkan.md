@@ -1,4 +1,4 @@
 ---
-title: Vulkan
-url: "/wuerzburg/vulkan/"
+title: "Vulkan"
+url: /wuerzburg/vulkan/
 ---

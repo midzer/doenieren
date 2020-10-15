@@ -1,9 +1,9 @@
 id: 1200964352
 latitude: 52.510385400000004
 longitude: 13.284072400000001
-postcode: 14057
+postcode: "14057"
 city: Berlin
-street: Kaiserdamm
+street: "Kaiserdamm"
 housenumber: 22
 phone: ""
 opening_hours: ""

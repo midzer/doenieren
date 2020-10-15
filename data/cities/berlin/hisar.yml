@@ -1,9 +1,9 @@
 id: 352924669
 latitude: 52.492927300000005
 longitude: 13.3687441
-postcode: 10965
+postcode: "10965"
 city: Berlin
-street: Yorckstraße
+street: "Yorckstraße"
 housenumber: 49
 phone: "+49 30 2165125"
 opening_hours: ""

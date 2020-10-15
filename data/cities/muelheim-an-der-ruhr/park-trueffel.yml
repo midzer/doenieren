@@ -1,9 +1,9 @@
 id: 911010073
 latitude: 51.38952930000001
 longitude: 6.866867900000001
-postcode: 45481
+postcode: "45481"
 city: Mülheim an der Ruhr
-street: Kölner Straße
+street: "Kölner Straße"
 housenumber: 170
 phone: ""
 opening_hours: "Mo-Su 12:00-01:00"

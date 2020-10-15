@@ -1,9 +1,9 @@
 id: 4118098996
 latitude: 51.720977600000005
 longitude: 7.0138853
-postcode: 46286
+postcode: "46286"
 city: Dorsten
-street: Dülmener Straße
+street: "Dülmener Straße"
 housenumber: 12
 phone: "+49 2369 9320651"
 opening_hours: "Mo-Su 11:30-23:00"

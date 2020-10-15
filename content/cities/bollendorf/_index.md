@@ -1,4 +1,4 @@
 ---
 title: Bollendorf
-url: "/bollendorf/"
+url: /bollendorf/
 ---

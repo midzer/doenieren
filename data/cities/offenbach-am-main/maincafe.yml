@@ -1,9 +1,9 @@
 id: 2861777678
 latitude: 50.107388500000006
 longitude: 8.7616069
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 57C
 phone: "+4915202073081"
 opening_hours: "Mo-Fr 07:00-18:00"

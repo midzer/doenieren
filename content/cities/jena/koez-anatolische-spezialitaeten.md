@@ -1,4 +1,4 @@
 ---
-title: Köz Anatolische Spezialitäten
-url: "/jena/koez-anatolische-spezialitaeten/"
+title: "Köz Anatolische Spezialitäten"
+url: /jena/koez-anatolische-spezialitaeten/
 ---

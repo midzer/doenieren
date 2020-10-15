@@ -1,4 +1,4 @@
 ---
 title: Gilserberg
-url: "/gilserberg/"
+url: /gilserberg/
 ---

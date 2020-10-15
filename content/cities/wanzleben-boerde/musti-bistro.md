@@ -1,4 +1,4 @@
 ---
-title: Musti-Bistro
-url: "/wanzleben-boerde/musti-bistro/"
+title: "Musti-Bistro"
+url: /wanzleben-boerde/musti-bistro/
 ---

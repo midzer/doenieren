@@ -1,4 +1,4 @@
 ---
-title: Lava Grillhaus
-url: "/reutlingen/lava-grillhaus/"
+title: "Lava Grillhaus"
+url: /reutlingen/lava-grillhaus/
 ---

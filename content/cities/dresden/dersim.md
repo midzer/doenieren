@@ -1,4 +1,4 @@
 ---
-title: Dersim
-url: "/dresden/dersim/"
+title: "Dersim"
+url: /dresden/dersim/
 ---

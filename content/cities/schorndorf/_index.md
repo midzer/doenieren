@@ -1,4 +1,4 @@
 ---
 title: Schorndorf
-url: "/schorndorf/"
+url: /schorndorf/
 ---

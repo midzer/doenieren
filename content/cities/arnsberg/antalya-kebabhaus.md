@@ -1,4 +1,4 @@
 ---
-title: Antalya Kebabhaus
-url: "/arnsberg/antalya-kebabhaus/"
+title: "Antalya Kebabhaus"
+url: /arnsberg/antalya-kebabhaus/
 ---

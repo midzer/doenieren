@@ -1,4 +1,4 @@
 ---
 title: Nastätten
-url: "/nastaetten/"
+url: /nastaetten/
 ---

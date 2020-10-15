@@ -1,4 +1,4 @@
 ---
 title: Nienhagen
-url: "/nienhagen/"
+url: /nienhagen/
 ---

@@ -1,9 +1,9 @@
 id: 5281963671
 latitude: 51.356623600000006
 longitude: 8.2885009
-postcode: 59872
+postcode: "59872"
 city: Meschede
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 58
 phone: "+491723576908"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -1,4 +1,4 @@
 ---
-title: Sumer
-url: "/nuernberg/sumer/"
+title: "Sumer"
+url: /nuernberg/sumer/
 ---

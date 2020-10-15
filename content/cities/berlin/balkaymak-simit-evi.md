@@ -1,4 +1,4 @@
 ---
-title: Balkaymak Simit Evi
-url: "/berlin/balkaymak-simit-evi/"
+title: "Balkaymak Simit Evi"
+url: /berlin/balkaymak-simit-evi/
 ---

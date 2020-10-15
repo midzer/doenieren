@@ -1,9 +1,9 @@
 id: 3787790573
 latitude: 48.4597284
 longitude: 11.131423400000001
-postcode: 86551
+postcode: "86551"
 city: Aichach
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00"

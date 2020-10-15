@@ -1,4 +1,4 @@
 ---
-title: Diwan
-url: "/dresden/diwan/"
+title: "Diwan"
+url: /dresden/diwan/
 ---

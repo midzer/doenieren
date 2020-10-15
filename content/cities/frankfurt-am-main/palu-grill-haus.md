@@ -1,4 +1,4 @@
 ---
-title: Palu Grill Haus
-url: "/frankfurt-am-main/palu-grill-haus/"
+title: "Palu Grill Haus"
+url: /frankfurt-am-main/palu-grill-haus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Best Döner
-url: "/wuppertal/best-doener/"
+title: "Best Döner"
+url: /wuppertal/best-doener/
 ---

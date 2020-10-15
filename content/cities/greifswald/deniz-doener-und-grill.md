@@ -1,4 +1,4 @@
 ---
-title: Deniz Döner & Grill
-url: "/greifswald/deniz-doener-und-grill/"
+title: "Deniz Döner & Grill"
+url: /greifswald/deniz-doener-und-grill/
 ---

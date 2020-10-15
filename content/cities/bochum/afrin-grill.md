@@ -1,4 +1,4 @@
 ---
-title: Afrin Grill
-url: "/bochum/afrin-grill/"
+title: "Afrin Grill"
+url: /bochum/afrin-grill/
 ---

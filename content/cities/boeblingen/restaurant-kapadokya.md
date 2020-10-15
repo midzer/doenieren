@@ -1,4 +1,4 @@
 ---
-title: Restaurant Kapadokya
-url: "/boeblingen/restaurant-kapadokya/"
+title: "Restaurant Kapadokya"
+url: /boeblingen/restaurant-kapadokya/
 ---

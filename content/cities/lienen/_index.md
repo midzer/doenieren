@@ -1,4 +1,4 @@
 ---
 title: Lienen
-url: "/lienen/"
+url: /lienen/
 ---

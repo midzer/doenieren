@@ -1,4 +1,4 @@
 ---
-title: Döner Palast Weinhübel
-url: "/goerlitz/doener-palast-weinhuebel/"
+title: "Döner Palast Weinhübel"
+url: /goerlitz/doener-palast-weinhuebel/
 ---

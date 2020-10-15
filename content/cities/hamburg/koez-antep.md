@@ -1,4 +1,4 @@
 ---
-title: Köz Antep
-url: "/hamburg/koez-antep/"
+title: "Köz Antep"
+url: /hamburg/koez-antep/
 ---

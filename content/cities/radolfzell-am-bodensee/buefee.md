@@ -1,4 +1,4 @@
 ---
-title: Büfee
-url: "/radolfzell-am-bodensee/buefee/"
+title: "Büfee"
+url: /radolfzell-am-bodensee/buefee/
 ---

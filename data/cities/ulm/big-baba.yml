@@ -1,9 +1,9 @@
 id: 1477222166
 latitude: 48.3518995
 longitude: 9.9743945
-postcode: 89079
+postcode: "89079"
 city: Ulm
-street: Buchauer Straße
+street: "Buchauer Straße"
 housenumber: 6
 phone: ""
 opening_hours: "10:00-21:00"

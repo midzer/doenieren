@@ -1,4 +1,4 @@
 ---
 title: Langelsheim
-url: "/langelsheim/"
+url: /langelsheim/
 ---

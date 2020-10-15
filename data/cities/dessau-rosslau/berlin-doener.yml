@@ -1,9 +1,9 @@
 id: 6911352682
 latitude: 51.815868200000004
 longitude: 12.225083900000001
-postcode: 06847
+postcode: "06847"
 city: Dessau-Roßlau
-street: Kochstedter Kreisstraße
+street: "Kochstedter Kreisstraße"
 housenumber: 9
 phone: "+491631295783"
 opening_hours: "Mo-Su 11:00-21:00"

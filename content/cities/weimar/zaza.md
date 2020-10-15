@@ -1,4 +1,4 @@
 ---
-title: zaza
-url: "/weimar/zaza/"
+title: "zaza"
+url: /weimar/zaza/
 ---

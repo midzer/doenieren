@@ -1,4 +1,4 @@
 ---
-title: Istanbul Topkapi
-url: "/aue-bad-schlema/istanbul-topkapi/"
+title: "Istanbul Topkapi"
+url: /aue-bad-schlema/istanbul-topkapi/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Nazar-Grill
-url: "/herzogenrath/nazar-grill/"
+title: "Nazar-Grill"
+url: /herzogenrath/nazar-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mevlana Kebab
-url: "/stuttgart/mevlana-kebab/"
+title: "Mevlana Kebab"
+url: /stuttgart/mevlana-kebab/
 ---

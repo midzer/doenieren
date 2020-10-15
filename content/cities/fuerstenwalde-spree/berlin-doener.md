@@ -1,4 +1,4 @@
 ---
-title: Berlin Döner
-url: "/fuerstenwalde-spree/berlin-doener/"
+title: "Berlin Döner"
+url: /fuerstenwalde-spree/berlin-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Steinkirchen
-url: "/steinkirchen/"
+url: /steinkirchen/
 ---

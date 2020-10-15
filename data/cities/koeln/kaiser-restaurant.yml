@@ -1,9 +1,9 @@
 id: 1673071166
 latitude: 50.8812263
 longitude: 7.0752012
-postcode: 51145
+postcode: "51145"
 city: Köln
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 84
 phone: ""
 opening_hours: ""

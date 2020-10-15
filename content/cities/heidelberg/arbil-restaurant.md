@@ -1,4 +1,4 @@
 ---
-title: Arbil Restaurant
-url: "/heidelberg/arbil-restaurant/"
+title: "Arbil Restaurant"
+url: /heidelberg/arbil-restaurant/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Restaurant Larende
-url: "/luedenscheid/restaurant-larende/"
+title: "Restaurant Larende"
+url: /luedenscheid/restaurant-larende/
 ---

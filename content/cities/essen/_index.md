@@ -1,4 +1,4 @@
 ---
 title: Essen
-url: "/essen/"
+url: /essen/
 ---

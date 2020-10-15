@@ -1,4 +1,4 @@
 ---
 title: Nordhorn
-url: "/nordhorn/"
+url: /nordhorn/
 ---

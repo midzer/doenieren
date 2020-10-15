@@ -1,4 +1,4 @@
 ---
-title: hamdi baba
-url: "/berlin/hamdi-baba/"
+title: "hamdi baba"
+url: /berlin/hamdi-baba/
 ---

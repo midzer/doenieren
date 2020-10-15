@@ -1,9 +1,9 @@
 id: 5085677923
 latitude: 48.5763977
 longitude: 7.807029300000001
-postcode: 77694
+postcode: "77694"
 city: Kehl
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 1
 phone: "+49 7851 8890315"
 opening_hours: ""

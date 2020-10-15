@@ -1,4 +1,4 @@
 ---
-title: Flensburger Döner
-url: "/flensburg/flensburger-doener/"
+title: "Flensburger Döner"
+url: /flensburg/flensburger-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Hazar Kebab
-url: "/berlin/hazar-kebab/"
+title: "Hazar Kebab"
+url: /berlin/hazar-kebab/
 ---

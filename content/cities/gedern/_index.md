@@ -1,4 +1,4 @@
 ---
 title: Gedern
-url: "/gedern/"
+url: /gedern/
 ---

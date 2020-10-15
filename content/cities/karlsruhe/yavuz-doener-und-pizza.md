@@ -1,4 +1,4 @@
 ---
-title: Yavuz Döner & Pizza
-url: "/karlsruhe/yavuz-doener-und-pizza/"
+title: "Yavuz Döner & Pizza"
+url: /karlsruhe/yavuz-doener-und-pizza/
 ---

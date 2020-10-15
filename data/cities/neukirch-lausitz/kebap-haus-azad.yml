@@ -1,9 +1,9 @@
 id: 6618490935
 latitude: 51.097230200000006
 longitude: 14.286475300000001
-postcode: 01904
+postcode: "01904"
 city: Neukirch/Lausitz
-street: Dresdener Straße
+street: "Dresdener Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; Su 16:00-22:00"

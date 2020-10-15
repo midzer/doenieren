@@ -1,4 +1,4 @@
 ---
-title: EFE Grillhaus
-url: "/suessen/efe-grillhaus/"
+title: "EFE Grillhaus"
+url: /suessen/efe-grillhaus/
 ---

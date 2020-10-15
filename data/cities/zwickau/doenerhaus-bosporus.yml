@@ -1,9 +1,9 @@
 id: 2925013024
 latitude: 50.7194342
 longitude: 12.4653381
-postcode: 08060
+postcode: "08060"
 city: Zwickau
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 1
 phone: "+49 375 5976472"
 opening_hours: "Mo-Fr 10:00-14:00,16:00-20:00, Sa 11:00-14:00,16:00-22:00, Su 16:00-22:00, PH 11:00-14:00,16:00-22:00"

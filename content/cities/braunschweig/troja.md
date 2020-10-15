@@ -1,4 +1,4 @@
 ---
-title: Troja
-url: "/braunschweig/troja/"
+title: "Troja"
+url: /braunschweig/troja/
 ---

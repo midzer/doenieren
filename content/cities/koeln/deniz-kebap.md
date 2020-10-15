@@ -1,4 +1,4 @@
 ---
-title: Deniz Kebap
-url: "/koeln/deniz-kebap/"
+title: "Deniz Kebap"
+url: /koeln/deniz-kebap/
 ---

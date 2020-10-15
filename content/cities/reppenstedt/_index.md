@@ -1,4 +1,4 @@
 ---
 title: Reppenstedt
-url: "/reppenstedt/"
+url: /reppenstedt/
 ---

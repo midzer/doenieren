@@ -1,4 +1,4 @@
 ---
-title: Fadi
-url: "/berlin/fadi/"
+title: "Fadi"
+url: /berlin/fadi/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sevgi Kebap
-url: "/neu-ulm/sevgi-kebap/"
+title: "Sevgi Kebap"
+url: /neu-ulm/sevgi-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bad Rappenau
-url: "/bad-rappenau/"
+url: /bad-rappenau/
 ---

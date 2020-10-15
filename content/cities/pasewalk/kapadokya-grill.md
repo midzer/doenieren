@@ -1,4 +1,4 @@
 ---
-title: Kapadokya Grill
-url: "/pasewalk/kapadokya-grill/"
+title: "Kapadokya Grill"
+url: /pasewalk/kapadokya-grill/
 ---

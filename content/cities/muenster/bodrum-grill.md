@@ -1,4 +1,4 @@
 ---
-title: Bodrum Grill
-url: "/muenster/bodrum-grill/"
+title: "Bodrum Grill"
+url: /muenster/bodrum-grill/
 ---

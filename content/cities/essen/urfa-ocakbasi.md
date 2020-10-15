@@ -1,4 +1,4 @@
 ---
-title: Urfa Ocakbasi
-url: "/essen/urfa-ocakbasi/"
+title: "Urfa Ocakbasi"
+url: /essen/urfa-ocakbasi/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Perfekt Grill
-url: "/bielefeld/perfekt-grill/"
+title: "Perfekt Grill"
+url: /bielefeld/perfekt-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Blitz-Grill
-url: "/blomberg/blitz-grill/"
+title: "Blitz-Grill"
+url: /blomberg/blitz-grill/
 ---

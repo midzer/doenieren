@@ -1,4 +1,4 @@
 ---
-title: Multigrill & Feinkost
-url: "/bielefeld/multigrill-und-feinkost/"
+title: "Multigrill & Feinkost"
+url: /bielefeld/multigrill-und-feinkost/
 ---

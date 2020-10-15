@@ -1,4 +1,4 @@
 ---
-title: Nemrut Restaurant
-url: "/leonberg/nemrut-restaurant/"
+title: "Nemrut Restaurant"
+url: /leonberg/nemrut-restaurant/
 ---

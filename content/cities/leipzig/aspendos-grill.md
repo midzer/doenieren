@@ -1,4 +1,4 @@
 ---
-title: Aspendos Grill
-url: "/leipzig/aspendos-grill/"
+title: "Aspendos Grill"
+url: /leipzig/aspendos-grill/
 ---

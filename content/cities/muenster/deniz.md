@@ -1,4 +1,4 @@
 ---
-title: Deniz
-url: "/muenster/deniz/"
+title: "Deniz"
+url: /muenster/deniz/
 ---

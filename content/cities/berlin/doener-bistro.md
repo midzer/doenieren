@@ -1,4 +1,4 @@
 ---
-title: Döner Bistro
-url: "/berlin/doener-bistro/"
+title: "Döner Bistro"
+url: /berlin/doener-bistro/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ismet III
-url: "/bremen/ismet-iii/"
+title: "Ismet III"
+url: /bremen/ismet-iii/
 ---

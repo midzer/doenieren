@@ -1,4 +1,4 @@
 ---
-title: Berat
-url: "/augsburg/berat/"
+title: "Berat"
+url: /augsburg/berat/
 ---

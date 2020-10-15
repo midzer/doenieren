@@ -1,4 +1,4 @@
 ---
-title: Emek Döner 2
-url: "/zellingen/emek-doener-2/"
+title: "Emek Döner 2"
+url: /zellingen/emek-doener-2/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kebapzone
-url: "/mainz/kebapzone/"
+title: "Kebapzone"
+url: /mainz/kebapzone/
 ---

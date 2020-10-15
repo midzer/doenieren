@@ -1,9 +1,9 @@
 id: 5062068083
 latitude: 48.472777
 longitude: 8.935874400000001
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
-street: Poststraße
+street: "Poststraße"
 housenumber: 17
 phone: "+49 7472 8433"
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-21:00"

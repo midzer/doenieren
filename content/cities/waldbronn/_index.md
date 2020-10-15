@@ -1,4 +1,4 @@
 ---
 title: Waldbronn
-url: "/waldbronn/"
+url: /waldbronn/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Pamukkale Köz
-url: "/hamburg/pamukkale-koez/"
+title: "Pamukkale Köz"
+url: /hamburg/pamukkale-koez/
 ---

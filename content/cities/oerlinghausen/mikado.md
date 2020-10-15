@@ -1,4 +1,4 @@
 ---
-title: Mikado
-url: "/oerlinghausen/mikado/"
+title: "Mikado"
+url: /oerlinghausen/mikado/
 ---

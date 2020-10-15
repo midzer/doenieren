@@ -1,4 +1,4 @@
 ---
-title: Köz A'la Turca
-url: "/hamburg/koez-ala-turca/"
+title: "Köz A'la Turca"
+url: /hamburg/koez-ala-turca/
 ---

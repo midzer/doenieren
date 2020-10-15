@@ -1,4 +1,4 @@
 ---
-title: Sidos Döner
-url: "/dahme/sidos-doener/"
+title: "Sidos Döner"
+url: /dahme/sidos-doener/
 ---

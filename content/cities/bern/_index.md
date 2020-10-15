@@ -1,0 +1,4 @@
+---
+title: Bern
+url: /bern/
+---

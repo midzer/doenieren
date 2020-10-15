@@ -1,4 +1,4 @@
 ---
-title: Erciyes
-url: "/schotten/erciyes/"
+title: "Erciyes"
+url: /schotten/erciyes/
 ---

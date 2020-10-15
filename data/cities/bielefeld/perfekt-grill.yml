@@ -1,9 +1,9 @@
 id: 3603720074
 latitude: 52.0125778
 longitude: 8.5215134
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
-street: Gadderbaumer Straße
+street: "Gadderbaumer Straße"
 housenumber: 41
 phone: "+49-521-9151801"
 opening_hours: "Mo-Fr 11:30-22:00, Sa,Su,PH 11:30-22:00"

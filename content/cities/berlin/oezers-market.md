@@ -1,4 +1,4 @@
 ---
-title: Özer's Market
-url: "/berlin/oezers-market/"
+title: "Özer's Market"
+url: /berlin/oezers-market/
 ---

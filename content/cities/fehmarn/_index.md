@@ -1,4 +1,4 @@
 ---
 title: Fehmarn
-url: "/fehmarn/"
+url: /fehmarn/
 ---

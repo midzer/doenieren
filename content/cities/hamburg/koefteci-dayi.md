@@ -1,4 +1,4 @@
 ---
-title: Köfteci Dayi
-url: "/hamburg/koefteci-dayi/"
+title: "Köfteci Dayi"
+url: /hamburg/koefteci-dayi/
 ---

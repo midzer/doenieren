@@ -1,9 +1,9 @@
 id: 6335470916
 latitude: 50.970501500000005
 longitude: 9.793161000000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 25-27
 phone: ""
 opening_hours: ""

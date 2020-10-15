@@ -1,4 +1,4 @@
 ---
-title: Mehmet Akif
-url: "/duisburg/mehmet-akif/"
+title: "Mehmet Akif"
+url: /duisburg/mehmet-akif/
 ---

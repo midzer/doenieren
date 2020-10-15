@@ -1,4 +1,4 @@
 ---
-title: Restaurant Levantine
-url: "/erlangen/restaurant-levantine/"
+title: "Restaurant Levantine"
+url: /erlangen/restaurant-levantine/
 ---

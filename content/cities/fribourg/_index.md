@@ -1,0 +1,4 @@
+---
+title: Fribourg
+url: /fribourg/
+---

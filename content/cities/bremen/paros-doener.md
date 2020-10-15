@@ -1,4 +1,4 @@
 ---
-title: Paros Döner
-url: "/bremen/paros-doener/"
+title: "Paros Döner"
+url: /bremen/paros-doener/
 ---

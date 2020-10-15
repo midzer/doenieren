@@ -1,4 +1,4 @@
 ---
-title: Berliner Gemüse Kebap
-url: "/trier/berliner-gemuese-kebap/"
+title: "Berliner Gemüse Kebap"
+url: /trier/berliner-gemuese-kebap/
 ---

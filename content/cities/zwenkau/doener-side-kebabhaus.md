@@ -1,4 +1,4 @@
 ---
-title: Döner Side Kebabhaus
-url: "/zwenkau/doener-side-kebabhaus/"
+title: "Döner Side Kebabhaus"
+url: /zwenkau/doener-side-kebabhaus/
 ---

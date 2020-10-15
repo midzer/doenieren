@@ -1,4 +1,4 @@
 ---
-title: Charly's Dönerhaus
-url: "/wiesentheid/charlys-doenerhaus/"
+title: "Charly's Dönerhaus"
+url: /wiesentheid/charlys-doenerhaus/
 ---

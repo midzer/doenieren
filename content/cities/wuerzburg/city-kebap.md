@@ -1,4 +1,4 @@
 ---
-title: City Kebap
-url: "/wuerzburg/city-kebap/"
+title: "City Kebap"
+url: /wuerzburg/city-kebap/
 ---

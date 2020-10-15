@@ -1,9 +1,9 @@
 id: 7309852059
 latitude: 50.7976412
 longitude: 6.451071000000001
-postcode: 52355
+postcode: "52355"
 city: Düren
-street: Schillingsstraße
+street: "Schillingsstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Su 11:00-22:00"

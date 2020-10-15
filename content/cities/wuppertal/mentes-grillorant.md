@@ -1,4 +1,4 @@
 ---
-title: Mentes Grillorant
-url: "/wuppertal/mentes-grillorant/"
+title: "Mentes Grillorant"
+url: /wuppertal/mentes-grillorant/
 ---

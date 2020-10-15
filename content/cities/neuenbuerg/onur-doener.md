@@ -1,4 +1,4 @@
 ---
-title: ONUR-Döner
-url: "/neuenbuerg/onur-doener/"
+title: "ONUR-Döner"
+url: /neuenbuerg/onur-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: PiKeH
-url: "/bad-wimpfen/pikeh/"
+title: "PiKeH"
+url: /bad-wimpfen/pikeh/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Umut
-url: "/illertissen/umut/"
+title: "Umut"
+url: /illertissen/umut/
 ---

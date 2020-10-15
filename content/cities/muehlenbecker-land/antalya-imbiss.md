@@ -1,4 +1,4 @@
 ---
-title: Antalya Imbiss
-url: "/muehlenbecker-land/antalya-imbiss/"
+title: "Antalya Imbiss"
+url: /muehlenbecker-land/antalya-imbiss/
 ---

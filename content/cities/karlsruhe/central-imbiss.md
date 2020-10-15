@@ -1,4 +1,4 @@
 ---
-title: Central Imbiss
-url: "/karlsruhe/central-imbiss/"
+title: "Central Imbiss"
+url: /karlsruhe/central-imbiss/
 ---

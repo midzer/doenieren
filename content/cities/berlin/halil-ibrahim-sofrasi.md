@@ -1,4 +1,4 @@
 ---
-title: Halil Ibrahim Sofrasi
-url: "/berlin/halil-ibrahim-sofrasi/"
+title: "Halil Ibrahim Sofrasi"
+url: /berlin/halil-ibrahim-sofrasi/
 ---

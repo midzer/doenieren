@@ -1,9 +1,9 @@
 id: 4249276117
 latitude: 53.699637300000006
 longitude: 10.774565800000001
-postcode: 23909
+postcode: "23909"
 city: Ratzeburg
-street: Am Markt
+street: "Am Markt"
 housenumber: 3
 phone: ""
 opening_hours: ""

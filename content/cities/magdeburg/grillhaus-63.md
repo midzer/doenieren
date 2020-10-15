@@ -1,4 +1,4 @@
 ---
-title: Grillhaus 63
-url: "/magdeburg/grillhaus-63/"
+title: "Grillhaus 63"
+url: /magdeburg/grillhaus-63/
 ---

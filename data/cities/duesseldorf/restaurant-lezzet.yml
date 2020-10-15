@@ -1,9 +1,9 @@
 id: 4239087689
 latitude: 51.2428748
 longitude: 6.7813626000000005
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
-street: Seydlitzstraße
+street: "Seydlitzstraße"
 housenumber: 55
 phone: "+49 211 93896376"
 opening_hours: "Mo-Su 11:30-23:00"

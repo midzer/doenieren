@@ -1,4 +1,4 @@
 ---
-title: Anatolien-Grill
-url: "/luedenscheid/anatolien-grill/"
+title: "Anatolien-Grill"
+url: /luedenscheid/anatolien-grill/
 ---

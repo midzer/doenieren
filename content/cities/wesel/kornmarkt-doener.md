@@ -1,4 +1,4 @@
 ---
-title: Kornmarkt Döner
-url: "/wesel/kornmarkt-doener/"
+title: "Kornmarkt Döner"
+url: /wesel/kornmarkt-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: ISTANBUL Dönerhaus
-url: "/oelsnitz-erzgeb/istanbul-doenerhaus/"
+title: "ISTANBUL Dönerhaus"
+url: /oelsnitz-erzgeb/istanbul-doenerhaus/
 ---

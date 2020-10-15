@@ -1,4 +1,4 @@
 ---
-title: Evia-Grill
-url: "/wuppertal/evia-grill/"
+title: "Evia-Grill"
+url: /wuppertal/evia-grill/
 ---

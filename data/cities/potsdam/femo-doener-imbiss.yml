@@ -1,9 +1,9 @@
 id: 5198736922
 latitude: 52.4120928
 longitude: 13.048611000000001
-postcode: 14469
+postcode: "14469"
 city: Potsdam
-street: Georg-Hermann-Allee
+street: "Georg-Hermann-Allee"
 housenumber: 11
 phone: "+49 331 64734560"
 opening_hours: "Mo-Su 07:00-21:00"

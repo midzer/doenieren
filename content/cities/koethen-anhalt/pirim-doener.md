@@ -1,4 +1,4 @@
 ---
-title: Pirim Döner
-url: "/koethen-anhalt/pirim-doener/"
+title: "Pirim Döner"
+url: /koethen-anhalt/pirim-doener/
 ---

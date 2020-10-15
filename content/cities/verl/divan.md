@@ -1,4 +1,4 @@
 ---
-title: Divan
-url: "/verl/divan/"
+title: "Divan"
+url: /verl/divan/
 ---

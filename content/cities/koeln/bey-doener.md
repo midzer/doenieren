@@ -1,4 +1,4 @@
 ---
-title: Bey Döner
-url: "/koeln/bey-doener/"
+title: "Bey Döner"
+url: /koeln/bey-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Çiğköftem Wiesbaden
-url: "/wiesbaden/cigkoeftem-wiesbaden/"
+title: "Çiğköftem Wiesbaden"
+url: /wiesbaden/cigkoeftem-wiesbaden/
 ---

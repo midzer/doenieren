@@ -1,4 +1,4 @@
 ---
-title: Alanya Imbiss Pizzeria
-url: "/dannenberg/alanya-imbiss-pizzeria/"
+title: "Alanya Imbiss Pizzeria"
+url: /dannenberg/alanya-imbiss-pizzeria/
 ---

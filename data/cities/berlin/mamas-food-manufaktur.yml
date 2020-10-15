@@ -1,9 +1,9 @@
 id: 4075330483
 latitude: 52.52848040000001
 longitude: 13.3429479
-postcode: 10551
+postcode: "10551"
 city: Berlin
-street: Stromstraße
+street: "Stromstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

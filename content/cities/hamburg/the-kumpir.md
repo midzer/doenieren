@@ -1,4 +1,4 @@
 ---
-title: The Kumpir
-url: "/hamburg/the-kumpir/"
+title: "The Kumpir"
+url: /hamburg/the-kumpir/
 ---

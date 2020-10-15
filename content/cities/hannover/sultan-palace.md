@@ -1,4 +1,4 @@
 ---
-title: Sultan Palace
-url: "/hannover/sultan-palace/"
+title: "Sultan Palace"
+url: /hannover/sultan-palace/
 ---

@@ -1,9 +1,9 @@
 id: 3815180023
 latitude: 52.41590780000001
 longitude: 7.0701920000000005
-postcode: 48529
+postcode: "48529"
 city: Nordhorn
-street: Monikastraße
+street: "Monikastraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

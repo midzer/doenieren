@@ -1,4 +1,4 @@
 ---
-title: Lider Kokorec
-url: "/bielefeld/lider-kokorec/"
+title: "Lider Kokorec"
+url: /bielefeld/lider-kokorec/
 ---

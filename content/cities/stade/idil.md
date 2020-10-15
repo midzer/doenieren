@@ -1,4 +1,4 @@
 ---
-title: Idil
-url: "/stade/idil/"
+title: "Idil"
+url: /stade/idil/
 ---

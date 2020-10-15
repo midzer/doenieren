@@ -1,4 +1,4 @@
 ---
-title: Adama Et
-url: "/koeln/adama-et/"
+title: "Adama Et"
+url: /koeln/adama-et/
 ---

@@ -1,9 +1,9 @@
 id: 4335789890
 latitude: 50.97309550000001
 longitude: 11.0103547
-postcode: 99092
+postcode: "99092"
 city: Erfurt
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

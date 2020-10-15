@@ -1,4 +1,4 @@
 ---
-title: Eurogida Grill
-url: "/berlin/eurogida-grill/"
+title: "Eurogida Grill"
+url: /berlin/eurogida-grill/
 ---

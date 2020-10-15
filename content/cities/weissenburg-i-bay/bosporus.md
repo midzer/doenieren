@@ -1,4 +1,4 @@
 ---
-title: Bosporus
-url: "/weissenburg-i-bay/bosporus/"
+title: "Bosporus"
+url: /weissenburg-i-bay/bosporus/
 ---

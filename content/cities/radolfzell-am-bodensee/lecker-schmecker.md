@@ -1,4 +1,4 @@
 ---
-title: Lecker Schmecker
-url: "/radolfzell-am-bodensee/lecker-schmecker/"
+title: "Lecker Schmecker"
+url: /radolfzell-am-bodensee/lecker-schmecker/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Döner Palast Wittorf
-url: "/neumuenster/doener-palast-wittorf/"
+title: "Döner Palast Wittorf"
+url: /neumuenster/doener-palast-wittorf/
 ---

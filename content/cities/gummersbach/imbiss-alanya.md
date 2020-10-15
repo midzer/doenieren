@@ -1,4 +1,4 @@
 ---
-title: IMBISS ALANYA
-url: "/gummersbach/imbiss-alanya/"
+title: "IMBISS ALANYA"
+url: /gummersbach/imbiss-alanya/
 ---

@@ -1,9 +1,9 @@
 id: 5245277221
 latitude: 49.352990500000004
 longitude: 6.7254353
-postcode: 66763
+postcode: "66763"
 city: Dillingen/Saar
-street: Stummstraße
+street: "Stummstraße"
 housenumber: 15a
 phone: "+49 6831 1661402"
 opening_hours: ""

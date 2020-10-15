@@ -1,4 +1,4 @@
 ---
-title: Istanbul Grill
-url: "/varel/istanbul-grill/"
+title: "Istanbul Grill"
+url: /varel/istanbul-grill/
 ---

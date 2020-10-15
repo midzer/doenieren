@@ -1,4 +1,4 @@
 ---
-title: Urfa Palast
-url: "/darmstadt/urfa-palast/"
+title: "Urfa Palast"
+url: /darmstadt/urfa-palast/
 ---

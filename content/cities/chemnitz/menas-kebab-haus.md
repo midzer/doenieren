@@ -1,4 +1,4 @@
 ---
-title: Menas Kebab Haus
-url: "/chemnitz/menas-kebab-haus/"
+title: "Menas Kebab Haus"
+url: /chemnitz/menas-kebab-haus/
 ---

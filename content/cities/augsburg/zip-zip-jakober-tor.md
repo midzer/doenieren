@@ -1,4 +1,4 @@
 ---
-title: Zip Zip Jakober Tor
-url: "/augsburg/zip-zip-jakober-tor/"
+title: "Zip Zip Jakober Tor"
+url: /augsburg/zip-zip-jakober-tor/
 ---

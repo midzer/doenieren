@@ -1,4 +1,4 @@
 ---
-title: Paradise 63
-url: "/ravensburg/paradise-63/"
+title: "Paradise 63"
+url: /ravensburg/paradise-63/
 ---

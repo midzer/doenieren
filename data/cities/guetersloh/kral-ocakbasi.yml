@@ -1,9 +1,9 @@
 id: 3882161827
 latitude: 51.908756200000006
 longitude: 8.3779336
-postcode: 33330
+postcode: "33330"
 city: Gütersloh
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

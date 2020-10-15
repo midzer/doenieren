@@ -1,4 +1,4 @@
 ---
-title: Isirik Döner
-url: "/berlin/isirik-doener/"
+title: "Isirik Döner"
+url: /berlin/isirik-doener/
 ---

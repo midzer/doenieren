@@ -1,4 +1,4 @@
 ---
-title: City Grill
-url: "/markkleeberg/city-grill/"
+title: "City Grill"
+url: /markkleeberg/city-grill/
 ---

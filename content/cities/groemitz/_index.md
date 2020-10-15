@@ -1,4 +1,4 @@
 ---
 title: Grömitz
-url: "/groemitz/"
+url: /groemitz/
 ---

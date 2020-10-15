@@ -1,4 +1,4 @@
 ---
-title: Garip's Schnellrestaurant
-url: "/kiel/garips-schnellrestaurant/"
+title: "Garip's Schnellrestaurant"
+url: /kiel/garips-schnellrestaurant/
 ---

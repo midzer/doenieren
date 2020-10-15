@@ -1,4 +1,4 @@
 ---
-title: Gourmet Lounge Brauweiler
-url: "/pulheim/gourmet-lounge-brauweiler/"
+title: "Gourmet Lounge Brauweiler"
+url: /pulheim/gourmet-lounge-brauweiler/
 ---

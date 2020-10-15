@@ -1,4 +1,4 @@
 ---
-title: Side Grill
-url: "/bedburg/side-grill/"
+title: "Side Grill"
+url: /bedburg/side-grill/
 ---

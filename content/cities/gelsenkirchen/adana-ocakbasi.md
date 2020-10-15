@@ -1,4 +1,4 @@
 ---
-title: Adana ocakbasi
-url: "/gelsenkirchen/adana-ocakbasi/"
+title: "Adana ocakbasi"
+url: /gelsenkirchen/adana-ocakbasi/
 ---

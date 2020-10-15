@@ -1,9 +1,9 @@
 id: 2606463562
 latitude: 50.7004772
 longitude: 11.016139
-postcode: 98693
+postcode: "98693"
 city: Ilmenau
-street: Hinter den Gärten
+street: "Hinter den Gärten"
 housenumber: 5 A
 phone: "+49 36785 52389"
 opening_hours: ""

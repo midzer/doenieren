@@ -1,4 +1,4 @@
 ---
-title: Kebab Haus
-url: "/wuppertal/kebab-haus/"
+title: "Kebab Haus"
+url: /wuppertal/kebab-haus/
 ---

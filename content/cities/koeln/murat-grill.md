@@ -1,4 +1,4 @@
 ---
-title: Murat Grill
-url: "/koeln/murat-grill/"
+title: "Murat Grill"
+url: /koeln/murat-grill/
 ---

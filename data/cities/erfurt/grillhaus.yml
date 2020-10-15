@@ -1,9 +1,9 @@
 id: 3282432356
 latitude: 50.97792260000001
 longitude: 11.027012500000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

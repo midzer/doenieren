@@ -1,4 +1,4 @@
 ---
-title: Zilan Kebaphaus
-url: "/joachimsthal/zilan-kebaphaus/"
+title: "Zilan Kebaphaus"
+url: /joachimsthal/zilan-kebaphaus/
 ---

@@ -1,9 +1,9 @@
 id: 697308802
 latitude: 51.1812498
 longitude: 6.866652500000001
-postcode: 40599
+postcode: "40599"
 city: Düsseldorf
-street: Schneidemühler Straße
+street: "Schneidemühler Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Su 09:00-21:00"

@@ -1,4 +1,4 @@
 ---
-title: Ali Baba
-url: "/pforzheim/ali-baba/"
+title: "Ali Baba"
+url: /pforzheim/ali-baba/
 ---

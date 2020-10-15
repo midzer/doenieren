@@ -1,9 +1,9 @@
 id: 1823298813
 latitude: 51.0769364
 longitude: 10.3345669
-postcode: 99831
+postcode: "99831"
 city: Amt Creuzburg
-street: Markt Mihla
+street: "Markt Mihla"
 housenumber: 21
 phone: "+49-36924-31423"
 opening_hours: "Mo-Sa 11:00-21:30; Su 13:00-21:30"

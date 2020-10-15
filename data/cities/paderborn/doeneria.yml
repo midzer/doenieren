@@ -1,9 +1,9 @@
 id: 2118662970
 latitude: 51.703276200000005
 longitude: 8.7686141
-postcode: 33100
+postcode: "33100"
 city: Paderborn
-street: Husener Straße
+street: "Husener Straße"
 housenumber: 121
 phone: ""
 opening_hours: "Mo-Sa 10:30-20:30"

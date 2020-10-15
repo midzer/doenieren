@@ -1,4 +1,4 @@
 ---
-title: Mama Soul
-url: "/augsburg/mama-soul/"
+title: "Mama Soul"
+url: /augsburg/mama-soul/
 ---

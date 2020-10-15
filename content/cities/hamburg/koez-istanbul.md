@@ -1,4 +1,4 @@
 ---
-title: Köz Istanbul
-url: "/hamburg/koez-istanbul/"
+title: "Köz Istanbul"
+url: /hamburg/koez-istanbul/
 ---

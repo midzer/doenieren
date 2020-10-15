@@ -1,4 +1,4 @@
 ---
 title: Neubrandenburg
-url: "/neubrandenburg/"
+url: /neubrandenburg/
 ---

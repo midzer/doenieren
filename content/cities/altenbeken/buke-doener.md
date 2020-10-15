@@ -1,4 +1,4 @@
 ---
-title: Buke Döner
-url: "/altenbeken/buke-doener/"
+title: "Buke Döner"
+url: /altenbeken/buke-doener/
 ---

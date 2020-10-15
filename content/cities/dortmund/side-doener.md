@@ -1,4 +1,4 @@
 ---
-title: Side Döner
-url: "/dortmund/side-doener/"
+title: "Side Döner"
+url: /dortmund/side-doener/
 ---

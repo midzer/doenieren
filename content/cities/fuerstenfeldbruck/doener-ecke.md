@@ -1,4 +1,4 @@
 ---
-title: Döner-Ecke
-url: "/fuerstenfeldbruck/doener-ecke/"
+title: "Döner-Ecke"
+url: /fuerstenfeldbruck/doener-ecke/
 ---

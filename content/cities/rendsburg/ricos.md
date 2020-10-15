@@ -1,4 +1,4 @@
 ---
-title: Rico's
-url: "/rendsburg/ricos/"
+title: "Rico's"
+url: /rendsburg/ricos/
 ---

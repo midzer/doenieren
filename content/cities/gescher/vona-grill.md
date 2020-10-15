@@ -1,4 +1,4 @@
 ---
-title: Vona Grill
-url: "/gescher/vona-grill/"
+title: "Vona Grill"
+url: /gescher/vona-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Big Döner - Pizzeria
-url: "/luedenscheid/big-doener-pizzeria/"
+title: "Big Döner - Pizzeria"
+url: /luedenscheid/big-doener-pizzeria/
 ---

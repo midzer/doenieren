@@ -1,4 +1,4 @@
 ---
-title: Tunur Imbiss
-url: "/friedrichsdorf/tunur-imbiss/"
+title: "Tunur Imbiss"
+url: /friedrichsdorf/tunur-imbiss/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Saray Restaurant
-url: "/singen-hohentwiel/saray-restaurant/"
+title: "Saray Restaurant"
+url: /singen-hohentwiel/saray-restaurant/
 ---

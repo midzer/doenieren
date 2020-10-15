@@ -1,9 +1,9 @@
 id: 270140614
 latitude: 51.4812389
 longitude: 7.2205364
-postcode: 44787
+postcode: "44787"
 city: Bochum
-street: Bleichstraße
+street: "Bleichstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 09:30-01:00"

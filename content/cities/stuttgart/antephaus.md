@@ -1,4 +1,4 @@
 ---
-title: AntepHaus
-url: "/stuttgart/antephaus/"
+title: "AntepHaus"
+url: /stuttgart/antephaus/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Leichlingen (Rheinland)
-url: "/leichlingen-rheinland/"
+url: /leichlingen-rheinland/
 ---

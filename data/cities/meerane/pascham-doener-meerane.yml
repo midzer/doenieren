@@ -1,9 +1,9 @@
 id: 1704258046
 latitude: 50.838899700000006
 longitude: 12.4464635
-postcode: 08393
+postcode: "08393"
 city: Meerane
-street: Guteborner Allee
+street: "Guteborner Allee"
 housenumber: 3
 phone: "+49 3764 795988"
 opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00"

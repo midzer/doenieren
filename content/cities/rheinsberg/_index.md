@@ -1,4 +1,4 @@
 ---
 title: Rheinsberg
-url: "/rheinsberg/"
+url: /rheinsberg/
 ---

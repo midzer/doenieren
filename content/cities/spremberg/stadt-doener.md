@@ -1,4 +1,4 @@
 ---
-title: Stadt-Döner
-url: "/spremberg/stadt-doener/"
+title: "Stadt-Döner"
+url: /spremberg/stadt-doener/
 ---

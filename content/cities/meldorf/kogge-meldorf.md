@@ -1,4 +1,4 @@
 ---
-title: Kogge Meldorf
-url: "/meldorf/kogge-meldorf/"
+title: "Kogge Meldorf"
+url: /meldorf/kogge-meldorf/
 ---

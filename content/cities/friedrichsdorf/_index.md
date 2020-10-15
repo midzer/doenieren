@@ -1,4 +1,4 @@
 ---
 title: Friedrichsdorf
-url: "/friedrichsdorf/"
+url: /friedrichsdorf/
 ---

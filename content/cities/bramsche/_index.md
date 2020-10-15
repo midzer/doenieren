@@ -1,4 +1,4 @@
 ---
 title: Bramsche
-url: "/bramsche/"
+url: /bramsche/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Altintop
-url: "/berlin/altintop/"
+title: "Altintop"
+url: /berlin/altintop/
 ---

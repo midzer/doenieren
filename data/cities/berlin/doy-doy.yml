@@ -1,9 +1,9 @@
 id: 1764332711
 latitude: 52.531770900000005
 longitude: 13.34256
-postcode: 10551
+postcode: "10551"
 city: Berlin
-street: Birkenstraße
+street: "Birkenstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

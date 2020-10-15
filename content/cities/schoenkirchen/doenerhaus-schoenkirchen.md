@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus Schönkirchen
-url: "/schoenkirchen/doenerhaus-schoenkirchen/"
+title: "Dönerhaus Schönkirchen"
+url: /schoenkirchen/doenerhaus-schoenkirchen/
 ---

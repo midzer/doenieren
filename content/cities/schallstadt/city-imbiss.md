@@ -1,4 +1,4 @@
 ---
-title: City-Imbiss
-url: "/schallstadt/city-imbiss/"
+title: "City-Imbiss"
+url: /schallstadt/city-imbiss/
 ---

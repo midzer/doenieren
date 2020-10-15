@@ -1,4 +1,4 @@
 ---
-title: Yufka Döner
-url: "/lorsch/yufka-doener/"
+title: "Yufka Döner"
+url: /lorsch/yufka-doener/
 ---

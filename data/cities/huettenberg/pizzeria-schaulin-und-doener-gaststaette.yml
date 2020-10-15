@@ -1,9 +1,9 @@
 id: 485812918
 latitude: 50.50472430000001
 longitude: 8.5479997
-postcode: 35625
+postcode: "35625"
 city: Hüttenberg
-street: Rheinfelser Straße
+street: "Rheinfelser Straße"
 housenumber: 57
 phone: "+49-6441-4491944"
 opening_hours: "Tu-Su 11:00-14:30,16:00-21:30"

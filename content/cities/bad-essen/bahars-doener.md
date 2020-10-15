@@ -1,4 +1,4 @@
 ---
-title: Bahars Döner
-url: "/bad-essen/bahars-doener/"
+title: "Bahars Döner"
+url: /bad-essen/bahars-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Globus Döner
-url: "/dessau-rosslau/globus-doener/"
+title: "Globus Döner"
+url: /dessau-rosslau/globus-doener/
 ---

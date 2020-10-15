@@ -1,9 +1,9 @@
 id: 776032208
 latitude: 48.397108300000006
 longitude: 10.008869800000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
-street: Glacisstraße
+street: "Glacisstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

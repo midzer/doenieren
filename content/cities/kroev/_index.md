@@ -1,4 +1,4 @@
 ---
 title: Kröv
-url: "/kroev/"
+url: /kroev/
 ---

@@ -1,4 +1,4 @@
 ---
-title: ÖzDoyum
-url: "/aachen/oezdoyum/"
+title: "ÖzDoyum"
+url: /aachen/oezdoyum/
 ---

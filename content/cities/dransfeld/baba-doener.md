@@ -1,4 +1,4 @@
 ---
-title: Baba-Döner
-url: "/dransfeld/baba-doener/"
+title: "Baba-Döner"
+url: /dransfeld/baba-doener/
 ---

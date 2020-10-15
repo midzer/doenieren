@@ -1,4 +1,4 @@
 ---
-title: Moosacher Imbiss I
-url: "/muenchen/moosacher-imbiss-i/"
+title: "Moosacher Imbiss I"
+url: /muenchen/moosacher-imbiss-i/
 ---

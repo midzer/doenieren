@@ -1,4 +1,4 @@
 ---
-title: Merakli Köfteci
-url: "/berlin/merakli-koefteci/"
+title: "Merakli Köfteci"
+url: /berlin/merakli-koefteci/
 ---

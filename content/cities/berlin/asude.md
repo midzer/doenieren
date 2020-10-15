@@ -1,4 +1,4 @@
 ---
-title: Asude
-url: "/berlin/asude/"
+title: "Asude"
+url: /berlin/asude/
 ---

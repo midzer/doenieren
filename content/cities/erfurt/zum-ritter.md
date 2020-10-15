@@ -1,4 +1,4 @@
 ---
-title: Zum Ritter
-url: "/erfurt/zum-ritter/"
+title: "Zum Ritter"
+url: /erfurt/zum-ritter/
 ---

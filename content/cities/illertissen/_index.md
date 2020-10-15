@@ -1,4 +1,4 @@
 ---
 title: Illertissen
-url: "/illertissen/"
+url: /illertissen/
 ---

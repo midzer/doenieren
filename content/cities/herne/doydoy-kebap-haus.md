@@ -1,4 +1,4 @@
 ---
-title: DoyDoy Kebap Haus
-url: "/herne/doydoy-kebap-haus/"
+title: "DoyDoy Kebap Haus"
+url: /herne/doydoy-kebap-haus/
 ---

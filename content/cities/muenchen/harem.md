@@ -1,4 +1,4 @@
 ---
-title: Harem
-url: "/muenchen/harem/"
+title: "Harem"
+url: /muenchen/harem/
 ---

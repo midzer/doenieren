@@ -1,9 +1,9 @@
 id: 1578620711
 latitude: 51.240830700000004
 longitude: 6.7825009000000005
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
-street: Münsterstraße
+street: "Münsterstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

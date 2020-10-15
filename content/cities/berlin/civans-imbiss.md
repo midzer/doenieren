@@ -1,4 +1,4 @@
 ---
-title: Civan’s Imbiss
-url: "/berlin/civans-imbiss/"
+title: "Civan’s Imbiss"
+url: /berlin/civans-imbiss/
 ---

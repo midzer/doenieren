@@ -1,4 +1,4 @@
 ---
-title: Matzus Imbiss
-url: "/sibbesse/matzus-imbiss/"
+title: "Matzus Imbiss"
+url: /sibbesse/matzus-imbiss/
 ---

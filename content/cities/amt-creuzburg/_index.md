@@ -1,4 +1,4 @@
 ---
 title: Amt Creuzburg
-url: "/amt-creuzburg/"
+url: /amt-creuzburg/
 ---

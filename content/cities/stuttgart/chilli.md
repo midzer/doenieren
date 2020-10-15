@@ -1,4 +1,4 @@
 ---
-title: Chilli
-url: "/stuttgart/chilli/"
+title: "Chilli"
+url: /stuttgart/chilli/
 ---

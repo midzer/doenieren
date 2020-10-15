@@ -1,0 +1,4 @@
+---
+title: Buchs
+url: /buchs/
+---

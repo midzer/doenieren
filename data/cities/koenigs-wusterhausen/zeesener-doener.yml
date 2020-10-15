@@ -1,9 +1,9 @@
 id: 5108950125
 latitude: 52.2747443
 longitude: 13.632895000000001
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
-street: Karl-Liebknecht-Straße
+street: "Karl-Liebknecht-Straße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

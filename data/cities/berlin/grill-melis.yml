@@ -1,9 +1,9 @@
 id: 5784580101
 latitude: 52.53610260000001
 longitude: 13.4339033
-postcode: 10407
+postcode: "10407"
 city: Berlin
-street: Danziger Straße
+street: "Danziger Straße"
 housenumber: 121
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Porta Westfalica
-url: "/porta-westfalica/"
+url: /porta-westfalica/
 ---

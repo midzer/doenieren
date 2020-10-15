@@ -1,4 +1,4 @@
 ---
-title: Çarik Kuruyemiş
-url: "/berlin/carik-kuruyemis/"
+title: "Çarik Kuruyemiş"
+url: /berlin/carik-kuruyemis/
 ---

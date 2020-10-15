@@ -1,4 +1,4 @@
 ---
-title: Osmanya
-url: "/berlin/osmanya/"
+title: "Osmanya"
+url: /berlin/osmanya/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Öz.Side
-url: "/vaals/oez-side/"
+title: "Öz.Side"
+url: /vaals/oez-side/
 ---

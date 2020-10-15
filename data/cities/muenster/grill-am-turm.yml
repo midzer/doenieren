@@ -1,9 +1,9 @@
 id: 456685693
 latitude: 51.9513964
 longitude: 7.670749000000001
-postcode: 48155
+postcode: "48155"
 city: Münster
-street: Laerer Landweg
+street: "Laerer Landweg"
 housenumber: 189
 phone: ""
 opening_hours: ""

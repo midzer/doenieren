@@ -1,4 +1,4 @@
 ---
-title: Bosporus
-url: "/essen/bosporus/"
+title: "Bosporus"
+url: /essen/bosporus/
 ---

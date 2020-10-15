@@ -1,4 +1,4 @@
 ---
-title: Damla
-url: "/koeln/damla/"
+title: "Damla"
+url: /koeln/damla/
 ---

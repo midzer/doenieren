@@ -1,4 +1,4 @@
 ---
-title: Doy Doy
-url: "/rheinfelden-baden/doy-doy/"
+title: "Doy Doy"
+url: /rheinfelden-baden/doy-doy/
 ---

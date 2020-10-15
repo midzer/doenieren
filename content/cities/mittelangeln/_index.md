@@ -1,4 +1,4 @@
 ---
 title: Mittelangeln
-url: "/mittelangeln/"
+url: /mittelangeln/
 ---

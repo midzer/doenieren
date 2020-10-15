@@ -1,4 +1,4 @@
 ---
-title: Markt-Grill
-url: "/ahlen/markt-grill/"
+title: "Markt-Grill"
+url: /ahlen/markt-grill/
 ---

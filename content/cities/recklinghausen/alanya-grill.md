@@ -1,4 +1,4 @@
 ---
-title: Alanya Grill
-url: "/recklinghausen/alanya-grill/"
+title: "Alanya Grill"
+url: /recklinghausen/alanya-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Bosporus Grill
-url: "/bergisch-gladbach/bosporus-grill/"
+title: "Bosporus Grill"
+url: /bergisch-gladbach/bosporus-grill/
 ---

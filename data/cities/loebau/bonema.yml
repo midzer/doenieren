@@ -1,9 +1,9 @@
 id: 1240385339
 latitude: 51.097314100000006
 longitude: 14.6668909
-postcode: 02708
+postcode: "02708"
 city: Löbau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 11
 phone: "+49 3585 468708"
 opening_hours: ""

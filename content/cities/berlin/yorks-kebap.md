@@ -1,4 +1,4 @@
 ---
-title: York's Kebap
-url: "/berlin/yorks-kebap/"
+title: "York's Kebap"
+url: /berlin/yorks-kebap/
 ---

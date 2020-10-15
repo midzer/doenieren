@@ -1,4 +1,4 @@
 ---
-title: Kebab-Haus
-url: "/baiersbronn/kebab-haus/"
+title: "Kebab-Haus"
+url: /baiersbronn/kebab-haus/
 ---

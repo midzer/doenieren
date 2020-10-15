@@ -1,4 +1,4 @@
 ---
 title: Schwülper
-url: "/schwuelper/"
+url: /schwuelper/
 ---

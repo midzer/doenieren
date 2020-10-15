@@ -1,9 +1,9 @@
 id: 320171529
 latitude: 51.291377700000005
 longitude: 13.529377700000001
-postcode: 01558
+postcode: "01558"
 city: Großenhain
-street: Poststraße
+street: "Poststraße"
 housenumber: 11
 phone: "+49 3522 37818"
 opening_hours: "Mo-Sa 10:00-22:00; Su 13:00-22:00"

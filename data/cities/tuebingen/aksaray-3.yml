@@ -1,9 +1,9 @@
 id: 845055295
 latitude: 48.516384200000005
 longitude: 9.058965200000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Tu-Sa 09:30-05:00; Su,Mo 09:30-05:00"

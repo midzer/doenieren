@@ -1,4 +1,4 @@
 ---
-title: Diyarbakır Ocakbaşı
-url: "/wiesbaden/diyarbakir-ocakbasi/"
+title: "Diyarbakır Ocakbaşı"
+url: /wiesbaden/diyarbakir-ocakbasi/
 ---

@@ -1,4 +1,4 @@
 ---
-title: First Döner
-url: "/wolmirstedt/first-doener/"
+title: "First Döner"
+url: /wolmirstedt/first-doener/
 ---

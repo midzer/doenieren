@@ -1,4 +1,4 @@
 ---
-title: CityDöner
-url: "/oberzent/citydoener/"
+title: "CityDöner"
+url: /oberzent/citydoener/
 ---

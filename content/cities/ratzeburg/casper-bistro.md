@@ -1,4 +1,4 @@
 ---
-title: Casper Bistro
-url: "/ratzeburg/casper-bistro/"
+title: "Casper Bistro"
+url: /ratzeburg/casper-bistro/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Gazi Antep
-url: "/wipperfuerth/gazi-antep/"
+title: "Gazi Antep"
+url: /wipperfuerth/gazi-antep/
 ---

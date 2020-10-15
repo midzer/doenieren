@@ -1,4 +1,4 @@
 ---
-title: Sems
-url: "/erlangen/sems/"
+title: "Sems"
+url: /erlangen/sems/
 ---

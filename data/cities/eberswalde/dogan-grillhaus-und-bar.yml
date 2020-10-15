@@ -1,9 +1,9 @@
 id: 1663732692
 latitude: 52.833967900000005
 longitude: 13.811494600000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00+; Sa-Su 10:00+"

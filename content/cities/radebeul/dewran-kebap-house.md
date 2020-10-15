@@ -1,4 +1,4 @@
 ---
-title: Dewran Kebap House
-url: "/radebeul/dewran-kebap-house/"
+title: "Dewran Kebap House"
+url: /radebeul/dewran-kebap-house/
 ---

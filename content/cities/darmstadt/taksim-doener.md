@@ -1,4 +1,4 @@
 ---
-title: Taksim Döner
-url: "/darmstadt/taksim-doener/"
+title: "Taksim Döner"
+url: /darmstadt/taksim-doener/
 ---

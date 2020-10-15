@@ -1,9 +1,9 @@
 id: 4081721680
 latitude: 51.651171600000005
 longitude: 7.0885156
-postcode: 45768
+postcode: "45768"
 city: Marl
-street: Barkhausstraße
+street: "Barkhausstraße"
 housenumber: 64
 phone: ""
 opening_hours: ""

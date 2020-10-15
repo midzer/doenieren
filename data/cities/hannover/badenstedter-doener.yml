@@ -1,9 +1,9 @@
 id: 5768876528
 latitude: 52.356358300000004
 longitude: 9.6747923
-postcode: 30455
+postcode: "30455"
 city: Hannover
-street: Badenstedter Straße
+street: "Badenstedter Straße"
 housenumber: 191
 phone: "+49 511 56967010"
 opening_hours: "Mo-Su 10:00-22:00"

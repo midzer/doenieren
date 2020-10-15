@@ -1,4 +1,4 @@
 ---
-title: Kameschlo
-url: "/ilsede/kameschlo/"
+title: "Kameschlo"
+url: /ilsede/kameschlo/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Grillhaus
-url: "/bretten/grillhaus/"
+title: "Grillhaus"
+url: /bretten/grillhaus/
 ---

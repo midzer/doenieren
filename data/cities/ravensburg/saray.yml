@@ -1,9 +1,9 @@
 id: 2959024458
 latitude: 47.783864300000005
 longitude: 9.6138157
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
-street: Grüner-Turm-Straße
+street: "Grüner-Turm-Straße"
 housenumber: 5
 phone: "+49 751 16832"
 opening_hours: "Mo-Sa 10:00-21:30"

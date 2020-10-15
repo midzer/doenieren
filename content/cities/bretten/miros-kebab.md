@@ -1,4 +1,4 @@
 ---
-title: Miro's Kebab
-url: "/bretten/miros-kebab/"
+title: "Miro's Kebab"
+url: /bretten/miros-kebab/
 ---

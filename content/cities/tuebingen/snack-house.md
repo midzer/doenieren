@@ -1,4 +1,4 @@
 ---
-title: Snack House
-url: "/tuebingen/snack-house/"
+title: "Snack House"
+url: /tuebingen/snack-house/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bad Lobenstein
-url: "/bad-lobenstein/"
+url: /bad-lobenstein/
 ---

@@ -1,9 +1,9 @@
 id: 577023273
 latitude: 50.9612506
 longitude: 13.9421596
-postcode: 01796
+postcode: "01796"
 city: Pirna
-street: Gerichtsstraße
+street: "Gerichtsstraße"
 housenumber: 7
 phone: "+49 3501 446161"
 opening_hours: "Mo-Su 11:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Restaurant Efes
-url: "/minden/restaurant-efes/"
+title: "Restaurant Efes"
+url: /minden/restaurant-efes/
 ---

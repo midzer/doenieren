@@ -1,4 +1,4 @@
 ---
-title: Demir Döner
-url: "/loxstedt/demir-doener/"
+title: "Demir Döner"
+url: /loxstedt/demir-doener/
 ---

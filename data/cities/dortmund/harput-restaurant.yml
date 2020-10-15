@@ -1,9 +1,9 @@
 id: 6167344885
 latitude: 51.490970600000004
 longitude: 7.5014449
-postcode: 44263
+postcode: "44263"
 city: Dortmund
-street: Alfred-Trappen-Straße
+street: "Alfred-Trappen-Straße"
 housenumber: 26
 phone: "+49 231 420111"
 opening_hours: ""

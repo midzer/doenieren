@@ -1,4 +1,4 @@
 ---
 title: Krefeld
-url: "/krefeld/"
+url: /krefeld/
 ---

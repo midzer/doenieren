@@ -1,4 +1,4 @@
 ---
-title: Peperone
-url: "/remagen/peperone/"
+title: "Peperone"
+url: /remagen/peperone/
 ---

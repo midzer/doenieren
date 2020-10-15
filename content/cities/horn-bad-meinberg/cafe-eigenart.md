@@ -1,4 +1,4 @@
 ---
-title: Café Eigenart
-url: "/horn-bad-meinberg/cafe-eigenart/"
+title: "Café Eigenart"
+url: /horn-bad-meinberg/cafe-eigenart/
 ---

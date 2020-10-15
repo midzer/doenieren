@@ -1,4 +1,4 @@
 ---
 title: Buchen (Odenwald)
-url: "/buchen-odenwald/"
+url: /buchen-odenwald/
 ---

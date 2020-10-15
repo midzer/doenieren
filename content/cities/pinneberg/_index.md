@@ -1,4 +1,4 @@
 ---
 title: Pinneberg
-url: "/pinneberg/"
+url: /pinneberg/
 ---

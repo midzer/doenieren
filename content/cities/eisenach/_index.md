@@ -1,0 +1,4 @@
+---
+title: Eisenach
+url: /eisenach/
+---

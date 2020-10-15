@@ -1,9 +1,9 @@
 id: 1674406607
 latitude: 52.3461348
 longitude: 14.521443000000001
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
-street: August-Bebel-Straße
+street: "August-Bebel-Straße"
 housenumber: 12a
 phone: ""
 opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-20:00; PH off"

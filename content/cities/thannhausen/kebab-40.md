@@ -1,4 +1,4 @@
 ---
-title: Kebab 40
-url: "/thannhausen/kebab-40/"
+title: "Kebab 40"
+url: /thannhausen/kebab-40/
 ---

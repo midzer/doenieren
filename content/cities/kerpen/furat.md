@@ -1,4 +1,4 @@
 ---
-title: Furat
-url: "/kerpen/furat/"
+title: "Furat"
+url: /kerpen/furat/
 ---

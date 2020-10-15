@@ -1,4 +1,4 @@
 ---
-title: Myra
-url: "/fuerstenfeldbruck/myra/"
+title: "Myra"
+url: /fuerstenfeldbruck/myra/
 ---

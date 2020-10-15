@@ -1,4 +1,4 @@
 ---
-title: Tasty's
-url: "/wiesbaden/tastys/"
+title: "Tasty's"
+url: /wiesbaden/tastys/
 ---

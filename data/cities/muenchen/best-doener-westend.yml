@@ -1,9 +1,9 @@
 id: 2394674337
 latitude: 48.1377844
 longitude: 11.534754000000001
-postcode: 80339
+postcode: "80339"
 city: München
-street: Trappentreustraße
+street: "Trappentreustraße"
 housenumber: 17
 phone: "+498996161549"
 opening_hours: "Mo-Su 08:00-23:00"

@@ -1,4 +1,4 @@
 ---
-title: Aladdin Ocakbasi
-url: "/krefeld/aladdin-ocakbasi/"
+title: "Aladdin Ocakbasi"
+url: /krefeld/aladdin-ocakbasi/
 ---

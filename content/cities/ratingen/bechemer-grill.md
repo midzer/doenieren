@@ -1,4 +1,4 @@
 ---
-title: Bechemer Grill
-url: "/ratingen/bechemer-grill/"
+title: "Bechemer Grill"
+url: /ratingen/bechemer-grill/
 ---

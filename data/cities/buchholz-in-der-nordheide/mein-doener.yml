@@ -1,9 +1,9 @@
 id: 5078336834
 latitude: 53.31124500000001
 longitude: 9.811468300000001
-postcode: 21244
+postcode: "21244"
 city: Buchholz in der Nordheide
-street: Niedersachsenstraße
+street: "Niedersachsenstraße"
 housenumber: 19
 phone: "+49 4186 6969747"
 opening_hours: "Mo-Sa 11:00-22:00"

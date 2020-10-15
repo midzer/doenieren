@@ -1,9 +1,9 @@
 id: 2607097288
 latitude: 51.3033633
 longitude: 9.483945
-postcode: 34121
+postcode: "34121"
 city: Kassel
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 89
 phone: ""
 opening_hours: "Tu-Th 11:00-22:30; Fr-Su 11:00-23:00"

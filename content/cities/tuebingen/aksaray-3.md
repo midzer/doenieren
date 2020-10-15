@@ -1,4 +1,4 @@
 ---
-title: Aksaray 3
-url: "/tuebingen/aksaray-3/"
+title: "Aksaray 3"
+url: /tuebingen/aksaray-3/
 ---

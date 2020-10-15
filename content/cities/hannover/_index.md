@@ -1,4 +1,4 @@
 ---
 title: Hannover
-url: "/hannover/"
+url: /hannover/
 ---

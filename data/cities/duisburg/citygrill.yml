@@ -1,9 +1,9 @@
 id: 1100154706
 latitude: 51.3998147
 longitude: 6.6582398000000005
-postcode: 47239
+postcode: "47239"
 city: Duisburg
-street: Düsseldorfer Straße
+street: "Düsseldorfer Straße"
 housenumber: 20
 phone: "+49 2151 400003"
 opening_hours: "Mo-Th 11:30-23:00;Fr-Sa 11:30-24:00;Su 12:30-23:00"

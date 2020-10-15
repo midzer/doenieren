@@ -1,4 +1,4 @@
 ---
-title: La Muro
-url: "/hildesheim/la-muro/"
+title: "La Muro"
+url: /hildesheim/la-muro/
 ---

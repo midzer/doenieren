@@ -1,4 +1,4 @@
 ---
-title: Orient Grill
-url: "/oer-erkenschwick/orient-grill/"
+title: "Orient Grill"
+url: /oer-erkenschwick/orient-grill/
 ---

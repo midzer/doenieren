@@ -1,4 +1,4 @@
 ---
 title: Lütjenburg
-url: "/luetjenburg/"
+url: /luetjenburg/
 ---

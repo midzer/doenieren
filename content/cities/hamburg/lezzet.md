@@ -1,4 +1,4 @@
 ---
-title: Lezzet
-url: "/hamburg/lezzet/"
+title: "Lezzet"
+url: /hamburg/lezzet/
 ---

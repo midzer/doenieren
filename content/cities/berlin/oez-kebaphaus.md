@@ -1,4 +1,4 @@
 ---
-title: Öz Kebaphaus
-url: "/berlin/oez-kebaphaus/"
+title: "Öz Kebaphaus"
+url: /berlin/oez-kebaphaus/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bad Hersfeld
-url: "/bad-hersfeld/"
+url: /bad-hersfeld/
 ---

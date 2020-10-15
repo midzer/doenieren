@@ -1,4 +1,4 @@
 ---
-title: Dönertreff
-url: "/fredenbeck/doenertreff/"
+title: "Dönertreff"
+url: /fredenbeck/doenertreff/
 ---

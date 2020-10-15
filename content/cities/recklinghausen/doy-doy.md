@@ -1,4 +1,4 @@
 ---
-title: Doy Doy
-url: "/recklinghausen/doy-doy/"
+title: "Doy Doy"
+url: /recklinghausen/doy-doy/
 ---

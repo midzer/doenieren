@@ -1,4 +1,4 @@
 ---
-title: Mesopotamia
-url: "/regensburg/mesopotamia/"
+title: "Mesopotamia"
+url: /regensburg/mesopotamia/
 ---

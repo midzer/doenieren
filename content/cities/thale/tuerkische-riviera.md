@@ -1,4 +1,4 @@
 ---
-title: Türkische Riviera
-url: "/thale/tuerkische-riviera/"
+title: "Türkische Riviera"
+url: /thale/tuerkische-riviera/
 ---

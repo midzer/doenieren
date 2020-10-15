@@ -1,4 +1,4 @@
 ---
-title: Mamili
-url: "/roemerberg/mamili/"
+title: "Mamili"
+url: /roemerberg/mamili/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Walsroder Döner
-url: "/walsrode/walsroder-doener/"
+title: "Walsroder Döner"
+url: /walsrode/walsroder-doener/
 ---

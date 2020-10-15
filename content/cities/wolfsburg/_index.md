@@ -1,4 +1,4 @@
 ---
 title: Wolfsburg
-url: "/wolfsburg/"
+url: /wolfsburg/
 ---

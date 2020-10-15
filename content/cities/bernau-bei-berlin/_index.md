@@ -1,4 +1,4 @@
 ---
 title: Bernau bei Berlin
-url: "/bernau-bei-berlin/"
+url: /bernau-bei-berlin/
 ---

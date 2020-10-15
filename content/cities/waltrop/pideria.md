@@ -1,4 +1,4 @@
 ---
-title: Pideria
-url: "/waltrop/pideria/"
+title: "Pideria"
+url: /waltrop/pideria/
 ---

@@ -1,0 +1,4 @@
+---
+title: Degersheim
+url: /degersheim/
+---

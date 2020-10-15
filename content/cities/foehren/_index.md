@@ -1,0 +1,4 @@
+---
+title: Föhren
+url: /foehren/
+---

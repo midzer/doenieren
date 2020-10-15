@@ -1,4 +1,4 @@
 ---
 title: Edingen-Neckarhausen
-url: "/edingen-neckarhausen/"
+url: /edingen-neckarhausen/
 ---

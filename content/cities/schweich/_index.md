@@ -1,4 +1,4 @@
 ---
 title: Schweich
-url: "/schweich/"
+url: /schweich/
 ---

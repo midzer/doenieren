@@ -1,4 +1,4 @@
 ---
-title: Imbiss
-url: "/weilerswist/imbiss/"
+title: "Imbiss"
+url: /weilerswist/imbiss/
 ---

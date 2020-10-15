@@ -1,4 +1,4 @@
 ---
-title: Konak
-url: "/gelsenkirchen/konak/"
+title: "Konak"
+url: /gelsenkirchen/konak/
 ---

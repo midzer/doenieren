@@ -1,4 +1,4 @@
 ---
-title: EVIM
-url: "/koeln/evim/"
+title: "EVIM"
+url: /koeln/evim/
 ---

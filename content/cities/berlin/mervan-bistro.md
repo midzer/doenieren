@@ -1,4 +1,4 @@
 ---
-title: Mervan Bistro
-url: "/berlin/mervan-bistro/"
+title: "Mervan Bistro"
+url: /berlin/mervan-bistro/
 ---

@@ -1,9 +1,9 @@
 id: 349210615
 latitude: 50.8144386
 longitude: 12.8359283
-postcode: 09117
+postcode: "09117"
 city: Chemnitz
-street: Zwickauer Straße
+street: "Zwickauer Straße"
 housenumber: 476
 phone: "+4921517894160"
 opening_hours: "Mo-Su 11:00-23:00"

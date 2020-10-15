@@ -1,4 +1,4 @@
 ---
 title: Schallstadt
-url: "/schallstadt/"
+url: /schallstadt/
 ---

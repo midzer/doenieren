@@ -1,4 +1,4 @@
 ---
-title: Köz Restaurant
-url: "/hanau/koez-restaurant/"
+title: "Köz Restaurant"
+url: /hanau/koez-restaurant/
 ---

@@ -1,9 +1,9 @@
 id: 7056787583
 latitude: 49.443837200000004
 longitude: 7.759297900000001
-postcode: 67655
+postcode: "67655"
 city: Kaiserslautern
-street: Pariser Straße
+street: "Pariser Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 11:00-24:00; Sa 11:00-05:00, So 12:00-24:00"

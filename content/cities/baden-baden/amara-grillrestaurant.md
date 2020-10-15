@@ -1,4 +1,4 @@
 ---
-title: Amara Grillrestaurant
-url: "/baden-baden/amara-grillrestaurant/"
+title: "Amara Grillrestaurant"
+url: /baden-baden/amara-grillrestaurant/
 ---

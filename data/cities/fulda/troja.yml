@@ -1,9 +1,9 @@
 id: 1328309845
 latitude: 50.554059
 longitude: 9.6776243
-postcode: 36037
+postcode: "36037"
 city: Fulda
-street: Rabanusstraße
+street: "Rabanusstraße"
 housenumber: 1
 phone: "+49 661 9019515"
 opening_hours: ""

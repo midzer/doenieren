@@ -1,4 +1,4 @@
 ---
-title: Akin Grillhaus
-url: "/edemissen/akin-grillhaus/"
+title: "Akin Grillhaus"
+url: /edemissen/akin-grillhaus/
 ---

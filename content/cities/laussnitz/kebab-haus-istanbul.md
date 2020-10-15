@@ -1,4 +1,4 @@
 ---
-title: Kebab Haus Istanbul
-url: "/laussnitz/kebab-haus-istanbul/"
+title: "Kebab Haus Istanbul"
+url: /laussnitz/kebab-haus-istanbul/
 ---

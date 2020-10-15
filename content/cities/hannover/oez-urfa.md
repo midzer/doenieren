@@ -1,4 +1,4 @@
 ---
-title: Öz Urfa
-url: "/hannover/oez-urfa/"
+title: "Öz Urfa"
+url: /hannover/oez-urfa/
 ---

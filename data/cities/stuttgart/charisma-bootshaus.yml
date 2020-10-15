@@ -1,9 +1,9 @@
 id: 3672261293
 latitude: 48.8273451
 longitude: 9.216936800000001
-postcode: 70378
+postcode: "70378"
 city: Stuttgart
-street: Wagrainstraße
+street: "Wagrainstraße"
 housenumber: 140
 phone: ""
 opening_hours: ""

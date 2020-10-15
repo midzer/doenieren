@@ -1,4 +1,4 @@
 ---
-title: Alamut
-url: "/berlin/alamut/"
+title: "Alamut"
+url: /berlin/alamut/
 ---

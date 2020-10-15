@@ -1,4 +1,4 @@
 ---
 title: Wiesentheid
-url: "/wiesentheid/"
+url: /wiesentheid/
 ---

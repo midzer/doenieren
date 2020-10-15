@@ -1,4 +1,4 @@
 ---
-title: Telli Baba Kebab Haus
-url: "/bruehl/telli-baba-kebab-haus/"
+title: "Telli Baba Kebab Haus"
+url: /bruehl/telli-baba-kebab-haus/
 ---

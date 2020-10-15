@@ -1,9 +1,9 @@
 id: 4708830543
 latitude: 51.248567
 longitude: 7.123333400000001
-postcode: 42117
+postcode: "42117"
 city: Wuppertal
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 175
 phone: ""
 opening_hours: ""

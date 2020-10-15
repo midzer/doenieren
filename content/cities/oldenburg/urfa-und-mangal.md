@@ -1,4 +1,4 @@
 ---
-title: Urfa & Mangal
-url: "/oldenburg/urfa-und-mangal/"
+title: "Urfa & Mangal"
+url: /oldenburg/urfa-und-mangal/
 ---

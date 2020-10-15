@@ -1,9 +1,9 @@
 id: 2340033713
 latitude: 48.8319057
 longitude: 12.9624831
-postcode: 94469
+postcode: "94469"
 city: Deggendorf
-street: Luitpoldplatz
+street: "Luitpoldplatz"
 housenumber: 25
 phone: "+49-991-4445"
 opening_hours: ""

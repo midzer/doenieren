@@ -1,4 +1,4 @@
 ---
-title: Istanbul Döner
-url: "/groitzsch/istanbul-doener/"
+title: "Istanbul Döner"
+url: /groitzsch/istanbul-doener/
 ---

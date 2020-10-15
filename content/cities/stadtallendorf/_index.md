@@ -1,4 +1,4 @@
 ---
 title: Stadtallendorf
-url: "/stadtallendorf/"
+url: /stadtallendorf/
 ---

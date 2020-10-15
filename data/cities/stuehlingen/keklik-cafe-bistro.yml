@@ -1,9 +1,9 @@
 id: 370501992
 latitude: 47.7452763
 longitude: 8.445416100000001
-postcode: 79780
+postcode: "79780"
 city: Stühlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: "+49 7744 933960"
 opening_hours: "Mo-Th 10:00-24:00; Fr,Sa,Su 10:00-01:00"

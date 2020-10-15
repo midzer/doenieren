@@ -1,4 +1,4 @@
 ---
-title: Mekan Grillhaus
-url: "/berlin/mekan-grillhaus/"
+title: "Mekan Grillhaus"
+url: /berlin/mekan-grillhaus/
 ---

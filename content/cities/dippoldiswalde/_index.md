@@ -1,4 +1,4 @@
 ---
 title: Dippoldiswalde
-url: "/dippoldiswalde/"
+url: /dippoldiswalde/
 ---

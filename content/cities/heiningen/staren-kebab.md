@@ -1,4 +1,4 @@
 ---
-title: Staren Kebab
-url: "/heiningen/staren-kebab/"
+title: "Staren Kebab"
+url: /heiningen/staren-kebab/
 ---

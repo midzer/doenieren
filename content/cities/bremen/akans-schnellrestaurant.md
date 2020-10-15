@@ -1,4 +1,4 @@
 ---
-title: Akans Schnellrestaurant
-url: "/bremen/akans-schnellrestaurant/"
+title: "Akans Schnellrestaurant"
+url: /bremen/akans-schnellrestaurant/
 ---

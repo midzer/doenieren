@@ -1,4 +1,4 @@
 ---
-title: MyDöner
-url: "/neu-isenburg/mydoener/"
+title: "MyDöner"
+url: /neu-isenburg/mydoener/
 ---

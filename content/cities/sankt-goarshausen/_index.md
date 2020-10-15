@@ -1,4 +1,4 @@
 ---
 title: Sankt Goarshausen
-url: "/sankt-goarshausen/"
+url: /sankt-goarshausen/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Pirim Kebap Haus
-url: "/heidelberg/pirim-kebap-haus/"
+title: "Pirim Kebap Haus"
+url: /heidelberg/pirim-kebap-haus/
 ---

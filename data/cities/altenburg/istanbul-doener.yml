@@ -1,9 +1,9 @@
 id: 7875023099
 latitude: 50.991463100000004
 longitude: 12.4414776
-postcode: 04600
+postcode: "04600"
 city: Altenburg
-street: Gabelentzstraße
+street: "Gabelentzstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr10:30-21:00; Sa 11:30-21:00; Su,PH 12:00-21:00"

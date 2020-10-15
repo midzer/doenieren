@@ -1,4 +1,4 @@
 ---
-title: Yildiz Gözleme
-url: "/berlin/yildiz-goezleme/"
+title: "Yildiz Gözleme"
+url: /berlin/yildiz-goezleme/
 ---

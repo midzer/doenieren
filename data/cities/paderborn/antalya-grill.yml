@@ -1,9 +1,9 @@
 id: 2326944453
 latitude: 51.716632000000004
 longitude: 8.747963200000001
-postcode: 33098
+postcode: "33098"
 city: Paderborn
-street: Westernstraße
+street: "Westernstraße"
 housenumber: 34
 phone: "+49 5252 1427202"
 opening_hours: "Su-Th,PH 11:00-23:00; Fr-Sa 11:00-05:00"

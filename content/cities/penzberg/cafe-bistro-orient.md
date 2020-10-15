@@ -1,4 +1,4 @@
 ---
-title: Café Bistro Orient
-url: "/penzberg/cafe-bistro-orient/"
+title: "Café Bistro Orient"
+url: /penzberg/cafe-bistro-orient/
 ---

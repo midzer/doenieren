@@ -1,4 +1,4 @@
 ---
-title: Weitmar Profi Dönerhaus
-url: "/bochum/weitmar-profi-doenerhaus/"
+title: "Weitmar Profi Dönerhaus"
+url: /bochum/weitmar-profi-doenerhaus/
 ---

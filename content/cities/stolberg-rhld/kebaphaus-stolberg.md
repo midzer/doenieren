@@ -1,4 +1,4 @@
 ---
-title: Kebaphaus Stolberg
-url: "/stolberg-rhld/kebaphaus-stolberg/"
+title: "Kebaphaus Stolberg"
+url: /stolberg-rhld/kebaphaus-stolberg/
 ---

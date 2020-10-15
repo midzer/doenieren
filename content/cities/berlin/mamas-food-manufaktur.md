@@ -1,4 +1,4 @@
 ---
-title: Mamas Food Manufaktur
-url: "/berlin/mamas-food-manufaktur/"
+title: "Mamas Food Manufaktur"
+url: /berlin/mamas-food-manufaktur/
 ---

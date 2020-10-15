@@ -1,9 +1,9 @@
 id: 2202598435
 latitude: 48.7816969
 longitude: 8.2089272
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 185
 phone: "+49 7221 394227"
 opening_hours: "Mo-Fr 11:00-23:00; Sa,Su 12:00-23:00"

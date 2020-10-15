@@ -1,4 +1,4 @@
 ---
-title: Royal
-url: "/bad-kreuznach/royal/"
+title: "Royal"
+url: /bad-kreuznach/royal/
 ---

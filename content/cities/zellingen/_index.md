@@ -1,4 +1,4 @@
 ---
 title: Zellingen
-url: "/zellingen/"
+url: /zellingen/
 ---

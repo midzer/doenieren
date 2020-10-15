@@ -1,4 +1,4 @@
 ---
-title: Oreint Döner-Grill
-url: "/rosdorf/oreint-doener-grill/"
+title: "Oreint Döner-Grill"
+url: /rosdorf/oreint-doener-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mangal Holzkohle Restaurant
-url: "/leer-ostfriesland/mangal-holzkohle-restaurant/"
+title: "Mangal Holzkohle Restaurant"
+url: /leer-ostfriesland/mangal-holzkohle-restaurant/
 ---

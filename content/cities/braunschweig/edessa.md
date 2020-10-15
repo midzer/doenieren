@@ -1,4 +1,4 @@
 ---
-title: Edessa
-url: "/braunschweig/edessa/"
+title: "Edessa"
+url: /braunschweig/edessa/
 ---

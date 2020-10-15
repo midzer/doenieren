@@ -1,9 +1,9 @@
 id: 1408670751
 latitude: 48.3992348
 longitude: 11.741900900000001
-postcode: 85354
+postcode: "85354"
 city: Freising
-street: Am Wörth
+street: "Am Wörth"
 housenumber: 4
 phone: "+49-8161-919307"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:30-16:00"

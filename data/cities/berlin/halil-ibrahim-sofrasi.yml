@@ -1,9 +1,9 @@
 id: 617630777
 latitude: 52.5280441
 longitude: 13.3289036
-postcode: 10553
+postcode: "10553"
 city: Berlin
-street: Beusselstraße
+street: "Beusselstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

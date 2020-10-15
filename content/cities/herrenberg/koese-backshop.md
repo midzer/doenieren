@@ -1,4 +1,4 @@
 ---
-title: Köse Backshop
-url: "/herrenberg/koese-backshop/"
+title: "Köse Backshop"
+url: /herrenberg/koese-backshop/
 ---

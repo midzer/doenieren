@@ -1,9 +1,9 @@
 id: 5661668321
 latitude: 50.7219271
 longitude: 12.486913600000001
-postcode: 08056
+postcode: "08056"
 city: Zwickau
-street: Crimmitschauer Straße
+street: "Crimmitschauer Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 10:00-22:00,Su 12:00-22:00"

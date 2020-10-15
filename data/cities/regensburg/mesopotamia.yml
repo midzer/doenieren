@@ -1,9 +1,9 @@
 id: 460414783
 latitude: 49.021420500000005
 longitude: 12.091705900000001
-postcode: 93047
+postcode: "93047"
 city: Regensburg
-street: Metgebergasse
+street: "Metgebergasse"
 housenumber: 2
 phone: "+49 941 56993306"
 opening_hours: "Tu-Su 17:00+; Mo off"

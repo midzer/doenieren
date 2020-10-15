@@ -1,4 +1,4 @@
 ---
 title: Greven
-url: "/greven/"
+url: /greven/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Nettersheimer Kebabhaus
-url: "/nettersheim/nettersheimer-kebabhaus/"
+title: "Nettersheimer Kebabhaus"
+url: /nettersheim/nettersheimer-kebabhaus/
 ---

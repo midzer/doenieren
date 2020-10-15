@@ -1,4 +1,4 @@
 ---
-title: Mardin Döner
-url: "/hamburg/mardin-doener/"
+title: "Mardin Döner"
+url: /hamburg/mardin-doener/
 ---

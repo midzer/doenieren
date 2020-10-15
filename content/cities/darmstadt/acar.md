@@ -1,4 +1,4 @@
 ---
-title: Acar
-url: "/darmstadt/acar/"
+title: "Acar"
+url: /darmstadt/acar/
 ---

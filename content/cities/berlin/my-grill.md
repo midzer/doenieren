@@ -1,4 +1,4 @@
 ---
-title: My Grill
-url: "/berlin/my-grill/"
+title: "My Grill"
+url: /berlin/my-grill/
 ---

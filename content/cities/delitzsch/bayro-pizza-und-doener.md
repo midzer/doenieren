@@ -1,4 +1,4 @@
 ---
-title: Bayro Pizza & Döner
-url: "/delitzsch/bayro-pizza-und-doener/"
+title: "Bayro Pizza & Döner"
+url: /delitzsch/bayro-pizza-und-doener/
 ---

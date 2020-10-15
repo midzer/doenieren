@@ -1,4 +1,4 @@
 ---
 title: Bad Brückenau
-url: "/bad-brueckenau/"
+url: /bad-brueckenau/
 ---

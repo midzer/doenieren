@@ -1,4 +1,4 @@
 ---
-title: Speed Bar
-url: "/koeln/speed-bar/"
+title: "Speed Bar"
+url: /koeln/speed-bar/
 ---

@@ -1,4 +1,4 @@
 ---
-title: FalafelTime
-url: "/laatzen/falafeltime/"
+title: "FalafelTime"
+url: /laatzen/falafeltime/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Latti's
-url: "/stendal/lattis/"
+title: "Latti's"
+url: /stendal/lattis/
 ---

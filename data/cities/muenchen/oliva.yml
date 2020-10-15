@@ -1,9 +1,9 @@
 id: 1131919541
 latitude: 48.142163800000006
 longitude: 11.550785300000001
-postcode: 80335
+postcode: "80335"
 city: München
-street: Hackerbrücke
+street: "Hackerbrücke"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 11:00-23:00, Su off"

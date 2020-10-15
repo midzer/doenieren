@@ -1,4 +1,4 @@
 ---
-title: Istanbul Kebap
-url: "/wuerzburg/istanbul-kebap/"
+title: "Istanbul Kebap"
+url: /wuerzburg/istanbul-kebap/
 ---

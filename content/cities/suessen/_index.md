@@ -1,4 +1,4 @@
 ---
 title: Süßen
-url: "/suessen/"
+url: /suessen/
 ---

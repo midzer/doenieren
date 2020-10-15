@@ -1,9 +1,9 @@
 id: 281997194
 latitude: 50.793840700000004
 longitude: 7.208385900000001
-postcode: 53721
+postcode: "53721"
 city: Siegburg
-street: Auf der Kälke
+street: "Auf der Kälke"
 housenumber: 1-3
 phone: "+49 2241 53990"
 opening_hours: "Su-Fr11:30-24:00; Sa 17:00-24:00"

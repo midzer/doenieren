@@ -1,4 +1,4 @@
 ---
-title: Bey
-url: "/hamburg/bey/"
+title: "Bey"
+url: /hamburg/bey/
 ---

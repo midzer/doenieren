@@ -1,4 +1,4 @@
 ---
 title: Freyung
-url: "/freyung/"
+url: /freyung/
 ---

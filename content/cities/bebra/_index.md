@@ -1,4 +1,4 @@
 ---
 title: Bebra
-url: "/bebra/"
+url: /bebra/
 ---

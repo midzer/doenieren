@@ -1,4 +1,4 @@
 ---
-title: Smyrna Kuruyemis
-url: "/berlin/smyrna-kuruyemis/"
+title: "Smyrna Kuruyemis"
+url: /berlin/smyrna-kuruyemis/
 ---

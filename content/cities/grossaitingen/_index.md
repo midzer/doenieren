@@ -1,4 +1,4 @@
 ---
 title: Großaitingen
-url: "/grossaitingen/"
+url: /grossaitingen/
 ---

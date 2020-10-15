@@ -1,0 +1,4 @@
+---
+title: Eibiswald
+url: /eibiswald/
+---

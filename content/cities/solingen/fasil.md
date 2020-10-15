@@ -1,4 +1,4 @@
 ---
-title: Fasil
-url: "/solingen/fasil/"
+title: "Fasil"
+url: /solingen/fasil/
 ---

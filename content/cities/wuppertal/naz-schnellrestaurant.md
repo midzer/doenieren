@@ -1,4 +1,4 @@
 ---
-title: NAZ Schnellrestaurant
-url: "/wuppertal/naz-schnellrestaurant/"
+title: "NAZ Schnellrestaurant"
+url: /wuppertal/naz-schnellrestaurant/
 ---

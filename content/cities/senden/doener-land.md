@@ -1,4 +1,4 @@
 ---
-title: Döner-Land
-url: "/senden/doener-land/"
+title: "Döner-Land"
+url: /senden/doener-land/
 ---

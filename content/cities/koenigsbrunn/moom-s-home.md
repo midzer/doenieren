@@ -1,4 +1,4 @@
 ---
-title: Moom´s Home
-url: "/koenigsbrunn/moom-s-home/"
+title: "Moom´s Home"
+url: /koenigsbrunn/moom-s-home/
 ---

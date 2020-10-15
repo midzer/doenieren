@@ -1,9 +1,9 @@
 id: 294846473
 latitude: 49.551472100000005
 longitude: 8.6726661
-postcode: 69469
+postcode: "69469"
 city: Weinheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Sa 10:00-23:00"

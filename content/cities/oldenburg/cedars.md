@@ -1,4 +1,4 @@
 ---
-title: Cedars
-url: "/oldenburg/cedars/"
+title: "Cedars"
+url: /oldenburg/cedars/
 ---

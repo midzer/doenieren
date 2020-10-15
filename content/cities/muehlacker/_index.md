@@ -1,4 +1,4 @@
 ---
 title: Mühlacker
-url: "/muehlacker/"
+url: /muehlacker/
 ---

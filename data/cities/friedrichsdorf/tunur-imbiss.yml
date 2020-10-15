@@ -1,9 +1,9 @@
 id: 2511924373
 latitude: 50.250777400000004
 longitude: 8.6381578
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2-4
 phone: "+49 6172 1392285"
 opening_hours: "Mo-Sa 10:00-22:00; Su off"

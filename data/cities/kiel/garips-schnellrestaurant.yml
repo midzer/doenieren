@@ -1,9 +1,9 @@
 id: 464024173
 latitude: 54.394719800000004
 longitude: 10.1738209
-postcode: 24159
+postcode: "24159"
 city: Kiel
-street: An der Schanze
+street: "An der Schanze"
 housenumber: 43
 phone: "+49 431 88804808"
 opening_hours: "Mo-Su 11:00-22:00"

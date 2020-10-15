@@ -1,4 +1,4 @@
 ---
-title: Royal Bistro
-url: "/leipzig/royal-bistro/"
+title: "Royal Bistro"
+url: /leipzig/royal-bistro/
 ---

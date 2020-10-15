@@ -1,4 +1,4 @@
 ---
-title: Imbiss Aladin
-url: "/cloppenburg/imbiss-aladin/"
+title: "Imbiss Aladin"
+url: /cloppenburg/imbiss-aladin/
 ---

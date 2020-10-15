@@ -1,4 +1,4 @@
 ---
 title: Neu-Anspach
-url: "/neu-anspach/"
+url: /neu-anspach/
 ---

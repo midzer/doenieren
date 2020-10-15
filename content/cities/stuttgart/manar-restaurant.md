@@ -1,4 +1,4 @@
 ---
-title: Manar Restaurant
-url: "/stuttgart/manar-restaurant/"
+title: "Manar Restaurant"
+url: /stuttgart/manar-restaurant/
 ---

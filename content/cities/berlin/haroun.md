@@ -1,4 +1,4 @@
 ---
-title: Haroun
-url: "/berlin/haroun/"
+title: "Haroun"
+url: /berlin/haroun/
 ---

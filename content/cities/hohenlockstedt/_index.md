@@ -1,4 +1,4 @@
 ---
 title: Hohenlockstedt
-url: "/hohenlockstedt/"
+url: /hohenlockstedt/
 ---

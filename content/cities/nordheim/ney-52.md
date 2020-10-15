@@ -1,4 +1,4 @@
 ---
-title: Ney 52
-url: "/nordheim/ney-52/"
+title: "Ney 52"
+url: /nordheim/ney-52/
 ---

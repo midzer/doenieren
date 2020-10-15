@@ -1,4 +1,4 @@
 ---
-title: Mega Döner
-url: "/essen/mega-doener/"
+title: "Mega Döner"
+url: /essen/mega-doener/
 ---

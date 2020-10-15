@@ -1,4 +1,4 @@
 ---
-title: Kebapzade
-url: "/berlin/kebapzade/"
+title: "Kebapzade"
+url: /berlin/kebapzade/
 ---

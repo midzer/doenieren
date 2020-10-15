@@ -1,4 +1,4 @@
 ---
-title: Sait
-url: "/hamburg/sait/"
+title: "Sait"
+url: /hamburg/sait/
 ---

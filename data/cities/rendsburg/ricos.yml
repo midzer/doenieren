@@ -1,9 +1,9 @@
 id: 3627645374
 latitude: 54.308734900000005
 longitude: 9.6597475
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
-street: Thormannplatz
+street: "Thormannplatz"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

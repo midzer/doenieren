@@ -1,4 +1,4 @@
 ---
-title: Stern Kebap
-url: "/weinstadt/stern-kebap/"
+title: "Stern Kebap"
+url: /weinstadt/stern-kebap/
 ---

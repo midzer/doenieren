@@ -1,4 +1,4 @@
 ---
 title: Wermelskirchen
-url: "/wermelskirchen/"
+url: /wermelskirchen/
 ---

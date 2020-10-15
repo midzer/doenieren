@@ -1,4 +1,4 @@
 ---
-title: Pita & Silie
-url: "/puchheim/pita-und-silie/"
+title: "Pita & Silie"
+url: /puchheim/pita-und-silie/
 ---

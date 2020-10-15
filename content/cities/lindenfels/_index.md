@@ -1,4 +1,4 @@
 ---
 title: Lindenfels
-url: "/lindenfels/"
+url: /lindenfels/
 ---

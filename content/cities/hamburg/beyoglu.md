@@ -1,4 +1,4 @@
 ---
-title: Beyoglu
-url: "/hamburg/beyoglu/"
+title: "Beyoglu"
+url: /hamburg/beyoglu/
 ---

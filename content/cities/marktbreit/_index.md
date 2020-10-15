@@ -1,4 +1,4 @@
 ---
 title: Marktbreit
-url: "/marktbreit/"
+url: /marktbreit/
 ---

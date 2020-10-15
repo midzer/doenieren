@@ -1,4 +1,4 @@
 ---
-title: Sumach Restaurant
-url: "/nuernberg/sumach-restaurant/"
+title: "Sumach Restaurant"
+url: /nuernberg/sumach-restaurant/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Campus Kebap
-url: "/reutlingen/campus-kebap/"
+title: "Campus Kebap"
+url: /reutlingen/campus-kebap/
 ---

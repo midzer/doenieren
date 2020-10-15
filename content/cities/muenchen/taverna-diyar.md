@@ -1,4 +1,4 @@
 ---
-title: Taverna Diyar
-url: "/muenchen/taverna-diyar/"
+title: "Taverna Diyar"
+url: /muenchen/taverna-diyar/
 ---

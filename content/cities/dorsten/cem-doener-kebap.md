@@ -1,4 +1,4 @@
 ---
-title: Cem Döner-Kebap
-url: "/dorsten/cem-doener-kebap/"
+title: "Cem Döner-Kebap"
+url: /dorsten/cem-doener-kebap/
 ---

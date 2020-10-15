@@ -1,4 +1,4 @@
 ---
-title: Döner Paradies
-url: "/stuttgart/doener-paradies/"
+title: "Döner Paradies"
+url: /stuttgart/doener-paradies/
 ---

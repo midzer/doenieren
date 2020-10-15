@@ -1,9 +1,9 @@
 id: 4340535516
 latitude: 53.900431000000005
 longitude: 11.4750086
-postcode: 23970
+postcode: "23970"
 city: Wismar
-street: Philosophenweg
+street: "Philosophenweg"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

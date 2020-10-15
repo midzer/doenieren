@@ -1,4 +1,4 @@
 ---
-title: Konyali
-url: "/berlin/konyali/"
+title: "Konyali"
+url: /berlin/konyali/
 ---

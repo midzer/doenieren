@@ -1,9 +1,9 @@
 id: 633297571
 latitude: 51.9043525
 longitude: 7.6449226
-postcode: 48165
+postcode: "48165"
 city: Münster
-street: Marktallee
+street: "Marktallee"
 housenumber: 41
 phone: "+49 2501 929671"
 opening_hours: "Mo-Su 11:30-24:00"

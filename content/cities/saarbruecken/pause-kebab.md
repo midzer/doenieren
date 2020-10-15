@@ -1,4 +1,4 @@
 ---
-title: Pause Kebab
-url: "/saarbruecken/pause-kebab/"
+title: "Pause Kebab"
+url: /saarbruecken/pause-kebab/
 ---

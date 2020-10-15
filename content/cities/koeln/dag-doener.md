@@ -1,4 +1,4 @@
 ---
-title: DAG Döner
-url: "/koeln/dag-doener/"
+title: "DAG Döner"
+url: /koeln/dag-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Cadolzburg
-url: "/cadolzburg/"
+url: /cadolzburg/
 ---

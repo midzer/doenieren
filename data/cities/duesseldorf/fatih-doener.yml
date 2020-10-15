@@ -1,9 +1,9 @@
 id: 1353807840
 latitude: 51.1754976
 longitude: 6.836152
-postcode: 40589
+postcode: "40589"
 city: Düsseldorf
-street: Henkelstraße
+street: "Henkelstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Neuruppin
-url: "/neuruppin/"
+url: /neuruppin/
 ---

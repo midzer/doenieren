@@ -1,9 +1,9 @@
 id: 3131165110
 latitude: 49.9523741
 longitude: 8.637305900000001
-postcode: 64390
+postcode: "64390"
 city: Erzhausen
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 2
 phone: "+49 6150 135091"
 opening_hours: "Mo-Su 11:00-22:00; PH 16:00-22:00"

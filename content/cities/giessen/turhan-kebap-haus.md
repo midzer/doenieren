@@ -1,4 +1,4 @@
 ---
-title: Turhan Kebap Haus
-url: "/giessen/turhan-kebap-haus/"
+title: "Turhan Kebap Haus"
+url: /giessen/turhan-kebap-haus/
 ---

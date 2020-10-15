@@ -1,4 +1,4 @@
 ---
-title: Bistro Nali
-url: "/leipzig/bistro-nali/"
+title: "Bistro Nali"
+url: /leipzig/bistro-nali/
 ---

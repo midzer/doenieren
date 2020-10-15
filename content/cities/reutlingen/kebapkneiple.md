@@ -1,4 +1,4 @@
 ---
-title: Kebapkneiple
-url: "/reutlingen/kebapkneiple/"
+title: "Kebapkneiple"
+url: /reutlingen/kebapkneiple/
 ---

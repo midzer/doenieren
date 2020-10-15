@@ -1,4 +1,4 @@
 ---
-title: Sedir
-url: "/konstanz/sedir/"
+title: "Sedir"
+url: /konstanz/sedir/
 ---

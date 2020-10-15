@@ -1,4 +1,4 @@
 ---
-title: Nordwalder Grill
-url: "/nordwalde/nordwalder-grill/"
+title: "Nordwalder Grill"
+url: /nordwalde/nordwalder-grill/
 ---

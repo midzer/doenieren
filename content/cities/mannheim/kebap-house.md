@@ -1,4 +1,4 @@
 ---
-title: Kebap House
-url: "/mannheim/kebap-house/"
+title: "Kebap House"
+url: /mannheim/kebap-house/
 ---

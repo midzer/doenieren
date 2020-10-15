@@ -1,4 +1,4 @@
 ---
-title: Joker
-url: "/suessen/joker/"
+title: "Joker"
+url: /suessen/joker/
 ---

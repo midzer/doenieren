@@ -1,4 +1,4 @@
 ---
-title: Uni-Döner
-url: "/dortmund/uni-doener/"
+title: "Uni-Döner"
+url: /dortmund/uni-doener/
 ---

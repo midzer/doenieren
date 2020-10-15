@@ -1,4 +1,4 @@
 ---
-title: Star Kebap House
-url: "/senftenberg/star-kebap-house/"
+title: "Star Kebap House"
+url: /senftenberg/star-kebap-house/
 ---

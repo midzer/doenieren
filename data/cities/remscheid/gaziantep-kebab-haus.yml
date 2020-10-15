@@ -1,9 +1,9 @@
 id: 3495659242
 latitude: 51.1746939
 longitude: 7.215312600000001
-postcode: 42855
+postcode: "42855"
 city: Remscheid
-street: Lenneper Straße
+street: "Lenneper Straße"
 housenumber: 55
 phone: "+4921912090427"
 opening_hours: ""

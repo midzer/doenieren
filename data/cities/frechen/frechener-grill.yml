@@ -1,9 +1,9 @@
 id: 4864625538
 latitude: 50.9098042
 longitude: 6.8131126
-postcode: 50226
+postcode: "50226"
 city: Frechen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: "+49 2234 200678"
 opening_hours: "Mo-Sa 08:00-22:00"

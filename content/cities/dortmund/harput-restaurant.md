@@ -1,4 +1,4 @@
 ---
-title: Harput Restaurant
-url: "/dortmund/harput-restaurant/"
+title: "Harput Restaurant"
+url: /dortmund/harput-restaurant/
 ---

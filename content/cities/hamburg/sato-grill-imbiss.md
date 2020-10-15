@@ -1,4 +1,4 @@
 ---
-title: Sato Grill Imbiss
-url: "/hamburg/sato-grill-imbiss/"
+title: "Sato Grill Imbiss"
+url: /hamburg/sato-grill-imbiss/
 ---

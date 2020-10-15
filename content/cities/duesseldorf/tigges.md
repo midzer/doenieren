@@ -1,4 +1,4 @@
 ---
-title: Tigges
-url: "/duesseldorf/tigges/"
+title: "Tigges"
+url: /duesseldorf/tigges/
 ---

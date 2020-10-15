@@ -1,4 +1,4 @@
 ---
-title: Döner Planet
-url: "/krefeld/doener-planet/"
+title: "Döner Planet"
+url: /krefeld/doener-planet/
 ---

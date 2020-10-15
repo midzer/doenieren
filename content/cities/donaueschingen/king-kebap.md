@@ -1,4 +1,4 @@
 ---
-title: King Kebap
-url: "/donaueschingen/king-kebap/"
+title: "King Kebap"
+url: /donaueschingen/king-kebap/
 ---

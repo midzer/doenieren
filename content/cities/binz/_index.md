@@ -1,4 +1,4 @@
 ---
 title: Binz
-url: "/binz/"
+url: /binz/
 ---

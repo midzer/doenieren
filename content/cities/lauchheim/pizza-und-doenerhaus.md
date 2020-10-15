@@ -1,4 +1,4 @@
 ---
-title: Pizza- & Dönerhaus
-url: "/lauchheim/pizza-und-doenerhaus/"
+title: "Pizza- & Dönerhaus"
+url: /lauchheim/pizza-und-doenerhaus/
 ---

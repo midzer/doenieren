@@ -1,4 +1,4 @@
 ---
-title: Kuytu Kebap
-url: "/duesseldorf/kuytu-kebap/"
+title: "Kuytu Kebap"
+url: /duesseldorf/kuytu-kebap/
 ---

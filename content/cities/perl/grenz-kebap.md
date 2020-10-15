@@ -1,4 +1,4 @@
 ---
-title: Grenz Kebap
-url: "/perl/grenz-kebap/"
+title: "Grenz Kebap"
+url: /perl/grenz-kebap/
 ---

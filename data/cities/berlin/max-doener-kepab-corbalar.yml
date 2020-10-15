@@ -1,9 +1,9 @@
 id: 2308657239
 latitude: 52.5508663
 longitude: 13.3625635
-postcode: 13347
+postcode: "13347"
 city: Berlin
-street: Maxstraße
+street: "Maxstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

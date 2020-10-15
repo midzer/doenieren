@@ -1,4 +1,4 @@
 ---
-title: Antep Sofrasi
-url: "/aachen/antep-sofrasi/"
+title: "Antep Sofrasi"
+url: /aachen/antep-sofrasi/
 ---

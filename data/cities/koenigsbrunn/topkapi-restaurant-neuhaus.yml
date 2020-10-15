@@ -1,9 +1,9 @@
 id: 883488726
 latitude: 48.2540507
 longitude: 10.881063300000001
-postcode: 86343
+postcode: "86343"
 city: Königsbrunn
-street: Landsberger Straße
+street: "Landsberger Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

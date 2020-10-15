@@ -1,9 +1,9 @@
 id: 3646253994
 latitude: 52.49719090000001
 longitude: 13.498838000000001
-postcode: 10319
+postcode: "10319"
 city: Berlin
-street: Salzmannstraße
+street: "Salzmannstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr,Su 09:00-21:00"

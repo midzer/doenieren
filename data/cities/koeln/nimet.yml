@@ -1,9 +1,9 @@
 id: 1854783056
 latitude: 50.9657825
 longitude: 7.009337700000001
-postcode: 51063
+postcode: "51063"
 city: Köln
-street: Keupstraße
+street: "Keupstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

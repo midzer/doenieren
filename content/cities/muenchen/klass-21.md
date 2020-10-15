@@ -1,4 +1,4 @@
 ---
-title: Klass 21
-url: "/muenchen/klass-21/"
+title: "Klass 21"
+url: /muenchen/klass-21/
 ---

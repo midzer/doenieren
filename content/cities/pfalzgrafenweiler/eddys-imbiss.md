@@ -1,4 +1,4 @@
 ---
-title: Eddy's Imbiss
-url: "/pfalzgrafenweiler/eddys-imbiss/"
+title: "Eddy's Imbiss"
+url: /pfalzgrafenweiler/eddys-imbiss/
 ---

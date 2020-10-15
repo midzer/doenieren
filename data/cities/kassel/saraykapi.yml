@@ -1,9 +1,9 @@
 id: 1434024729
 latitude: 51.3185142
 longitude: 9.5003126
-postcode: 34117
+postcode: "34117"
 city: Kassel
-street: Untere Königsstraße
+street: "Untere Königsstraße"
 housenumber: 83
 phone: "+49 561 9371007"
 opening_hours: "mo-su 08:00-18:00"

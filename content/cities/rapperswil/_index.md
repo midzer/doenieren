@@ -1,0 +1,4 @@
+---
+title: Rapperswil
+url: /rapperswil/
+---

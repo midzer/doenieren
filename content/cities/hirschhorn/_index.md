@@ -1,4 +1,4 @@
 ---
 title: Hirschhorn
-url: "/hirschhorn/"
+url: /hirschhorn/
 ---

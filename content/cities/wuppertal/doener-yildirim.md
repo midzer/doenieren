@@ -1,4 +1,4 @@
 ---
-title: Döner Yildirim
-url: "/wuppertal/doener-yildirim/"
+title: "Döner Yildirim"
+url: /wuppertal/doener-yildirim/
 ---

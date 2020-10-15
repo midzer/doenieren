@@ -1,4 +1,4 @@
 ---
-title: Saray Grill
-url: "/bochum/saray-grill/"
+title: "Saray Grill"
+url: /bochum/saray-grill/
 ---

@@ -1,9 +1,9 @@
 id: 2113541727
 latitude: 51.452509400000004
 longitude: 11.961559900000001
-postcode: 06130
+postcode: "06130"
 city: Halle (Saale)
-street: Paul-Suhr-Straße
+street: "Paul-Suhr-Straße"
 housenumber: 58a
 phone: ""
 opening_hours: ""

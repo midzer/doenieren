@@ -1,4 +1,4 @@
 ---
-title: Mama Kumpir
-url: "/hamburg/mama-kumpir/"
+title: "Mama Kumpir"
+url: /hamburg/mama-kumpir/
 ---

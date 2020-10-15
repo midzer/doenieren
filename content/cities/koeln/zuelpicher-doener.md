@@ -1,4 +1,4 @@
 ---
-title: Zülpicher Döner
-url: "/koeln/zuelpicher-doener/"
+title: "Zülpicher Döner"
+url: /koeln/zuelpicher-doener/
 ---

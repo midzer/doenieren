@@ -1,4 +1,4 @@
 ---
-title: Döner Aspendos
-url: "/kiel/doener-aspendos/"
+title: "Döner Aspendos"
+url: /kiel/doener-aspendos/
 ---

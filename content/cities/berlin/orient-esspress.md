@@ -1,4 +1,4 @@
 ---
-title: Orient Esspress
-url: "/berlin/orient-esspress/"
+title: "Orient Esspress"
+url: /berlin/orient-esspress/
 ---

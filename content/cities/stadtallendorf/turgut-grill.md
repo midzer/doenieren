@@ -1,4 +1,4 @@
 ---
-title: Turgut Grill
-url: "/stadtallendorf/turgut-grill/"
+title: "Turgut Grill"
+url: /stadtallendorf/turgut-grill/
 ---

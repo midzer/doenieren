@@ -1,4 +1,4 @@
 ---
 title: Dransfeld
-url: "/dransfeld/"
+url: /dransfeld/
 ---

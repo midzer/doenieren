@@ -1,4 +1,4 @@
 ---
-title: Melissa
-url: "/berlin/melissa/"
+title: "Melissa"
+url: /berlin/melissa/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sultan
-url: "/nuernberg/sultan/"
+title: "Sultan"
+url: /nuernberg/sultan/
 ---

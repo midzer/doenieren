@@ -1,0 +1,4 @@
+---
+title: Goldbach
+url: /goldbach/
+---

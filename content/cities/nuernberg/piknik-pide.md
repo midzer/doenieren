@@ -1,4 +1,4 @@
 ---
-title: Piknik Pide
-url: "/nuernberg/piknik-pide/"
+title: "Piknik Pide"
+url: /nuernberg/piknik-pide/
 ---

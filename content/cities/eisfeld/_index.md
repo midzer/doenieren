@@ -1,4 +1,4 @@
 ---
 title: Eisfeld
-url: "/eisfeld/"
+url: /eisfeld/
 ---

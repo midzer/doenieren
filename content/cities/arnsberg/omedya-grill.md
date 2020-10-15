@@ -1,4 +1,4 @@
 ---
-title: Omedya Grill
-url: "/arnsberg/omedya-grill/"
+title: "Omedya Grill"
+url: /arnsberg/omedya-grill/
 ---

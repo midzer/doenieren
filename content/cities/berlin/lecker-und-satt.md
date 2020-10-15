@@ -1,4 +1,4 @@
 ---
-title: Lecker & Satt
-url: "/berlin/lecker-und-satt/"
+title: "Lecker & Satt"
+url: /berlin/lecker-und-satt/
 ---

@@ -1,9 +1,9 @@
 id: 3836216725
 latitude: 51.8851257
 longitude: 10.5561472
-postcode: 38667
+postcode: "38667"
 city: Bad Harzburg
-street: Herzog-Wilhelm-Straße
+street: "Herzog-Wilhelm-Straße"
 housenumber: 14
 phone: "+49 5322 5588112"
 opening_hours: "closed"

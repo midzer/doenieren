@@ -1,4 +1,4 @@
 ---
 title: Beckum
-url: "/beckum/"
+url: /beckum/
 ---

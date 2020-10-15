@@ -1,4 +1,4 @@
 ---
-title: Rescho Imbiss
-url: "/ochtrup/rescho-imbiss/"
+title: "Rescho Imbiss"
+url: /ochtrup/rescho-imbiss/
 ---

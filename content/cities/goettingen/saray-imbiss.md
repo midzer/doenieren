@@ -1,4 +1,4 @@
 ---
-title: Saray Imbiss
-url: "/goettingen/saray-imbiss/"
+title: "Saray Imbiss"
+url: /goettingen/saray-imbiss/
 ---

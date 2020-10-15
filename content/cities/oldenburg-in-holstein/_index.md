@@ -1,4 +1,4 @@
 ---
 title: Oldenburg in Holstein
-url: "/oldenburg-in-holstein/"
+url: /oldenburg-in-holstein/
 ---

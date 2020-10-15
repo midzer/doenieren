@@ -1,4 +1,4 @@
 ---
-title: Kebab Istanbul
-url: "/nienburg-weser/kebab-istanbul/"
+title: "Kebab Istanbul"
+url: /nienburg-weser/kebab-istanbul/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Schweinfurt
-url: "/schweinfurt/"
+url: /schweinfurt/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Lawin’s Imbiss
-url: "/kiel/lawins-imbiss/"
+title: "Lawin’s Imbiss"
+url: /kiel/lawins-imbiss/
 ---

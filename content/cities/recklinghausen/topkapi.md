@@ -1,4 +1,4 @@
 ---
-title: Topkapi
-url: "/recklinghausen/topkapi/"
+title: "Topkapi"
+url: /recklinghausen/topkapi/
 ---

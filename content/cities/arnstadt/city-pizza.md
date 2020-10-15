@@ -1,4 +1,4 @@
 ---
-title: City Pizza
-url: "/arnstadt/city-pizza/"
+title: "City Pizza"
+url: /arnstadt/city-pizza/
 ---

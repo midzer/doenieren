@@ -1,9 +1,9 @@
 id: 6372354345
 latitude: 53.5034293
 longitude: 14.000887400000002
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
-street: Stettiner Chaussee
+street: "Stettiner Chaussee"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

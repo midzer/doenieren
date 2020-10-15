@@ -1,4 +1,4 @@
 ---
-title: Can Kebap
-url: "/bremen/can-kebap/"
+title: "Can Kebap"
+url: /bremen/can-kebap/
 ---

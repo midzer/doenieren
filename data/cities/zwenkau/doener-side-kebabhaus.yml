@@ -1,9 +1,9 @@
 id: 387526943
 latitude: 51.21579740000001
 longitude: 12.3252152
-postcode: 04442
+postcode: "04442"
 city: Zwenkau
-street: Pegauer Straße
+street: "Pegauer Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 10:30-21:00; Su,PH off"

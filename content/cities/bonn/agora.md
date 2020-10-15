@@ -1,4 +1,4 @@
 ---
-title: Agora
-url: "/bonn/agora/"
+title: "Agora"
+url: /bonn/agora/
 ---

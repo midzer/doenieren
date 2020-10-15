@@ -1,9 +1,9 @@
 id: 1843219381
 latitude: 51.530504500000006
 longitude: 9.9346285
-postcode: 37073
+postcode: "37073"
 city: Göttingen
-street: Nikolaistraße
+street: "Nikolaistraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 11:00-24:00, Fr,Sa 11:00-03:00, Su,PH 13:00-23:00"

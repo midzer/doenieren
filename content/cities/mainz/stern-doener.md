@@ -1,4 +1,4 @@
 ---
-title: Stern Döner
-url: "/mainz/stern-doener/"
+title: "Stern Döner"
+url: /mainz/stern-doener/
 ---

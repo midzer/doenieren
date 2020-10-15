@@ -1,4 +1,4 @@
 ---
-title: Aladin Kebap
-url: "/aalen/aladin-kebap/"
+title: "Aladin Kebap"
+url: /aalen/aladin-kebap/
 ---

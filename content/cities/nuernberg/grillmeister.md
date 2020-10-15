@@ -1,4 +1,4 @@
 ---
-title: Grillmeister
-url: "/nuernberg/grillmeister/"
+title: "Grillmeister"
+url: /nuernberg/grillmeister/
 ---

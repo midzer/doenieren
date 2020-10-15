@@ -1,4 +1,4 @@
 ---
-title: Urfa Kebap Haus
-url: "/villingen-schwenningen/urfa-kebap-haus/"
+title: "Urfa Kebap Haus"
+url: /villingen-schwenningen/urfa-kebap-haus/
 ---

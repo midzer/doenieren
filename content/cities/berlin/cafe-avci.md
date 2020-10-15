@@ -1,4 +1,4 @@
 ---
-title: Café Avci
-url: "/berlin/cafe-avci/"
+title: "Café Avci"
+url: /berlin/cafe-avci/
 ---

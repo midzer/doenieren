@@ -1,4 +1,4 @@
 ---
-title: Vay Vay
-url: "/pforzheim/vay-vay/"
+title: "Vay Vay"
+url: /pforzheim/vay-vay/
 ---

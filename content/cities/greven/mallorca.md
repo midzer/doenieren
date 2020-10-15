@@ -1,4 +1,4 @@
 ---
-title: Mallorca
-url: "/greven/mallorca/"
+title: "Mallorca"
+url: /greven/mallorca/
 ---

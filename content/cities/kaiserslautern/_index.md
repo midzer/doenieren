@@ -1,4 +1,4 @@
 ---
 title: Kaiserslautern
-url: "/kaiserslautern/"
+url: /kaiserslautern/
 ---

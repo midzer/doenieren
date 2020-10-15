@@ -1,4 +1,4 @@
 ---
 title: Kaufungen
-url: "/kaufungen/"
+url: /kaufungen/
 ---

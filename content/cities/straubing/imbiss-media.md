@@ -1,4 +1,4 @@
 ---
-title: Imbiss Media
-url: "/straubing/imbiss-media/"
+title: "Imbiss Media"
+url: /straubing/imbiss-media/
 ---

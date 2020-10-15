@@ -1,4 +1,4 @@
 ---
-title: Aldadin Gastro
-url: "/worms/aldadin-gastro/"
+title: "Aldadin Gastro"
+url: /worms/aldadin-gastro/
 ---

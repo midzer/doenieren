@@ -1,9 +1,9 @@
 id: 7344143797
 latitude: 52.5227876
 longitude: 13.4506318
-postcode: 10249
+postcode: "10249"
 city: Berlin
-street: Petersburger Straße
+street: "Petersburger Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

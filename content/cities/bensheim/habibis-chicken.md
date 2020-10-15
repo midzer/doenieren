@@ -1,4 +1,4 @@
 ---
-title: Habibis Chicken
-url: "/bensheim/habibis-chicken/"
+title: "Habibis Chicken"
+url: /bensheim/habibis-chicken/
 ---

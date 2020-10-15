@@ -1,4 +1,4 @@
 ---
-title: Gaststätte Tenne
-url: "/rietberg/gaststaette-tenne/"
+title: "Gaststätte Tenne"
+url: /rietberg/gaststaette-tenne/
 ---

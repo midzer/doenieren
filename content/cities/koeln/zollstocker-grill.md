@@ -1,4 +1,4 @@
 ---
-title: Zollstocker Grill
-url: "/koeln/zollstocker-grill/"
+title: "Zollstocker Grill"
+url: /koeln/zollstocker-grill/
 ---

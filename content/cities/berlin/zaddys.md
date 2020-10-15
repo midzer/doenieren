@@ -1,4 +1,4 @@
 ---
-title: Zaddy's
-url: "/berlin/zaddys/"
+title: "Zaddy's"
+url: /berlin/zaddys/
 ---

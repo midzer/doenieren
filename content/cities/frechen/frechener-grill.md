@@ -1,4 +1,4 @@
 ---
-title: Frechener Grill
-url: "/frechen/frechener-grill/"
+title: "Frechener Grill"
+url: /frechen/frechener-grill/
 ---

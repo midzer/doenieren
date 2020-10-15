@@ -1,4 +1,4 @@
 ---
 title: Esslingen am Neckar
-url: "/esslingen-am-neckar/"
+url: /esslingen-am-neckar/
 ---

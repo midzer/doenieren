@@ -1,0 +1,4 @@
+---
+title: Arnoldstein
+url: /arnoldstein/
+---

@@ -1,4 +1,4 @@
 ---
 title: Bochum
-url: "/bochum/"
+url: /bochum/
 ---

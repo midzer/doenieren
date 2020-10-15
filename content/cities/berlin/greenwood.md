@@ -1,4 +1,4 @@
 ---
-title: Greenwood
-url: "/berlin/greenwood/"
+title: "Greenwood"
+url: /berlin/greenwood/
 ---

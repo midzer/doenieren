@@ -1,4 +1,4 @@
 ---
-title: Baynal Imbiss
-url: "/dachau/baynal-imbiss/"
+title: "Baynal Imbiss"
+url: /dachau/baynal-imbiss/
 ---

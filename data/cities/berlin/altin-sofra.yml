@@ -1,9 +1,9 @@
 id: 2258208113
 latitude: 52.551926900000005
 longitude: 13.3829074
-postcode: 13357
+postcode: "13357"
 city: Berlin
-street: Badstraße
+street: "Badstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

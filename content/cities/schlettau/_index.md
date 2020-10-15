@@ -1,4 +1,4 @@
 ---
 title: Schlettau
-url: "/schlettau/"
+url: /schlettau/
 ---

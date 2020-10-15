@@ -1,4 +1,4 @@
 ---
-title: MainCafé
-url: "/offenbach-am-main/maincafe/"
+title: "MainCafé"
+url: /offenbach-am-main/maincafe/
 ---

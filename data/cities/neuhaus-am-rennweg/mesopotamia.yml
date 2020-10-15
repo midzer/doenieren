@@ -1,9 +1,9 @@
 id: 1233305665
 latitude: 50.508286600000005
 longitude: 11.1396219
-postcode: 98724
+postcode: "98724"
 city: Neuhaus am Rennweg
-street: Sonneberger Straße
+street: "Sonneberger Straße"
 housenumber: 28
 phone: "+49 3679 700501"
 opening_hours: "Tu-Fr 10:30-22:00; Sa,Su 15:00-22:00"

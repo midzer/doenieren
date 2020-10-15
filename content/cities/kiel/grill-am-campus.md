@@ -1,4 +1,4 @@
 ---
-title: Grill am Campus
-url: "/kiel/grill-am-campus/"
+title: "Grill am Campus"
+url: /kiel/grill-am-campus/
 ---

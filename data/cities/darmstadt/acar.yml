@@ -1,9 +1,9 @@
 id: 2458478435
 latitude: 49.873132000000005
 longitude: 8.63777
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
-street: Mornewegstraße
+street: "Mornewegstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 10:00-23:00"

@@ -1,4 +1,4 @@
 ---
 title: Rastatt
-url: "/rastatt/"
+url: /rastatt/
 ---

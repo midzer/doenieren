@@ -1,4 +1,4 @@
 ---
-title: Cigcöftem
-url: "/nuernberg/cigcoeftem/"
+title: "Cigcöftem"
+url: /nuernberg/cigcoeftem/
 ---

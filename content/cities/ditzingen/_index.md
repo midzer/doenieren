@@ -1,4 +1,4 @@
 ---
 title: Ditzingen
-url: "/ditzingen/"
+url: /ditzingen/
 ---

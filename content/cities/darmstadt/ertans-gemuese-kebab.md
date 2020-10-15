@@ -1,4 +1,4 @@
 ---
-title: Ertan's Gemüse Kebab
-url: "/darmstadt/ertans-gemuese-kebab/"
+title: "Ertan's Gemüse Kebab"
+url: /darmstadt/ertans-gemuese-kebab/
 ---

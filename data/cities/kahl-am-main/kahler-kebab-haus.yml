@@ -1,9 +1,9 @@
 id: 569979434
 latitude: 50.0656541
 longitude: 9.005351000000001
-postcode: 63796
+postcode: "63796"
 city: Kahl am Main
-street: Aschaffenburger Straße
+street: "Aschaffenburger Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 10:30-22:00; Su 11:00-22:00; PH 11:00-22:00"

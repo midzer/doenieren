@@ -1,4 +1,4 @@
 ---
 title: Singen
-url: "/singen/"
+url: /singen/
 ---

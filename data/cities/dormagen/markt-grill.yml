@@ -1,9 +1,9 @@
 id: 2572074832
 latitude: 51.094333500000005
 longitude: 6.8394693
-postcode: 41539
+postcode: "41539"
 city: Dormagen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Tu-Sa 11:00-23:00; Su,PH 12:00-23:00"

@@ -1,4 +1,4 @@
 ---
-title: Pamukkale
-url: "/berlin/pamukkale/"
+title: "Pamukkale"
+url: /berlin/pamukkale/
 ---

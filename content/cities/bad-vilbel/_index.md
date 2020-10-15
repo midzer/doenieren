@@ -1,4 +1,4 @@
 ---
 title: Bad Vilbel
-url: "/bad-vilbel/"
+url: /bad-vilbel/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Firat Kebaphaus
-url: "/gudensberg/firat-kebaphaus/"
+title: "Firat Kebaphaus"
+url: /gudensberg/firat-kebaphaus/
 ---

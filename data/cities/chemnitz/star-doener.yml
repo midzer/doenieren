@@ -1,9 +1,9 @@
 id: 3363843783
 latitude: 50.8315087
 longitude: 12.8934353
-postcode: 09116
+postcode: "09116"
 city: Chemnitz
-street: Weststraße
+street: "Weststraße"
 housenumber: 96
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00"

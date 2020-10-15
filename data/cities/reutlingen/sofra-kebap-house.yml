@@ -1,9 +1,9 @@
 id: 1311785595
 latitude: 48.4949244
 longitude: 9.209585200000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
-street: Listplatz
+street: "Listplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"

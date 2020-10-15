@@ -1,9 +1,9 @@
 id: 248594108
 latitude: 47.995829
 longitude: 7.843287
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
-street: Bertoldstraße
+street: "Bertoldstraße"
 housenumber: 54
 phone: "+49 761 2927151"
 opening_hours: "Mo-Su 11:30-23:30"

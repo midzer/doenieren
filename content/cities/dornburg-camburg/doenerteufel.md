@@ -1,4 +1,4 @@
 ---
-title: Dönerteufel
-url: "/dornburg-camburg/doenerteufel/"
+title: "Dönerteufel"
+url: /dornburg-camburg/doenerteufel/
 ---

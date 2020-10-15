@@ -1,9 +1,9 @@
 id: 279307592
 latitude: 51.140640600000005
 longitude: 6.2786062000000005
-postcode: 41844
+postcode: "41844"
 city: Wegberg
-street: Karmelitergasse
+street: "Karmelitergasse"
 housenumber: 3
 phone: ""
 opening_hours: "Th-Tu 12:00-22:00; We off"

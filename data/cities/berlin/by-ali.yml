@@ -1,9 +1,9 @@
 id: 1339007395
 latitude: 52.5064184
 longitude: 13.314450200000001
-postcode: 10625
+postcode: "10625"
 city: Berlin
-street: Kantstraße
+street: "Kantstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

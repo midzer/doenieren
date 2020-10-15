@@ -1,9 +1,9 @@
 id: 3120269345
 latitude: 51.5426153
 longitude: 6.819082600000001
-postcode: 46147
+postcode: "46147"
 city: Oberhausen
-street: Dudelerstraße
+street: "Dudelerstraße"
 housenumber: 
 phone: ""
 opening_hours: "11:00-22:00"

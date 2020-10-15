@@ -1,9 +1,9 @@
 id: 2556965107
 latitude: 50.4366749
 longitude: 8.6831501
-postcode: 35510
+postcode: "35510"
 city: Butzbach
-street: Griedeler Straße
+street: "Griedeler Straße"
 housenumber: 76
 phone: "+49 6033 9742020"
 opening_hours: "11:30-22:00"

@@ -1,4 +1,4 @@
 ---
-title: City Kebap
-url: "/heidelberg/city-kebap/"
+title: "City Kebap"
+url: /heidelberg/city-kebap/
 ---

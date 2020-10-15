@@ -1,9 +1,9 @@
 id: 1138493002
 latitude: 52.4562541
 longitude: 13.323136900000002
-postcode: 12165
+postcode: "12165"
 city: Berlin
-street: Albrechtstraße
+street: "Albrechtstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Su 08:00-04:00"

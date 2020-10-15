@@ -1,4 +1,4 @@
 ---
-title: Isenbütteler Döner
-url: "/isenbuettel/isenbuetteler-doener/"
+title: "Isenbütteler Döner"
+url: /isenbuettel/isenbuetteler-doener/
 ---

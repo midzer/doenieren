@@ -1,4 +1,4 @@
 ---
 title: Naumburg
-url: "/naumburg/"
+url: /naumburg/
 ---

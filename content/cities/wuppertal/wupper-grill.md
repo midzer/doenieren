@@ -1,4 +1,4 @@
 ---
-title: Wupper Grill
-url: "/wuppertal/wupper-grill/"
+title: "Wupper Grill"
+url: /wuppertal/wupper-grill/
 ---

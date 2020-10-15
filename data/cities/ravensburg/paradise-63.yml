@@ -1,9 +1,9 @@
 id: 5227842707
 latitude: 47.7850764
 longitude: 9.612738
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
-street: Schussenstraße
+street: "Schussenstraße"
 housenumber: 10
 phone: "+49 751 95888815"
 opening_hours: "Mo-Th 10:30-22:30; Fr 10:30-24:00; Sa 00:00-02:00,10:30-24:00; Su 00:00-02:00,12:00-24:00"

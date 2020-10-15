@@ -1,4 +1,4 @@
 ---
-title: La Corniche
-url: "/berlin/la-corniche/"
+title: "La Corniche"
+url: /berlin/la-corniche/
 ---

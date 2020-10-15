@@ -1,4 +1,4 @@
 ---
-title: Dua Kebap
-url: "/nidda/dua-kebap/"
+title: "Dua Kebap"
+url: /nidda/dua-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Grillhaus
-url: "/erfurt/grillhaus/"
+title: "Grillhaus"
+url: /erfurt/grillhaus/
 ---

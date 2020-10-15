@@ -1,4 +1,4 @@
 ---
-title: Bosporus Döner Pizzeria
-url: "/rosswein/bosporus-doener-pizzeria/"
+title: "Bosporus Döner Pizzeria"
+url: /rosswein/bosporus-doener-pizzeria/
 ---

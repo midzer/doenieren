@@ -1,4 +1,4 @@
 ---
-title: Memo Imbiss
-url: "/griesheim/memo-imbiss/"
+title: "Memo Imbiss"
+url: /griesheim/memo-imbiss/
 ---

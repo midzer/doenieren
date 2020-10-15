@@ -1,4 +1,4 @@
 ---
-title: Efes Grill
-url: "/eutin/efes-grill/"
+title: "Efes Grill"
+url: /eutin/efes-grill/
 ---

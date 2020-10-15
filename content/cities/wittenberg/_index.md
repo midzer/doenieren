@@ -1,4 +1,4 @@
 ---
 title: Wittenberg
-url: "/wittenberg/"
+url: /wittenberg/
 ---

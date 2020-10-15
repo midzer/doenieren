@@ -1,4 +1,4 @@
 ---
-title: Kebap Turka
-url: "/muenchen/kebap-turka/"
+title: "Kebap Turka"
+url: /muenchen/kebap-turka/
 ---

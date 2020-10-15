@@ -1,4 +1,4 @@
 ---
-title: by MEMO
-url: "/koeln/by-memo/"
+title: "by MEMO"
+url: /koeln/by-memo/
 ---

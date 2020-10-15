@@ -1,4 +1,4 @@
 ---
-title: Han Palas
-url: "/neuss/han-palas/"
+title: "Han Palas"
+url: /neuss/han-palas/
 ---

@@ -1,4 +1,4 @@
 ---
-title: MAC's Kebap
-url: "/berlin/macs-kebap/"
+title: "MAC's Kebap"
+url: /berlin/macs-kebap/
 ---

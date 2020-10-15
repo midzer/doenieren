@@ -1,4 +1,4 @@
 ---
 title: Rüsselsheim am Main
-url: "/ruesselsheim-am-main/"
+url: /ruesselsheim-am-main/
 ---

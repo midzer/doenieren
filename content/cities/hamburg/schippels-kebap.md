@@ -1,4 +1,4 @@
 ---
-title: Schippel's Kebap
-url: "/hamburg/schippels-kebap/"
+title: "Schippel's Kebap"
+url: /hamburg/schippels-kebap/
 ---

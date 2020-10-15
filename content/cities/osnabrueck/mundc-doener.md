@@ -1,4 +1,4 @@
 ---
-title: M&C Döner
-url: "/osnabrueck/mundc-doener/"
+title: "M&C Döner"
+url: /osnabrueck/mundc-doener/
 ---

@@ -1,9 +1,9 @@
 id: 3265254981
 latitude: 49.021138900000004
 longitude: 12.095159
-postcode: 93047
+postcode: "93047"
 city: Regensburg
-street: Fischmarkt
+street: "Fischmarkt"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Sönmez Kebaphaus
-url: "/giengen-an-der-brenz/soenmez-kebaphaus/"
+title: "Sönmez Kebaphaus"
+url: /giengen-an-der-brenz/soenmez-kebaphaus/
 ---

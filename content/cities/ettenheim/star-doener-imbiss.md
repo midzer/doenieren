@@ -1,4 +1,4 @@
 ---
-title: STAR Döner Imbiss
-url: "/ettenheim/star-doener-imbiss/"
+title: "STAR Döner Imbiss"
+url: /ettenheim/star-doener-imbiss/
 ---

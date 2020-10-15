@@ -1,4 +1,4 @@
 ---
-title: Döner Pizzahaus
-url: "/fulda/doener-pizzahaus/"
+title: "Döner Pizzahaus"
+url: /fulda/doener-pizzahaus/
 ---

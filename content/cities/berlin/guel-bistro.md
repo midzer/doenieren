@@ -1,4 +1,4 @@
 ---
-title: Gül Bistro
-url: "/berlin/guel-bistro/"
+title: "Gül Bistro"
+url: /berlin/guel-bistro/
 ---

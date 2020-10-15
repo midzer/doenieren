@@ -1,4 +1,4 @@
 ---
-title: Taco 3
-url: "/bremen/taco-3/"
+title: "Taco 3"
+url: /bremen/taco-3/
 ---

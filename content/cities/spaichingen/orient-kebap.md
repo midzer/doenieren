@@ -1,4 +1,4 @@
 ---
-title: Orient Kebap
-url: "/spaichingen/orient-kebap/"
+title: "Orient Kebap"
+url: /spaichingen/orient-kebap/
 ---

@@ -1,9 +1,9 @@
 id: 1106398366
 latitude: 50.0665166
 longitude: 8.224599600000001
-postcode: 65187
+postcode: "65187"
 city: Wiesbaden
-street: Dostojewskistraße
+street: "Dostojewskistraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 11:30-22:00, Su 12:00-22:00"

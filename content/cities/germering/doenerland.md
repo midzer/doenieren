@@ -1,4 +1,4 @@
 ---
-title: Dönerland
-url: "/germering/doenerland/"
+title: "Dönerland"
+url: /germering/doenerland/
 ---

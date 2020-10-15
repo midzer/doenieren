@@ -1,9 +1,9 @@
 id: 2017976096
 latitude: 50.435331500000004
 longitude: 8.6706132
-postcode: 35510
+postcode: "35510"
 city: Butzbach
-street: Wetzlarer Straße
+street: "Wetzlarer Straße"
 housenumber: 25
 phone: "+49 6033 970037"
 opening_hours: "Mo-Sa 10:00-21:00; Su,PH 12:00-21:00"

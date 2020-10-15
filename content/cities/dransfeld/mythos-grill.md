@@ -1,4 +1,4 @@
 ---
-title: Mythos Grill
-url: "/dransfeld/mythos-grill/"
+title: "Mythos Grill"
+url: /dransfeld/mythos-grill/
 ---

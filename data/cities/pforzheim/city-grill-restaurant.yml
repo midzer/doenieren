@@ -1,9 +1,9 @@
 id: 1577981592
 latitude: 48.890995000000004
 longitude: 8.6944046
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
-street: Zerrennerstraße
+street: "Zerrennerstraße"
 housenumber: 32
 phone: "+49 7231 17310"
 opening_hours: ""

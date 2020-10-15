@@ -1,4 +1,4 @@
 ---
 title: Bad Steben
-url: "/bad-steben/"
+url: /bad-steben/
 ---

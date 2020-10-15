@@ -1,4 +1,4 @@
 ---
-title: Shifa Döner
-url: "/darmstadt/shifa-doener/"
+title: "Shifa Döner"
+url: /darmstadt/shifa-doener/
 ---

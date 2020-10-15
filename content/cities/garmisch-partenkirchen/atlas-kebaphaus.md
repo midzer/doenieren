@@ -1,4 +1,4 @@
 ---
-title: Atlas Kebaphaus
-url: "/garmisch-partenkirchen/atlas-kebaphaus/"
+title: "Atlas Kebaphaus"
+url: /garmisch-partenkirchen/atlas-kebaphaus/
 ---

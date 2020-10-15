@@ -1,9 +1,9 @@
 id: 1107961208
 latitude: 52.4356883
 longitude: 13.261158700000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
-street: Clayallee
+street: "Clayallee"
 housenumber: 352
 phone: "+49 30 8114458"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Grill Pizza Haus
-url: "/kreuzau/grill-pizza-haus/"
+title: "Grill Pizza Haus"
+url: /kreuzau/grill-pizza-haus/
 ---

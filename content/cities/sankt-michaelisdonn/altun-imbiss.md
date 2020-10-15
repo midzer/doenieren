@@ -1,4 +1,4 @@
 ---
-title: Altun Imbiss
-url: "/sankt-michaelisdonn/altun-imbiss/"
+title: "Altun Imbiss"
+url: /sankt-michaelisdonn/altun-imbiss/
 ---

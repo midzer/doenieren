@@ -1,9 +1,9 @@
 id: 6517011916
 latitude: 51.439861300000004
 longitude: 7.157836700000001
-postcode: 44879
+postcode: "44879"
 city: Bochum
-street: Hasenwinkeler Straße
+street: "Hasenwinkeler Straße"
 housenumber: 191
 phone: ""
 opening_hours: ""

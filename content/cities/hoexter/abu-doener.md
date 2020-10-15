@@ -1,4 +1,4 @@
 ---
-title: Abu Döner
-url: "/hoexter/abu-doener/"
+title: "Abu Döner"
+url: /hoexter/abu-doener/
 ---

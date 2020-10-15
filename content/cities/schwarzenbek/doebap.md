@@ -1,4 +1,4 @@
 ---
-title: DöBap
-url: "/schwarzenbek/doebap/"
+title: "DöBap"
+url: /schwarzenbek/doebap/
 ---

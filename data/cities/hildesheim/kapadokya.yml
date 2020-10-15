@@ -1,9 +1,9 @@
 id: 468456221
 latitude: 52.157079100000004
 longitude: 9.954585100000001
-postcode: 31134
+postcode: "31134"
 city: Hildesheim
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Th 12:00-23:00; Fr,Sa 12:00-24:00, Su 12:00-23:00"

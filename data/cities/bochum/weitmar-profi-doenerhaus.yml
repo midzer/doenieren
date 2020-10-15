@@ -1,9 +1,9 @@
 id: 997927569
 latitude: 51.452258900000004
 longitude: 7.193072600000001
-postcode: 44795
+postcode: "44795"
 city: Bochum
-street: Franziskusstraße
+street: "Franziskusstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,We-Fr 11:00-22:00, Sa,Su,PH 12:00-22:00"

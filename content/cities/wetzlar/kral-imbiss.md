@@ -1,4 +1,4 @@
 ---
-title: Kral Imbiss
-url: "/wetzlar/kral-imbiss/"
+title: "Kral Imbiss"
+url: /wetzlar/kral-imbiss/
 ---

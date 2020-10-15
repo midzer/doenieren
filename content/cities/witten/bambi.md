@@ -1,4 +1,4 @@
 ---
-title: Bambi
-url: "/witten/bambi/"
+title: "Bambi"
+url: /witten/bambi/
 ---

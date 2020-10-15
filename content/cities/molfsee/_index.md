@@ -1,4 +1,4 @@
 ---
 title: Molfsee
-url: "/molfsee/"
+url: /molfsee/
 ---

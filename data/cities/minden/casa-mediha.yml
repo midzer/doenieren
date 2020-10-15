@@ -1,9 +1,9 @@
 id: 4611898431
 latitude: 52.2863398
 longitude: 8.9082817
-postcode: 32423
+postcode: "32423"
 city: Minden
-street: Königswall
+street: "Königswall"
 housenumber: 26
 phone: "+49 571 3883799"
 opening_hours: "Mo,We-Fr 10:30-14:00,17:00-22:00; Sa,Su 17:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Fürst Kebap
-url: "/berlin/fuerst-kebap/"
+title: "Fürst Kebap"
+url: /berlin/fuerst-kebap/
 ---

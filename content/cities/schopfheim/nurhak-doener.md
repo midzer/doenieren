@@ -1,4 +1,4 @@
 ---
-title: Nurhak Döner
-url: "/schopfheim/nurhak-doener/"
+title: "Nurhak Döner"
+url: /schopfheim/nurhak-doener/
 ---

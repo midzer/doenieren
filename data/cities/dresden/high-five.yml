@@ -1,9 +1,9 @@
 id: 307001005
 latitude: 51.0489849
 longitude: 13.741820500000001
-postcode: 01067
+postcode: "01067"
 city: Dresden
-street: Gewandhausstraße
+street: "Gewandhausstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Delitzsch
-url: "/delitzsch/"
+url: /delitzsch/
 ---

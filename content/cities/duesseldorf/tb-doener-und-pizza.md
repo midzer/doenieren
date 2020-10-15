@@ -1,4 +1,4 @@
 ---
-title: TB Döner & Pizza
-url: "/duesseldorf/tb-doener-und-pizza/"
+title: "TB Döner & Pizza"
+url: /duesseldorf/tb-doener-und-pizza/
 ---

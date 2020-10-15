@@ -1,4 +1,4 @@
 ---
-title: Lorin's
-url: "/nienhagen/lorins/"
+title: "Lorin's"
+url: /nienhagen/lorins/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Café Smyrna
-url: "/berlin/cafe-smyrna/"
+title: "Café Smyrna"
+url: /berlin/cafe-smyrna/
 ---

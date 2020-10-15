@@ -1,4 +1,4 @@
 ---
 title: Obersulm
-url: "/obersulm/"
+url: /obersulm/
 ---

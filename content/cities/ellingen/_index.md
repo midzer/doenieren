@@ -1,4 +1,4 @@
 ---
 title: Ellingen
-url: "/ellingen/"
+url: /ellingen/
 ---

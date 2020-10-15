@@ -1,4 +1,4 @@
 ---
-title: Bei Ali
-url: "/wermelskirchen/bei-ali/"
+title: "Bei Ali"
+url: /wermelskirchen/bei-ali/
 ---

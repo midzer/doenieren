@@ -1,4 +1,4 @@
 ---
-title: Imbiss Flamingo
-url: "/goeppingen/imbiss-flamingo/"
+title: "Imbiss Flamingo"
+url: /goeppingen/imbiss-flamingo/
 ---

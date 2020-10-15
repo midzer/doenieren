@@ -1,9 +1,9 @@
 id: 3404363486
 latitude: 49.8161762
 longitude: 6.752019700000001
-postcode: 54338
+postcode: "54338"
 city: Schweich
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 2
 phone: "+49 6502 9952750"
 opening_hours: ""

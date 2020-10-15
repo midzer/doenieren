@@ -1,4 +1,4 @@
 ---
 title: Bleckede
-url: "/bleckede/"
+url: /bleckede/
 ---

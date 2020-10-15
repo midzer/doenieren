@@ -1,9 +1,9 @@
 id: 2420145204
 latitude: 50.0114141
 longitude: 8.2552231
-postcode: 55118
+postcode: "55118"
 city: Mainz
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 40
 phone: "+49 6131 3295377"
 opening_hours: "Mo-Sa 11:00-22:30; PH,Su 11:30-22:30"

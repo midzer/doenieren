@@ -1,4 +1,4 @@
 ---
 title: Düren
-url: "/dueren/"
+url: /dueren/
 ---

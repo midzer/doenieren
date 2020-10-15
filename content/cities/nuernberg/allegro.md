@@ -1,4 +1,4 @@
 ---
-title: Allegro
-url: "/nuernberg/allegro/"
+title: "Allegro"
+url: /nuernberg/allegro/
 ---

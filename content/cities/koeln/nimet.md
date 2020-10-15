@@ -1,4 +1,4 @@
 ---
-title: Nimet
-url: "/koeln/nimet/"
+title: "Nimet"
+url: /koeln/nimet/
 ---

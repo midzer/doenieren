@@ -1,4 +1,4 @@
 ---
 title: Aulendorf
-url: "/aulendorf/"
+url: /aulendorf/
 ---

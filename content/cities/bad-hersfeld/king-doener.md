@@ -1,4 +1,4 @@
 ---
-title: King Döner
-url: "/bad-hersfeld/king-doener/"
+title: "King Döner"
+url: /bad-hersfeld/king-doener/
 ---

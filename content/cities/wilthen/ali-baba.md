@@ -1,4 +1,4 @@
 ---
-title: Ali Baba
-url: "/wilthen/ali-baba/"
+title: "Ali Baba"
+url: /wilthen/ali-baba/
 ---

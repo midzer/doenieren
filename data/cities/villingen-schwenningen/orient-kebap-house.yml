@@ -1,9 +1,9 @@
 id: 5116363305
 latitude: 48.0747525
 longitude: 8.448890200000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
-street: Triberger Straße
+street: "Triberger Straße"
 housenumber: 1
 phone: "+49 7721 995 1012"
 opening_hours: ""

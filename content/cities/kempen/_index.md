@@ -1,4 +1,4 @@
 ---
 title: Kempen
-url: "/kempen/"
+url: /kempen/
 ---

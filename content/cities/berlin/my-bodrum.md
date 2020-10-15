@@ -1,4 +1,4 @@
 ---
-title: My Bodrum
-url: "/berlin/my-bodrum/"
+title: "My Bodrum"
+url: /berlin/my-bodrum/
 ---

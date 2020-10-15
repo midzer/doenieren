@@ -1,4 +1,4 @@
 ---
-title: Habibi Döner
-url: "/feldkirchen-westerham/habibi-doener/"
+title: "Habibi Döner"
+url: /feldkirchen-westerham/habibi-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Diez
-url: "/diez/"
+url: /diez/
 ---

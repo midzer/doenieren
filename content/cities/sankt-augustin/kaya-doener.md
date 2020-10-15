@@ -1,4 +1,4 @@
 ---
-title: Kaya Döner
-url: "/sankt-augustin/kaya-doener/"
+title: "Kaya Döner"
+url: /sankt-augustin/kaya-doener/
 ---

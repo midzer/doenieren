@@ -1,4 +1,4 @@
 ---
-title: Buchen Kebap Haus
-url: "/buchen-odenwald/buchen-kebap-haus/"
+title: "Buchen Kebap Haus"
+url: /buchen-odenwald/buchen-kebap-haus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alis Döner
-url: "/gladenbach/alis-doener/"
+title: "Alis Döner"
+url: /gladenbach/alis-doener/
 ---

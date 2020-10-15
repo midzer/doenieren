@@ -1,9 +1,9 @@
 id: 3865738058
 latitude: 52.5269795
 longitude: 13.3375654
-postcode: 10551
+postcode: "10551"
 city: Berlin
-street: Bremer Straße
+street: "Bremer Straße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:30-18:00"

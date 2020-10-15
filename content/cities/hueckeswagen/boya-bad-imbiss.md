@@ -1,4 +1,4 @@
 ---
-title: Boya-BAD Imbiss
-url: "/hueckeswagen/boya-bad-imbiss/"
+title: "Boya-BAD Imbiss"
+url: /hueckeswagen/boya-bad-imbiss/
 ---

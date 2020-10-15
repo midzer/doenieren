@@ -1,4 +1,4 @@
 ---
-title: Pizzeria Santos
-url: "/wardenburg/pizzeria-santos/"
+title: "Pizzeria Santos"
+url: /wardenburg/pizzeria-santos/
 ---

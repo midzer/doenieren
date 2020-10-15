@@ -1,9 +1,9 @@
 id: 1576191396
 latitude: 49.239304800000006
 longitude: 9.101800200000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 6/6
 phone: "+49 7264 205034"
 opening_hours: "Mo-Sa 10:00-23:30; Su 11:00-23:00"

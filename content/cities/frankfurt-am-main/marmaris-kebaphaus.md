@@ -1,4 +1,4 @@
 ---
-title: Marmaris Kebaphaus
-url: "/frankfurt-am-main/marmaris-kebaphaus/"
+title: "Marmaris Kebaphaus"
+url: /frankfurt-am-main/marmaris-kebaphaus/
 ---

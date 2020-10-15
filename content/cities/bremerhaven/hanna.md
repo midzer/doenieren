@@ -1,4 +1,4 @@
 ---
-title: Hanna
-url: "/bremerhaven/hanna/"
+title: "Hanna"
+url: /bremerhaven/hanna/
 ---

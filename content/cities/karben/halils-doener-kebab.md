@@ -1,4 +1,4 @@
 ---
-title: Halil's Döner Kebab
-url: "/karben/halils-doener-kebab/"
+title: "Halil's Döner Kebab"
+url: /karben/halils-doener-kebab/
 ---

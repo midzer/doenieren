@@ -1,9 +1,9 @@
 id: 6256933925
 latitude: 51.458725
 longitude: 7.0131344
-postcode: 45127
+postcode: "45127"
 city: Essen
-street: Viehofer Straße
+street: "Viehofer Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

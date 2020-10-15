@@ -1,4 +1,4 @@
 ---
-title: Dönerstar
-url: "/ludwigshafen-am-rhein/doenerstar/"
+title: "Dönerstar"
+url: /ludwigshafen-am-rhein/doenerstar/
 ---

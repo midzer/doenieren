@@ -1,4 +1,4 @@
 ---
-title: Stadtbäckerei
-url: "/giessen/stadtbaeckerei/"
+title: "Stadtbäckerei"
+url: /giessen/stadtbaeckerei/
 ---

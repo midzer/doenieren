@@ -1,4 +1,4 @@
 ---
-title: Mersin Kebap
-url: "/frankfurt-am-main/mersin-kebap/"
+title: "Mersin Kebap"
+url: /frankfurt-am-main/mersin-kebap/
 ---

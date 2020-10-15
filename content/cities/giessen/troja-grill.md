@@ -1,4 +1,4 @@
 ---
-title: Troja Grill
-url: "/giessen/troja-grill/"
+title: "Troja Grill"
+url: /giessen/troja-grill/
 ---

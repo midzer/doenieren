@@ -1,9 +1,9 @@
 id: 1903621052
 latitude: 52.2624731
 longitude: 10.1927176
-postcode: 31241
+postcode: "31241"
 city: Ilsede
-street: Zuckerweg
+street: "Zuckerweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

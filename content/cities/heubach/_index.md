@@ -1,4 +1,4 @@
 ---
 title: Heubach
-url: "/heubach/"
+url: /heubach/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ostheimer Grill Pizzeria
-url: "/koeln/ostheimer-grill-pizzeria/"
+title: "Ostheimer Grill Pizzeria"
+url: /koeln/ostheimer-grill-pizzeria/
 ---

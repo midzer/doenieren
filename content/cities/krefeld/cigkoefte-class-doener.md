@@ -1,4 +1,4 @@
 ---
-title: Cigköfte Class Döner
-url: "/krefeld/cigkoefte-class-doener/"
+title: "Cigköfte Class Döner"
+url: /krefeld/cigkoefte-class-doener/
 ---

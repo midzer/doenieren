@@ -1,4 +1,4 @@
 ---
 title: Hattstedt
-url: "/hattstedt/"
+url: /hattstedt/
 ---

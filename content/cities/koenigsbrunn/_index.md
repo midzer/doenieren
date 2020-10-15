@@ -1,4 +1,4 @@
 ---
 title: Königsbrunn
-url: "/koenigsbrunn/"
+url: /koenigsbrunn/
 ---

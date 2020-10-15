@@ -1,4 +1,4 @@
 ---
-title: Döner-Hütte-Hilchenbach
-url: "/hilchenbach/doener-huette-hilchenbach/"
+title: "Döner-Hütte-Hilchenbach"
+url: /hilchenbach/doener-huette-hilchenbach/
 ---

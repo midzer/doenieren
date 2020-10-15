@@ -1,9 +1,9 @@
 id: 4338320265
 latitude: 51.7445231
 longitude: 7.184048300000001
-postcode: 45721
+postcode: "45721"
 city: Haltern am See
-street: Rekumer Straße
+street: "Rekumer Straße"
 housenumber: 55
 phone: "+49 2364 15914"
 opening_hours: "Mo-Sa 10:30-23:00; Su 11:30-23:00"

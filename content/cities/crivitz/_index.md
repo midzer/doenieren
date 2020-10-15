@@ -1,4 +1,4 @@
 ---
 title: Crivitz
-url: "/crivitz/"
+url: /crivitz/
 ---

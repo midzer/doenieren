@@ -1,9 +1,9 @@
 id: 3646667806
 latitude: 54.09191860000001
 longitude: 12.1496089
-postcode: 18055
+postcode: "18055"
 city: Rostock
-street: Loggerweg
+street: "Loggerweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 10:30-21:00 Sommer; Mo-Sa 10:30-20:00 Winter"

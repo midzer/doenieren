@@ -1,4 +1,4 @@
 ---
-title: Bistro Alanya
-url: "/berlin/bistro-alanya/"
+title: "Bistro Alanya"
+url: /berlin/bistro-alanya/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bitterfeld-Wolfen
-url: "/bitterfeld-wolfen/"
+url: /bitterfeld-wolfen/
 ---

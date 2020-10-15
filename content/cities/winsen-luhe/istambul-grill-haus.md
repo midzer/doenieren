@@ -1,4 +1,4 @@
 ---
-title: Istambul Grill Haus
-url: "/winsen-luhe/istambul-grill-haus/"
+title: "Istambul Grill Haus"
+url: /winsen-luhe/istambul-grill-haus/
 ---

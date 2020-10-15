@@ -1,4 +1,4 @@
 ---
-title: Dönerstube
-url: "/halle-saale/doenerstube/"
+title: "Dönerstube"
+url: /halle-saale/doenerstube/
 ---

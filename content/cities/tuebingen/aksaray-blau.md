@@ -1,4 +1,4 @@
 ---
-title: Aksaray Blau
-url: "/tuebingen/aksaray-blau/"
+title: "Aksaray Blau"
+url: /tuebingen/aksaray-blau/
 ---

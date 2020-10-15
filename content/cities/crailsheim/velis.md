@@ -1,4 +1,4 @@
 ---
-title: Velis
-url: "/crailsheim/velis/"
+title: "Velis"
+url: /crailsheim/velis/
 ---

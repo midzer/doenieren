@@ -1,4 +1,4 @@
 ---
 title: Renningen
-url: "/renningen/"
+url: /renningen/
 ---

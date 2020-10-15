@@ -1,9 +1,9 @@
 id: 4010310446
 latitude: 52.530345700000005
 longitude: 13.6208243
-postcode: 12627
+postcode: "12627"
 city: Berlin
-street: 
+street: ""
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Bergkamen
-url: "/bergkamen/"
+url: /bergkamen/
 ---

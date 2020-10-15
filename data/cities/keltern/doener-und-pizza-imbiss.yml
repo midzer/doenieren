@@ -1,9 +1,9 @@
 id: 3419297594
 latitude: 48.901178900000005
 longitude: 8.5750442
-postcode: 75210
+postcode: "75210"
 city: Keltern
-street: Ettlinger Straße
+street: "Ettlinger Straße"
 housenumber: 5
 phone: "+49 7236 130687"
 opening_hours: "Mo-Fr 10:00-21:00"

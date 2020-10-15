@@ -1,4 +1,4 @@
 ---
-title: Efes Imbiss
-url: "/berlin/efes-imbiss/"
+title: "Efes Imbiss"
+url: /berlin/efes-imbiss/
 ---

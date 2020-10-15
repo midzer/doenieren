@@ -1,4 +1,4 @@
 ---
-title: Pamukkale
-url: "/limburg-an-der-lahn/pamukkale/"
+title: "Pamukkale"
+url: /limburg-an-der-lahn/pamukkale/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Hartmannsdorf
-url: "/hartmannsdorf/"
+url: /hartmannsdorf/
 ---

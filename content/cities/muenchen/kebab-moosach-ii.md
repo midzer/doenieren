@@ -1,4 +1,4 @@
 ---
-title: Kebab Moosach II
-url: "/muenchen/kebab-moosach-ii/"
+title: "Kebab Moosach II"
+url: /muenchen/kebab-moosach-ii/
 ---

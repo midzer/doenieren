@@ -1,4 +1,4 @@
 ---
-title: Mevlana Grill
-url: "/braunschweig/mevlana-grill/"
+title: "Mevlana Grill"
+url: /braunschweig/mevlana-grill/
 ---

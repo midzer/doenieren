@@ -1,9 +1,9 @@
 id: 1428568421
 latitude: 51.6962776
 longitude: 7.7619654
-postcode: 59075
+postcode: "59075"
 city: Hamm
-street: Marinestraße
+street: "Marinestraße"
 housenumber: 54
 phone: "+49 2381 3077566"
 opening_hours: ""

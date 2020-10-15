@@ -1,4 +1,4 @@
 ---
-title: Destan
-url: "/muenster/destan/"
+title: "Destan"
+url: /muenster/destan/
 ---

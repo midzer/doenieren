@@ -1,4 +1,4 @@
 ---
 title: Nidda
-url: "/nidda/"
+url: /nidda/
 ---

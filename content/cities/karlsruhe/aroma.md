@@ -1,4 +1,4 @@
 ---
-title: Aroma
-url: "/karlsruhe/aroma/"
+title: "Aroma"
+url: /karlsruhe/aroma/
 ---

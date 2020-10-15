@@ -1,9 +1,9 @@
 id: 2590531328
 latitude: 48.0823711
 longitude: 11.485153700000001
-postcode: 81475
+postcode: "81475"
 city: München
-street: Königswieser Straße
+street: "Königswieser Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

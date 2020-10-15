@@ -1,9 +1,9 @@
 id: 2747150445
 latitude: 50.921576200000004
 longitude: 13.347024000000001
-postcode: 09599
+postcode: "09599"
 city: Freiberg
-street: Meißner Gasse
+street: "Meißner Gasse"
 housenumber: 35
 phone: ""
 opening_hours: ""

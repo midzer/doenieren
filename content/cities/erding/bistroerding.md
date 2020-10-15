@@ -1,4 +1,4 @@
 ---
-title: BistroErding
-url: "/erding/bistroerding/"
+title: "BistroErding"
+url: /erding/bistroerding/
 ---

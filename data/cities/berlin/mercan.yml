@@ -1,9 +1,9 @@
 id: 667892498
 latitude: 52.4985779
 longitude: 13.427939700000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
-street: Wiener Straße
+street: "Wiener Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

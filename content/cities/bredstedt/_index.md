@@ -1,0 +1,4 @@
+---
+title: Bredstedt
+url: /bredstedt/
+---

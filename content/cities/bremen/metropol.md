@@ -1,4 +1,4 @@
 ---
-title: Metropol
-url: "/bremen/metropol/"
+title: "Metropol"
+url: /bremen/metropol/
 ---

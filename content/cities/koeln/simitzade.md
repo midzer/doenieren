@@ -1,4 +1,4 @@
 ---
-title: Simitzade
-url: "/koeln/simitzade/"
+title: "Simitzade"
+url: /koeln/simitzade/
 ---

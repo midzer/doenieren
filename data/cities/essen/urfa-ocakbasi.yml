@@ -1,9 +1,9 @@
 id: 4897857280
 latitude: 51.470325200000005
 longitude: 7.014087900000001
-postcode: 45141
+postcode: "45141"
 city: Essen
-street: Altenessener Straße
+street: "Altenessener Straße"
 housenumber: 68
 phone: "+49 201 364 588 66"
 opening_hours: "Mo-Sa 07:00-02:00; PH Su 08:00-02:00"

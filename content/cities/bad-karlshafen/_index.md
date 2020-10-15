@@ -1,4 +1,4 @@
 ---
 title: Bad Karlshafen
-url: "/bad-karlshafen/"
+url: /bad-karlshafen/
 ---

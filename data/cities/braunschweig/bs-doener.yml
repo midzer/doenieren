@@ -1,9 +1,9 @@
 id: 1579673291
 latitude: 52.265123200000005
 longitude: 10.5265091
-postcode: 38100
+postcode: "38100"
 city: Braunschweig
-street: Bohlweg
+street: "Bohlweg"
 housenumber: 
 phone: ""
 opening_hours: ""

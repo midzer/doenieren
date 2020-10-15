@@ -1,9 +1,9 @@
 id: 2084794211
 latitude: 50.717823900000006
 longitude: 12.457642300000002
-postcode: 08060
+postcode: "08060"
 city: Zwickau
-street: Olzmannstraße
+street: "Olzmannstraße"
 housenumber: 2
 phone: "+49 375 2148541"
 opening_hours: "Mo-Fr 10:00-21:00; Sa-Su 14:00-21:00"

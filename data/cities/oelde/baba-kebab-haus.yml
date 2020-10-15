@@ -1,9 +1,9 @@
 id: 7153456951
 latitude: 51.826896500000004
 longitude: 8.1440821
-postcode: 59302
+postcode: "59302"
 city: Oelde
-street: Ruggestraße
+street: "Ruggestraße"
 housenumber: 9
 phone: "+49 2522 8279807"
 opening_hours: "Mo-Sa 11:00-21:30; Su 12:00-21:30"

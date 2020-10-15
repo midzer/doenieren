@@ -1,4 +1,4 @@
 ---
-title: Casablanca
-url: "/jevenstedt/casablanca/"
+title: "Casablanca"
+url: /jevenstedt/casablanca/
 ---

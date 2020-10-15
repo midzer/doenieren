@@ -1,4 +1,4 @@
 ---
-title: Dilara
-url: "/annweiler-am-trifels/dilara/"
+title: "Dilara"
+url: /annweiler-am-trifels/dilara/
 ---

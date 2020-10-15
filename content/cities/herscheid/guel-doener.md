@@ -1,4 +1,4 @@
 ---
-title: Gül Döner
-url: "/herscheid/guel-doener/"
+title: "Gül Döner"
+url: /herscheid/guel-doener/
 ---

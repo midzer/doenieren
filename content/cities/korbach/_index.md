@@ -1,4 +1,4 @@
 ---
 title: Korbach
-url: "/korbach/"
+url: /korbach/
 ---

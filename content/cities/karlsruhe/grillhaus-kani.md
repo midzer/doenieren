@@ -1,4 +1,4 @@
 ---
-title: Grillhaus Kani
-url: "/karlsruhe/grillhaus-kani/"
+title: "Grillhaus Kani"
+url: /karlsruhe/grillhaus-kani/
 ---

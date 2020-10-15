@@ -1,4 +1,4 @@
 ---
-title: Cesme
-url: "/nuernberg/cesme/"
+title: "Cesme"
+url: /nuernberg/cesme/
 ---

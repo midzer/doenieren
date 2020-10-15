@@ -1,9 +1,9 @@
 id: 3615491772
 latitude: 52.5269842
 longitude: 13.330400200000001
-postcode: 10555
+postcode: "10555"
 city: Berlin
-street: Gotzkowskystraße
+street: "Gotzkowskystraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

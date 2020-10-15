@@ -1,4 +1,4 @@
 ---
-title: Speed
-url: "/duesseldorf/speed/"
+title: "Speed"
+url: /duesseldorf/speed/
 ---

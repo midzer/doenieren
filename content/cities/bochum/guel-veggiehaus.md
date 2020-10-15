@@ -1,4 +1,4 @@
 ---
-title: Gül Veggiehaus
-url: "/bochum/guel-veggiehaus/"
+title: "Gül Veggiehaus"
+url: /bochum/guel-veggiehaus/
 ---

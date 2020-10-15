@@ -1,4 +1,4 @@
 ---
-title: Mäc Döner (Dönerverkauf)
-url: "/luedenscheid/maec-doener-doenerverkauf/"
+title: "Mäc Döner (Dönerverkauf)"
+url: /luedenscheid/maec-doener-doenerverkauf/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ümit Imbiss
-url: "/augsburg/uemit-imbiss/"
+title: "Ümit Imbiss"
+url: /augsburg/uemit-imbiss/
 ---

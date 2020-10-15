@@ -1,4 +1,4 @@
 ---
-title: Mr. Döner
-url: "/rheda-wiedenbrueck/mr-doener/"
+title: "Mr. Döner"
+url: /rheda-wiedenbrueck/mr-doener/
 ---

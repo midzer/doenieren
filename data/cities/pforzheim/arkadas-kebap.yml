@@ -1,9 +1,9 @@
 id: 1947932118
 latitude: 48.889928100000006
 longitude: 8.7054281
-postcode: 75175
+postcode: "75175"
 city: Pforzheim
-street: Zehnthofstraße
+street: "Zehnthofstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Tu-Fr 09:00-21:00; Sa 09:00- 22:00; Su 09:00- 21:00"

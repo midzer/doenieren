@@ -1,4 +1,4 @@
 ---
 title: Hüfingen
-url: "/huefingen/"
+url: /huefingen/
 ---

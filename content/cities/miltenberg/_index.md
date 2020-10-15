@@ -1,4 +1,4 @@
 ---
 title: Miltenberg
-url: "/miltenberg/"
+url: /miltenberg/
 ---

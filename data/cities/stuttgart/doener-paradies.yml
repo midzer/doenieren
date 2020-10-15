@@ -1,9 +1,9 @@
 id: 3647534467
 latitude: 48.8317211
 longitude: 9.1867278
-postcode: 70437
+postcode: "70437"
 city: Stuttgart
-street: Erligheimer Straße
+street: "Erligheimer Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Su 10:00-23:00"

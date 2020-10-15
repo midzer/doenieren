@@ -1,9 +1,9 @@
 id: 3467669087
 latitude: 54.020742600000005
 longitude: 9.3740577
-postcode: 25596
+postcode: "25596"
 city: Wacken
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 10:30-22:30; Su,PH 11:30-22:00"

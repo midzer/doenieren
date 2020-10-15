@@ -1,4 +1,4 @@
 ---
-title: Derwisch
-url: "/trier/derwisch/"
+title: "Derwisch"
+url: /trier/derwisch/
 ---

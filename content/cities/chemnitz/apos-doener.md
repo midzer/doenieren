@@ -1,4 +1,4 @@
 ---
-title: APO's Döner
-url: "/chemnitz/apos-doener/"
+title: "APO's Döner"
+url: /chemnitz/apos-doener/
 ---

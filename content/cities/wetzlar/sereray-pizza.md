@@ -1,4 +1,4 @@
 ---
-title: Sereray Pizza
-url: "/wetzlar/sereray-pizza/"
+title: "Sereray Pizza"
+url: /wetzlar/sereray-pizza/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Öz Samsun
-url: "/berlin/oez-samsun/"
+title: "Öz Samsun"
+url: /berlin/oez-samsun/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Onkel Gazis
-url: "/duesseldorf/onkel-gazis/"
+title: "Onkel Gazis"
+url: /duesseldorf/onkel-gazis/
 ---

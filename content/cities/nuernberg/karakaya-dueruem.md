@@ -1,4 +1,4 @@
 ---
-title: Karakaya Dürüm
-url: "/nuernberg/karakaya-dueruem/"
+title: "Karakaya Dürüm"
+url: /nuernberg/karakaya-dueruem/
 ---

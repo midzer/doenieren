@@ -1,4 +1,4 @@
 ---
-title: Istanbul - Döner Pizza
-url: "/augsburg/istanbul-doener-pizza/"
+title: "Istanbul - Döner Pizza"
+url: /augsburg/istanbul-doener-pizza/
 ---

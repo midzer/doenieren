@@ -1,4 +1,4 @@
 ---
-title: Irem Döner
-url: "/porta-westfalica/irem-doener/"
+title: "Irem Döner"
+url: /porta-westfalica/irem-doener/
 ---

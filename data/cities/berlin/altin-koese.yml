@@ -1,9 +1,9 @@
 id: 871610945
 latitude: 52.501490000000004
 longitude: 13.4163431
-postcode: 10999
+postcode: "10999"
 city: Berlin
-street: Dresdener Straße
+street: "Dresdener Straße"
 housenumber: 119
 phone: ""
 opening_hours: ""

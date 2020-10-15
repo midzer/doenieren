@@ -1,4 +1,4 @@
 ---
-title: Gap
-url: "/berlin/gap/"
+title: "Gap"
+url: /berlin/gap/
 ---

@@ -1,9 +1,9 @@
 id: 1798523756
 latitude: 54.303716800000004
 longitude: 10.1133424
-postcode: 24113
+postcode: "24113"
 city: Kiel
-street: Hamburger Chaussee
+street: "Hamburger Chaussee"
 housenumber: 107
 phone: "+49 431 64994693"
 opening_hours: "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00"

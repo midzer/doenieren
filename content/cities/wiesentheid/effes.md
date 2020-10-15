@@ -1,4 +1,4 @@
 ---
-title: Effes
-url: "/wiesentheid/effes/"
+title: "Effes"
+url: /wiesentheid/effes/
 ---

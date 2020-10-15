@@ -1,4 +1,4 @@
 ---
 title: Schönberg (Holstein)
-url: "/schoenberg-holstein/"
+url: /schoenberg-holstein/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Dönerstag
-url: "/oberhausen/doenerstag/"
+title: "Dönerstag"
+url: /oberhausen/doenerstag/
 ---

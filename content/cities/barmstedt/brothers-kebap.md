@@ -1,4 +1,4 @@
 ---
-title: Brothers Kebap
-url: "/barmstedt/brothers-kebap/"
+title: "Brothers Kebap"
+url: /barmstedt/brothers-kebap/
 ---

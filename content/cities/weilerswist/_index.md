@@ -1,4 +1,4 @@
 ---
 title: Weilerswist
-url: "/weilerswist/"
+url: /weilerswist/
 ---

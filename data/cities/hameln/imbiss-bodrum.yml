@@ -1,9 +1,9 @@
 id: 1425149404
 latitude: 52.1042131
 longitude: 9.355626200000001
-postcode: 31785
+postcode: "31785"
 city: Hameln
-street: Fischpfortenstraße
+street: "Fischpfortenstraße"
 housenumber: 20
 phone: "+49 5151 940026"
 opening_hours: "Mo-Sa 11:00-21:00, Su 12:00-21:00"

@@ -1,4 +1,4 @@
 ---
-title: Pizza Kebaphaus
-url: "/brackenheim/pizza-kebaphaus/"
+title: "Pizza Kebaphaus"
+url: /brackenheim/pizza-kebaphaus/
 ---

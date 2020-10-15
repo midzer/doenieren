@@ -1,9 +1,9 @@
 id: 1975288587
 latitude: 51.045416900000006
 longitude: 12.8009941
-postcode: 09306
+postcode: "09306"
 city: Rochlitz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: "+49 3737 7867799"
 opening_hours: "Mo-Fr 10:00-22:00; Sa,Su 11:00-22:00"

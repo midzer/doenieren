@@ -1,4 +1,4 @@
 ---
-title: Antalya
-url: "/grossbreitenbach/antalya/"
+title: "Antalya"
+url: /grossbreitenbach/antalya/
 ---

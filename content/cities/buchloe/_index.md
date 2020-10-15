@@ -1,4 +1,4 @@
 ---
 title: Buchloe
-url: "/buchloe/"
+url: /buchloe/
 ---

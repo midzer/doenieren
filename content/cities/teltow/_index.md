@@ -1,4 +1,4 @@
 ---
 title: Teltow
-url: "/teltow/"
+url: /teltow/
 ---

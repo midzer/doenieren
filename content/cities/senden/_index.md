@@ -1,4 +1,4 @@
 ---
 title: Senden
-url: "/senden/"
+url: /senden/
 ---

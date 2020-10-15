@@ -1,4 +1,4 @@
 ---
-title: Kebab Haus
-url: "/bad-steben/kebab-haus/"
+title: "Kebab Haus"
+url: /bad-steben/kebab-haus/
 ---

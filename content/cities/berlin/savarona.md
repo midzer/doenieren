@@ -1,4 +1,4 @@
 ---
-title: Savarona
-url: "/berlin/savarona/"
+title: "Savarona"
+url: /berlin/savarona/
 ---

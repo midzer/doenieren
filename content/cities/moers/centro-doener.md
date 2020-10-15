@@ -1,4 +1,4 @@
 ---
-title: Centro Döner
-url: "/moers/centro-doener/"
+title: "Centro Döner"
+url: /moers/centro-doener/
 ---

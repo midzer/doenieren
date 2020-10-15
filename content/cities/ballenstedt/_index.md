@@ -1,4 +1,4 @@
 ---
 title: Ballenstedt
-url: "/ballenstedt/"
+url: /ballenstedt/
 ---

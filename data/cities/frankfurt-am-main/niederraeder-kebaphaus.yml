@@ -1,9 +1,9 @@
 id: 539544580
 latitude: 50.084645200000004
 longitude: 8.6488309
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 61
 phone: "+49 69 67868676"
 opening_hours: "Mo-Su 09:00-01:00"

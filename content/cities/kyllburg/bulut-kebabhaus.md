@@ -1,4 +1,4 @@
 ---
-title: Bulut Kebabhaus
-url: "/kyllburg/bulut-kebabhaus/"
+title: "Bulut Kebabhaus"
+url: /kyllburg/bulut-kebabhaus/
 ---

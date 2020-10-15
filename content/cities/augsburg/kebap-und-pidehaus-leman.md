@@ -1,4 +1,4 @@
 ---
-title: Kebap und Pidehaus - Leman
-url: "/augsburg/kebap-und-pidehaus-leman/"
+title: "Kebap und Pidehaus - Leman"
+url: /augsburg/kebap-und-pidehaus-leman/
 ---

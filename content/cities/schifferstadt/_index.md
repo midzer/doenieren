@@ -1,4 +1,4 @@
 ---
 title: Schifferstadt
-url: "/schifferstadt/"
+url: /schifferstadt/
 ---

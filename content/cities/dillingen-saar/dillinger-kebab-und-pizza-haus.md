@@ -1,4 +1,4 @@
 ---
-title: Dillinger Kebab & Pizza Haus
-url: "/dillingen-saar/dillinger-kebab-und-pizza-haus/"
+title: "Dillinger Kebab & Pizza Haus"
+url: /dillingen-saar/dillinger-kebab-und-pizza-haus/
 ---

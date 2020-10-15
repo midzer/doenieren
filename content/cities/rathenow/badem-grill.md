@@ -1,4 +1,4 @@
 ---
-title: Badem Grill
-url: "/rathenow/badem-grill/"
+title: "Badem Grill"
+url: /rathenow/badem-grill/
 ---

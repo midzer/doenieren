@@ -1,4 +1,4 @@
 ---
-title: Anatolische Küche
-url: "/berlin/anatolische-kueche/"
+title: "Anatolische Küche"
+url: /berlin/anatolische-kueche/
 ---

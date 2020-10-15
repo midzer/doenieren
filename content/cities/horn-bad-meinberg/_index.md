@@ -1,4 +1,4 @@
 ---
 title: Horn-Bad Meinberg
-url: "/horn-bad-meinberg/"
+url: /horn-bad-meinberg/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Döner Haus
-url: "/altena/doener-haus/"
+title: "Döner Haus"
+url: /altena/doener-haus/
 ---

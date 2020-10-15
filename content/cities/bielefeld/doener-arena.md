@@ -1,4 +1,4 @@
 ---
-title: Döner Arena
-url: "/bielefeld/doener-arena/"
+title: "Döner Arena"
+url: /bielefeld/doener-arena/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kumkapi
-url: "/hannover/kumkapi/"
+title: "Kumkapi"
+url: /hannover/kumkapi/
 ---

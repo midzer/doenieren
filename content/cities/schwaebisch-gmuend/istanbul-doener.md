@@ -1,4 +1,4 @@
 ---
-title: Istanbul Döner
-url: "/schwaebisch-gmuend/istanbul-doener/"
+title: "Istanbul Döner"
+url: /schwaebisch-gmuend/istanbul-doener/
 ---

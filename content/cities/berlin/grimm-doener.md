@@ -1,4 +1,4 @@
 ---
-title: Grimm Döner
-url: "/berlin/grimm-doener/"
+title: "Grimm Döner"
+url: /berlin/grimm-doener/
 ---

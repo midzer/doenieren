@@ -1,0 +1,4 @@
+---
+title: Sempach
+url: /sempach/
+---

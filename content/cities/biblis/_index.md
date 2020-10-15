@@ -1,4 +1,4 @@
 ---
 title: Biblis
-url: "/biblis/"
+url: /biblis/
 ---

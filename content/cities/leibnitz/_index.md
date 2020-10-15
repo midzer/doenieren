@@ -1,0 +1,4 @@
+---
+title: Leibnitz
+url: /leibnitz/
+---

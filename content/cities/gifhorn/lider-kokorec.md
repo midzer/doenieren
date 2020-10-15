@@ -1,4 +1,4 @@
 ---
-title: Lider Kokoreç
-url: "/gifhorn/lider-kokorec/"
+title: "Lider Kokoreç"
+url: /gifhorn/lider-kokorec/
 ---

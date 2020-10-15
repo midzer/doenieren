@@ -1,9 +1,9 @@
 id: 3571547933
 latitude: 50.895469500000004
 longitude: 8.0283283
-postcode: 57076
+postcode: "57076"
 city: Siegen
-street: Weidenauer Straße
+street: "Weidenauer Straße"
 housenumber: 199
 phone: ""
 opening_hours: "Tu-Th 11:00-22:30; Fr,Sa 11:00-23:00; Su,PH 12:00-22:00"

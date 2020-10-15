@@ -1,4 +1,4 @@
 ---
-title: Osna Döner
-url: "/osnabrueck/osna-doener/"
+title: "Osna Döner"
+url: /osnabrueck/osna-doener/
 ---

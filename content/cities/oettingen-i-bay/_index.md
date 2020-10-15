@@ -1,4 +1,4 @@
 ---
 title: Oettingen i.Bay.
-url: "/oettingen-i-bay/"
+url: /oettingen-i-bay/
 ---

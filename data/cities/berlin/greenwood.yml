@@ -1,9 +1,9 @@
 id: 3261857296
 latitude: 52.547974100000005
 longitude: 13.3911896
-postcode: 13355
+postcode: "13355"
 city: Berlin
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 105-109
 phone: ""
 opening_hours: ""

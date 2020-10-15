@@ -1,4 +1,4 @@
 ---
-title: Königs Kebap
-url: "/koenigs-wusterhausen/koenigs-kebap/"
+title: "Königs Kebap"
+url: /koenigs-wusterhausen/koenigs-kebap/
 ---

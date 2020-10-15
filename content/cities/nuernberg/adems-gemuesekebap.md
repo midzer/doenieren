@@ -1,4 +1,4 @@
 ---
-title: Adem's Gemüsekebap
-url: "/nuernberg/adems-gemuesekebap/"
+title: "Adem's Gemüsekebap"
+url: /nuernberg/adems-gemuesekebap/
 ---

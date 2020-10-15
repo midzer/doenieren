@@ -1,4 +1,4 @@
 ---
-title: Döner Treff
-url: "/remscheid/doener-treff/"
+title: "Döner Treff"
+url: /remscheid/doener-treff/
 ---

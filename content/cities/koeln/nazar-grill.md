@@ -1,4 +1,4 @@
 ---
-title: Nazar Grill
-url: "/koeln/nazar-grill/"
+title: "Nazar Grill"
+url: /koeln/nazar-grill/
 ---

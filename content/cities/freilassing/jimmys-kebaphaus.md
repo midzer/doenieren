@@ -1,4 +1,4 @@
 ---
-title: Jimmys Kebaphaus
-url: "/freilassing/jimmys-kebaphaus/"
+title: "Jimmys Kebaphaus"
+url: /freilassing/jimmys-kebaphaus/
 ---

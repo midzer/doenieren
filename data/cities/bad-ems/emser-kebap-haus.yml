@@ -1,9 +1,9 @@
 id: 6815258950
 latitude: 50.3299959
 longitude: 7.729826600000001
-postcode: 56130
+postcode: "56130"
 city: Bad Ems
-street: Lahnstraße
+street: "Lahnstraße"
 housenumber: 3
 phone: ""
 opening_hours: "11:00-21:30"

@@ -1,4 +1,4 @@
 ---
-title: Dogan Döner-Pizzahaus
-url: "/hauenstein/dogan-doener-pizzahaus/"
+title: "Dogan Döner-Pizzahaus"
+url: /hauenstein/dogan-doener-pizzahaus/
 ---

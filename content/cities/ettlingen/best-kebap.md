@@ -1,4 +1,4 @@
 ---
-title: Best Kebap
-url: "/ettlingen/best-kebap/"
+title: "Best Kebap"
+url: /ettlingen/best-kebap/
 ---

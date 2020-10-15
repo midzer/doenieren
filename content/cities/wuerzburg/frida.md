@@ -1,4 +1,4 @@
 ---
-title: Frida
-url: "/wuerzburg/frida/"
+title: "Frida"
+url: /wuerzburg/frida/
 ---

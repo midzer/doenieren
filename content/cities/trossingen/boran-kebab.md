@@ -1,4 +1,4 @@
 ---
-title: Boran Kebab
-url: "/trossingen/boran-kebab/"
+title: "Boran Kebab"
+url: /trossingen/boran-kebab/
 ---

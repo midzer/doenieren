@@ -1,4 +1,4 @@
 ---
-title: Deniz-Grill
-url: "/hamburg/deniz-grill/"
+title: "Deniz-Grill"
+url: /hamburg/deniz-grill/
 ---

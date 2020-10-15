@@ -1,4 +1,4 @@
 ---
-title: Ata Kebap
-url: "/freudenstadt/ata-kebap/"
+title: "Ata Kebap"
+url: /freudenstadt/ata-kebap/
 ---

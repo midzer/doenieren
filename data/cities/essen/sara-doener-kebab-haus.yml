@@ -1,9 +1,9 @@
 id: 5151658007
 latitude: 51.441047000000005
 longitude: 6.991334800000001
-postcode: 45147
+postcode: "45147"
 city: Essen
-street: Gemarkenstraße
+street: "Gemarkenstraße"
 housenumber: 83
 phone: "+49 201 75 92 98 70"
 opening_hours: "Mo-Sa 11:00-22:00; Su, PH 12:00-22:00"

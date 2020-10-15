@@ -1,4 +1,4 @@
 ---
-title: Semira
-url: "/bad-nauheim/semira/"
+title: "Semira"
+url: /bad-nauheim/semira/
 ---

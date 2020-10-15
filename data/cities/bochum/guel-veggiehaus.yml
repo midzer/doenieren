@@ -1,10 +1,10 @@
 id: 3767560713
 latitude: 51.4834657
 longitude: 7.2158215000000006
-postcode: 44787
+postcode: "44787"
 city: Bochum
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 18
 phone: "+49 234 96294240"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00"
 website: ""

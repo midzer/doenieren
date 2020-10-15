@@ -1,4 +1,4 @@
 ---
-title: Lokmam
-url: "/hamburg/lokmam/"
+title: "Lokmam"
+url: /hamburg/lokmam/
 ---

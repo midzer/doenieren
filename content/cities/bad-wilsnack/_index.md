@@ -1,4 +1,4 @@
 ---
 title: Bad Wilsnack
-url: "/bad-wilsnack/"
+url: /bad-wilsnack/
 ---

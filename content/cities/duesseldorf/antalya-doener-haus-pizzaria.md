@@ -1,4 +1,4 @@
 ---
-title: Antalya Döner-Haus Pizzaria
-url: "/duesseldorf/antalya-doener-haus-pizzaria/"
+title: "Antalya Döner-Haus Pizzaria"
+url: /duesseldorf/antalya-doener-haus-pizzaria/
 ---

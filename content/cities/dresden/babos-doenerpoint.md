@@ -1,4 +1,4 @@
 ---
-title: Babos Dönerpoint
-url: "/dresden/babos-doenerpoint/"
+title: "Baboş Dönerpoint"
+url: /dresden/babos-doenerpoint/
 ---

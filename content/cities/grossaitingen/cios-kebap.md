@@ -1,4 +1,4 @@
 ---
-title: Cio's Kebap
-url: "/grossaitingen/cios-kebap/"
+title: "Cio's Kebap"
+url: /grossaitingen/cios-kebap/
 ---

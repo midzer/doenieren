@@ -1,9 +1,9 @@
 id: 3574730613
 latitude: 48.8259507
 longitude: 12.393613700000001
-postcode: 94333
+postcode: "94333"
 city: Geiselhöring
-street: Stadtplatz
+street: "Stadtplatz"
 housenumber: 11
 phone: ""
 opening_hours: ""

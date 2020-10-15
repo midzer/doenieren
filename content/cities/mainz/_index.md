@@ -1,4 +1,4 @@
 ---
 title: Mainz
-url: "/mainz/"
+url: /mainz/
 ---

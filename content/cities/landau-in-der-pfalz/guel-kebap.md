@@ -1,4 +1,4 @@
 ---
-title: Gül Kebap
-url: "/landau-in-der-pfalz/guel-kebap/"
+title: "Gül Kebap"
+url: /landau-in-der-pfalz/guel-kebap/
 ---

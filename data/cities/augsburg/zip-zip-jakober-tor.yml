@@ -1,9 +1,9 @@
 id: 4493349332
 latitude: 48.3703543
 longitude: 10.906945700000001
-postcode: 86152
+postcode: "86152"
 city: Augsburg
-street: Jakoberstraße
+street: "Jakoberstraße"
 housenumber: 59
 phone: ""
 opening_hours: "Mo off; Tu-Su 09:00-02:00"

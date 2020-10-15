@@ -1,9 +1,9 @@
 id: 5685000221
 latitude: 50.834572400000006
 longitude: 12.8961249
-postcode: 09112
+postcode: "09112"
 city: Chemnitz
-street: Franz-Mehring-Straße
+street: "Franz-Mehring-Straße"
 housenumber: 25
 phone: "+4915251970882"
 opening_hours: ""

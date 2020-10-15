@@ -1,4 +1,4 @@
 ---
-title: Bennewitzer Dönerhaus
-url: "/bennewitz/bennewitzer-doenerhaus/"
+title: "Bennewitzer Dönerhaus"
+url: /bennewitz/bennewitzer-doenerhaus/
 ---

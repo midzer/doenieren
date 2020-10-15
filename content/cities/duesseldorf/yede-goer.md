@@ -1,4 +1,4 @@
 ---
-title: Yede Gör
-url: "/duesseldorf/yede-goer/"
+title: "Yede Gör"
+url: /duesseldorf/yede-goer/
 ---

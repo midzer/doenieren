@@ -1,4 +1,4 @@
 ---
 title: Linden
-url: "/linden/"
+url: /linden/
 ---

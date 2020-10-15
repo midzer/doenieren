@@ -1,4 +1,4 @@
 ---
-title: Firat Grill
-url: "/mechernich/firat-grill/"
+title: "Firat Grill"
+url: /mechernich/firat-grill/
 ---

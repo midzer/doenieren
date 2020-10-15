@@ -1,9 +1,9 @@
 id: 1151199748
 latitude: 53.864253500000004
 longitude: 10.654111200000001
-postcode: 23556
+postcode: "23556"
 city: Lübeck
-street: Ziegelstraße
+street: "Ziegelstraße"
 housenumber: 114a
 phone: ""
 opening_hours: ""

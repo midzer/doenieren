@@ -1,9 +1,9 @@
 id: 722140191
 latitude: 54.2353668
 longitude: 10.2834839
-postcode: 24211
+postcode: "24211"
 city: Preetz
-street: Lange Brückstraße
+street: "Lange Brückstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Su 10:30-23:00"

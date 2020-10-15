@@ -1,4 +1,4 @@
 ---
-title: Berivan
-url: "/tuebingen/berivan/"
+title: "Berivan"
+url: /tuebingen/berivan/
 ---

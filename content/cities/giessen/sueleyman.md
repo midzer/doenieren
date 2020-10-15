@@ -1,4 +1,4 @@
 ---
-title: Süleyman
-url: "/giessen/sueleyman/"
+title: "Süleyman"
+url: /giessen/sueleyman/
 ---

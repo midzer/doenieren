@@ -1,4 +1,4 @@
 ---
-title: Badem
-url: "/wismar/badem/"
+title: "Badem"
+url: /wismar/badem/
 ---

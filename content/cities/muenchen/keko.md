@@ -1,4 +1,4 @@
 ---
-title: KeKo
-url: "/muenchen/keko/"
+title: "KeKo"
+url: /muenchen/keko/
 ---

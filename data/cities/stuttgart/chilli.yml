@@ -1,9 +1,9 @@
 id: 679868214
 latitude: 48.7800803
 longitude: 9.251223000000001
-postcode: 70327
+postcode: "70327"
 city: Stuttgart
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 364
 phone: "+49 711 3004307"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Maria
-url: "/goettingen/maria/"
+title: "Maria"
+url: /goettingen/maria/
 ---

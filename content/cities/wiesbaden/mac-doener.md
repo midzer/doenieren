@@ -1,4 +1,4 @@
 ---
-title: Mac Döner
-url: "/wiesbaden/mac-doener/"
+title: "Mac Döner"
+url: /wiesbaden/mac-doener/
 ---

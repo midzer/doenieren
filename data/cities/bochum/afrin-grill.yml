@@ -1,9 +1,9 @@
 id: 5782934772
 latitude: 51.519792200000005
 longitude: 7.2761227
-postcode: 44805
+postcode: "44805"
 city: Bochum
-street: Castroper Hellweg
+street: "Castroper Hellweg"
 housenumber: 430
 phone: ""
 opening_hours: "Mo-Fr 10:30-21:00; Sa-Su 11:30-21:00"

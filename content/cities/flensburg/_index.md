@@ -1,4 +1,4 @@
 ---
 title: Flensburg
-url: "/flensburg/"
+url: /flensburg/
 ---

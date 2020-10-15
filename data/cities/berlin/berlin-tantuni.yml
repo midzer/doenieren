@@ -1,9 +1,9 @@
 id: 4062076699
 latitude: 52.4810862
 longitude: 13.425251300000001
-postcode: 12049
+postcode: "12049"
 city: Berlin
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 228
 phone: ""
 opening_hours: "Tu-Su 11:00-22:00"

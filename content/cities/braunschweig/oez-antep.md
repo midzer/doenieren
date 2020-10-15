@@ -1,4 +1,4 @@
 ---
-title: Öz Antep
-url: "/braunschweig/oez-antep/"
+title: "Öz Antep"
+url: /braunschweig/oez-antep/
 ---

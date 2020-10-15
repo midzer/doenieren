@@ -1,4 +1,4 @@
 ---
-title: Can Grill
-url: "/greifswald/can-grill/"
+title: "Can Grill"
+url: /greifswald/can-grill/
 ---

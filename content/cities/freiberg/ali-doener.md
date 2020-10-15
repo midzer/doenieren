@@ -1,4 +1,4 @@
 ---
-title: Ali Döner
-url: "/freiberg/ali-doener/"
+title: "Ali Döner"
+url: /freiberg/ali-doener/
 ---

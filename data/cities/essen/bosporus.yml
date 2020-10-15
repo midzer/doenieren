@@ -1,9 +1,9 @@
 id: 2414405245
 latitude: 51.4199162
 longitude: 7.023942600000001
-postcode: 45134
+postcode: "45134"
 city: Essen
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 290
 phone: ""
 opening_hours: ""

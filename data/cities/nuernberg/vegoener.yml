@@ -1,9 +1,9 @@
 id: 2371381224
 latitude: 49.460345200000006
 longitude: 11.0597689
-postcode: 90419
+postcode: "90419"
 city: Nürnberg
-street: Poppenreuther Straße
+street: "Poppenreuther Straße"
 housenumber: 10
 phone: "+4991137777060"
 opening_hours: "Mo-Sa 11:00-21:00; Su 11:00-20:00"

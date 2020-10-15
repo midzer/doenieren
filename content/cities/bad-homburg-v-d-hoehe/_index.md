@@ -1,4 +1,4 @@
 ---
 title: Bad Homburg v. d. Höhe
-url: "/bad-homburg-v-d-hoehe/"
+url: /bad-homburg-v-d-hoehe/
 ---

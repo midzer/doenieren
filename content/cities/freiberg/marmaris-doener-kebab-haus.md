@@ -1,4 +1,4 @@
 ---
-title: Marmaris Döner-Kebab Haus
-url: "/freiberg/marmaris-doener-kebab-haus/"
+title: "Marmaris Döner-Kebab Haus"
+url: /freiberg/marmaris-doener-kebab-haus/
 ---

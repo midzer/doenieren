@@ -1,4 +1,4 @@
 ---
-title: Dürümhaus
-url: "/freital/dueruemhaus/"
+title: "Dürümhaus"
+url: /freital/dueruemhaus/
 ---

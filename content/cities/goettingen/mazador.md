@@ -1,4 +1,4 @@
 ---
-title: Mazador
-url: "/goettingen/mazador/"
+title: "Mazador"
+url: /goettingen/mazador/
 ---

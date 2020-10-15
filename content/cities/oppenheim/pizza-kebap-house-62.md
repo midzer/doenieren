@@ -1,4 +1,4 @@
 ---
-title: Pizza Kebap House 62
-url: "/oppenheim/pizza-kebap-house-62/"
+title: "Pizza Kebap House 62"
+url: /oppenheim/pizza-kebap-house-62/
 ---

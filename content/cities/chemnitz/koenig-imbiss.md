@@ -1,4 +1,4 @@
 ---
-title: König Imbiss
-url: "/chemnitz/koenig-imbiss/"
+title: "König Imbiss"
+url: /chemnitz/koenig-imbiss/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Izmir-Kebap
-url: "/friedrichshafen/izmir-kebap/"
+title: "Izmir-Kebap"
+url: /friedrichshafen/izmir-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Med Kebab-Haus
-url: "/rotenburg-an-der-fulda/med-kebab-haus/"
+title: "Med Kebab-Haus"
+url: /rotenburg-an-der-fulda/med-kebab-haus/
 ---

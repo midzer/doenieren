@@ -1,4 +1,4 @@
 ---
-title: Dönerladen
-url: "/sassenburg/doenerladen/"
+title: "Dönerladen"
+url: /sassenburg/doenerladen/
 ---

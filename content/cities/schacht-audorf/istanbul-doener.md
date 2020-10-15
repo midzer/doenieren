@@ -1,4 +1,4 @@
 ---
-title: Istanbul Döner
-url: "/schacht-audorf/istanbul-doener/"
+title: "Istanbul Döner"
+url: /schacht-audorf/istanbul-doener/
 ---

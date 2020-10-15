@@ -1,9 +1,9 @@
 id: 2594494150
 latitude: 47.653143400000005
 longitude: 9.4818573
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
-street: Paulinenstraße
+street: "Paulinenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "11:00-22:00, Sa 10:00-23:00"

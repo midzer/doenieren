@@ -1,4 +1,4 @@
 ---
-title: Papas Dönertreff Leck
-url: "/leck/papas-doenertreff-leck/"
+title: "Papas Dönertreff Leck"
+url: /leck/papas-doenertreff-leck/
 ---

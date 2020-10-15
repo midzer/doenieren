@@ -1,4 +1,4 @@
 ---
-title: Maxi Grill
-url: "/markdorf/maxi-grill/"
+title: "Maxi Grill"
+url: /markdorf/maxi-grill/
 ---

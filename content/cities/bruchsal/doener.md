@@ -1,4 +1,4 @@
 ---
-title: Döner
-url: "/bruchsal/doener/"
+title: "Döner"
+url: /bruchsal/doener/
 ---

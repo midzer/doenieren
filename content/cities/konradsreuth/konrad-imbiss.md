@@ -1,4 +1,4 @@
 ---
-title: Konrad Imbiss
-url: "/konradsreuth/konrad-imbiss/"
+title: "Konrad Imbiss"
+url: /konradsreuth/konrad-imbiss/
 ---

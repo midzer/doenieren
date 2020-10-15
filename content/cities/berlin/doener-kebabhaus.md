@@ -1,4 +1,4 @@
 ---
-title: Döner Kebabhaus
-url: "/berlin/doener-kebabhaus/"
+title: "Döner Kebabhaus"
+url: /berlin/doener-kebabhaus/
 ---

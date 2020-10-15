@@ -1,4 +1,4 @@
 ---
-title: Ankara
-url: "/weimar/ankara/"
+title: "Ankara"
+url: /weimar/ankara/
 ---

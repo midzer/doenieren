@@ -1,4 +1,4 @@
 ---
-title: Majesty Grill
-url: "/berlin/majesty-grill/"
+title: "Majesty Grill"
+url: /berlin/majesty-grill/
 ---

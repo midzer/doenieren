@@ -1,9 +1,9 @@
 id: 3124209268
 latitude: 52.138335700000006
 longitude: 12.604771900000001
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
-street: Erich-Weinert-Straße
+street: "Erich-Weinert-Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Su 10:00-21:00"

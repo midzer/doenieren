@@ -1,4 +1,4 @@
 ---
-title: Kumru Kuruyemiş
-url: "/berlin/kumru-kuruyemis/"
+title: "Kumru Kuruyemiş"
+url: /berlin/kumru-kuruyemis/
 ---

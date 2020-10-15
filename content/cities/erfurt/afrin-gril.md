@@ -1,4 +1,4 @@
 ---
-title: Afrin Gril
-url: "/erfurt/afrin-gril/"
+title: "Afrin Gril"
+url: /erfurt/afrin-gril/
 ---

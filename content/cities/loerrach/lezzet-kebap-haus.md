@@ -1,4 +1,4 @@
 ---
-title: Lezzet Kebap Haus
-url: "/loerrach/lezzet-kebap-haus/"
+title: "Lezzet Kebap Haus"
+url: /loerrach/lezzet-kebap-haus/
 ---

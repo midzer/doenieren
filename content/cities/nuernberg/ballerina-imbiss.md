@@ -1,4 +1,4 @@
 ---
-title: Ballerina Imbiss
-url: "/nuernberg/ballerina-imbiss/"
+title: "Ballerina Imbiss"
+url: /nuernberg/ballerina-imbiss/
 ---

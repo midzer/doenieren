@@ -1,4 +1,4 @@
 ---
-title: Saray Döner
-url: "/jena/saray-doener/"
+title: "Saray Döner"
+url: /jena/saray-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: City Grill Restaurant
-url: "/pforzheim/city-grill-restaurant/"
+title: "City Grill Restaurant"
+url: /pforzheim/city-grill-restaurant/
 ---

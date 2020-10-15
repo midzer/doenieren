@@ -1,4 +1,4 @@
 ---
-title: Peymann
-url: "/taunusstein/peymann/"
+title: "Peymann"
+url: /taunusstein/peymann/
 ---

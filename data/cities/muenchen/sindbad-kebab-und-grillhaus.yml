@@ -1,9 +1,9 @@
 id: 3201232504
 latitude: 48.150876100000005
 longitude: 11.5647666
-postcode: 80333
+postcode: "80333"
 city: München
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Su 08:00-22:00"

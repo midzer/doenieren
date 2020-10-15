@@ -1,4 +1,4 @@
 ---
-title: Kebaphaus Waibstadt
-url: "/waibstadt/kebaphaus-waibstadt/"
+title: "Kebaphaus Waibstadt"
+url: /waibstadt/kebaphaus-waibstadt/
 ---

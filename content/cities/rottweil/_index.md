@@ -1,4 +1,4 @@
 ---
 title: Rottweil
-url: "/rottweil/"
+url: /rottweil/
 ---

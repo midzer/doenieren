@@ -1,9 +1,9 @@
 id: 5047407612
 latitude: 48.8013503
 longitude: 9.2210781
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
-street: Wildunger Straße
+street: "Wildunger Straße"
 housenumber: 2
 phone: "+49 711 9334 0304"
 opening_hours: "Mo-Sa 09:00-23:00; Su, PH off"

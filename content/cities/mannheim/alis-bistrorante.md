@@ -1,4 +1,4 @@
 ---
-title: Ali's Bistrorante
-url: "/mannheim/alis-bistrorante/"
+title: "Ali's Bistrorante"
+url: /mannheim/alis-bistrorante/
 ---

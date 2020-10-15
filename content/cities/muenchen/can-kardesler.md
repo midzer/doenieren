@@ -1,4 +1,4 @@
 ---
-title: Can Kardesler
-url: "/muenchen/can-kardesler/"
+title: "Can Kardesler"
+url: /muenchen/can-kardesler/
 ---

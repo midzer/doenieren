@@ -1,4 +1,4 @@
 ---
 title: Schwegenheim
-url: "/schwegenheim/"
+url: /schwegenheim/
 ---

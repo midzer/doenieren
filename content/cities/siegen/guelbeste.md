@@ -1,4 +1,4 @@
 ---
-title: Gülbeste
-url: "/siegen/guelbeste/"
+title: "Gülbeste"
+url: /siegen/guelbeste/
 ---

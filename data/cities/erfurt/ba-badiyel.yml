@@ -1,9 +1,9 @@
 id: 6715361714
 latitude: 50.979244900000005
 longitude: 11.034167100000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
-street: Futterstraße
+street: "Futterstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

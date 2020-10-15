@@ -1,9 +1,9 @@
 id: 4162126991
 latitude: 50.1051257
 longitude: 7.729987100000001
-postcode: 55430
+postcode: "55430"
 city: Oberwesel
-street: Liebfrauenstraße
+street: "Liebfrauenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Su,PH 17:00-22:00"

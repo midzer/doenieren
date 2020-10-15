@@ -1,4 +1,4 @@
 ---
-title: Oses
-url: "/muenchen/oses/"
+title: "Oses"
+url: /muenchen/oses/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Waldgirmes Döner
-url: "/lahnau/waldgirmes-doener/"
+title: "Waldgirmes Döner"
+url: /lahnau/waldgirmes-doener/
 ---

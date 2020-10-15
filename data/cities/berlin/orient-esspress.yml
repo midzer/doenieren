@@ -1,9 +1,9 @@
 id: 1168923109
 latitude: 52.4894455
 longitude: 13.3936407
-postcode: 10961
+postcode: "10961"
 city: Berlin
-street: Zossener Straße
+street: "Zossener Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

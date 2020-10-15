@@ -1,9 +1,9 @@
 id: 2874076317
 latitude: 51.203658000000004
 longitude: 6.459879000000001
-postcode: 41065
+postcode: "41065"
 city: Mönchengladbach
-street: Neusser Straße
+street: "Neusser Straße"
 housenumber: 73
 phone: "+49 2161 5769652"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Memo
-url: "/noerten-hardenberg/memo/"
+title: "Memo"
+url: /noerten-hardenberg/memo/
 ---

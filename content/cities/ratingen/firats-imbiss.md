@@ -1,4 +1,4 @@
 ---
-title: Firats Imbiss
-url: "/ratingen/firats-imbiss/"
+title: "Firats Imbiss"
+url: /ratingen/firats-imbiss/
 ---

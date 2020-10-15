@@ -1,0 +1,4 @@
+---
+title: Lambach
+url: /lambach/
+---

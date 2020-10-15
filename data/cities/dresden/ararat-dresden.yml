@@ -1,9 +1,9 @@
 id: 3290642061
 latitude: 51.0490343
 longitude: 13.6905646
-postcode: 01157
+postcode: "01157"
 city: Dresden
-street: Pennricher Straße
+street: "Pennricher Straße"
 housenumber: 27
 phone: "+49 351 4244308"
 opening_hours: "Mo-Su 10:30-23:00"

@@ -1,4 +1,4 @@
 ---
 title: Hanau
-url: "/hanau/"
+url: /hanau/
 ---

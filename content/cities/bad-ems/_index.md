@@ -1,4 +1,4 @@
 ---
 title: Bad Ems
-url: "/bad-ems/"
+url: /bad-ems/
 ---

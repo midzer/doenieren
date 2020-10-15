@@ -1,4 +1,4 @@
 ---
-title: Portofino
-url: "/erfurt/portofino/"
+title: "Portofino"
+url: /erfurt/portofino/
 ---

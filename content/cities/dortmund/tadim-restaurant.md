@@ -1,4 +1,4 @@
 ---
-title: Tadim Restaurant
-url: "/dortmund/tadim-restaurant/"
+title: "Tadim Restaurant"
+url: /dortmund/tadim-restaurant/
 ---

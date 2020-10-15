@@ -1,9 +1,9 @@
 id: 374270095
 latitude: 48.89009840000001
 longitude: 8.6709636
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
-street: Westliche Karl-Friedrich-Straße
+street: "Westliche Karl-Friedrich-Straße"
 housenumber: 265
 phone: "+49 7231 9380101"
 opening_hours: ""

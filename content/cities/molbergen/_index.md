@@ -1,4 +1,4 @@
 ---
 title: Molbergen
-url: "/molbergen/"
+url: /molbergen/
 ---

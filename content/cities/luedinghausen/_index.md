@@ -1,4 +1,4 @@
 ---
 title: Lüdinghausen
-url: "/luedinghausen/"
+url: /luedinghausen/
 ---

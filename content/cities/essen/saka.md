@@ -1,4 +1,4 @@
 ---
-title: Saka
-url: "/essen/saka/"
+title: "Saka"
+url: /essen/saka/
 ---

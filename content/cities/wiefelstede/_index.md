@@ -1,4 +1,4 @@
 ---
 title: Wiefelstede
-url: "/wiefelstede/"
+url: /wiefelstede/
 ---

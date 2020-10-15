@@ -1,9 +1,9 @@
 id: 3888229683
 latitude: 51.3914557
 longitude: 8.1339182
-postcode: 59823
+postcode: "59823"
 city: Arnsberg
-street: Oeventroper Straße
+street: "Oeventroper Straße"
 housenumber: 14
 phone: "+49 2937 2340"
 opening_hours: "Mo-Th 11:00-22:00, Fr-Sa 11:00-23:00; Su 11:30-22:00"

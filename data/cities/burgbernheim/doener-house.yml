@@ -1,9 +1,9 @@
 id: 539341880
 latitude: 49.4513186
 longitude: 10.323912
-postcode: 91593
+postcode: "91593"
 city: Burgbernheim
-street: Obere Rathausgasse
+street: "Obere Rathausgasse"
 housenumber: 1
 phone: "+49 9843 2787"
 opening_hours: "Mo-Fr 11:00-21:00; Sa 11:30-20:00"

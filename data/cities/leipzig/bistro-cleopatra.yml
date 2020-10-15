@@ -1,9 +1,9 @@
 id: 369278825
 latitude: 51.29656060000001
 longitude: 12.385901200000001
-postcode: 04279
+postcode: "04279"
 city: Leipzig
-street: Bornaische Straße
+street: "Bornaische Straße"
 housenumber: 105
 phone: ""
 opening_hours: ""

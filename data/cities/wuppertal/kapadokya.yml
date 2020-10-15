@@ -1,9 +1,9 @@
 id: 2556778429
 latitude: 51.257939400000005
 longitude: 7.143237200000001
-postcode: 42103
+postcode: "42103"
 city: Wuppertal
-street: Neumarktstraße
+street: "Neumarktstraße"
 housenumber: 38
 phone: "+49 202 27276635"
 opening_hours: ""

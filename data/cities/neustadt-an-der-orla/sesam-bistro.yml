@@ -1,9 +1,9 @@
 id: 1275955160
 latitude: 50.736798900000004
 longitude: 11.746332500000001
-postcode: 07806
+postcode: "07806"
 city: Neustadt an der Orla
-street: Markt
+street: "Markt"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 10:00-22:00; Sa,Su 16:00-22:00"

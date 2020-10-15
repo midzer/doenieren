@@ -1,4 +1,4 @@
 ---
-title: Borbyer Grill
-url: "/eckernfoerde/borbyer-grill/"
+title: "Borbyer Grill"
+url: /eckernfoerde/borbyer-grill/
 ---

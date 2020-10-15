@@ -1,9 +1,9 @@
 id: 3444450293
 latitude: 52.5297277
 longitude: 13.400244200000001
-postcode: 10119
+postcode: "10119"
 city: Berlin
-street: Torstraße
+street: "Torstraße"
 housenumber: 129
 phone: ""
 opening_hours: ""

@@ -1,0 +1,4 @@
+---
+title: Fürnitz
+url: /fuernitz/
+---

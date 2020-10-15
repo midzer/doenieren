@@ -1,4 +1,4 @@
 ---
 title: Puchheim
-url: "/puchheim/"
+url: /puchheim/
 ---

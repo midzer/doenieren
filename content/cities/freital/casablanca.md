@@ -1,4 +1,4 @@
 ---
-title: Casablanca
-url: "/freital/casablanca/"
+title: "Casablanca"
+url: /freital/casablanca/
 ---

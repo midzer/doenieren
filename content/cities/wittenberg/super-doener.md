@@ -1,4 +1,4 @@
 ---
-title: Super Döner
-url: "/wittenberg/super-doener/"
+title: "Super Döner"
+url: /wittenberg/super-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Geldern
-url: "/geldern/"
+url: /geldern/
 ---

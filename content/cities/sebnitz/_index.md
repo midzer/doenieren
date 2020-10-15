@@ -1,4 +1,4 @@
 ---
 title: Sebnitz
-url: "/sebnitz/"
+url: /sebnitz/
 ---

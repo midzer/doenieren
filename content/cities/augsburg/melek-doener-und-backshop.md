@@ -1,4 +1,4 @@
 ---
-title: Melek Döner & Backshop
-url: "/augsburg/melek-doener-und-backshop/"
+title: "Melek Döner & Backshop"
+url: /augsburg/melek-doener-und-backshop/
 ---

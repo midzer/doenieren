@@ -1,9 +1,9 @@
 id: 3493643188
 latitude: 51.6763941
 longitude: 6.6098355
-postcode: 46483
+postcode: "46483"
 city: Wesel
-street: Marktplatz Feldmark
+street: "Marktplatz Feldmark"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00, Sa 11:00-22:00, Su,PH 12:00-22:00"

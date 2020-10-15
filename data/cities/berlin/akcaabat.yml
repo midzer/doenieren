@@ -1,9 +1,9 @@
 id: 4185576128
 latitude: 52.504963100000005
 longitude: 13.407246200000001
-postcode: 10969
+postcode: "10969"
 city: Berlin
-street: Oranienstraße
+street: "Oranienstraße"
 housenumber: 72
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Sofra Gemüse- & Kebaphaus
-url: "/paderborn/sofra-gemuese-und-kebaphaus/"
+title: "Sofra Gemüse- & Kebaphaus"
+url: /paderborn/sofra-gemuese-und-kebaphaus/
 ---

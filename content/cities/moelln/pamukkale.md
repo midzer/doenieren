@@ -1,4 +1,4 @@
 ---
-title: Pamukkale
-url: "/moelln/pamukkale/"
+title: "Pamukkale"
+url: /moelln/pamukkale/
 ---

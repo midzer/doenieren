@@ -1,4 +1,4 @@
 ---
-title: Royal Döner
-url: "/solingen/royal-doener/"
+title: "Royal Döner"
+url: /solingen/royal-doener/
 ---

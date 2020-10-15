@@ -1,4 +1,4 @@
 ---
 title: Pforzheim
-url: "/pforzheim/"
+url: /pforzheim/
 ---

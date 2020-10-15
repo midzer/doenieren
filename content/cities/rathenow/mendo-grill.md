@@ -1,4 +1,4 @@
 ---
-title: Mendo Grill
-url: "/rathenow/mendo-grill/"
+title: "Mendo Grill"
+url: /rathenow/mendo-grill/
 ---

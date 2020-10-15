@@ -1,9 +1,9 @@
 id: 1918543523
 latitude: 53.5573896
 longitude: 9.9890316
-postcode: 20354
+postcode: "20354"
 city: Hamburg
-street: Dammtorstraße
+street: "Dammtorstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00"

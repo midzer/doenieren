@@ -1,4 +1,4 @@
 ---
-title: Ricklinger Döner
-url: "/hannover/ricklinger-doener/"
+title: "Ricklinger Döner"
+url: /hannover/ricklinger-doener/
 ---

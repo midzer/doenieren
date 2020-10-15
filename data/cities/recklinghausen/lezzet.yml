@@ -1,9 +1,9 @@
 id: 6276107419
 latitude: 51.6020945
 longitude: 7.2733245
-postcode: 45665
+postcode: "45665"
 city: Recklinghausen
-street: Sachsenstraße
+street: "Sachsenstraße"
 housenumber: 172
 phone: ""
 opening_hours: "Mo-Su 11:00-22:30"

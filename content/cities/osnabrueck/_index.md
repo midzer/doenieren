@@ -1,4 +1,4 @@
 ---
 title: Osnabrück
-url: "/osnabrueck/"
+url: /osnabrueck/
 ---

@@ -1,9 +1,9 @@
 id: 2458167375
 latitude: 50.5122988
 longitude: 6.5785803000000005
-postcode: 53925
+postcode: "53925"
 city: Kall
-street: Urfttalstraße
+street: "Urfttalstraße"
 housenumber: 6
 phone: "+49 2441- 9 94 80 95"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Bistro Babylon
-url: "/konstanz/bistro-babylon/"
+title: "Bistro Babylon"
+url: /konstanz/bistro-babylon/
 ---

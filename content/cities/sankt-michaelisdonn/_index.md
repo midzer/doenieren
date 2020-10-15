@@ -1,4 +1,4 @@
 ---
 title: Sankt Michaelisdonn
-url: "/sankt-michaelisdonn/"
+url: /sankt-michaelisdonn/
 ---

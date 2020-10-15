@@ -1,4 +1,4 @@
 ---
-title: Antalya Imbiss
-url: "/bad-windsheim/antalya-imbiss/"
+title: "Antalya Imbiss"
+url: /bad-windsheim/antalya-imbiss/
 ---

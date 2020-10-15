@@ -1,4 +1,4 @@
 ---
-title: Nazar Center Restaurant
-url: "/darmstadt/nazar-center-restaurant/"
+title: "Nazar Center Restaurant"
+url: /darmstadt/nazar-center-restaurant/
 ---

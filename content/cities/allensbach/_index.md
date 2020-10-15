@@ -1,0 +1,4 @@
+---
+title: Allensbach
+url: /allensbach/
+---

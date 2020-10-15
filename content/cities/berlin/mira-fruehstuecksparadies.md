@@ -1,4 +1,4 @@
 ---
-title: Mira Frühstücksparadies
-url: "/berlin/mira-fruehstuecksparadies/"
+title: "Mira Frühstücksparadies"
+url: /berlin/mira-fruehstuecksparadies/
 ---

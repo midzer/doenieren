@@ -1,4 +1,4 @@
 ---
-title: Side
-url: "/duisburg/side/"
+title: "Side"
+url: /duisburg/side/
 ---

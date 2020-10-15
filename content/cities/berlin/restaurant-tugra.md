@@ -1,4 +1,4 @@
 ---
-title: Restaurant Tuğra
-url: "/berlin/restaurant-tugra/"
+title: "Restaurant Tuğra"
+url: /berlin/restaurant-tugra/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Albstadt
-url: "/albstadt/"
+url: /albstadt/
 ---

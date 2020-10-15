@@ -1,4 +1,4 @@
 ---
-title: ÖZDEMIR "Side Grill"
-url: "/amt-creuzburg/oezdemir-side-grill/"
+title: "ÖZDEMIR Side Grill"
+url: /amt-creuzburg/oezdemir-side-grill/
 ---

@@ -1,9 +1,9 @@
 id: 2767664243
 latitude: 52.7161668
 longitude: 14.136898400000002
-postcode: 16269
+postcode: "16269"
 city: Wriezen
-street: Markt
+street: "Markt"
 housenumber: 22
 phone: "+49 33456 35183"
 opening_hours: "Mo-Th 10:00-22:00; Fr 09:00-22:00; Sa-Su 11:00-22:00"

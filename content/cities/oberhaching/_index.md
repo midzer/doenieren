@@ -1,4 +1,4 @@
 ---
 title: Oberhaching
-url: "/oberhaching/"
+url: /oberhaching/
 ---

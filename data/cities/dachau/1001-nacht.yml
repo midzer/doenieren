@@ -1,9 +1,9 @@
 id: 7306197960
 latitude: 48.264175900000005
 longitude: 11.459801
-postcode: 85221
+postcode: "85221"
 city: Dachau
-street: Sudetenlandstraße
+street: "Sudetenlandstraße"
 housenumber: 45
 phone: "+498131334025"
 opening_hours: "Mo-Su 09:00-19:00"

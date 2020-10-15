@@ -1,9 +1,9 @@
 id: 1638888415
 latitude: 47.6263431
 longitude: 7.6562258000000005
-postcode: 79539
+postcode: "79539"
 city: Lörrach
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 313
 phone: ""
 opening_hours: "Su-Th 08:00-23:00, Fr,Sa 08:00-05:00"

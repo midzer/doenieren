@@ -1,4 +1,4 @@
 ---
-title: Kebap-Haus
-url: "/stolpen/kebap-haus/"
+title: "Kebap-Haus"
+url: /stolpen/kebap-haus/
 ---

@@ -1,9 +1,9 @@
 id: 485057705
 latitude: 48.365879400000004
 longitude: 10.889448400000001
-postcode: 86150
+postcode: "86150"
 city: Augsburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

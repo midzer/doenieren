@@ -1,9 +1,9 @@
 id: 514420999
 latitude: 51.2984768
 longitude: 13.299425300000001
-postcode: 01589
+postcode: "01589"
 city: Riesa
-street: Pausitzer Straße
+street: "Pausitzer Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:30; Su off; PH off"

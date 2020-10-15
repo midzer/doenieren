@@ -1,4 +1,4 @@
 ---
 title: Hüttenberg
-url: "/huettenberg/"
+url: /huettenberg/
 ---

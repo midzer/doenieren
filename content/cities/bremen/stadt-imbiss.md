@@ -1,4 +1,4 @@
 ---
-title: Stadt Imbiss
-url: "/bremen/stadt-imbiss/"
+title: "Stadt Imbiss"
+url: /bremen/stadt-imbiss/
 ---

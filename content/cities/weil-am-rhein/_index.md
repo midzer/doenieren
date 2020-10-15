@@ -1,4 +1,4 @@
 ---
 title: Weil am Rhein
-url: "/weil-am-rhein/"
+url: /weil-am-rhein/
 ---

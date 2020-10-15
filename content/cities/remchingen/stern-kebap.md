@@ -1,4 +1,4 @@
 ---
-title: Stern Kebap
-url: "/remchingen/stern-kebap/"
+title: "Stern Kebap"
+url: /remchingen/stern-kebap/
 ---

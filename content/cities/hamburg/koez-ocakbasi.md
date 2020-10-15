@@ -1,4 +1,4 @@
 ---
-title: Köz Ocakbasi
-url: "/hamburg/koez-ocakbasi/"
+title: "Köz Ocakbasi"
+url: /hamburg/koez-ocakbasi/
 ---

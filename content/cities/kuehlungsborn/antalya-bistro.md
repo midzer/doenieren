@@ -1,4 +1,4 @@
 ---
-title: Antalya Bistro
-url: "/kuehlungsborn/antalya-bistro/"
+title: "Antalya Bistro"
+url: /kuehlungsborn/antalya-bistro/
 ---

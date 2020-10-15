@@ -1,4 +1,4 @@
 ---
-title: Hanay Grill
-url: "/wriezen/hanay-grill/"
+title: "Hanay Grill"
+url: /wriezen/hanay-grill/
 ---

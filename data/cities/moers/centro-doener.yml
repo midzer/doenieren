@@ -1,9 +1,9 @@
 id: 1442007181
 latitude: 51.450535200000004
 longitude: 6.6321439
-postcode: 47441
+postcode: "47441"
 city: Moers
-street: Homberger Straße
+street: "Homberger Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

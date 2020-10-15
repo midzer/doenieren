@@ -1,4 +1,4 @@
 ---
-title: Kabas
-url: "/moelln/kabas/"
+title: "Kabas"
+url: /moelln/kabas/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Lavin
-url: "/frankfurt-am-main/lavin/"
+title: "Lavin"
+url: /frankfurt-am-main/lavin/
 ---

@@ -1,9 +1,9 @@
 id: 3502315352
 latitude: 50.4955913
 longitude: 12.1181368
-postcode: 08523
+postcode: "08523"
 city: Plauen
-street: Neundorfer Straße
+street: "Neundorfer Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

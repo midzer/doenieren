@@ -1,4 +1,4 @@
 ---
-title: Trebbin Döner
-url: "/trebbin/trebbin-doener/"
+title: "Trebbin Döner"
+url: /trebbin/trebbin-doener/
 ---

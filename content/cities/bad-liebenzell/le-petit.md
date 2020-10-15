@@ -1,4 +1,4 @@
 ---
-title: Le Petit
-url: "/bad-liebenzell/le-petit/"
+title: "Le Petit"
+url: /bad-liebenzell/le-petit/
 ---

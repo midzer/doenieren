@@ -1,4 +1,4 @@
 ---
-title: Urfa Sofrasi
-url: "/eislingen-fils/urfa-sofrasi/"
+title: "Urfa Sofrasi"
+url: /eislingen-fils/urfa-sofrasi/
 ---

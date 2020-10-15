@@ -1,4 +1,4 @@
 ---
-title: Don Alfredo
-url: "/bremen/don-alfredo/"
+title: "Don Alfredo"
+url: /bremen/don-alfredo/
 ---

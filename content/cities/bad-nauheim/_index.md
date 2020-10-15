@@ -1,4 +1,4 @@
 ---
 title: Bad Nauheim
-url: "/bad-nauheim/"
+url: /bad-nauheim/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mc Grill
-url: "/straubing/mc-grill/"
+title: "Mc Grill"
+url: /straubing/mc-grill/
 ---

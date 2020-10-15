@@ -1,4 +1,4 @@
 ---
-title: Kapadokya Döner
-url: "/norderstedt/kapadokya-doener/"
+title: "Kapadokya Döner"
+url: /norderstedt/kapadokya-doener/
 ---

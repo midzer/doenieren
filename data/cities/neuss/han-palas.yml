@@ -1,9 +1,9 @@
 id: 1879811667
 latitude: 51.1976348
 longitude: 6.6945347
-postcode: 41460
+postcode: "41460"
 city: Neuss
-street: An der Münze
+street: "An der Münze"
 housenumber: 8
 phone: "+49 2131 7391807"
 opening_hours: ""

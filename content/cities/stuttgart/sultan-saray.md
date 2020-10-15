@@ -1,4 +1,4 @@
 ---
-title: Sultan Saray
-url: "/stuttgart/sultan-saray/"
+title: "Sultan Saray"
+url: /stuttgart/sultan-saray/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Limon
-url: "/hamburg/limon/"
+title: "Limon"
+url: /hamburg/limon/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Star Kebab Haus
-url: "/stuttgart/star-kebab-haus/"
+title: "Star Kebab Haus"
+url: /stuttgart/star-kebab-haus/
 ---

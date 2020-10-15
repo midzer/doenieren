@@ -1,4 +1,4 @@
 ---
-title: Türkische Riviera
-url: "/ballenstedt/tuerkische-riviera/"
+title: "Türkische Riviera"
+url: /ballenstedt/tuerkische-riviera/
 ---

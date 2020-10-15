@@ -1,4 +1,4 @@
 ---
-title: Star Kebap
-url: "/uhingen/star-kebap/"
+title: "Star Kebap"
+url: /uhingen/star-kebap/
 ---

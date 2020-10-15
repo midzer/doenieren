@@ -1,9 +1,9 @@
 id: 1085948169
 latitude: 49.055479000000005
 longitude: 9.248219800000001
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
-street: König-Wilhelm-Straße
+street: "König-Wilhelm-Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 10:00-22:30; Su,PH 11:00-22:30"

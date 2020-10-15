@@ -1,4 +1,4 @@
 ---
 title: Fellbach
-url: "/fellbach/"
+url: /fellbach/
 ---

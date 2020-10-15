@@ -1,4 +1,4 @@
 ---
-title: City Döner
-url: "/wendelstein/city-doener/"
+title: "City Döner"
+url: /wendelstein/city-doener/
 ---

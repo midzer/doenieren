@@ -1,9 +1,9 @@
 id: 3429254997
 latitude: 51.276919500000005
 longitude: 14.1019716
-postcode: 01917
+postcode: "01917"
 city: Kamenz
-street: Hoyerswerdaer Straße
+street: "Hoyerswerdaer Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo - Th 11:00 - 23:00, Fr - Sa 11:00 - 24:00, Su 11:00 - 23:00"

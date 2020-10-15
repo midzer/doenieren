@@ -1,4 +1,4 @@
 ---
-title: Tuna
-url: "/dortmund/tuna/"
+title: "Tuna"
+url: /dortmund/tuna/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sultan Kebap
-url: "/bad-friedrichshall/sultan-kebap/"
+title: "Sultan Kebap"
+url: /bad-friedrichshall/sultan-kebap/
 ---

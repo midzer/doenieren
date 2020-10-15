@@ -1,4 +1,4 @@
 ---
-title: Neusser Grill-Pizzeria
-url: "/koeln/neusser-grill-pizzeria/"
+title: "Neusser Grill-Pizzeria"
+url: /koeln/neusser-grill-pizzeria/
 ---

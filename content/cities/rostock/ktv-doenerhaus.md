@@ -1,4 +1,4 @@
 ---
-title: KTV Dönerhaus
-url: "/rostock/ktv-doenerhaus/"
+title: "KTV Dönerhaus"
+url: /rostock/ktv-doenerhaus/
 ---

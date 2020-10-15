@@ -1,4 +1,4 @@
 ---
 title: Bonn
-url: "/bonn/"
+url: /bonn/
 ---

@@ -1,9 +1,9 @@
 id: 5966412981
 latitude: 48.773712100000004
 longitude: 9.1736251
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Su-Th 11:00-23:00; Fr-Sa 11:00-05:00"

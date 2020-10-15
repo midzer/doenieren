@@ -1,9 +1,9 @@
 id: 289759283
 latitude: 51.4244829
 longitude: 11.9896759
-postcode: 06132
+postcode: "06132"
 city: Halle (Saale)
-street: Regensburger Straße
+street: "Regensburger Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 10:00-01:00, Su 12:00-22:00"

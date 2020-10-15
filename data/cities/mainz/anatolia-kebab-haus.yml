@@ -1,9 +1,9 @@
 id: 730523061
 latitude: 49.9595828
 longitude: 8.1994439
-postcode: 55127
+postcode: "55127"
 city: Mainz
-street: Regerstraße
+street: "Regerstraße"
 housenumber: 29
 phone: "+49 6131 9323316"
 opening_hours: "Mo-Fr 11:00-20:00; Sa 12:00-20:00"

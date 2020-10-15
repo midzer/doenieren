@@ -1,9 +1,9 @@
 id: 2334437177
 latitude: 54.315353800000004
 longitude: 10.116381200000001
-postcode: 24114
+postcode: "24114"
 city: Kiel
-street: Lutherstraße
+street: "Lutherstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00"

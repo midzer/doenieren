@@ -1,9 +1,9 @@
 id: 4439155948
 latitude: 51.5089443
 longitude: 7.098661300000001
-postcode: 45879
+postcode: "45879"
 city: Gelsenkirchen
-street: Arminstraße
+street: "Arminstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

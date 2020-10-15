@@ -1,4 +1,4 @@
 ---
 title: Baiersbronn
-url: "/baiersbronn/"
+url: /baiersbronn/
 ---

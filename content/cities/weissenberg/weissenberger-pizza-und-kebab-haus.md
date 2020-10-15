@@ -1,4 +1,4 @@
 ---
-title: Weißenberger Pizza & Kebab Haus
-url: "/weissenberg/weissenberger-pizza-und-kebab-haus/"
+title: "Weißenberger Pizza & Kebab Haus"
+url: /weissenberg/weissenberger-pizza-und-kebab-haus/
 ---

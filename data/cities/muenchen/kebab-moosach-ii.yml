@@ -1,9 +1,9 @@
 id: 1137574410
 latitude: 48.180170600000004
 longitude: 11.507499200000002
-postcode: 80992
+postcode: "80992"
 city: München
-street: Bunzlauer Straße
+street: "Bunzlauer Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Su, PH 06:00-22:00"

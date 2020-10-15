@@ -1,9 +1,9 @@
 id: 1573738310
 latitude: 48.150825600000005
 longitude: 11.5744167
-postcode: 80799
+postcode: "80799"
 city: München
-street: Schellingstraße
+street: "Schellingstraße"
 housenumber: 44
 phone: "+49 89 20942337"
 opening_hours: "Mo-Sa 11:00-21:00"

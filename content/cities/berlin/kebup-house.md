@@ -1,4 +1,4 @@
 ---
-title: Keb'Up House
-url: "/berlin/kebup-house/"
+title: "Keb'Up House"
+url: /berlin/kebup-house/
 ---

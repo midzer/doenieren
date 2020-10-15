@@ -1,4 +1,4 @@
 ---
-title: Lieth Grill
-url: "/paderborn/lieth-grill/"
+title: "Lieth Grill"
+url: /paderborn/lieth-grill/
 ---

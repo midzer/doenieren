@@ -1,0 +1,4 @@
+---
+title: Weingarten
+url: /weingarten/
+---

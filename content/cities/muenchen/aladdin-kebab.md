@@ -1,4 +1,4 @@
 ---
-title: Aladdin Kebab
-url: "/muenchen/aladdin-kebab/"
+title: "Aladdin Kebab"
+url: /muenchen/aladdin-kebab/
 ---

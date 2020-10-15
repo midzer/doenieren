@@ -1,4 +1,4 @@
 ---
-title: SiDE
-url: "/glashuette/side/"
+title: "SiDE"
+url: /glashuette/side/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kara's Grill
-url: "/fuldabrueck/karas-grill/"
+title: "Kara's Grill"
+url: /fuldabrueck/karas-grill/
 ---

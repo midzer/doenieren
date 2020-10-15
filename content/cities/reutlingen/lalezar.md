@@ -1,4 +1,4 @@
 ---
-title: Lalezar
-url: "/reutlingen/lalezar/"
+title: "Lalezar"
+url: /reutlingen/lalezar/
 ---

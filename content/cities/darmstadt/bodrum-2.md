@@ -1,4 +1,4 @@
 ---
-title: Bodrum 2
-url: "/darmstadt/bodrum-2/"
+title: "Bodrum 2"
+url: /darmstadt/bodrum-2/
 ---

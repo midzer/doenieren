@@ -1,9 +1,9 @@
 id: 4679581458
 latitude: 50.948275300000006
 longitude: 6.9547493000000005
-postcode: 50668
+postcode: "50668"
 city: Köln
-street: Weidengasse
+street: "Weidengasse"
 housenumber: 42-44
 phone: "+49 221 27645001"
 opening_hours: ""

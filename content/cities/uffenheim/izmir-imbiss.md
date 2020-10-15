@@ -1,4 +1,4 @@
 ---
-title: Izmir Imbiss
-url: "/uffenheim/izmir-imbiss/"
+title: "Izmir Imbiss"
+url: /uffenheim/izmir-imbiss/
 ---

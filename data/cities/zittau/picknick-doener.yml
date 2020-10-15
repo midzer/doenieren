@@ -1,9 +1,9 @@
 id: 4734203130
 latitude: 50.8975244
 longitude: 14.809496300000001
-postcode: 02763
+postcode: "02763"
 city: Zittau
-street: Neustadt
+street: "Neustadt"
 housenumber: 37
 phone: "+49 3583 517560"
 opening_hours: "Tu-Sa 10:30-23:00; Su 11:00-23:00"

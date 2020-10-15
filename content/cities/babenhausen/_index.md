@@ -1,4 +1,4 @@
 ---
 title: Babenhausen
-url: "/babenhausen/"
+url: /babenhausen/
 ---

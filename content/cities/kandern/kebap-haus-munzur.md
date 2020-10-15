@@ -1,4 +1,4 @@
 ---
-title: Kebap Haus Munzur
-url: "/kandern/kebap-haus-munzur/"
+title: "Kebap Haus Munzur"
+url: /kandern/kebap-haus-munzur/
 ---

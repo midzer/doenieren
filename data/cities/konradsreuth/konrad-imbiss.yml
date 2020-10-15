@@ -1,9 +1,9 @@
 id: 6092875816
 latitude: 50.268197900000004
 longitude: 11.843926000000002
-postcode: 95176
+postcode: "95176"
 city: Konradsreuth
-street: Münchberger Straße
+street: "Münchberger Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Su 10:00-20:00"

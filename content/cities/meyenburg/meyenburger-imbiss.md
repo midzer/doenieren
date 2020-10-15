@@ -1,4 +1,4 @@
 ---
-title: Meyenburger Imbiss
-url: "/meyenburg/meyenburger-imbiss/"
+title: "Meyenburger Imbiss"
+url: /meyenburg/meyenburger-imbiss/
 ---

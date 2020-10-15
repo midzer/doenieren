@@ -1,9 +1,9 @@
 id: 5846807204
 latitude: 51.9933221
 longitude: 8.507258700000001
-postcode: 33647
+postcode: "33647"
 city: Bielefeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 131
 phone: ""
 opening_hours: ""

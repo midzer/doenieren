@@ -1,4 +1,4 @@
 ---
-title: Ba Badiyel
-url: "/erfurt/ba-badiyel/"
+title: "Ba Badiyel"
+url: /erfurt/ba-badiyel/
 ---

@@ -1,9 +1,9 @@
 id: 1916210096
 latitude: 51.567891200000005
 longitude: 7.2113278
-postcode: 45661
+postcode: "45661"
 city: Recklinghausen
-street: Bochumer Straße
+street: "Bochumer Straße"
 housenumber: 192
 phone: ""
 opening_hours: ""

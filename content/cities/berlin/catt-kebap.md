@@ -1,4 +1,4 @@
 ---
-title: Çatt Kebap
-url: "/berlin/catt-kebap/"
+title: "Çatt Kebap"
+url: /berlin/catt-kebap/
 ---

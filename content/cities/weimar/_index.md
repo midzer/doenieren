@@ -1,4 +1,4 @@
 ---
 title: Weimar
-url: "/weimar/"
+url: /weimar/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Der Dönermann
-url: "/weinstadt/der-doenermann/"
+title: "Der Dönermann"
+url: /weinstadt/der-doenermann/
 ---

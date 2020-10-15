@@ -1,4 +1,4 @@
 ---
-title: Bahnhof Döner
-url: "/dieburg/bahnhof-doener/"
+title: "Bahnhof Döner"
+url: /dieburg/bahnhof-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Piccolino
-url: "/leipzig/piccolino/"
+title: "Piccolino"
+url: /leipzig/piccolino/
 ---

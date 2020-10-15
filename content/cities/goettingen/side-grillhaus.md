@@ -1,4 +1,4 @@
 ---
-title: Side Grillhaus
-url: "/goettingen/side-grillhaus/"
+title: "Side Grillhaus"
+url: /goettingen/side-grillhaus/
 ---

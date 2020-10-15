@@ -1,4 +1,4 @@
 ---
 title: Markt Schwaben
-url: "/markt-schwaben/"
+url: /markt-schwaben/
 ---

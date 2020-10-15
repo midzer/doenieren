@@ -1,4 +1,4 @@
 ---
 title: Trossingen
-url: "/trossingen/"
+url: /trossingen/
 ---

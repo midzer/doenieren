@@ -1,4 +1,4 @@
 ---
-title: Bei Yasemin
-url: "/dorsten/bei-yasemin/"
+title: "Bei Yasemin"
+url: /dorsten/bei-yasemin/
 ---

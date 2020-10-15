@@ -1,9 +1,9 @@
 id: 2273363049
 latitude: 51.608094400000006
 longitude: 7.123898700000001
-postcode: 45699
+postcode: "45699"
 city: Herten
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 170a
 phone: ""
 opening_hours: ""

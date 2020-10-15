@@ -1,4 +1,4 @@
 ---
 title: Pfalzgrafenweiler
-url: "/pfalzgrafenweiler/"
+url: /pfalzgrafenweiler/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Wallersdorf
-url: "/wallersdorf/"
+url: /wallersdorf/
 ---

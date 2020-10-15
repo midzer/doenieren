@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus Bursali
-url: "/heidelberg/doenerhaus-bursali/"
+title: "Dönerhaus Bursali"
+url: /heidelberg/doenerhaus-bursali/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bornhöved
-url: "/bornhoeved/"
+url: /bornhoeved/
 ---

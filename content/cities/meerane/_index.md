@@ -1,4 +1,4 @@
 ---
 title: Meerane
-url: "/meerane/"
+url: /meerane/
 ---

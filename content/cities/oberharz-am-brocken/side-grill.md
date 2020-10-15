@@ -1,4 +1,4 @@
 ---
-title: Side-Grill
-url: "/oberharz-am-brocken/side-grill/"
+title: "Side-Grill"
+url: /oberharz-am-brocken/side-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Neumühler Grill
-url: "/duisburg/neumuehler-grill/"
+title: "Neumühler Grill"
+url: /duisburg/neumuehler-grill/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Geiselhöring
-url: "/geiselhoering/"
+url: /geiselhoering/
 ---

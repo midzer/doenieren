@@ -1,0 +1,4 @@
+---
+title: Bernburg
+url: /bernburg/
+---

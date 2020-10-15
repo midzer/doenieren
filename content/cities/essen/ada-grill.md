@@ -1,4 +1,4 @@
 ---
-title: Ada Grill
-url: "/essen/ada-grill/"
+title: "Ada Grill"
+url: /essen/ada-grill/
 ---

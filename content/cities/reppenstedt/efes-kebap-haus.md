@@ -1,4 +1,4 @@
 ---
-title: Efes Kebap Haus
-url: "/reppenstedt/efes-kebap-haus/"
+title: "Efes Kebap Haus"
+url: /reppenstedt/efes-kebap-haus/
 ---

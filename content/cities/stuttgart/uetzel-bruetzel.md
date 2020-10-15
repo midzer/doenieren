@@ -1,4 +1,4 @@
 ---
-title: Ützel Brützel
-url: "/stuttgart/uetzel-bruetzel/"
+title: "Ützel Brützel"
+url: /stuttgart/uetzel-bruetzel/
 ---

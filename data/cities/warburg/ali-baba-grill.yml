@@ -1,9 +1,9 @@
 id: 3330875591
 latitude: 51.489590400000004
 longitude: 9.1404536
-postcode: 34414
+postcode: "34414"
 city: Warburg
-street: Paderborner Tor
+street: "Paderborner Tor"
 housenumber: 107
 phone: ""
 opening_hours: ""

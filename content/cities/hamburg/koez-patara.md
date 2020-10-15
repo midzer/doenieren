@@ -1,4 +1,4 @@
 ---
-title: Köz Patara
-url: "/hamburg/koez-patara/"
+title: "Köz Patara"
+url: /hamburg/koez-patara/
 ---

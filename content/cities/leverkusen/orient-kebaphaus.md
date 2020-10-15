@@ -1,4 +1,4 @@
 ---
-title: Orient Kebaphaus
-url: "/leverkusen/orient-kebaphaus/"
+title: "Orient Kebaphaus"
+url: /leverkusen/orient-kebaphaus/
 ---

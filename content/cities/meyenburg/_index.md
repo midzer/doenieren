@@ -1,4 +1,4 @@
 ---
 title: Meyenburg
-url: "/meyenburg/"
+url: /meyenburg/
 ---

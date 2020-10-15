@@ -1,9 +1,9 @@
 id: 1037478563
 latitude: 48.367330300000006
 longitude: 10.8993286
-postcode: 86150
+postcode: "86150"
 city: Augsburg
-street: Hunoldsgraben
+street: "Hunoldsgraben"
 housenumber: 28
 phone: "+49 821 50 87 10 35"
 opening_hours: "Mo-Sa 10:00-22:00; Su 12:00-22:00"

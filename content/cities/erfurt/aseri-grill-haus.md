@@ -1,4 +1,4 @@
 ---
-title: Aseri Grill-Haus
-url: "/erfurt/aseri-grill-haus/"
+title: "Aseri Grill-Haus"
+url: /erfurt/aseri-grill-haus/
 ---

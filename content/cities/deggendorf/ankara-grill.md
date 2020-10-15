@@ -1,4 +1,4 @@
 ---
-title: Ankara Grill
-url: "/deggendorf/ankara-grill/"
+title: "Ankara Grill"
+url: /deggendorf/ankara-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Eichen Grill
-url: "/salzkotten/eichen-grill/"
+title: "Eichen Grill"
+url: /salzkotten/eichen-grill/
 ---

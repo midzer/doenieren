@@ -1,4 +1,4 @@
 ---
 title: Herrieden
-url: "/herrieden/"
+url: /herrieden/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Star Kebap
-url: "/endingen-am-kaiserstuhl/star-kebap/"
+title: "Star Kebap"
+url: /endingen-am-kaiserstuhl/star-kebap/
 ---

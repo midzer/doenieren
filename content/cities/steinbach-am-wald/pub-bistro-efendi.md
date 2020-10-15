@@ -1,4 +1,4 @@
 ---
-title: Pub-Bistro Efendi
-url: "/steinbach-am-wald/pub-bistro-efendi/"
+title: "Pub-Bistro Efendi"
+url: /steinbach-am-wald/pub-bistro-efendi/
 ---

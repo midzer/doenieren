@@ -1,4 +1,4 @@
 ---
-title: Durgut
-url: "/flensburg/durgut/"
+title: "Durgut"
+url: /flensburg/durgut/
 ---

@@ -1,9 +1,9 @@
 id: 2047647562
 latitude: 49.489738200000005
 longitude: 8.466694
-postcode: 68159
+postcode: "68159"
 city: Mannheim
-street: 
+street: ""
 housenumber: 2
 phone: "+49 621 40166939"
 opening_hours: "Mo-Th 08:00-23:00, Fr-Sa 08:00-01:00, Su 08:00-23:00"

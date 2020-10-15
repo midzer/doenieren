@@ -1,4 +1,4 @@
 ---
-title: Newroz Döner
-url: "/erfurt/newroz-doener/"
+title: "Newroz Döner"
+url: /erfurt/newroz-doener/
 ---

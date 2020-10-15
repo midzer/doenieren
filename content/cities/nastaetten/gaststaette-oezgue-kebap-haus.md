@@ -1,4 +1,4 @@
 ---
-title: Gaststätte Özgü Kebap-Haus
-url: "/nastaetten/gaststaette-oezgue-kebap-haus/"
+title: "Gaststätte Özgü Kebap-Haus"
+url: /nastaetten/gaststaette-oezgue-kebap-haus/
 ---

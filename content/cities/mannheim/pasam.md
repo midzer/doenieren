@@ -1,4 +1,4 @@
 ---
-title: Paṣam
-url: "/mannheim/pasam/"
+title: "Paṣam"
+url: /mannheim/pasam/
 ---

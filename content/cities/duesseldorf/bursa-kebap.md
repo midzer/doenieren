@@ -1,4 +1,4 @@
 ---
-title: Bursa Kebap
-url: "/duesseldorf/bursa-kebap/"
+title: "Bursa Kebap"
+url: /duesseldorf/bursa-kebap/
 ---

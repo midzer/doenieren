@@ -1,9 +1,9 @@
 id: 1048083108
 latitude: 52.571584900000005
 longitude: 13.3737554
-postcode: 13409
+postcode: "13409"
 city: Berlin
-street: Herbststraße
+street: "Herbststraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

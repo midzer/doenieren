@@ -1,9 +1,9 @@
 id: 1261319007
 latitude: 51.3568593
 longitude: 12.4161075
-postcode: 04347
+postcode: "04347"
 city: Leipzig
-street: Löbauer Straße
+street: "Löbauer Straße"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Sa 10:00-22:00; Su,PH 11:00-22:00"

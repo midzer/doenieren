@@ -1,4 +1,4 @@
 ---
-title: Nour
-url: "/berlin/nour/"
+title: "Nour"
+url: /berlin/nour/
 ---

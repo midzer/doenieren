@@ -1,4 +1,4 @@
 ---
-title: Arkadas Kebap
-url: "/pforzheim/arkadas-kebap/"
+title: "Arkadas Kebap"
+url: /pforzheim/arkadas-kebap/
 ---

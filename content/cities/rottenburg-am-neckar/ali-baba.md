@@ -1,4 +1,4 @@
 ---
-title: Ali Baba
-url: "/rottenburg-am-neckar/ali-baba/"
+title: "Ali Baba"
+url: /rottenburg-am-neckar/ali-baba/
 ---

@@ -1,4 +1,4 @@
 ---
-title: My Danoz
-url: "/hann-muenden/my-danoz/"
+title: "My Danoz"
+url: /hann-muenden/my-danoz/
 ---

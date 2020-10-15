@@ -1,4 +1,4 @@
 ---
-title: Arnin Kebaphaus
-url: "/egestorf/arnin-kebaphaus/"
+title: "Arnin Kebaphaus"
+url: /egestorf/arnin-kebaphaus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Baha Döner Imbiss
-url: "/mannheim/baha-doener-imbiss/"
+title: "Baha Döner Imbiss"
+url: /mannheim/baha-doener-imbiss/
 ---

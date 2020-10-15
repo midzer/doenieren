@@ -1,4 +1,4 @@
 ---
 title: Müllrose
-url: "/muellrose/"
+url: /muellrose/
 ---

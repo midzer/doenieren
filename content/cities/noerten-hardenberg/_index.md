@@ -1,4 +1,4 @@
 ---
 title: Nörten-Hardenberg
-url: "/noerten-hardenberg/"
+url: /noerten-hardenberg/
 ---

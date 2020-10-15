@@ -1,4 +1,4 @@
 ---
-title: Emmoğlu Taşfırın
-url: "/luedenscheid/emmoglu-tasfirin/"
+title: "Emmoğlu Taşfırın"
+url: /luedenscheid/emmoglu-tasfirin/
 ---

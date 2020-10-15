@@ -1,4 +1,4 @@
 ---
-title: Köz Bingöl
-url: "/hamburg/koez-bingoel/"
+title: "Köz Bingöl"
+url: /hamburg/koez-bingoel/
 ---

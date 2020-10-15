@@ -1,9 +1,9 @@
 id: 2701233150
 latitude: 47.660484200000006
 longitude: 9.1730958
-postcode: 78462
+postcode: "78462"
 city: Konstanz
-street: Hussenstraße
+street: "Hussenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

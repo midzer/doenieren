@@ -1,4 +1,4 @@
 ---
-title: Arena
-url: "/wolfsburg/arena/"
+title: "Arena"
+url: /wolfsburg/arena/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Gül
-url: "/berlin/guel/"
+title: "Gül"
+url: /berlin/guel/
 ---

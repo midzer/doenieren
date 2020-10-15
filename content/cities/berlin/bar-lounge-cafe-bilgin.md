@@ -1,4 +1,4 @@
 ---
-title: Bar Lounge Café Bilgin
-url: "/berlin/bar-lounge-cafe-bilgin/"
+title: "Bar Lounge Café Bilgin"
+url: /berlin/bar-lounge-cafe-bilgin/
 ---

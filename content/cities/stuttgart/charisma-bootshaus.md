@@ -1,4 +1,4 @@
 ---
-title: Charisma Bootshaus
-url: "/stuttgart/charisma-bootshaus/"
+title: "Charisma Bootshaus"
+url: /stuttgart/charisma-bootshaus/
 ---

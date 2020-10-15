@@ -1,4 +1,4 @@
 ---
-title: Ahi-Evran-Imbiss
-url: "/baunatal/ahi-evran-imbiss/"
+title: "Ahi-Evran-Imbiss"
+url: /baunatal/ahi-evran-imbiss/
 ---

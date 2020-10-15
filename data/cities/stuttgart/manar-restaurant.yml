@@ -1,9 +1,9 @@
 id: 6116407610
 latitude: 48.793202300000004
 longitude: 9.201911
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 215a
 phone: "+49 162 8609238"
 opening_hours: ""

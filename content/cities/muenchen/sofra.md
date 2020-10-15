@@ -1,4 +1,4 @@
 ---
-title: Sofra
-url: "/muenchen/sofra/"
+title: "Sofra"
+url: /muenchen/sofra/
 ---

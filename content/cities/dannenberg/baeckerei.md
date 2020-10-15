@@ -1,4 +1,4 @@
 ---
-title: Bäckerei
-url: "/dannenberg/baeckerei/"
+title: "Bäckerei"
+url: /dannenberg/baeckerei/
 ---

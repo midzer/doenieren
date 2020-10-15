@@ -1,4 +1,4 @@
 ---
-title: Döner Center
-url: "/hamburg/doener-center/"
+title: "Döner Center"
+url: /hamburg/doener-center/
 ---

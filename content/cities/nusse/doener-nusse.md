@@ -1,4 +1,4 @@
 ---
-title: Döner Nusse
-url: "/nusse/doener-nusse/"
+title: "Döner Nusse"
+url: /nusse/doener-nusse/
 ---

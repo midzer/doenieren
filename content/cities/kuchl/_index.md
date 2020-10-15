@@ -1,0 +1,4 @@
+---
+title: Kuchl
+url: /kuchl/
+---

@@ -1,4 +1,4 @@
 ---
-title: Dino Food
-url: "/aichach/dino-food/"
+title: "Dino Food"
+url: /aichach/dino-food/
 ---

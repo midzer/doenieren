@@ -1,4 +1,4 @@
 ---
-title: Babi's Kebab
-url: "/hude-oldenburg/babis-kebab/"
+title: "Babi's Kebab"
+url: /hude-oldenburg/babis-kebab/
 ---

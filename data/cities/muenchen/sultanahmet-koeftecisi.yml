@@ -1,9 +1,9 @@
 id: 4462434091
 latitude: 48.13891640000001
 longitude: 11.551503100000001
-postcode: 80335
+postcode: "80335"
 city: München
-street: Bayerstraße
+street: "Bayerstraße"
 housenumber: 91
 phone: "+49 89 5999260"
 opening_hours: "Mo-Sa 10:00-23:00; Su,PH 09:00-23:00"

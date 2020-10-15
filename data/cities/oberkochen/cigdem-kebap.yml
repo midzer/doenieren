@@ -1,9 +1,9 @@
 id: 441267848
 latitude: 48.7836925
 longitude: 10.104969200000001
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
-street: Aalener Straße
+street: "Aalener Straße"
 housenumber: 3
 phone: "+49 7364 41113"
 opening_hours: "Mo-Fr 10:00-23:00"

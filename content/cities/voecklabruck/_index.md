@@ -1,0 +1,4 @@
+---
+title: Vöcklabruck
+url: /voecklabruck/
+---

@@ -1,4 +1,4 @@
 ---
-title: Habibiz
-url: "/essen/habibiz/"
+title: "Habibiz"
+url: /essen/habibiz/
 ---

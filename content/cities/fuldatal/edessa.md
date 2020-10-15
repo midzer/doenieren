@@ -1,4 +1,4 @@
 ---
-title: Edessa
-url: "/fuldatal/edessa/"
+title: "Edessa"
+url: /fuldatal/edessa/
 ---

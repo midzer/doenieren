@@ -1,9 +1,9 @@
 id: 2278221696
 latitude: 48.988375000000005
 longitude: 12.1415482
-postcode: 93055
+postcode: "93055"
 city: Regensburg
-street: Friedrich-Viehbacher-Allee
+street: "Friedrich-Viehbacher-Allee"
 housenumber: 5
 phone: ""
 opening_hours: ""

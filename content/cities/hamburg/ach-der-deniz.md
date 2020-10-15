@@ -1,4 +1,4 @@
 ---
-title: Ach Der Deniz
-url: "/hamburg/ach-der-deniz/"
+title: "Ach Der Deniz"
+url: /hamburg/ach-der-deniz/
 ---

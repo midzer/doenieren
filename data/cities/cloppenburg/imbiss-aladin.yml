@@ -1,9 +1,9 @@
 id: 3257109291
 latitude: 52.845403000000005
 longitude: 8.0445831
-postcode: 49661
+postcode: "49661"
 city: Cloppenburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8-12
 phone: ""
 opening_hours: "Mo-Sa 11:00-23:00; Su 13:00+"

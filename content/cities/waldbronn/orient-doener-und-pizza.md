@@ -1,4 +1,4 @@
 ---
-title: Orient Döner & Pizza
-url: "/waldbronn/orient-doener-und-pizza/"
+title: "Orient Döner & Pizza"
+url: /waldbronn/orient-doener-und-pizza/
 ---

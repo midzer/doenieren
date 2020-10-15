@@ -1,0 +1,4 @@
+---
+title: Götzis
+url: /goetzis/
+---

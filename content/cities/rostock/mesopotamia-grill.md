@@ -1,4 +1,4 @@
 ---
-title: Mesopotamia Grill
-url: "/rostock/mesopotamia-grill/"
+title: "Mesopotamia Grill"
+url: /rostock/mesopotamia-grill/
 ---

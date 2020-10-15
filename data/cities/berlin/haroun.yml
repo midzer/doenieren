@@ -1,9 +1,9 @@
 id: 1372898384
 latitude: 52.515765200000004
 longitude: 13.4678888
-postcode: 10247
+postcode: "10247"
 city: Berlin
-street: Rigaer Straße
+street: "Rigaer Straße"
 housenumber: 42a
 phone: ""
 opening_hours: ""

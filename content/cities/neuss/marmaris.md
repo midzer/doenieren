@@ -1,4 +1,4 @@
 ---
-title: Marmaris
-url: "/neuss/marmaris/"
+title: "Marmaris"
+url: /neuss/marmaris/
 ---

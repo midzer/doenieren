@@ -1,4 +1,4 @@
 ---
-title: Hiran Kebab
-url: "/potsdam/hiran-kebab/"
+title: "Hiran Kebab"
+url: /potsdam/hiran-kebab/
 ---

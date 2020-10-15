@@ -1,4 +1,4 @@
 ---
-title: Pascha Döner
-url: "/wuerzburg/pascha-doener/"
+title: "Pascha Döner"
+url: /wuerzburg/pascha-doener/
 ---

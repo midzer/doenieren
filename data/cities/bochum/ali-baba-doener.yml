@@ -1,9 +1,9 @@
 id: 6800751907
 latitude: 51.480107800000006
 longitude: 7.222032700000001
-postcode: 44787
+postcode: "44787"
 city: Bochum
-street: Massenbergstraße
+street: "Massenbergstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Su 09:00-23:00"

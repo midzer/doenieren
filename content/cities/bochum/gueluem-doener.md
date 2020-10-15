@@ -1,4 +1,4 @@
 ---
-title: Gülüm Döner
-url: "/bochum/gueluem-doener/"
+title: "Gülüm Döner"
+url: /bochum/gueluem-doener/
 ---

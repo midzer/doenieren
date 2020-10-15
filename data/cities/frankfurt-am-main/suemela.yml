@@ -1,9 +1,9 @@
 id: 3270548961
 latitude: 50.1228769
 longitude: 8.6921642
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
-street: Bornheimer Landstraße
+street: "Bornheimer Landstraße"
 housenumber: 77
 phone: "+49 69 17498888"
 opening_hours: ""

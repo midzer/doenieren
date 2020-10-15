@@ -1,4 +1,4 @@
 ---
-title: Akman Döner
-url: "/kronach/akman-doener/"
+title: "Akman Döner"
+url: /kronach/akman-doener/
 ---

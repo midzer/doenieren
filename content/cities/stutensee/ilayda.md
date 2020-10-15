@@ -1,4 +1,4 @@
 ---
-title: Ilayda
-url: "/stutensee/ilayda/"
+title: "Ilayda"
+url: /stutensee/ilayda/
 ---

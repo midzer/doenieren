@@ -1,9 +1,9 @@
 id: 946782895
 latitude: 50.9483916
 longitude: 6.9866391000000005
-postcode: 51063
+postcode: "51063"
 city: Köln
-street: Ferdinandstraße
+street: "Ferdinandstraße"
 housenumber: 1
 phone: "+49 221 26139648"
 opening_hours: "Mo-Su 09:00-01:00"

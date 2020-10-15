@@ -1,4 +1,4 @@
 ---
-title: Effem Kebap
-url: "/ditzingen/effem-kebap/"
+title: "Effem Kebap"
+url: /ditzingen/effem-kebap/
 ---

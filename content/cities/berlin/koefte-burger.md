@@ -1,4 +1,4 @@
 ---
-title: Köfte Burger
-url: "/berlin/koefte-burger/"
+title: "Köfte Burger"
+url: /berlin/koefte-burger/
 ---

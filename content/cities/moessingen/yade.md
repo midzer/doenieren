@@ -1,4 +1,4 @@
 ---
-title: Yade
-url: "/moessingen/yade/"
+title: "Yade"
+url: /moessingen/yade/
 ---

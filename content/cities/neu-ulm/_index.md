@@ -1,4 +1,4 @@
 ---
 title: Neu-Ulm
-url: "/neu-ulm/"
+url: /neu-ulm/
 ---

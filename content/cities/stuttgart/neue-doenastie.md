@@ -1,4 +1,4 @@
 ---
-title: Neue Dönastie
-url: "/stuttgart/neue-doenastie/"
+title: "Neue Dönastie"
+url: /stuttgart/neue-doenastie/
 ---

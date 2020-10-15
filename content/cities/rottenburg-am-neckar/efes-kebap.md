@@ -1,4 +1,4 @@
 ---
-title: Efes Kebap
-url: "/rottenburg-am-neckar/efes-kebap/"
+title: "Efes Kebap"
+url: /rottenburg-am-neckar/efes-kebap/
 ---

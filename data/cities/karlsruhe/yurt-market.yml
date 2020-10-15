@@ -1,9 +1,9 @@
 id: 2656675027
 latitude: 49.0013583
 longitude: 8.4058012
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

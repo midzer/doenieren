@@ -1,9 +1,9 @@
 id: 1794113808
 latitude: 51.050806800000004
 longitude: 6.9503827000000005
-postcode: 51371
+postcode: "51371"
 city: Leverkusen
-street: Wupperstraße
+street: "Wupperstraße"
 housenumber: 13-15
 phone: ""
 opening_hours: "Mo-Su 07:00-00:00"

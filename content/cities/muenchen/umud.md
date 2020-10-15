@@ -1,4 +1,4 @@
 ---
-title: Umud
-url: "/muenchen/umud/"
+title: "Umud"
+url: /muenchen/umud/
 ---

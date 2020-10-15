@@ -1,4 +1,4 @@
 ---
 title: Versmold
-url: "/versmold/"
+url: /versmold/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Nordwalde
-url: "/nordwalde/"
+url: /nordwalde/
 ---

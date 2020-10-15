@@ -1,4 +1,4 @@
 ---
-title: Ocabasi Diyar
-url: "/kassel/ocabasi-diyar/"
+title: "Ocabasi Diyar"
+url: /kassel/ocabasi-diyar/
 ---

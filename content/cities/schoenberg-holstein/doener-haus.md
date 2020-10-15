@@ -1,4 +1,4 @@
 ---
-title: Döner-Haus
-url: "/schoenberg-holstein/doener-haus/"
+title: "Döner-Haus"
+url: /schoenberg-holstein/doener-haus/
 ---

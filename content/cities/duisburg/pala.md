@@ -1,4 +1,4 @@
 ---
-title: Pala
-url: "/duisburg/pala/"
+title: "Pala"
+url: /duisburg/pala/
 ---

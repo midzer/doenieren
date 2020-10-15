@@ -1,4 +1,4 @@
 ---
-title: Mido
-url: "/konz/mido/"
+title: "Mido"
+url: /konz/mido/
 ---

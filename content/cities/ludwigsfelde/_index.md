@@ -1,4 +1,4 @@
 ---
 title: Ludwigsfelde
-url: "/ludwigsfelde/"
+url: /ludwigsfelde/
 ---

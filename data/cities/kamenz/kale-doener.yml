@@ -1,9 +1,9 @@
 id: 3429215939
 latitude: 51.281555100000006
 longitude: 14.106481
-postcode: 01917
+postcode: "01917"
 city: Kamenz
-street: Macherstraße
+street: "Macherstraße"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Sa 10:30-21:00, Su 12:00-21:00"

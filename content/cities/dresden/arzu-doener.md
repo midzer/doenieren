@@ -1,4 +1,4 @@
 ---
-title: Arzu Döner
-url: "/dresden/arzu-doener/"
+title: "Arzu Döner"
+url: /dresden/arzu-doener/
 ---

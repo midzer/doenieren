@@ -1,4 +1,4 @@
 ---
-title: The Döner Brothers
-url: "/bielefeld/the-doener-brothers/"
+title: "The Döner Brothers"
+url: /bielefeld/the-doener-brothers/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Mekado
-url: "/oldenburg/mekado/"
+title: "Mekado"
+url: /oldenburg/mekado/
 ---

@@ -1,4 +1,4 @@
 ---
-title: DÖNER Tempel
-url: "/teltow/doener-tempel/"
+title: "DÖNER Tempel"
+url: /teltow/doener-tempel/
 ---

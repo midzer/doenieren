@@ -1,9 +1,9 @@
 id: 1646335257
 latitude: 51.3271669
 longitude: 6.568456500000001
-postcode: 47798
+postcode: "47798"
 city: Krefeld
-street: Ostwall
+street: "Ostwall"
 housenumber: 26
 phone: "+49 2151 3873001"
 opening_hours: "Su-Th 09:00-02:00, Fr,Sa,PH 09:00-05:00"

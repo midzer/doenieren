@@ -1,4 +1,4 @@
 ---
 title: Bad Krozingen
-url: "/bad-krozingen/"
+url: /bad-krozingen/
 ---

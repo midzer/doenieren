@@ -1,4 +1,4 @@
 ---
-title: Bistro Salám
-url: "/schoenbrunn/bistro-salam/"
+title: "Bistro Salám"
+url: /schoenbrunn/bistro-salam/
 ---

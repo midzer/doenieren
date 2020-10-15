@@ -1,0 +1,4 @@
+---
+title: Kundl
+url: /kundl/
+---

@@ -1,9 +1,9 @@
 id: 3522209788
 latitude: 52.0272178
 longitude: 8.530920700000001
-postcode: 33613
+postcode: "33613"
 city: Bielefeld
-street: Jöllenbecker Straße
+street: "Jöllenbecker Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Su-Th 07:30-02:00, Fr,Sa 07:30-06:00"

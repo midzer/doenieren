@@ -1,4 +1,4 @@
 ---
-title: Dilan Döner
-url: "/bad-zwischenahn/dilan-doener/"
+title: "Dilan Döner"
+url: /bad-zwischenahn/dilan-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Kaiser Restaurant
-url: "/koeln/kaiser-restaurant/"
+title: "Kaiser Restaurant"
+url: /koeln/kaiser-restaurant/
 ---

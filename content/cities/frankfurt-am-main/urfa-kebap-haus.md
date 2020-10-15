@@ -1,4 +1,4 @@
 ---
-title: Urfa Kebap Haus
-url: "/frankfurt-am-main/urfa-kebap-haus/"
+title: "Urfa Kebap Haus"
+url: /frankfurt-am-main/urfa-kebap-haus/
 ---

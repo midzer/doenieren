@@ -1,4 +1,4 @@
 ---
 title: Keltern
-url: "/keltern/"
+url: /keltern/
 ---

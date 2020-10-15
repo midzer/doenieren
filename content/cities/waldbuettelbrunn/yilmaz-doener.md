@@ -1,4 +1,4 @@
 ---
-title: Yilmaz Döner
-url: "/waldbuettelbrunn/yilmaz-doener/"
+title: "Yilmaz Döner"
+url: /waldbuettelbrunn/yilmaz-doener/
 ---

@@ -1,0 +1,4 @@
+---
+title: Bardowick
+url: /bardowick/
+---

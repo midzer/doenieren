@@ -1,4 +1,4 @@
 ---
-title: Kemer Kebap
-url: "/heubach/kemer-kebap/"
+title: "Kemer Kebap"
+url: /heubach/kemer-kebap/
 ---

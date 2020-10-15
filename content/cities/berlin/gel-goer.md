@@ -1,4 +1,4 @@
 ---
-title: Gel Gör
-url: "/berlin/gel-goer/"
+title: "Gel Gör"
+url: /berlin/gel-goer/
 ---

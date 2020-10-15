@@ -1,4 +1,4 @@
 ---
-title: Cafe Peri
-url: "/berlin/cafe-peri/"
+title: "Cafe Peri"
+url: /berlin/cafe-peri/
 ---

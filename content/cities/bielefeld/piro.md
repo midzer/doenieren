@@ -1,4 +1,4 @@
 ---
-title: piro
-url: "/bielefeld/piro/"
+title: "piro"
+url: /bielefeld/piro/
 ---

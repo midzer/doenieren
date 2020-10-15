@@ -1,4 +1,4 @@
 ---
-title: Aleppo
-url: "/muenster/aleppo/"
+title: "Aleppo"
+url: /muenster/aleppo/
 ---

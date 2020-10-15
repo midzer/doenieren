@@ -1,4 +1,4 @@
 ---
-title: Larissa's Döner
-url: "/eckernfoerde/larissas-doener/"
+title: "Larissa's Döner"
+url: /eckernfoerde/larissas-doener/
 ---

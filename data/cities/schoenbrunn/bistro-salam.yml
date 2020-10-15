@@ -1,9 +1,9 @@
 id: 2888662476
 latitude: 50.5198861
 longitude: 10.873873600000001
-postcode: 98667
+postcode: "98667"
 city: Schönbrunn
-street: Eisfelder Straße
+street: "Eisfelder Straße"
 housenumber: 31
 phone: "+49 36874 264797"
 opening_hours: "Mo-Th,Sa 11:00-22:00; Fr 16:00-22:00; Su 12:00-22:00"

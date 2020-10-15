@@ -1,4 +1,4 @@
 ---
-title: Tadim Grill Haus
-url: "/weil-am-rhein/tadim-grill-haus/"
+title: "Tadim Grill Haus"
+url: /weil-am-rhein/tadim-grill-haus/
 ---

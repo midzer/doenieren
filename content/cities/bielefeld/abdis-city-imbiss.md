@@ -1,4 +1,4 @@
 ---
-title: Abdi's City Imbiss
-url: "/bielefeld/abdis-city-imbiss/"
+title: "Abdi's City Imbiss"
+url: /bielefeld/abdis-city-imbiss/
 ---

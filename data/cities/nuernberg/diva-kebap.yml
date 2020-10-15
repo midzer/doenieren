@@ -1,9 +1,9 @@
 id: 6459832669
 latitude: 49.4394331
 longitude: 11.0510002
-postcode: 90439
+postcode: "90439"
 city: Nürnberg
-street: Grünstraße
+street: "Grünstraße"
 housenumber: 2
 phone: "+49 911 96506580"
 opening_hours: "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; Su,PH 11:00-22:00"

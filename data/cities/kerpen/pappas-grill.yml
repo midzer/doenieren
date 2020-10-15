@@ -1,9 +1,9 @@
 id: 1337648980
 latitude: 50.8549523
 longitude: 6.7606523
-postcode: 50169
+postcode: "50169"
 city: Kerpen
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 254
 phone: ""
 opening_hours: ""

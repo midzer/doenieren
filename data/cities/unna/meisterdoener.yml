@@ -1,9 +1,9 @@
 id: 2461182883
 latitude: 51.5243559
 longitude: 7.678658100000001
-postcode: 59423
+postcode: "59423"
 city: Unna
-street: Ahornstraße
+street: "Ahornstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Döner Grill
-url: "/dassel/doener-grill/"
+title: "Döner Grill"
+url: /dassel/doener-grill/
 ---

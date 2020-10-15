@@ -1,4 +1,4 @@
 ---
-title: Delikato Imbiss
-url: "/wittingen/delikato-imbiss/"
+title: "Delikato Imbiss"
+url: /wittingen/delikato-imbiss/
 ---

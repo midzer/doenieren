@@ -1,9 +1,9 @@
 id: 1906600909
 latitude: 52.253461300000005
 longitude: 9.9743265
-postcode: 31191
+postcode: "31191"
 city: Algermissen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 18
 phone: "+49 5126 8210"
 opening_hours: "Mo-Su 10:00-23:00"

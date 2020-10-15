@@ -1,4 +1,4 @@
 ---
-title: Arkadas
-url: "/schweich/arkadas/"
+title: "Arkadas"
+url: /schweich/arkadas/
 ---

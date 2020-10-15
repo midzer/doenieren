@@ -1,9 +1,9 @@
 id: 4893812414
 latitude: 51.4914512
 longitude: 11.9740497
-postcode: 06108
+postcode: "06108"
 city: Halle (Saale)
-street: Ludwig-Wucherer-Straße
+street: "Ludwig-Wucherer-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Th 10:00-01:00; Fr-Su,PH 10:00-03:00"

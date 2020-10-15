@@ -1,9 +1,9 @@
 id: 1066139225
 latitude: 51.4923659
 longitude: 7.555698100000001
-postcode: 44287
+postcode: "44287"
 city: Dortmund
-street: Köln-Berliner Straße
+street: "Köln-Berliner Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 11:30-22:30; Su,PH 12:30-21:30"

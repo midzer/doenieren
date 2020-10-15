@@ -1,4 +1,4 @@
 ---
-title: King of Kebap
-url: "/niedernhausen/king-of-kebap/"
+title: "King of Kebap"
+url: /niedernhausen/king-of-kebap/
 ---

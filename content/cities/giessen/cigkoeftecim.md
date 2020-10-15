@@ -1,4 +1,4 @@
 ---
-title: Cigköftecim
-url: "/giessen/cigkoeftecim/"
+title: "Cigköftecim"
+url: /giessen/cigkoeftecim/
 ---

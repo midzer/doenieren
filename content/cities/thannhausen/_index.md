@@ -1,4 +1,4 @@
 ---
 title: Thannhausen
-url: "/thannhausen/"
+url: /thannhausen/
 ---

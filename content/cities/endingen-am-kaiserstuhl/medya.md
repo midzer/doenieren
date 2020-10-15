@@ -1,4 +1,4 @@
 ---
-title: Medya
-url: "/endingen-am-kaiserstuhl/medya/"
+title: "Medya"
+url: /endingen-am-kaiserstuhl/medya/
 ---

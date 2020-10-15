@@ -1,4 +1,4 @@
 ---
-title: Antep Sofrasi
-url: "/hagen/antep-sofrasi/"
+title: "Antep Sofrasi"
+url: /hagen/antep-sofrasi/
 ---

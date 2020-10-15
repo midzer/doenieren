@@ -1,9 +1,9 @@
 id: 3340260190
 latitude: 51.9736356
 longitude: 7.414265400000001
-postcode: 48329
+postcode: "48329"
 city: Havixbeck
-street: Josef-Heydt-Straße
+street: "Josef-Heydt-Straße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Sa 11:30-22:00; Su 12:00-22:00"

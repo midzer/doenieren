@@ -1,9 +1,9 @@
 id: 3407582737
 latitude: 48.3946192
 longitude: 10.0047539
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00"

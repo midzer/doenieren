@@ -1,9 +1,9 @@
 id: 3623796047
 latitude: 50.302994000000005
 longitude: 8.812454500000001
-postcode: 61194
+postcode: "61194"
 city: Niddatal
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

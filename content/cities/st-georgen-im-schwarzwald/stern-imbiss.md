@@ -1,4 +1,4 @@
 ---
-title: Stern Imbiss
-url: "/st-georgen-im-schwarzwald/stern-imbiss/"
+title: "Stern Imbiss"
+url: /st-georgen-im-schwarzwald/stern-imbiss/
 ---

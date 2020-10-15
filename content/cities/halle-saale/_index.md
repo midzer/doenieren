@@ -1,4 +1,4 @@
 ---
 title: Halle (Saale)
-url: "/halle-saale/"
+url: /halle-saale/
 ---

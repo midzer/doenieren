@@ -1,9 +1,9 @@
 id: 3898026207
 latitude: 52.508999100000004
 longitude: 13.3145533
-postcode: 10625
+postcode: "10625"
 city: Berlin
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

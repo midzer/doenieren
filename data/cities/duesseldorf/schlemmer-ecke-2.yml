@@ -1,9 +1,9 @@
 id: 3450452441
 latitude: 51.2368401
 longitude: 6.779661600000001
-postcode: 40477
+postcode: "40477"
 city: Düsseldorf
-street: Duisburger Straße
+street: "Duisburger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

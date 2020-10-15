@@ -1,4 +1,4 @@
 ---
-title: Döneroase
-url: "/giebelstadt/doeneroase/"
+title: "Döneroase"
+url: /giebelstadt/doeneroase/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Merchweiler
-url: "/merchweiler/"
+url: /merchweiler/
 ---

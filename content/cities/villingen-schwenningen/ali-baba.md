@@ -1,4 +1,4 @@
 ---
-title: Ali Baba
-url: "/villingen-schwenningen/ali-baba/"
+title: "Ali Baba"
+url: /villingen-schwenningen/ali-baba/
 ---

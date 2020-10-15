@@ -1,4 +1,4 @@
 ---
-title: Dostlar Sofrasi
-url: "/flensburg/dostlar-sofrasi/"
+title: "Dostlar Sofrasi"
+url: /flensburg/dostlar-sofrasi/
 ---

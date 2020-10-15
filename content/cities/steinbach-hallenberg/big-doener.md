@@ -1,4 +1,4 @@
 ---
-title: Big Döner
-url: "/steinbach-hallenberg/big-doener/"
+title: "Big Döner"
+url: /steinbach-hallenberg/big-doener/
 ---

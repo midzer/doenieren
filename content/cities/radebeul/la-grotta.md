@@ -1,4 +1,4 @@
 ---
-title: La Grotta
-url: "/radebeul/la-grotta/"
+title: "La Grotta"
+url: /radebeul/la-grotta/
 ---

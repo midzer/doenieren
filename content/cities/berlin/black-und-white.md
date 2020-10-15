@@ -1,4 +1,4 @@
 ---
-title: Black & White
-url: "/berlin/black-und-white/"
+title: "Black & White"
+url: /berlin/black-und-white/
 ---

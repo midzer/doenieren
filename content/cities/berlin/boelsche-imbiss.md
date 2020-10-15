@@ -1,4 +1,4 @@
 ---
-title: Bölsche Imbiss
-url: "/berlin/boelsche-imbiss/"
+title: "Bölsche Imbiss"
+url: /berlin/boelsche-imbiss/
 ---

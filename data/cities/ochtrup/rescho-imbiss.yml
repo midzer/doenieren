@@ -1,9 +1,9 @@
 id: 5198587212
 latitude: 52.2101854
 longitude: 7.189868400000001
-postcode: 48607
+postcode: "48607"
 city: Ochtrup
-street: Poststraße
+street: "Poststraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

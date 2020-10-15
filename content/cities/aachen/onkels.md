@@ -1,4 +1,4 @@
 ---
-title: Onkel's
-url: "/aachen/onkels/"
+title: "Onkel's"
+url: /aachen/onkels/
 ---

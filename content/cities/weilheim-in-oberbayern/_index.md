@@ -1,4 +1,4 @@
 ---
 title: Weilheim in Oberbayern
-url: "/weilheim-in-oberbayern/"
+url: /weilheim-in-oberbayern/
 ---

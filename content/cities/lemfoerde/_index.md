@@ -1,4 +1,4 @@
 ---
 title: Lemförde
-url: "/lemfoerde/"
+url: /lemfoerde/
 ---

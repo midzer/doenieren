@@ -1,4 +1,4 @@
 ---
-title: König-Imbiss
-url: "/rottweil/koenig-imbiss/"
+title: "König-Imbiss"
+url: /rottweil/koenig-imbiss/
 ---

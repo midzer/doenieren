@@ -1,4 +1,4 @@
 ---
-title: ES Dönerhaus
-url: "/zwickau/es-doenerhaus/"
+title: "ES Dönerhaus"
+url: /zwickau/es-doenerhaus/
 ---

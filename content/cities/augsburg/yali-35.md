@@ -1,4 +1,4 @@
 ---
-title: Yali 35
-url: "/augsburg/yali-35/"
+title: "Yali 35"
+url: /augsburg/yali-35/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alis Restaurant
-url: "/preetz/alis-restaurant/"
+title: "Alis Restaurant"
+url: /preetz/alis-restaurant/
 ---

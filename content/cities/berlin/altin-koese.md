@@ -1,4 +1,4 @@
 ---
-title: Altin Köşe
-url: "/berlin/altin-koese/"
+title: "Altin Köşe"
+url: /berlin/altin-koese/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Iserlohn
-url: "/iserlohn/"
+url: /iserlohn/
 ---

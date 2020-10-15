@@ -1,4 +1,4 @@
 ---
-title: Tonos 2
-url: "/karlsruhe/tonos-2/"
+title: "Tonos 2"
+url: /karlsruhe/tonos-2/
 ---

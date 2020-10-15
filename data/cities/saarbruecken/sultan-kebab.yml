@@ -1,9 +1,9 @@
 id: 833879312
 latitude: 49.231695800000004
 longitude: 6.9766678
-postcode: 66117
+postcode: "66117"
 city: Saarbrücken
-street: Deutschherrnstraße
+street: "Deutschherrnstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 11:00-23:00; PH,Su 12:00-22:00"

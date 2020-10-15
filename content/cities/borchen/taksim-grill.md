@@ -1,4 +1,4 @@
 ---
-title: Taksim Grill
-url: "/borchen/taksim-grill/"
+title: "Taksim Grill"
+url: /borchen/taksim-grill/
 ---

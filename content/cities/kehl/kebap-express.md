@@ -1,4 +1,4 @@
 ---
-title: Kebap Express
-url: "/kehl/kebap-express/"
+title: "Kebap Express"
+url: /kehl/kebap-express/
 ---

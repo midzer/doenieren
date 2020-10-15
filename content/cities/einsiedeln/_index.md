@@ -1,0 +1,4 @@
+---
+title: Einsiedeln
+url: /einsiedeln/
+---

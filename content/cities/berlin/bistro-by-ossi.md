@@ -1,4 +1,4 @@
 ---
-title: Bistro by Ossi
-url: "/berlin/bistro-by-ossi/"
+title: "Bistro by Ossi"
+url: /berlin/bistro-by-ossi/
 ---

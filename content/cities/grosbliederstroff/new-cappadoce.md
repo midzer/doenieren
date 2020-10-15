@@ -1,4 +1,4 @@
 ---
-title: New Cappadoce
-url: "/grosbliederstroff/new-cappadoce/"
+title: "New Cappadoce"
+url: /grosbliederstroff/new-cappadoce/
 ---

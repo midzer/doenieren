@@ -1,4 +1,4 @@
 ---
-title: Efe Döner
-url: "/biblis/efe-doener/"
+title: "Efe Döner"
+url: /biblis/efe-doener/
 ---

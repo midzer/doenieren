@@ -1,4 +1,4 @@
 ---
-title: Döner-Haus Dest
-url: "/witten/doener-haus-dest/"
+title: "Döner-Haus Dest"
+url: /witten/doener-haus-dest/
 ---

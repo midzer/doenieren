@@ -1,4 +1,4 @@
 ---
-title: Saray Grill
-url: "/wildau/saray-grill/"
+title: "Saray Grill"
+url: /wildau/saray-grill/
 ---

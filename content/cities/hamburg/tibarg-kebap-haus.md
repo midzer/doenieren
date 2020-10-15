@@ -1,4 +1,4 @@
 ---
-title: Tibarg Kebap Haus
-url: "/hamburg/tibarg-kebap-haus/"
+title: "Tibarg Kebap Haus"
+url: /hamburg/tibarg-kebap-haus/
 ---

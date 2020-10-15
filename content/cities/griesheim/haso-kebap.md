@@ -1,4 +1,4 @@
 ---
-title: Haso Kebap
-url: "/griesheim/haso-kebap/"
+title: "Haso Kebap"
+url: /griesheim/haso-kebap/
 ---

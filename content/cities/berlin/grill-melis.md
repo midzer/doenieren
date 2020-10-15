@@ -1,4 +1,4 @@
 ---
-title: Grill Melis
-url: "/berlin/grill-melis/"
+title: "Grill Melis"
+url: /berlin/grill-melis/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Saray Döner
-url: "/dippoldiswalde/saray-doener/"
+title: "Saray Döner"
+url: /dippoldiswalde/saray-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Hatay Imbiss
-url: "/schopfheim/hatay-imbiss/"
+title: "Hatay Imbiss"
+url: /schopfheim/hatay-imbiss/
 ---

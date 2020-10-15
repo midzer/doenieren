@@ -1,4 +1,4 @@
 ---
-title: Döner
-url: "/templin/doener/"
+title: "Döner"
+url: /templin/doener/
 ---

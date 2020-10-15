@@ -1,9 +1,9 @@
 id: 1141881281
 latitude: 49.6551265
 longitude: 6.944004700000001
-postcode: 54411
+postcode: "54411"
 city: Hermeskeil
-street: Kunickerstraße
+street: "Kunickerstraße"
 housenumber: 7A
 phone: ""
 opening_hours: "11:00-00:30"

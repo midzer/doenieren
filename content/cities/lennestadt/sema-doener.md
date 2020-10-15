@@ -1,4 +1,4 @@
 ---
-title: Sema-Döner
-url: "/lennestadt/sema-doener/"
+title: "Sema-Döner"
+url: /lennestadt/sema-doener/
 ---

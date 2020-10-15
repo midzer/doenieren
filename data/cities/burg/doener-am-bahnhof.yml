@@ -1,9 +1,9 @@
 id: 3411801710
 latitude: 52.2738954
 longitude: 11.840530500000002
-postcode: 39288
+postcode: "39288"
 city: Burg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00; Su,PH 16:00-21:00"

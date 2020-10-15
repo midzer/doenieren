@@ -1,4 +1,4 @@
 ---
-title: Sila restaurant
-url: "/muenchen/sila-restaurant/"
+title: "Sila restaurant"
+url: /muenchen/sila-restaurant/
 ---

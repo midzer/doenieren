@@ -1,4 +1,4 @@
 ---
-title: Aegidii-Döner
-url: "/muenster/aegidii-doener/"
+title: "Aegidii-Döner"
+url: /muenster/aegidii-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ora-Kebap
-url: "/tuttlingen/ora-kebap/"
+title: "Ora-Kebap"
+url: /tuttlingen/ora-kebap/
 ---

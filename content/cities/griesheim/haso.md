@@ -1,4 +1,4 @@
 ---
-title: Haso
-url: "/griesheim/haso/"
+title: "Haso"
+url: /griesheim/haso/
 ---

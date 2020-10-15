@@ -1,4 +1,4 @@
 ---
-title: Akdeniz
-url: "/hamm/akdeniz/"
+title: "Akdeniz"
+url: /hamm/akdeniz/
 ---

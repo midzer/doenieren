@@ -1,9 +1,9 @@
 id: 1963089238
 latitude: 52.4902407
 longitude: 13.424072500000001
-postcode: 10967
+postcode: "10967"
 city: Berlin
-street: Kottbusser Damm
+street: "Kottbusser Damm"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

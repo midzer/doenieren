@@ -1,4 +1,4 @@
 ---
-title: Mamo Döner
-url: "/emmendingen/mamo-doener/"
+title: "Mamo Döner"
+url: /emmendingen/mamo-doener/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Oberursel (Taunus)
-url: "/oberursel-taunus/"
+url: /oberursel-taunus/
 ---

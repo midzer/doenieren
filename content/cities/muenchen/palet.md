@@ -1,4 +1,4 @@
 ---
-title: palet
-url: "/muenchen/palet/"
+title: "palet"
+url: /muenchen/palet/
 ---

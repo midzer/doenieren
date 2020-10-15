@@ -1,4 +1,4 @@
 ---
-title: Kebap Haus Maulbronn
-url: "/maulbronn/kebap-haus-maulbronn/"
+title: "Kebap Haus Maulbronn"
+url: /maulbronn/kebap-haus-maulbronn/
 ---

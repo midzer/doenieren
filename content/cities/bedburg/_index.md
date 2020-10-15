@@ -1,4 +1,4 @@
 ---
 title: Bedburg
-url: "/bedburg/"
+url: /bedburg/
 ---

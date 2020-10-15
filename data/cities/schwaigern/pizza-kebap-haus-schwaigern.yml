@@ -1,9 +1,9 @@
 id: 1091323625
 latitude: 49.1409066
 longitude: 9.0593029
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
-street: Hindenburgplatz
+street: "Hindenburgplatz"
 housenumber: 5
 phone: "+49 7138 2856"
 opening_hours: "11:00-1:00"

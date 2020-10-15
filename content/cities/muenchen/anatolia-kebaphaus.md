@@ -1,4 +1,4 @@
 ---
-title: Anatolia Kebaphaus
-url: "/muenchen/anatolia-kebaphaus/"
+title: "Anatolia Kebaphaus"
+url: /muenchen/anatolia-kebaphaus/
 ---

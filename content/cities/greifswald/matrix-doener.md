@@ -1,4 +1,4 @@
 ---
-title: Matrix Döner
-url: "/greifswald/matrix-doener/"
+title: "Matrix Döner"
+url: /greifswald/matrix-doener/
 ---

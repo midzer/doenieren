@@ -1,4 +1,4 @@
 ---
-title: Königs Döner
-url: "/minden/koenigs-doener/"
+title: "Königs Döner"
+url: /minden/koenigs-doener/
 ---

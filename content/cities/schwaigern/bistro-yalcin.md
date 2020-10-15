@@ -1,4 +1,4 @@
 ---
-title: Bistro Yalcin
-url: "/schwaigern/bistro-yalcin/"
+title: "Bistro Yalcin"
+url: /schwaigern/bistro-yalcin/
 ---

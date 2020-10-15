@@ -1,4 +1,4 @@
 ---
-title: Anadolu
-url: "/witten/anadolu/"
+title: "Anadolu"
+url: /witten/anadolu/
 ---

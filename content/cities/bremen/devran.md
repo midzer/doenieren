@@ -1,4 +1,4 @@
 ---
-title: Devran
-url: "/bremen/devran/"
+title: "Devran"
+url: /bremen/devran/
 ---

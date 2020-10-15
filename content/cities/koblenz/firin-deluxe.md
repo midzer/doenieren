@@ -1,4 +1,4 @@
 ---
-title: Firin Deluxe
-url: "/koblenz/firin-deluxe/"
+title: "Firin Deluxe"
+url: /koblenz/firin-deluxe/
 ---

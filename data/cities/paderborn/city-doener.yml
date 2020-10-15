@@ -1,9 +1,9 @@
 id: 1110287130
 latitude: 51.74772170000001
 longitude: 8.7151306
-postcode: 33104
+postcode: "33104"
 city: Paderborn
-street: Bielefelder Straße
+street: "Bielefelder Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 11:30-21:00; Su,PH 13:00-21:00"

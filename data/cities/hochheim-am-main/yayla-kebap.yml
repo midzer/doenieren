@@ -1,9 +1,9 @@
 id: 2133389122
 latitude: 50.016552000000004
 longitude: 8.344864900000001
-postcode: 65239
+postcode: "65239"
 city: Hochheim am Main
-street: Königsberger Ring
+street: "Königsberger Ring"
 housenumber: 2
 phone: "+49 6146 4533"
 opening_hours: ""

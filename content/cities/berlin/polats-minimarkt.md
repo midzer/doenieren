@@ -1,4 +1,4 @@
 ---
-title: Polat's Minimarkt
-url: "/berlin/polats-minimarkt/"
+title: "Polat's Minimarkt"
+url: /berlin/polats-minimarkt/
 ---

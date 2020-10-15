@@ -1,4 +1,4 @@
 ---
 title: Mügeln
-url: "/muegeln/"
+url: /muegeln/
 ---

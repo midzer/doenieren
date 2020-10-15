@@ -1,4 +1,4 @@
 ---
-title: Mix Döner
-url: "/krefeld/mix-doener/"
+title: "Mix Döner"
+url: /krefeld/mix-doener/
 ---

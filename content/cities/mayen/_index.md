@@ -1,4 +1,4 @@
 ---
 title: Mayen
-url: "/mayen/"
+url: /mayen/
 ---

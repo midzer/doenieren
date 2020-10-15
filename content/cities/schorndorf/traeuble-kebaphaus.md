@@ -1,4 +1,4 @@
 ---
-title: Träuble Kebaphaus
-url: "/schorndorf/traeuble-kebaphaus/"
+title: "Träuble Kebaphaus"
+url: /schorndorf/traeuble-kebaphaus/
 ---

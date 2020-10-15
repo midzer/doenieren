@@ -1,4 +1,4 @@
 ---
-title: Orient Kebab Pizza
-url: "/aulendorf/orient-kebab-pizza/"
+title: "Orient Kebab Pizza"
+url: /aulendorf/orient-kebab-pizza/
 ---

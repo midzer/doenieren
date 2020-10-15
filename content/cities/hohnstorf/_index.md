@@ -1,4 +1,4 @@
 ---
 title: Hohnstorf
-url: "/hohnstorf/"
+url: /hohnstorf/
 ---

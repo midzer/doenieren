@@ -1,4 +1,4 @@
 ---
 title: Bensheim
-url: "/bensheim/"
+url: /bensheim/
 ---

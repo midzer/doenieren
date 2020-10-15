@@ -1,9 +1,9 @@
 id: 3669972649
 latitude: 52.1633116
 longitude: 10.546951100000001
-postcode: 38300
+postcode: "38300"
 city: Wolfenbüttel
-street: Juliusstraße
+street: "Juliusstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

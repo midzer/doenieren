@@ -1,4 +1,4 @@
 ---
 title: Hohenstein-Ernstthal
-url: "/hohenstein-ernstthal/"
+url: /hohenstein-ernstthal/
 ---

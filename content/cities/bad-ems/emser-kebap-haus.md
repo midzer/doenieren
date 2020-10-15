@@ -1,4 +1,4 @@
 ---
-title: Emser Kebap Haus
-url: "/bad-ems/emser-kebap-haus/"
+title: "Emser Kebap Haus"
+url: /bad-ems/emser-kebap-haus/
 ---

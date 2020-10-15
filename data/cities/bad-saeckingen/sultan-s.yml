@@ -1,9 +1,9 @@
 id: 3522280103
 latitude: 47.5512712
 longitude: 7.943506
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
-street: Gießenstraße
+street: "Gießenstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 10:00-22:00"

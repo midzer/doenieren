@@ -1,4 +1,4 @@
 ---
-title: Döneria
-url: "/paderborn/doeneria/"
+title: "Döneria"
+url: /paderborn/doeneria/
 ---

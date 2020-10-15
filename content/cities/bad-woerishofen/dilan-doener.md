@@ -1,4 +1,4 @@
 ---
-title: Dilan Döner
-url: "/bad-woerishofen/dilan-doener/"
+title: "Dilan Döner"
+url: /bad-woerishofen/dilan-doener/
 ---

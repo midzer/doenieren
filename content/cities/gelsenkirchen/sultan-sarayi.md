@@ -1,4 +1,4 @@
 ---
-title: Sultan Sarayi
-url: "/gelsenkirchen/sultan-sarayi/"
+title: "Sultan Sarayi"
+url: /gelsenkirchen/sultan-sarayi/
 ---

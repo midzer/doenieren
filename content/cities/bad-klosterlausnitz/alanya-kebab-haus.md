@@ -1,4 +1,4 @@
 ---
-title: Alanya Kebab Haus
-url: "/bad-klosterlausnitz/alanya-kebab-haus/"
+title: "Alanya Kebab Haus"
+url: /bad-klosterlausnitz/alanya-kebab-haus/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Alima Grill
-url: "/iserlohn/alima-grill/"
+title: "Alima Grill"
+url: /iserlohn/alima-grill/
 ---

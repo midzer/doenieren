@@ -1,9 +1,9 @@
 id: 603316687
 latitude: 50.959420800000004
 longitude: 7.0087276
-postcode: 51065
+postcode: "51065"
 city: Köln
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 55
 phone: "+49 221 6200120"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Antiochia
-url: "/villingen-schwenningen/antiochia/"
+title: "Antiochia"
+url: /villingen-schwenningen/antiochia/
 ---

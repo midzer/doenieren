@@ -1,4 +1,4 @@
 ---
-title: Brothers'
-url: "/nuernberg/brothers/"
+title: "Brothers'"
+url: /nuernberg/brothers/
 ---

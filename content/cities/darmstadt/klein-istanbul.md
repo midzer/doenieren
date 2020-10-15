@@ -1,4 +1,4 @@
 ---
-title: Klein Istanbul
-url: "/darmstadt/klein-istanbul/"
+title: "Klein Istanbul"
+url: /darmstadt/klein-istanbul/
 ---

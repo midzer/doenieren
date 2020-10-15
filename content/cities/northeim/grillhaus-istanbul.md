@@ -1,4 +1,4 @@
 ---
-title: Grillhaus Istanbul
-url: "/northeim/grillhaus-istanbul/"
+title: "Grillhaus Istanbul"
+url: /northeim/grillhaus-istanbul/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Derman Grill
-url: "/wesel/derman-grill/"
+title: "Derman Grill"
+url: /wesel/derman-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sultan Kebap
-url: "/wittlich/sultan-kebap/"
+title: "Sultan Kebap"
+url: /wittlich/sultan-kebap/
 ---

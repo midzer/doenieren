@@ -1,9 +1,9 @@
 id: 2378838284
 latitude: 47.683328700000004
 longitude: 9.1574354
-postcode: 78467
+postcode: "78467"
 city: Konstanz
-street: Fürstenbergstraße
+street: "Fürstenbergstraße"
 housenumber: 88
 phone: ""
 opening_hours: "Mo-Sa 09:30-01:00; Su 09:30-14:00"

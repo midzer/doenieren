@@ -1,9 +1,9 @@
 id: 1709079205
 latitude: 51.301505600000006
 longitude: 7.669192400000001
-postcode: 58762
+postcode: "58762"
 city: Altena
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:30, Su,PH 12:00-22:00"

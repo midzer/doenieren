@@ -1,4 +1,4 @@
 ---
-title: Best of Grill
-url: "/berlin/best-of-grill/"
+title: "Best of Grill"
+url: /berlin/best-of-grill/
 ---

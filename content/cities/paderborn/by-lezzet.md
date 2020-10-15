@@ -1,4 +1,4 @@
 ---
-title: by Lezzet
-url: "/paderborn/by-lezzet/"
+title: "by Lezzet"
+url: /paderborn/by-lezzet/
 ---

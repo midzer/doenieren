@@ -1,4 +1,4 @@
 ---
-title: Sofra Kebap House
-url: "/reutlingen/sofra-kebap-house/"
+title: "Sofra Kebap House"
+url: /reutlingen/sofra-kebap-house/
 ---

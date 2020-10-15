@@ -1,4 +1,4 @@
 ---
-title: Musas Döner
-url: "/marl/musas-doener/"
+title: "Musas Döner"
+url: /marl/musas-doener/
 ---

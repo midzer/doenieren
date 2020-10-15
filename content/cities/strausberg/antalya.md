@@ -1,4 +1,4 @@
 ---
-title: Antalya
-url: "/strausberg/antalya/"
+title: "Antalya"
+url: /strausberg/antalya/
 ---

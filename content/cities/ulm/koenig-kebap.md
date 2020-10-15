@@ -1,4 +1,4 @@
 ---
-title: König Kebap
-url: "/ulm/koenig-kebap/"
+title: "König Kebap"
+url: /ulm/koenig-kebap/
 ---

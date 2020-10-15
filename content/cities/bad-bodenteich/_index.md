@@ -1,4 +1,4 @@
 ---
 title: Bad Bodenteich
-url: "/bad-bodenteich/"
+url: /bad-bodenteich/
 ---

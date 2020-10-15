@@ -1,4 +1,4 @@
 ---
 title: Salach
-url: "/salach/"
+url: /salach/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Firat
-url: "/bautzen/firat/"
+title: "Firat"
+url: /bautzen/firat/
 ---

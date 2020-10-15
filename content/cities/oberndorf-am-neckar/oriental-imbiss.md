@@ -1,4 +1,4 @@
 ---
-title: Oriental Imbiss
-url: "/oberndorf-am-neckar/oriental-imbiss/"
+title: "Oriental Imbiss"
+url: /oberndorf-am-neckar/oriental-imbiss/
 ---

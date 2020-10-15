@@ -1,4 +1,4 @@
 ---
-title: K'Ups Gemüse Kebap
-url: "/berlin/kups-gemuese-kebap/"
+title: "K'Ups Gemüse Kebap"
+url: /berlin/kups-gemuese-kebap/
 ---

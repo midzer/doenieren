@@ -1,4 +1,4 @@
 ---
-title: Nour Döner
-url: "/goettingen/nour-doener/"
+title: "Nour Döner"
+url: /goettingen/nour-doener/
 ---

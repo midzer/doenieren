@@ -1,9 +1,9 @@
 id: 6721678656
 latitude: 52.4013755
 longitude: 7.989761000000001
-postcode: 49565
+postcode: "49565"
 city: Bramsche
-street: Meyers Tannen
+street: "Meyers Tannen"
 housenumber: 14b
 phone: "+49 5461 9588897"
 opening_hours: "Mo-Sa 12:00-22:00; Su,PH 14:00-22:00"

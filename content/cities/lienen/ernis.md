@@ -1,4 +1,4 @@
 ---
-title: Ernis
-url: "/lienen/ernis/"
+title: "Ernis"
+url: /lienen/ernis/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Himmelpforten
-url: "/himmelpforten/"
+url: /himmelpforten/
 ---

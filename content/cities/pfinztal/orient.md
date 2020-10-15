@@ -1,4 +1,4 @@
 ---
-title: Orient
-url: "/pfinztal/orient/"
+title: "Orient"
+url: /pfinztal/orient/
 ---

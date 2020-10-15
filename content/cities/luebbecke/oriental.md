@@ -1,4 +1,4 @@
 ---
-title: Oriental
-url: "/luebbecke/oriental/"
+title: "Oriental"
+url: /luebbecke/oriental/
 ---

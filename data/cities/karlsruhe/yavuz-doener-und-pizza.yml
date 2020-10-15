@@ -1,9 +1,9 @@
 id: 1632898597
 latitude: 49.0116943
 longitude: 8.3616685
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 24
 phone: "+49 721 9554936"
 opening_hours: "Mo-Su 10:00-24:00"

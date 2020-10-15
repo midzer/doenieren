@@ -1,4 +1,4 @@
 ---
-title: Kerkük Kebap
-url: "/leinfelden-echterdingen/kerkuek-kebap/"
+title: "Kerkük Kebap"
+url: /leinfelden-echterdingen/kerkuek-kebap/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Rothenburg ob der Tauber
-url: "/rothenburg-ob-der-tauber/"
+url: /rothenburg-ob-der-tauber/
 ---

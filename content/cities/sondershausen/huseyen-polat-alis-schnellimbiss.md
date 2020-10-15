@@ -1,4 +1,4 @@
 ---
-title: Huseyen Polat Ali's Schnellimbiss
-url: "/sondershausen/huseyen-polat-alis-schnellimbiss/"
+title: "Huseyen Polat Ali's Schnellimbiss"
+url: /sondershausen/huseyen-polat-alis-schnellimbiss/
 ---

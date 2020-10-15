@@ -1,4 +1,4 @@
 ---
-title: Cano Döner Center
-url: "/dortmund/cano-doener-center/"
+title: "Cano Döner Center"
+url: /dortmund/cano-doener-center/
 ---

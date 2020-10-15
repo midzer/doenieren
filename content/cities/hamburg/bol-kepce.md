@@ -1,4 +1,4 @@
 ---
-title: Bol Kepce
-url: "/hamburg/bol-kepce/"
+title: "Bol Kepce"
+url: /hamburg/bol-kepce/
 ---

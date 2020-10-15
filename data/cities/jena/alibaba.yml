@@ -1,9 +1,9 @@
 id: 621213252
 latitude: 50.9267388
 longitude: 11.5800701
-postcode: 07743
+postcode: "07743"
 city: Jena
-street: Lutherstraße
+street: "Lutherstraße"
 housenumber: 3a
 phone: ""
 opening_hours: "Mo-Fr 10:00-22:00, Sa 12:00-22:00"

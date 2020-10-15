@@ -1,4 +1,4 @@
 ---
 title: Bad Säckingen
-url: "/bad-saeckingen/"
+url: /bad-saeckingen/
 ---

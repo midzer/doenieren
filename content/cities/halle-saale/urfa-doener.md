@@ -1,4 +1,4 @@
 ---
-title: Urfa-Döner
-url: "/halle-saale/urfa-doener/"
+title: "Urfa-Döner"
+url: /halle-saale/urfa-doener/
 ---

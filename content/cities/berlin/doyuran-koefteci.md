@@ -1,4 +1,4 @@
 ---
-title: Doyuran Köfteci
-url: "/berlin/doyuran-koefteci/"
+title: "Doyuran Köfteci"
+url: /berlin/doyuran-koefteci/
 ---

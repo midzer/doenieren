@@ -1,4 +1,4 @@
 ---
 title: Salzkotten
-url: "/salzkotten/"
+url: /salzkotten/
 ---

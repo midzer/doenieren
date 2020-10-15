@@ -1,9 +1,9 @@
 id: 931565910
 latitude: 51.0662619
 longitude: 13.754593000000002
-postcode: 01099
+postcode: "01099"
 city: Dresden
-street: Louisenstraße
+street: "Louisenstraße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Th 11:00-02:00; Su 11:00-24:00; Fr,Sa 11:00-05:00"

@@ -1,4 +1,4 @@
 ---
-title: arkadas
-url: "/erfurt/arkadas/"
+title: "arkadas"
+url: /erfurt/arkadas/
 ---

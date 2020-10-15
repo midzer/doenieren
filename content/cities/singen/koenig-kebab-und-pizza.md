@@ -1,4 +1,4 @@
 ---
-title: König Kebab und Pizza
-url: "/singen/koenig-kebab-und-pizza/"
+title: "König Kebab und Pizza"
+url: /singen/koenig-kebab-und-pizza/
 ---

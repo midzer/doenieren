@@ -1,4 +1,4 @@
 ---
 title: Uffenheim
-url: "/uffenheim/"
+url: /uffenheim/
 ---

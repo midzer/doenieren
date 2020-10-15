@@ -1,4 +1,4 @@
 ---
 title: Kulmbach
-url: "/kulmbach/"
+url: /kulmbach/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Dene & Gör
-url: "/duesseldorf/dene-und-goer/"
+title: "Dene & Gör"
+url: /duesseldorf/dene-und-goer/
 ---

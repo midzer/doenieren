@@ -1,4 +1,4 @@
 ---
-title: Palma Imbiss
-url: "/bruchsal/palma-imbiss/"
+title: "Palma Imbiss"
+url: /bruchsal/palma-imbiss/
 ---

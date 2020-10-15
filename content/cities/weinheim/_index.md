@@ -1,4 +1,4 @@
 ---
 title: Weinheim
-url: "/weinheim/"
+url: /weinheim/
 ---

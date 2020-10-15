@@ -1,4 +1,4 @@
 ---
 title: Teningen
-url: "/teningen/"
+url: /teningen/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Loxstedt
-url: "/loxstedt/"
+url: /loxstedt/
 ---

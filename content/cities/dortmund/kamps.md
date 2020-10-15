@@ -1,4 +1,4 @@
 ---
-title: Kamps
-url: "/dortmund/kamps/"
+title: "Kamps"
+url: /dortmund/kamps/
 ---

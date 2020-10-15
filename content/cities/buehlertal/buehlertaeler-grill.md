@@ -1,4 +1,4 @@
 ---
-title: Bühlertäler Grill
-url: "/buehlertal/buehlertaeler-grill/"
+title: "Bühlertäler Grill"
+url: /buehlertal/buehlertaeler-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Deniz Grill
-url: "/sprockhoevel/deniz-grill/"
+title: "Deniz Grill"
+url: /sprockhoevel/deniz-grill/
 ---

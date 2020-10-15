@@ -1,4 +1,4 @@
 ---
 title: Solingen
-url: "/solingen/"
+url: /solingen/
 ---

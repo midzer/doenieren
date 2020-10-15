@@ -1,4 +1,4 @@
 ---
-title: Helle Bistro
-url: "/berlin/helle-bistro/"
+title: "Helle Bistro"
+url: /berlin/helle-bistro/
 ---

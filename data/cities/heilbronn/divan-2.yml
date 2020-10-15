@@ -1,9 +1,9 @@
 id: 976732619
 latitude: 49.144653100000006
 longitude: 9.2208012
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
-street: Sülmerstraße
+street: "Sülmerstraße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Th 09:00-24:00, Fr,Sa 10:00-02:00, Su,PH 10:00-24:00"

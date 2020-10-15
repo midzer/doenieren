@@ -1,0 +1,4 @@
+---
+title: Frittlingen
+url: /frittlingen/
+---

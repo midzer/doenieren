@@ -1,4 +1,4 @@
 ---
 title: Solms
-url: "/solms/"
+url: /solms/
 ---

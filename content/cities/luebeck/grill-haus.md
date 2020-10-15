@@ -1,4 +1,4 @@
 ---
-title: Grill Haus
-url: "/luebeck/grill-haus/"
+title: "Grill Haus"
+url: /luebeck/grill-haus/
 ---

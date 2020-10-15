@@ -1,4 +1,4 @@
 ---
 title: Mittenwald
-url: "/mittenwald/"
+url: /mittenwald/
 ---

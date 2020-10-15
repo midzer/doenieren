@@ -1,4 +1,4 @@
 ---
-title: Diyar Bistro
-url: "/rostock/diyar-bistro/"
+title: "Diyar Bistro"
+url: /rostock/diyar-bistro/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Çiğköfte Evi
-url: "/berlin/cigkoefte-evi/"
+title: "Çiğköfte Evi"
+url: /berlin/cigkoefte-evi/
 ---

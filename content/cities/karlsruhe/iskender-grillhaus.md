@@ -1,4 +1,4 @@
 ---
-title: Iskender Grillhaus
-url: "/karlsruhe/iskender-grillhaus/"
+title: "Iskender Grillhaus"
+url: /karlsruhe/iskender-grillhaus/
 ---

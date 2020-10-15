@@ -1,9 +1,9 @@
 id: 5120820384
 latitude: 49.234403
 longitude: 6.993130900000001
-postcode: 66111
+postcode: "66111"
 city: Saarbrücken
-street: Berliner Promenade
+street: "Berliner Promenade"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Th 12:00-04:00; Fr,Sa 12:00-05:00; PH,Su 13:00-04:00"

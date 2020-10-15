@@ -1,9 +1,9 @@
 id: 1326976625
 latitude: 51.7442215
 longitude: 8.7134529
-postcode: 33104
+postcode: "33104"
 city: Paderborn
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

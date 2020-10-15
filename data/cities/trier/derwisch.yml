@@ -1,9 +1,9 @@
 id: 206258074
 latitude: 49.752923900000006
 longitude: 6.6389237
-postcode: 54290
+postcode: "54290"
 city: Trier
-street: Neustraße
+street: "Neustraße"
 housenumber: 93
 phone: ""
 opening_hours: "Mo-We 11:00-01:00,Th-Sa 11:00-05:00, Su,PH 12:00-01:00"

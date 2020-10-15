@@ -1,9 +1,9 @@
 id: 1638945302
 latitude: 51.1326429
 longitude: 9.5420373
-postcode: 34212
+postcode: "34212"
 city: Melsungen
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 38
 phone: "+49 5661 53183"
 opening_hours: "Mo-Sa 10:00-23:00; PH,Su 12:00-23:00"

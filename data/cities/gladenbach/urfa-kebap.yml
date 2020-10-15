@@ -1,9 +1,9 @@
 id: 1943111309
 latitude: 50.7684511
 longitude: 8.581247300000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

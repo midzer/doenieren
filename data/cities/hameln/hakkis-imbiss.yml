@@ -1,9 +1,9 @@
 id: 2194846426
 latitude: 52.1017001
 longitude: 9.374135800000001
-postcode: 31785
+postcode: "31785"
 city: Hameln
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; Su, PH 12:00-22:00"

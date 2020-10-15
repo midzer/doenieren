@@ -1,4 +1,4 @@
 ---
-title: Bistro XXL
-url: "/potsdam/bistro-xxl/"
+title: "Bistro XXL"
+url: /potsdam/bistro-xxl/
 ---

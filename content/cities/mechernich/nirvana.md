@@ -1,4 +1,4 @@
 ---
-title: Nirvana
-url: "/mechernich/nirvana/"
+title: "Nirvana"
+url: /mechernich/nirvana/
 ---

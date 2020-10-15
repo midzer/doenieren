@@ -1,9 +1,9 @@
 id: 5148262945
 latitude: 49.872907100000006
 longitude: 9.167090400000001
-postcode: 63839
+postcode: "63839"
 city: Kleinwallstadt
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 19
 phone: "+49 6022 5097080"
 opening_hours: "Tu-Su 09:00-21:00"

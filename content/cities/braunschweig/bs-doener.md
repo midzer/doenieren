@@ -1,4 +1,4 @@
 ---
-title: BS Döner
-url: "/braunschweig/bs-doener/"
+title: "BS Döner"
+url: /braunschweig/bs-doener/
 ---

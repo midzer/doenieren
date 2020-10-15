@@ -1,4 +1,4 @@
 ---
 title: Bad Oeynhausen
-url: "/bad-oeynhausen/"
+url: /bad-oeynhausen/
 ---

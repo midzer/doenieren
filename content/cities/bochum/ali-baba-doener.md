@@ -1,4 +1,4 @@
 ---
-title: Ali Baba Döner
-url: "/bochum/ali-baba-doener/"
+title: "Ali Baba Döner"
+url: /bochum/ali-baba-doener/
 ---

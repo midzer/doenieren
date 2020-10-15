@@ -1,4 +1,4 @@
 ---
-title: Munzur Kebab Haus
-url: "/schweinfurt/munzur-kebab-haus/"
+title: "Munzur Kebab Haus"
+url: /schweinfurt/munzur-kebab-haus/
 ---

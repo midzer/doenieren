@@ -1,9 +1,9 @@
 id: 2380636712
 latitude: 50.9617482
 longitude: 6.7816213
-postcode: 50259
+postcode: "50259"
 city: Pulheim
-street: Ehrenfriedstraße
+street: "Ehrenfriedstraße"
 housenumber: 18
 phone: "+49 2234 81471"
 opening_hours: "Tu-Su 12:00-22:00"

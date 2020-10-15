@@ -1,9 +1,9 @@
 id: 2317695767
 latitude: 49.102251100000004
 longitude: 9.2105343
-postcode: 74223
+postcode: "74223"
 city: Flein
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 55
 phone: "+49 7131 2706945"
 opening_hours: "Mo-Sa 10:00-21:30; PH 12:00-21:30"

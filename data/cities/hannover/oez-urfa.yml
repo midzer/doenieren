@@ -1,9 +1,9 @@
 id: 938884540
 latitude: 52.3556426
 longitude: 9.7547882
-postcode: 30173
+postcode: "30173"
 city: Hannover
-street: Heinrich-Heine-Platz
+street: "Heinrich-Heine-Platz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Su,PH 11:30-23:00"

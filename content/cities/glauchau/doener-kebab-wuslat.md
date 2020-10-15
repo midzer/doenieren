@@ -1,4 +1,4 @@
 ---
-title: Döner Kebab Wuslat
-url: "/glauchau/doener-kebab-wuslat/"
+title: "Döner Kebab Wuslat"
+url: /glauchau/doener-kebab-wuslat/
 ---

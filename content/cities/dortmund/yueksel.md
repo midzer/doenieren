@@ -1,4 +1,4 @@
 ---
-title: Yüksel
-url: "/dortmund/yueksel/"
+title: "Yüksel"
+url: /dortmund/yueksel/
 ---

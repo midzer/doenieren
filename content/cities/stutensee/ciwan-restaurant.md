@@ -1,4 +1,4 @@
 ---
-title: Ciwan Restaurant
-url: "/stutensee/ciwan-restaurant/"
+title: "Ciwan Restaurant"
+url: /stutensee/ciwan-restaurant/
 ---

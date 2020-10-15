@@ -1,4 +1,4 @@
 ---
-title: Myra
-url: "/muenchen/myra/"
+title: "Myra"
+url: /muenchen/myra/
 ---

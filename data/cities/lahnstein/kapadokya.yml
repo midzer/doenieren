@@ -1,9 +1,9 @@
 id: 4801406582
 latitude: 50.299519800000006
 longitude: 7.605534400000001
-postcode: 56112
+postcode: "56112"
 city: Lahnstein
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Su-Fr 11:00-24:00; Sa 11:00-02:00"

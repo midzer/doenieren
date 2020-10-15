@@ -1,4 +1,4 @@
 ---
-title: Imbiss Solaf
-url: "/aurich/imbiss-solaf/"
+title: "Imbiss Solaf"
+url: /aurich/imbiss-solaf/
 ---

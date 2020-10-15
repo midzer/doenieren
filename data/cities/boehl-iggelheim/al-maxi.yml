@@ -1,9 +1,9 @@
 id: 2544559862
 latitude: 49.388408600000005
 longitude: 8.2944144
-postcode: 67459
+postcode: "67459"
 city: Böhl-Iggelheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 120
 phone: "+49 6324 971200"
 opening_hours: "17:30+"

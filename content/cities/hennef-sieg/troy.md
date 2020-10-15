@@ -1,4 +1,4 @@
 ---
-title: TROY
-url: "/hennef-sieg/troy/"
+title: "TROY"
+url: /hennef-sieg/troy/
 ---

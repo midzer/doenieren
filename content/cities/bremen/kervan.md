@@ -1,4 +1,4 @@
 ---
-title: Kervan
-url: "/bremen/kervan/"
+title: "Kervan"
+url: /bremen/kervan/
 ---

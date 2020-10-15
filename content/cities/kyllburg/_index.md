@@ -1,4 +1,4 @@
 ---
 title: Kyllburg
-url: "/kyllburg/"
+url: /kyllburg/
 ---

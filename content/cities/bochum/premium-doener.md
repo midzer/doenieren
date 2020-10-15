@@ -1,4 +1,4 @@
 ---
-title: Premium Döner
-url: "/bochum/premium-doener/"
+title: "Premium Döner"
+url: /bochum/premium-doener/
 ---

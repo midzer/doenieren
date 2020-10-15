@@ -1,4 +1,4 @@
 ---
 title: Glashütte
-url: "/glashuette/"
+url: /glashuette/
 ---

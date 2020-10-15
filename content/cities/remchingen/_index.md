@@ -1,4 +1,4 @@
 ---
 title: Remchingen
-url: "/remchingen/"
+url: /remchingen/
 ---

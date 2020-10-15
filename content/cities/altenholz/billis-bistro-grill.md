@@ -1,4 +1,4 @@
 ---
-title: Billi's Bistro Grill
-url: "/altenholz/billis-bistro-grill/"
+title: "Billi's Bistro Grill"
+url: /altenholz/billis-bistro-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: McMemo
-url: "/strausberg/mcmemo/"
+title: "McMemo"
+url: /strausberg/mcmemo/
 ---

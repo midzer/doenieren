@@ -1,9 +1,9 @@
 id: 2422932329
 latitude: 49.233344900000006
 longitude: 10.495986700000001
-postcode: 91567
+postcode: "91567"
 city: Herrieden
-street: Vordere Gasse
+street: "Vordere Gasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

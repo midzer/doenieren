@@ -1,4 +1,4 @@
 ---
-title: Hakki's Imbiss
-url: "/hameln/hakkis-imbiss/"
+title: "Hakki's Imbiss"
+url: /hameln/hakkis-imbiss/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Remich
-url: "/remich/"
+url: /remich/
 ---

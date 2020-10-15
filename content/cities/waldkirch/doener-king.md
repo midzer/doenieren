@@ -1,4 +1,4 @@
 ---
-title: Döner King
-url: "/waldkirch/doener-king/"
+title: "Döner King"
+url: /waldkirch/doener-king/
 ---

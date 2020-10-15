@@ -1,4 +1,4 @@
 ---
-title: Aliye's
-url: "/kleinwallstadt/aliyes/"
+title: "Aliye's"
+url: /kleinwallstadt/aliyes/
 ---

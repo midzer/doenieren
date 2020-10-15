@@ -1,4 +1,4 @@
 ---
-title: Big Food
-url: "/hamburg/big-food/"
+title: "Big Food"
+url: /hamburg/big-food/
 ---

@@ -1,9 +1,9 @@
 id: 59620840
 latitude: 52.274904400000004
 longitude: 10.5211667
-postcode: 38114
+postcode: "38114"
 city: Braunschweig
-street: Wendenring
+street: "Wendenring"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 11:00-22:00"

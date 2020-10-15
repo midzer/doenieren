@@ -1,4 +1,4 @@
 ---
 title: Weimar (Lahn)
-url: "/weimar-lahn/"
+url: /weimar-lahn/
 ---

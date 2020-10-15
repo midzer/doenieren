@@ -1,4 +1,4 @@
 ---
 title: Leer (Ostfriesland)
-url: "/leer-ostfriesland/"
+url: /leer-ostfriesland/
 ---

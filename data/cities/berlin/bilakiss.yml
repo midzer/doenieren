@@ -1,9 +1,9 @@
 id: 6414536339
 latitude: 52.51455
 longitude: 13.464197
-postcode: 10247
+postcode: "10247"
 city: Berlin
-street: Frankfurter Allee
+street: "Frankfurter Allee"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Su 12:00-24:00"

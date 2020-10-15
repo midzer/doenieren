@@ -1,9 +1,9 @@
 id: 938884602
 latitude: 52.344976800000005
 longitude: 9.7628684
-postcode: 30519
+postcode: "30519"
 city: Hannover
-street: Hildesheimer Straße
+street: "Hildesheimer Straße"
 housenumber: 207
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
 title: Ennigerloh
-url: "/ennigerloh/"
+url: /ennigerloh/
 ---

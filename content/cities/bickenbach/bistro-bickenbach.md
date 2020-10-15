@@ -1,4 +1,4 @@
 ---
-title: Bistro Bickenbach
-url: "/bickenbach/bistro-bickenbach/"
+title: "Bistro Bickenbach"
+url: /bickenbach/bistro-bickenbach/
 ---

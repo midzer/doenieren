@@ -1,4 +1,4 @@
 ---
-title: Balkan Grill
-url: "/hattstedt/balkan-grill/"
+title: "Balkan Grill"
+url: /hattstedt/balkan-grill/
 ---

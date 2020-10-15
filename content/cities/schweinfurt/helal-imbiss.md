@@ -1,4 +1,4 @@
 ---
-title: Helal Imbiss
-url: "/schweinfurt/helal-imbiss/"
+title: "Helal Imbiss"
+url: /schweinfurt/helal-imbiss/
 ---

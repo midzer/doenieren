@@ -1,9 +1,9 @@
 id: 1767671458
 latitude: 51.0570516
 longitude: 13.7135063
-postcode: 01067
+postcode: "01067"
 city: Dresden
-street: Schäferstraße
+street: "Schäferstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

@@ -1,9 +1,9 @@
 id: 1356937717
 latitude: 49.8445924
 longitude: 7.858759200000001
-postcode: 55543
+postcode: "55543"
 city: Bad Kreuznach
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 6
 phone: "+49 671 9208856"
 opening_hours: "Mo-Sa 10:30-23:00, Su 11:00-23:00"

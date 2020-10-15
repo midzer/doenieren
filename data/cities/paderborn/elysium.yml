@@ -1,9 +1,9 @@
 id: 2514869363
 latitude: 51.733709600000005
 longitude: 8.688812800000001
-postcode: 33106
+postcode: "33106"
 city: Paderborn
-street: Von-Ketteler-Straße
+street: "Von-Ketteler-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

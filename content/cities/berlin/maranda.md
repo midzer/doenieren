@@ -1,4 +1,4 @@
 ---
-title: Maranda
-url: "/berlin/maranda/"
+title: "Maranda"
+url: /berlin/maranda/
 ---

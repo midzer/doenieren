@@ -1,4 +1,4 @@
 ---
-title: Mario's Döner
-url: "/schkeuditz/marios-doener/"
+title: "Mario's Döner"
+url: /schkeuditz/marios-doener/
 ---

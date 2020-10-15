@@ -1,4 +1,4 @@
 ---
 title: Rosdorf
-url: "/rosdorf/"
+url: /rosdorf/
 ---

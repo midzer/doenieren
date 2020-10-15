@@ -1,9 +1,9 @@
 id: 680247481
 latitude: 50.972646000000005
 longitude: 11.026791600000001
-postcode: 99084
+postcode: "99084"
 city: Erfurt
-street: Neuwerkstraße
+street: "Neuwerkstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

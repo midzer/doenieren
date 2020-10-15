@@ -1,4 +1,4 @@
 ---
 title: Bad König
-url: "/bad-koenig/"
+url: /bad-koenig/
 ---

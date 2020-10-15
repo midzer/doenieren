@@ -1,4 +1,4 @@
 ---
-title: Papillon
-url: "/balve/papillon/"
+title: "Papillon"
+url: /balve/papillon/
 ---

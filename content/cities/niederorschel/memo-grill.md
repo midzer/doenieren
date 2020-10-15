@@ -1,4 +1,4 @@
 ---
-title: Memo Grill
-url: "/niederorschel/memo-grill/"
+title: "Memo Grill"
+url: /niederorschel/memo-grill/
 ---

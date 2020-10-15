@@ -1,4 +1,4 @@
 ---
-title: Mister Döner
-url: "/witten/mister-doener/"
+title: "Mister Döner"
+url: /witten/mister-doener/
 ---

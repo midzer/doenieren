@@ -1,4 +1,4 @@
 ---
-title: Patara
-url: "/hamburg/patara/"
+title: "Patara"
+url: /hamburg/patara/
 ---

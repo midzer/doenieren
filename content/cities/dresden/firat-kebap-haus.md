@@ -1,4 +1,4 @@
 ---
-title: Firat Kebap-Haus
-url: "/dresden/firat-kebap-haus/"
+title: "Firat Kebap-Haus"
+url: /dresden/firat-kebap-haus/
 ---

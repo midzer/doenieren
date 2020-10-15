@@ -1,4 +1,4 @@
 ---
-title: Pamukkale
-url: "/essen/pamukkale/"
+title: "Pamukkale"
+url: /essen/pamukkale/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ekici
-url: "/troisdorf/ekici/"
+title: "Ekici"
+url: /troisdorf/ekici/
 ---

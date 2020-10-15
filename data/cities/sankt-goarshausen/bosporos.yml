@@ -1,9 +1,9 @@
 id: 2421872441
 latitude: 50.1553753
 longitude: 7.714608900000001
-postcode: 56346
+postcode: "56346"
 city: Sankt Goarshausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Tu-Su 11:00-22:00; Mo off"

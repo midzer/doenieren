@@ -1,4 +1,4 @@
 ---
 title: Ludwigslust
-url: "/ludwigslust/"
+url: /ludwigslust/
 ---

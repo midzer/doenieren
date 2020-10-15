@@ -1,4 +1,4 @@
 ---
-title: Tamers Bistro
-url: "/leipzig/tamers-bistro/"
+title: "Tamers Bistro"
+url: /leipzig/tamers-bistro/
 ---

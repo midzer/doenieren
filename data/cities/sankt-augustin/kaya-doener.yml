@@ -1,9 +1,9 @@
 id: 5142458232
 latitude: 50.777249600000005
 longitude: 7.187789100000001
-postcode: 53757
+postcode: "53757"
 city: Sankt Augustin
-street: Rathausallee
+street: "Rathausallee"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

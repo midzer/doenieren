@@ -1,4 +1,4 @@
 ---
-title: Istanbul
-url: "/tuebingen/istanbul/"
+title: "Istanbul"
+url: /tuebingen/istanbul/
 ---

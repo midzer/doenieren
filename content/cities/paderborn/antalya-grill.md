@@ -1,4 +1,4 @@
 ---
-title: Antalya Grill
-url: "/paderborn/antalya-grill/"
+title: "Antalya Grill"
+url: /paderborn/antalya-grill/
 ---

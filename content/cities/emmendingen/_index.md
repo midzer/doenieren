@@ -1,4 +1,4 @@
 ---
 title: Emmendingen
-url: "/emmendingen/"
+url: /emmendingen/
 ---

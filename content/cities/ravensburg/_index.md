@@ -1,4 +1,4 @@
 ---
 title: Ravensburg
-url: "/ravensburg/"
+url: /ravensburg/
 ---

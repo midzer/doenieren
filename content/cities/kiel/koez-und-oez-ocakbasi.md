@@ -1,4 +1,4 @@
 ---
-title: Köz & Öz Ocakbaşı
-url: "/kiel/koez-und-oez-ocakbasi/"
+title: "Köz & Öz Ocakbaşı"
+url: /kiel/koez-und-oez-ocakbasi/
 ---

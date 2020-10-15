@@ -1,4 +1,4 @@
 ---
-title: Ido Kebab Salonu
-url: "/hannover/ido-kebab-salonu/"
+title: "Ido Kebab Salonu"
+url: /hannover/ido-kebab-salonu/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Efendi
-url: "/erlangen/efendi/"
+title: "Efendi"
+url: /erlangen/efendi/
 ---

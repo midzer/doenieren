@@ -1,4 +1,4 @@
 ---
-title: Hamza Kebab
-url: "/hamburg/hamza-kebab/"
+title: "Hamza Kebab"
+url: /hamburg/hamza-kebab/
 ---

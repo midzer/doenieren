@@ -1,9 +1,9 @@
 id: 295281646
 latitude: 52.346589400000006
 longitude: 9.7243568
-postcode: 30459
+postcode: "30459"
 city: Hannover
-street: Ricklinger Stadtweg
+street: "Ricklinger Stadtweg"
 housenumber: 38
 phone: "+49 511 2 34 78 01"
 opening_hours: "Mo-Su 10:00-24:00"

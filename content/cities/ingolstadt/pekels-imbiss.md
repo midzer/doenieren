@@ -1,4 +1,4 @@
 ---
-title: Pekel's Imbiss
-url: "/ingolstadt/pekels-imbiss/"
+title: "Pekel's Imbiss"
+url: /ingolstadt/pekels-imbiss/
 ---

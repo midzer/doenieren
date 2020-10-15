@@ -1,4 +1,4 @@
 ---
 title: Düsseldorf
-url: "/duesseldorf/"
+url: /duesseldorf/
 ---

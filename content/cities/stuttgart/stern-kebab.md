@@ -1,4 +1,4 @@
 ---
-title: Stern Kebab
-url: "/stuttgart/stern-kebab/"
+title: "Stern Kebab"
+url: /stuttgart/stern-kebab/
 ---

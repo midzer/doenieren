@@ -1,4 +1,4 @@
 ---
-title: ADAMs
-url: "/hoechstadt-a-d-aisch/adams/"
+title: "ADAMs"
+url: /hoechstadt-a-d-aisch/adams/
 ---

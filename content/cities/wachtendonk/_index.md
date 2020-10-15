@@ -1,4 +1,4 @@
 ---
 title: Wachtendonk
-url: "/wachtendonk/"
+url: /wachtendonk/
 ---

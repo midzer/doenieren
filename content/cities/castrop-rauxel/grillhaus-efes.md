@@ -1,4 +1,4 @@
 ---
-title: Grillhaus Efes
-url: "/castrop-rauxel/grillhaus-efes/"
+title: "Grillhaus Efes"
+url: /castrop-rauxel/grillhaus-efes/
 ---

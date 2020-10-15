@@ -1,4 +1,4 @@
 ---
-title: Toros
-url: "/marquartstein/toros/"
+title: "Toros"
+url: /marquartstein/toros/
 ---

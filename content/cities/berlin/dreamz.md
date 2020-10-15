@@ -1,4 +1,4 @@
 ---
-title: Dream'z
-url: "/berlin/dreamz/"
+title: "Dream'z"
+url: /berlin/dreamz/
 ---

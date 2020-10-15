@@ -1,9 +1,9 @@
 id: 3153793061
 latitude: 52.455833000000005
 longitude: 13.401389
-postcode: 12099
+postcode: "12099"
 city: Berlin
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 
 phone: ""
 opening_hours: ""

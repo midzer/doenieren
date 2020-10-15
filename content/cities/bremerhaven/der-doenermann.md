@@ -1,4 +1,4 @@
 ---
-title: Der Dönermann
-url: "/bremerhaven/der-doenermann/"
+title: "Der Dönermann"
+url: /bremerhaven/der-doenermann/
 ---

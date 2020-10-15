@@ -1,9 +1,9 @@
 id: 1531438341
 latitude: 48.221342500000006
 longitude: 10.1032658
-postcode: 89257
+postcode: "89257"
 city: Illertissen
-street: Carnacplatz
+street: "Carnacplatz"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: King Kebap
-url: "/muellrose/king-kebap/"
+title: "King Kebap"
+url: /muellrose/king-kebap/
 ---

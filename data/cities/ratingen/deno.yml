@@ -1,9 +1,9 @@
 id: 1431396752
 latitude: 51.312331300000004
 longitude: 6.828448600000001
-postcode: 40880
+postcode: "40880"
 city: Ratingen
-street: Am Rosenkothen
+street: "Am Rosenkothen"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -1,9 +1,9 @@
 id: 296462266
 latitude: 48.133570600000006
 longitude: 11.582815
-postcode: 80331
+postcode: "80331"
 city: München
-street: Zweibrückenstraße
+street: "Zweibrückenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-00:00; Sa 11:00-00:00"

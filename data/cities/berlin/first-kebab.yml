@@ -1,9 +1,9 @@
 id: 4683292219
 latitude: 52.595862600000004
 longitude: 13.3359134
-postcode: 13435
+postcode: "13435"
 city: Berlin
-street: Wilhelmsruher Damm
+street: "Wilhelmsruher Damm"
 housenumber: 230
 phone: ""
 opening_hours: ""

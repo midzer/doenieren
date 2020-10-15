@@ -1,4 +1,4 @@
 ---
-title: Pizza Team
-url: "/wiesbaden/pizza-team/"
+title: "Pizza Team"
+url: /wiesbaden/pizza-team/
 ---

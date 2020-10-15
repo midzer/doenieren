@@ -1,4 +1,4 @@
 ---
-title: La Liva
-url: "/celle/la-liva/"
+title: "La Liva"
+url: /celle/la-liva/
 ---

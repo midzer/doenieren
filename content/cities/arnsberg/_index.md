@@ -1,4 +1,4 @@
 ---
 title: Arnsberg
-url: "/arnsberg/"
+url: /arnsberg/
 ---

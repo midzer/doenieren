@@ -1,4 +1,4 @@
 ---
 title: Paderborn
-url: "/paderborn/"
+url: /paderborn/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Efes
-url: "/bad-karlshafen/efes/"
+title: "Efes"
+url: /bad-karlshafen/efes/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Bad Honnef
-url: "/bad-honnef/"
+url: /bad-honnef/
 ---

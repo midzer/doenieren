@@ -1,4 +1,4 @@
 ---
-title: Falafeli
-url: "/braunschweig/falafeli/"
+title: "Falafeli"
+url: /braunschweig/falafeli/
 ---

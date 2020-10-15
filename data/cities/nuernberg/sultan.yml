@@ -1,9 +1,9 @@
 id: 797844070
 latitude: 49.4486666
 longitude: 11.0669959
-postcode: 90402
+postcode: "90402"
 city: Nürnberg
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Su,PH 10:30-05:00"

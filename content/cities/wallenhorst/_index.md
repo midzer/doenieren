@@ -1,4 +1,4 @@
 ---
 title: Wallenhorst
-url: "/wallenhorst/"
+url: /wallenhorst/
 ---

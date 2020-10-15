@@ -1,4 +1,4 @@
 ---
 title: Groß-Bieberau
-url: "/gross-bieberau/"
+url: /gross-bieberau/
 ---

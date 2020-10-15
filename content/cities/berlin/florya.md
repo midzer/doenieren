@@ -1,4 +1,4 @@
 ---
-title: Florya
-url: "/berlin/florya/"
+title: "Florya"
+url: /berlin/florya/
 ---

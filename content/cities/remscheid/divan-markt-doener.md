@@ -1,4 +1,4 @@
 ---
-title: Divan Markt Döner
-url: "/remscheid/divan-markt-doener/"
+title: "Divan Markt Döner"
+url: /remscheid/divan-markt-doener/
 ---

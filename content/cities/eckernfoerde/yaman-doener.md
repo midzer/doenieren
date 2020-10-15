@@ -1,4 +1,4 @@
 ---
-title: Yaman Döner
-url: "/eckernfoerde/yaman-doener/"
+title: "Yaman Döner"
+url: /eckernfoerde/yaman-doener/
 ---

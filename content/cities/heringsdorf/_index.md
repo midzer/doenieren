@@ -1,4 +1,4 @@
 ---
 title: Heringsdorf
-url: "/heringsdorf/"
+url: /heringsdorf/
 ---

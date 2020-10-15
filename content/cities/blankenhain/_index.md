@@ -1,4 +1,4 @@
 ---
 title: Blankenhain
-url: "/blankenhain/"
+url: /blankenhain/
 ---

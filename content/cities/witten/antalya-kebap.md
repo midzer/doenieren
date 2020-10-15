@@ -1,4 +1,4 @@
 ---
-title: Antalya Kebap
-url: "/witten/antalya-kebap/"
+title: "Antalya Kebap"
+url: /witten/antalya-kebap/
 ---

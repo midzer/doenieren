@@ -1,4 +1,4 @@
 ---
-title: Alis Imbiss
-url: "/hollenstedt/alis-imbiss/"
+title: "Alis Imbiss"
+url: /hollenstedt/alis-imbiss/
 ---

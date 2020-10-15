@@ -1,4 +1,4 @@
 ---
-title: Lara
-url: "/muenchen/lara/"
+title: "Lara"
+url: /muenchen/lara/
 ---

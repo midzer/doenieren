@@ -1,9 +1,9 @@
 id: 2273132810
 latitude: 52.0266772
 longitude: 8.5349018
-postcode: 33602
+postcode: "33602"
 city: Bielefeld
-street: Herforder Straße
+street: "Herforder Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

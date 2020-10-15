@@ -1,4 +1,4 @@
 ---
-title: Edessa Kebap Eschborn
-url: "/eschborn/edessa-kebap-eschborn/"
+title: "Edessa Kebap Eschborn"
+url: /eschborn/edessa-kebap-eschborn/
 ---

@@ -1,9 +1,9 @@
 id: 555001856
 latitude: 50.2767173
 longitude: 8.6516848
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
-street: Köpperner Straße
+street: "Köpperner Straße"
 housenumber: 108
 phone: "+49 6175 941438"
 opening_hours: ""

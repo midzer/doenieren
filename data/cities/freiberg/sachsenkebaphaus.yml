@@ -1,9 +1,9 @@
 id: 451944449
 latitude: 50.9204895
 longitude: 13.3450793
-postcode: 09599
+postcode: "09599"
 city: Freiberg
-street: Untermarkt
+street: "Untermarkt"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Th 11:00-23:00, Fr,Sa 11:00-24:00, Su 12:00-23:00"

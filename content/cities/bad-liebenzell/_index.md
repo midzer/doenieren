@@ -1,4 +1,4 @@
 ---
 title: Bad Liebenzell
-url: "/bad-liebenzell/"
+url: /bad-liebenzell/
 ---

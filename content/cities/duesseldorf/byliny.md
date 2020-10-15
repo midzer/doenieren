@@ -1,4 +1,4 @@
 ---
-title: Byliny
-url: "/duesseldorf/byliny/"
+title: "Byliny"
+url: /duesseldorf/byliny/
 ---

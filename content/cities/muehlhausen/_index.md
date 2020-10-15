@@ -1,4 +1,4 @@
 ---
 title: Mühlhausen
-url: "/muehlhausen/"
+url: /muehlhausen/
 ---

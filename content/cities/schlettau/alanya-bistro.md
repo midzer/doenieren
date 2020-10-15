@@ -1,4 +1,4 @@
 ---
-title: Alanya Bistro
-url: "/schlettau/alanya-bistro/"
+title: "Alanya Bistro"
+url: /schlettau/alanya-bistro/
 ---

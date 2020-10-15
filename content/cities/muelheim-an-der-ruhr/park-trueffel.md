@@ -1,4 +1,4 @@
 ---
-title: Park Trüffel
-url: "/muelheim-an-der-ruhr/park-trueffel/"
+title: "Park Trüffel"
+url: /muelheim-an-der-ruhr/park-trueffel/
 ---

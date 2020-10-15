@@ -1,4 +1,4 @@
 ---
-title: Hamann Grill
-url: "/muenster/hamann-grill/"
+title: "Hamann Grill"
+url: /muenster/hamann-grill/
 ---

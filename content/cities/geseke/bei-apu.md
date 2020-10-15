@@ -1,4 +1,4 @@
 ---
-title: Bei Apu
-url: "/geseke/bei-apu/"
+title: "Bei Apu"
+url: /geseke/bei-apu/
 ---

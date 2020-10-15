@@ -1,4 +1,4 @@
 ---
-title: Orient Snack
-url: "/mainz/orient-snack/"
+title: "Orient Snack"
+url: /mainz/orient-snack/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Bosporus Grill
-url: "/donaueschingen/bosporus-grill/"
+title: "Bosporus Grill"
+url: /donaueschingen/bosporus-grill/
 ---

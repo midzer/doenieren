@@ -1,4 +1,4 @@
 ---
-title: Star Imbiss
-url: "/renningen/star-imbiss/"
+title: "Star Imbiss"
+url: /renningen/star-imbiss/
 ---

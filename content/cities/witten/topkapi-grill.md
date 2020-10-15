@@ -1,4 +1,4 @@
 ---
-title: Topkapi Grill
-url: "/witten/topkapi-grill/"
+title: "Topkapi Grill"
+url: /witten/topkapi-grill/
 ---

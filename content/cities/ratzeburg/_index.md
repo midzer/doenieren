@@ -1,4 +1,4 @@
 ---
 title: Ratzeburg
-url: "/ratzeburg/"
+url: /ratzeburg/
 ---

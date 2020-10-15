@@ -1,4 +1,4 @@
 ---
 title: Königswartha
-url: "/koenigswartha/"
+url: /koenigswartha/
 ---

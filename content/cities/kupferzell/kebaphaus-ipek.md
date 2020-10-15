@@ -1,4 +1,4 @@
 ---
-title: Kebaphaus Ipek
-url: "/kupferzell/kebaphaus-ipek/"
+title: "Kebaphaus Ipek"
+url: /kupferzell/kebaphaus-ipek/
 ---

@@ -1,0 +1,4 @@
+---
+title: Laubach
+url: /laubach/
+---

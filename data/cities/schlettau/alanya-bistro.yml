@@ -1,9 +1,9 @@
 id: 800066324
 latitude: 50.5603406
 longitude: 12.953236500000001
-postcode: 09487
+postcode: "09487"
 city: Schlettau
-street: Buchholzer Straße
+street: "Buchholzer Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

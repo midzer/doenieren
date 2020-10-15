@@ -1,9 +1,9 @@
 id: 3890673683
 latitude: 52.2869657
 longitude: 8.916941900000001
-postcode: 32423
+postcode: "32423"
 city: Minden
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

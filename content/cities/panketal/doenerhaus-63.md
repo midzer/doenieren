@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus 63
-url: "/panketal/doenerhaus-63/"
+title: "Dönerhaus 63"
+url: /panketal/doenerhaus-63/
 ---

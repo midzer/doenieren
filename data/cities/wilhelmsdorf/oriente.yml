@@ -1,9 +1,9 @@
 id: 5190749609
 latitude: 47.8680158
 longitude: 9.425175900000001
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
-street: Riedhauser Straße
+street: "Riedhauser Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Su 11:00-20:00"

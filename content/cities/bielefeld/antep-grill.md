@@ -1,4 +1,4 @@
 ---
-title: Antep Grill
-url: "/bielefeld/antep-grill/"
+title: "Antep Grill"
+url: /bielefeld/antep-grill/
 ---

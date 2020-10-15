@@ -1,9 +1,9 @@
 id: 529370591
 latitude: 48.982783000000005
 longitude: 8.367249300000001
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 49
 phone: "+49 721 4 999 896"
 opening_hours: "Mo-Su 11:00-23:00"

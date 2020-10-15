@@ -1,4 +1,4 @@
 ---
-title: Gemüse Kebap
-url: "/berlin/gemuese-kebap/"
+title: "Gemüse Kebap"
+url: /berlin/gemuese-kebap/
 ---

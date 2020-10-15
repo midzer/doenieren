@@ -1,4 +1,4 @@
 ---
-title: Baba Ocaği
-url: "/berlin/baba-ocagi/"
+title: "Baba Ocaği"
+url: /berlin/baba-ocagi/
 ---

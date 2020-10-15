@@ -1,4 +1,4 @@
 ---
 title: Marburg
-url: "/marburg/"
+url: /marburg/
 ---

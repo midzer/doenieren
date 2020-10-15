@@ -1,4 +1,4 @@
 ---
-title: Kuzey Grill
-url: "/witten/kuzey-grill/"
+title: "Kuzey Grill"
+url: /witten/kuzey-grill/
 ---

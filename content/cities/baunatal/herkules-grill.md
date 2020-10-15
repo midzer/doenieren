@@ -1,4 +1,4 @@
 ---
-title: Herkules Grill
-url: "/baunatal/herkules-grill/"
+title: "Herkules Grill"
+url: /baunatal/herkules-grill/
 ---

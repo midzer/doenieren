@@ -1,4 +1,4 @@
 ---
-title: Gastro Prinz
-url: "/paderborn/gastro-prinz/"
+title: "Gastro Prinz"
+url: /paderborn/gastro-prinz/
 ---

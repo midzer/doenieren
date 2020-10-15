@@ -1,4 +1,4 @@
 ---
-title: Büffet
-url: "/wehr/bueffet/"
+title: "Büffet"
+url: /wehr/bueffet/
 ---

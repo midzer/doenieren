@@ -1,4 +1,4 @@
 ---
-title: Schlemmerecke
-url: "/koblenz/schlemmerecke/"
+title: "Schlemmerecke"
+url: /koblenz/schlemmerecke/
 ---

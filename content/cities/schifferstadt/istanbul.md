@@ -1,4 +1,4 @@
 ---
-title: Istanbul
-url: "/schifferstadt/istanbul/"
+title: "Istanbul"
+url: /schifferstadt/istanbul/
 ---

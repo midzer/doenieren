@@ -1,9 +1,9 @@
 id: 1127780858
 latitude: 53.888103400000006
 longitude: 10.708837500000001
-postcode: 23568
+postcode: "23568"
 city: Lübeck
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 50a
 phone: "+49 451 34552"
 opening_hours: "Jan-Dec: Mo-Sa 11:00-22:00; Su 12:00-22:00; PH 12:00-22:00"

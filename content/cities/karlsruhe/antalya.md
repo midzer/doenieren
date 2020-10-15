@@ -1,4 +1,4 @@
 ---
-title: Antalya
-url: "/karlsruhe/antalya/"
+title: "Antalya"
+url: /karlsruhe/antalya/
 ---

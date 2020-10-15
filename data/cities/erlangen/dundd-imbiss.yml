@@ -1,9 +1,9 @@
 id: 5848402885
 latitude: 49.5810052
 longitude: 11.0110528
-postcode: 91052
+postcode: "91052"
 city: Erlangen
-street: Hans-Geiger-Straße
+street: "Hans-Geiger-Straße"
 housenumber: 1
 phone: "+4915145535230"
 opening_hours: "Mo-Sa 10:00-22:00; Su 13:00-21:00"

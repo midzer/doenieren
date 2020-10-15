@@ -1,9 +1,9 @@
 id: 4685124572
 latitude: 49.383982800000005
 longitude: 8.3927435
-postcode: 67105
+postcode: "67105"
 city: Schifferstadt
-street: Waldspitzweg
+street: "Waldspitzweg"
 housenumber: 1a
 phone: "+49 6235 9294600"
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Meisterdöner
-url: "/unna/meisterdoener/"
+title: "Meisterdöner"
+url: /unna/meisterdoener/
 ---

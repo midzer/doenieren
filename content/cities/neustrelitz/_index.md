@@ -1,4 +1,4 @@
 ---
 title: Neustrelitz
-url: "/neustrelitz/"
+url: /neustrelitz/
 ---

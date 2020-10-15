@@ -1,4 +1,4 @@
 ---
-title: Aspendos
-url: "/weimar-lahn/aspendos/"
+title: "Aspendos"
+url: /weimar-lahn/aspendos/
 ---

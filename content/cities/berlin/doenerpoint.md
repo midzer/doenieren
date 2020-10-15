@@ -1,4 +1,4 @@
 ---
-title: Dönerpoint
-url: "/berlin/doenerpoint/"
+title: "Dönerpoint"
+url: /berlin/doenerpoint/
 ---

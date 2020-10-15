@@ -1,9 +1,9 @@
 id: 566398011
 latitude: 52.511108
 longitude: 13.4354502
-postcode: 10243
+postcode: "10243"
 city: Berlin
-street: Erich-Steinfurth-Straße
+street: "Erich-Steinfurth-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

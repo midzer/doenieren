@@ -1,4 +1,4 @@
 ---
-title: Kervansaray
-url: "/koeln/kervansaray/"
+title: "Kervansaray"
+url: /koeln/kervansaray/
 ---

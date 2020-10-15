@@ -1,4 +1,4 @@
 ---
-title: Aspendos Döner
-url: "/delitzsch/aspendos-doener/"
+title: "Aspendos Döner"
+url: /delitzsch/aspendos-doener/
 ---

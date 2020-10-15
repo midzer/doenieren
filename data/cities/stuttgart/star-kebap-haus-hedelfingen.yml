@@ -1,9 +1,9 @@
 id: 3259833984
 latitude: 48.7599669
 longitude: 9.253920800000001
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
-street: Hedelfinger Platz
+street: "Hedelfinger Platz"
 housenumber: 8
 phone: "+49 711 50452956"
 opening_hours: "Jun-Oct: Mo-Sa 11:00-22:30; 12:00-22:30; Nov-May: Mo-Sa 11:00-22:00; PH 12:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Babylon Döner
-url: "/remshalden/babylon-doener/"
+title: "Babylon Döner"
+url: /remshalden/babylon-doener/
 ---

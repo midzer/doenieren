@@ -1,4 +1,4 @@
 ---
-title: Nazirs Altstadtgrill
-url: "/passau/nazirs-altstadtgrill/"
+title: "Nazirs Altstadtgrill"
+url: /passau/nazirs-altstadtgrill/
 ---

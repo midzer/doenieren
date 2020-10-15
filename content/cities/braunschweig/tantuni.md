@@ -1,4 +1,4 @@
 ---
-title: Tantuni
-url: "/braunschweig/tantuni/"
+title: "Tantuni"
+url: /braunschweig/tantuni/
 ---

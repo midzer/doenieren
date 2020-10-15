@@ -1,9 +1,9 @@
 id: 3572484993
 latitude: 51.247599300000005
 longitude: 6.7830792
-postcode: 40476
+postcode: "40476"
 city: Düsseldorf
-street: Ulmenstraße
+street: "Ulmenstraße"
 housenumber: 84
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-22:00"

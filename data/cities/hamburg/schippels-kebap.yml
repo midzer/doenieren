@@ -1,9 +1,9 @@
 id: 2562121811
 latitude: 53.6343344
 longitude: 9.9535502
-postcode: 22455
+postcode: "22455"
 city: Hamburg
-street: Paul-Sorge-Straße
+street: "Paul-Sorge-Straße"
 housenumber: 142b
 phone: ""
 opening_hours: ""

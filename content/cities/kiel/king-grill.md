@@ -1,4 +1,4 @@
 ---
-title: King Grill
-url: "/kiel/king-grill/"
+title: "King Grill"
+url: /kiel/king-grill/
 ---

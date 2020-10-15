@@ -1,4 +1,4 @@
 ---
-title: Torros Döner
-url: "/bremen/torros-doener/"
+title: "Torros Döner"
+url: /bremen/torros-doener/
 ---

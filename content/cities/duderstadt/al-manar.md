@@ -1,4 +1,4 @@
 ---
-title: Al Manar
-url: "/duderstadt/al-manar/"
+title: "Al Manar"
+url: /duderstadt/al-manar/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Herzebrocker Grill
-url: "/herzebrock-clarholz/herzebrocker-grill/"
+title: "Herzebrocker Grill"
+url: /herzebrock-clarholz/herzebrocker-grill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ahmed Grill-Haus
-url: "/hanstedt/ahmed-grill-haus/"
+title: "Ahmed Grill-Haus"
+url: /hanstedt/ahmed-grill-haus/
 ---

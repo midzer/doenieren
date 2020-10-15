@@ -1,4 +1,4 @@
 ---
-title: Big Döner
-url: "/ahrensburg/big-doener/"
+title: "Big Döner"
+url: /ahrensburg/big-doener/
 ---

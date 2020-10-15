@@ -1,4 +1,4 @@
 ---
-title: Karli Döner
-url: "/potsdam/karli-doener/"
+title: "Karli Döner"
+url: /potsdam/karli-doener/
 ---

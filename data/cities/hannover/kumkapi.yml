@@ -1,9 +1,9 @@
 id: 6245058383
 latitude: 52.376142400000006
 longitude: 9.734992
-postcode: 30159
+postcode: "30159"
 city: Hannover
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

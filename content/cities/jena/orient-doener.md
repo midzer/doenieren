@@ -1,4 +1,4 @@
 ---
-title: Orient Döner
-url: "/jena/orient-doener/"
+title: "Orient Döner"
+url: /jena/orient-doener/
 ---

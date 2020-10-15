@@ -1,4 +1,4 @@
 ---
-title: Beyzade Grill
-url: "/bad-saeckingen/beyzade-grill/"
+title: "Beyzade Grill"
+url: /bad-saeckingen/beyzade-grill/
 ---

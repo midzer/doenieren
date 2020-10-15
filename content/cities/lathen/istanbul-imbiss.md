@@ -1,4 +1,4 @@
 ---
-title: Istanbul-Imbiss
-url: "/lathen/istanbul-imbiss/"
+title: "Istanbul-Imbiss"
+url: /lathen/istanbul-imbiss/
 ---

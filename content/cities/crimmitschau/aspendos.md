@@ -1,4 +1,4 @@
 ---
-title: Aspendos
-url: "/crimmitschau/aspendos/"
+title: "Aspendos"
+url: /crimmitschau/aspendos/
 ---

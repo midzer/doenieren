@@ -1,4 +1,4 @@
 ---
-title: Alanya Grill
-url: "/blankenhain/alanya-grill/"
+title: "Alanya Grill"
+url: /blankenhain/alanya-grill/
 ---

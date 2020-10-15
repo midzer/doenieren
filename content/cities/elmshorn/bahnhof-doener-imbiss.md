@@ -1,4 +1,4 @@
 ---
-title: Bahnhof Döner Imbiss
-url: "/elmshorn/bahnhof-doener-imbiss/"
+title: "Bahnhof Döner Imbiss"
+url: /elmshorn/bahnhof-doener-imbiss/
 ---

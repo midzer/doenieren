@@ -1,9 +1,9 @@
 id: 601141900
 latitude: 52.369141600000006
 longitude: 9.7499231
-postcode: 30171
+postcode: "30171"
 city: Hannover
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 44a
 phone: ""
 opening_hours: "Mo-Sa 10:00-23:00, Su 11:00-23:00"

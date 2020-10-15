@@ -1,9 +1,9 @@
 id: 342272566
 latitude: 51.436825000000006
 longitude: 7.182518600000001
-postcode: 44879
+postcode: "44879"
 city: Bochum
-street: Hattinger Straße
+street: "Hattinger Straße"
 housenumber: 601
 phone: ""
 opening_hours: ""

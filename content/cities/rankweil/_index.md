@@ -1,0 +1,4 @@
+---
+title: Rankweil
+url: /rankweil/
+---

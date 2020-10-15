@@ -1,4 +1,4 @@
 ---
-title: Lider Kokorec Bielefeld
-url: "/bielefeld/lider-kokorec-bielefeld/"
+title: "Lider Kokorec Bielefeld"
+url: /bielefeld/lider-kokorec-bielefeld/
 ---

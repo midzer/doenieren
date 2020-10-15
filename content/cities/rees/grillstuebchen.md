@@ -1,4 +1,4 @@
 ---
-title: Grillstübchen
-url: "/rees/grillstuebchen/"
+title: "Grillstübchen"
+url: /rees/grillstuebchen/
 ---

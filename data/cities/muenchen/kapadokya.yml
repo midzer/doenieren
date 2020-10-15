@@ -1,9 +1,9 @@
 id: 1856411779
 latitude: 48.2027784
 longitude: 11.5644118
-postcode: 80935
+postcode: "80935"
 city: München
-street: Schleißheimer Straße
+street: "Schleißheimer Straße"
 housenumber: 442
 phone: "+49 89 31901481"
 opening_hours: "Tu-Su 11:00-21:00"

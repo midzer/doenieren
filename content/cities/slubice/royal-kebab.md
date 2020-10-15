@@ -1,4 +1,4 @@
 ---
-title: Royal Kebab
-url: "/slubice/royal-kebab/"
+title: "Royal Kebab"
+url: /slubice/royal-kebab/
 ---

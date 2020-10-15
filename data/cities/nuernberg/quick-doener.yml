@@ -1,9 +1,9 @@
 id: 857181431
 latitude: 49.4609492
 longitude: 11.083179900000001
-postcode: 90408
+postcode: "90408"
 city: Nürnberg
-street: Pirckheimerstraße
+street: "Pirckheimerstraße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Su,PH 09:00-22:00"

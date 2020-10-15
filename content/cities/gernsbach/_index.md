@@ -1,4 +1,4 @@
 ---
 title: Gernsbach
-url: "/gernsbach/"
+url: /gernsbach/
 ---

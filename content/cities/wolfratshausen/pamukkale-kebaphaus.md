@@ -1,4 +1,4 @@
 ---
-title: Pamukkale Kebaphaus
-url: "/wolfratshausen/pamukkale-kebaphaus/"
+title: "Pamukkale Kebaphaus"
+url: /wolfratshausen/pamukkale-kebaphaus/
 ---

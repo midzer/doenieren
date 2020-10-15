@@ -1,9 +1,9 @@
 id: 1664199764
 latitude: 51.4377914
 longitude: 7.3328021
-postcode: 58452
+postcode: "58452"
 city: Witten
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 11:00-22:00"

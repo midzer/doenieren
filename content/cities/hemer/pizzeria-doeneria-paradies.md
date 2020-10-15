@@ -1,4 +1,4 @@
 ---
-title: Pizzeria Döneria Paradies
-url: "/hemer/pizzeria-doeneria-paradies/"
+title: "Pizzeria Döneria Paradies"
+url: /hemer/pizzeria-doeneria-paradies/
 ---

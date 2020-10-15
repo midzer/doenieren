@@ -1,4 +1,4 @@
 ---
-title: Aspera
-url: "/hannover/aspera/"
+title: "Aspera"
+url: /hannover/aspera/
 ---

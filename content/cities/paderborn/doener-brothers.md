@@ -1,4 +1,4 @@
 ---
-title: Döner Brothers
-url: "/paderborn/doener-brothers/"
+title: "Döner Brothers"
+url: /paderborn/doener-brothers/
 ---

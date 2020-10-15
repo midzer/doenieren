@@ -1,4 +1,4 @@
 ---
-title: Side Grill
-url: "/leverkusen/side-grill/"
+title: "Side Grill"
+url: /leverkusen/side-grill/
 ---

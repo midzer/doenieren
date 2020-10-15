@@ -1,4 +1,4 @@
 ---
-title: Prima Döner
-url: "/regensburg/prima-doener/"
+title: "Prima Döner"
+url: /regensburg/prima-doener/
 ---

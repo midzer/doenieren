@@ -1,4 +1,4 @@
 ---
-title: Konaq
-url: "/duesseldorf/konaq/"
+title: "Konaq"
+url: /duesseldorf/konaq/
 ---

@@ -1,4 +1,4 @@
 ---
-title: BOLU Lammhaus
-url: "/berlin/bolu-lammhaus/"
+title: "BOLU Lammhaus"
+url: /berlin/bolu-lammhaus/
 ---

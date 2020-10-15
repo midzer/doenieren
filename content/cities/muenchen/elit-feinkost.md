@@ -1,4 +1,4 @@
 ---
-title: Elit Feinkost
-url: "/muenchen/elit-feinkost/"
+title: "Elit Feinkost"
+url: /muenchen/elit-feinkost/
 ---

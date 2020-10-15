@@ -1,4 +1,4 @@
 ---
-title: Die Gourmet Ecke
-url: "/markt-schwaben/die-gourmet-ecke/"
+title: "Die Gourmet Ecke"
+url: /markt-schwaben/die-gourmet-ecke/
 ---

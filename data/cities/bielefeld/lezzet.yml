@@ -1,9 +1,9 @@
 id: 4153694846
 latitude: 51.993656900000005
 longitude: 8.605200100000001
-postcode: 33699
+postcode: "33699"
 city: Bielefeld
-street: Detmolder Straße
+street: "Detmolder Straße"
 housenumber: 569
 phone: ""
 opening_hours: "Mo-Fr 11:00-23:00;Sa, Su, PH 13:30-21:30"

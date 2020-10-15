@@ -1,4 +1,4 @@
 ---
-title: Döner Kebap Weinhübel
-url: "/goerlitz/doener-kebap-weinhuebel/"
+title: "Döner Kebap Weinhübel"
+url: /goerlitz/doener-kebap-weinhuebel/
 ---

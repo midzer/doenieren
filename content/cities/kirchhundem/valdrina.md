@@ -1,4 +1,4 @@
 ---
-title: Valdrina
-url: "/kirchhundem/valdrina/"
+title: "Valdrina"
+url: /kirchhundem/valdrina/
 ---

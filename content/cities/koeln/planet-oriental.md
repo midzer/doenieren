@@ -1,4 +1,4 @@
 ---
-title: Planet Oriental
-url: "/koeln/planet-oriental/"
+title: "Planet Oriental"
+url: /koeln/planet-oriental/
 ---

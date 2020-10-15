@@ -1,4 +1,4 @@
 ---
 title: Blankenfelde-Mahlow
-url: "/blankenfelde-mahlow/"
+url: /blankenfelde-mahlow/
 ---

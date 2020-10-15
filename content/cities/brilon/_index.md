@@ -1,4 +1,4 @@
 ---
 title: Brilon
-url: "/brilon/"
+url: /brilon/
 ---

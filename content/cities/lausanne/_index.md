@@ -1,0 +1,4 @@
+---
+title: Lausanne
+url: /lausanne/
+---

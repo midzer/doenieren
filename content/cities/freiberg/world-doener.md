@@ -1,4 +1,4 @@
 ---
-title: World Döner
-url: "/freiberg/world-doener/"
+title: "World Döner"
+url: /freiberg/world-doener/
 ---

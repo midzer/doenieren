@@ -1,4 +1,4 @@
 ---
-title: SAZ
-url: "/vechta/saz/"
+title: "SAZ"
+url: /vechta/saz/
 ---

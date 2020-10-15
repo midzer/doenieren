@@ -1,4 +1,4 @@
 ---
-title: Musti Kebap Bistro
-url: "/brunsbuettel/musti-kebap-bistro/"
+title: "Musti Kebap Bistro"
+url: /brunsbuettel/musti-kebap-bistro/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Burg
-url: "/burg/"
+url: /burg/
 ---

@@ -1,9 +1,9 @@
 id: 811250424
 latitude: 52.5851856
 longitude: 13.3668569
-postcode: 13158
+postcode: "13158"
 city: Berlin
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: "+493081035381"
 opening_hours: "Fr-We 11:30-21:00, Th 13:30-21:00"

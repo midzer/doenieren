@@ -1,4 +1,4 @@
 ---
 title: Aglasterhausen
-url: "/aglasterhausen/"
+url: /aglasterhausen/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Genießer Ecke
-url: "/bayreuth/geniesser-ecke/"
+title: "Genießer Ecke"
+url: /bayreuth/geniesser-ecke/
 ---

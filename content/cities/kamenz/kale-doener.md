@@ -1,4 +1,4 @@
 ---
-title: Kale Döner
-url: "/kamenz/kale-doener/"
+title: "Kale Döner"
+url: /kamenz/kale-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ocak Basi
-url: "/leverkusen/ocak-basi/"
+title: "Ocak Basi"
+url: /leverkusen/ocak-basi/
 ---

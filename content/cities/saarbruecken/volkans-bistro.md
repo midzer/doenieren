@@ -1,4 +1,4 @@
 ---
-title: Volkans Bistro
-url: "/saarbruecken/volkans-bistro/"
+title: "Volkans Bistro"
+url: /saarbruecken/volkans-bistro/
 ---

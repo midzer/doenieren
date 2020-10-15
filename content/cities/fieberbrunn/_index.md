@@ -1,0 +1,4 @@
+---
+title: Fieberbrunn
+url: /fieberbrunn/
+---

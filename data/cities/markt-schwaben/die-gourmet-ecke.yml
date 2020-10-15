@@ -1,9 +1,9 @@
 id: 569974318
 latitude: 48.1903699
 longitude: 11.8678124
-postcode: 85570
+postcode: "85570"
 city: Markt Schwaben
-street: Gschmeidmachergasse
+street: "Gschmeidmachergasse"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 11:00-15:00,16:30-20:00; Sa 11:00-16:00"

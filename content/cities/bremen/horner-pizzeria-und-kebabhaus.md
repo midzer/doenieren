@@ -1,4 +1,4 @@
 ---
-title: Horner Pizzeria & Kebabhaus
-url: "/bremen/horner-pizzeria-und-kebabhaus/"
+title: "Horner Pizzeria & Kebabhaus"
+url: /bremen/horner-pizzeria-und-kebabhaus/
 ---

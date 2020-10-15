@@ -1,4 +1,4 @@
 ---
-title: Stadt Kebab
-url: "/coburg/stadt-kebab/"
+title: "Stadt Kebab"
+url: /coburg/stadt-kebab/
 ---

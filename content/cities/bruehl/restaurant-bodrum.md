@@ -1,4 +1,4 @@
 ---
-title: Restaurant Bodrum
-url: "/bruehl/restaurant-bodrum/"
+title: "Restaurant Bodrum"
+url: /bruehl/restaurant-bodrum/
 ---

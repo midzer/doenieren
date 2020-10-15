@@ -1,4 +1,4 @@
 ---
-title: Mevlana
-url: "/berlin/mevlana/"
+title: "Mevlana"
+url: /berlin/mevlana/
 ---

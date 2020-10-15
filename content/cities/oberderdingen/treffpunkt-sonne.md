@@ -1,4 +1,4 @@
 ---
-title: Treffpunkt Sonne
-url: "/oberderdingen/treffpunkt-sonne/"
+title: "Treffpunkt Sonne"
+url: /oberderdingen/treffpunkt-sonne/
 ---

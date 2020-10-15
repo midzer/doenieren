@@ -1,9 +1,9 @@
 id: 1080469802
 latitude: 47.8394216
 longitude: 12.982031800000001
-postcode: 83395
+postcode: "83395"
 city: Freilassing
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: "+49865466882"
 opening_hours: ""

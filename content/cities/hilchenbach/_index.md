@@ -1,4 +1,4 @@
 ---
 title: Hilchenbach
-url: "/hilchenbach/"
+url: /hilchenbach/
 ---

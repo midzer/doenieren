@@ -1,4 +1,4 @@
 ---
-title: Prime Kebap
-url: "/potsdam/prime-kebap/"
+title: "Prime Kebap"
+url: /potsdam/prime-kebap/
 ---

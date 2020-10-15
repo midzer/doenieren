@@ -1,9 +1,9 @@
 id: 5948431715
 latitude: 54.136069500000005
 longitude: 10.6148328
-postcode: 23701
+postcode: "23701"
 city: Eutin
-street: Peterstraße
+street: "Peterstraße"
 housenumber: 16
 phone: "+49 4521 778138"
 opening_hours: "Mo-Sa 10:30-22:00; Su 12:00-22:00"

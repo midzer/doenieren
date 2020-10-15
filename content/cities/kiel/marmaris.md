@@ -1,4 +1,4 @@
 ---
-title: Marmaris
-url: "/kiel/marmaris/"
+title: "Marmaris"
+url: /kiel/marmaris/
 ---

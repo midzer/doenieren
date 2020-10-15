@@ -1,9 +1,9 @@
 id: 1122270819
 latitude: 48.3948777
 longitude: 10.0090485
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
-street: Künetteweg
+street: "Künetteweg"
 housenumber: 2
 phone: "+49 731 7169430"
 opening_hours: "10:00-22:00; Sa off"

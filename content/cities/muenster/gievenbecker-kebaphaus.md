@@ -1,4 +1,4 @@
 ---
-title: Gievenbecker Kebaphaus
-url: "/muenster/gievenbecker-kebaphaus/"
+title: "Gievenbecker Kebaphaus"
+url: /muenster/gievenbecker-kebaphaus/
 ---

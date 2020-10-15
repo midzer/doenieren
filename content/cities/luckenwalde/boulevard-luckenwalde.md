@@ -1,4 +1,4 @@
 ---
-title: Boulevard Luckenwalde
-url: "/luckenwalde/boulevard-luckenwalde/"
+title: "Boulevard Luckenwalde"
+url: /luckenwalde/boulevard-luckenwalde/
 ---

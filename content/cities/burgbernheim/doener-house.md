@@ -1,4 +1,4 @@
 ---
-title: Döner-House
-url: "/burgbernheim/doener-house/"
+title: "Döner-House"
+url: /burgbernheim/doener-house/
 ---

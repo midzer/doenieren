@@ -1,4 +1,4 @@
 ---
-title: Anatolien
-url: "/schleswig/anatolien/"
+title: "Anatolien"
+url: /schleswig/anatolien/
 ---

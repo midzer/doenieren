@@ -1,4 +1,4 @@
 ---
-title: Gözleme
-url: "/berlin/goezleme/"
+title: "Gözleme"
+url: /berlin/goezleme/
 ---

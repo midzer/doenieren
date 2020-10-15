@@ -1,4 +1,4 @@
 ---
-title: CityGrill
-url: "/duisburg/citygrill/"
+title: "CityGrill"
+url: /duisburg/citygrill/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Stockumer Grill
-url: "/duesseldorf/stockumer-grill/"
+title: "Stockumer Grill"
+url: /duesseldorf/stockumer-grill/
 ---

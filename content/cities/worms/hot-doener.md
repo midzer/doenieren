@@ -1,4 +1,4 @@
 ---
-title: Hot Döner
-url: "/worms/hot-doener/"
+title: "Hot Döner"
+url: /worms/hot-doener/
 ---

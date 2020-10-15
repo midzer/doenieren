@@ -1,4 +1,4 @@
 ---
-title: Gürsu Döner
-url: "/mannheim/guersu-doener/"
+title: "Gürsu Döner"
+url: /mannheim/guersu-doener/
 ---

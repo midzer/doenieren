@@ -1,9 +1,9 @@
 id: 1973458484
 latitude: 52.376345
 longitude: 9.7484864
-postcode: 30161
+postcode: "30161"
 city: Hannover
-street: Roscherstraße
+street: "Roscherstraße"
 housenumber: 3
 phone: "+49 511 898 498 10"
 opening_hours: "Tu-Su 00:00-24:00, Su 10:00-14:00"

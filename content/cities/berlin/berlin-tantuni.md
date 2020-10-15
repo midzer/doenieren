@@ -1,4 +1,4 @@
 ---
-title: Berlin Tantuni
-url: "/berlin/berlin-tantuni/"
+title: "Berlin Tantuni"
+url: /berlin/berlin-tantuni/
 ---

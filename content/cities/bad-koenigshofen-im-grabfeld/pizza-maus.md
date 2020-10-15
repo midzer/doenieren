@@ -1,4 +1,4 @@
 ---
-title: Pizza Maus
-url: "/bad-koenigshofen-im-grabfeld/pizza-maus/"
+title: "Pizza Maus"
+url: /bad-koenigshofen-im-grabfeld/pizza-maus/
 ---

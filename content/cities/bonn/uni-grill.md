@@ -1,4 +1,4 @@
 ---
-title: Uni Grill
-url: "/bonn/uni-grill/"
+title: "Uni Grill"
+url: /bonn/uni-grill/
 ---

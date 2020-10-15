@@ -1,4 +1,4 @@
 ---
-title: Hüner
-url: "/berlin/huener/"
+title: "Hüner"
+url: /berlin/huener/
 ---

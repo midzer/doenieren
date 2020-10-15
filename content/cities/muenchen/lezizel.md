@@ -1,4 +1,4 @@
 ---
-title: Lezizel
-url: "/muenchen/lezizel/"
+title: "Lezizel"
+url: /muenchen/lezizel/
 ---

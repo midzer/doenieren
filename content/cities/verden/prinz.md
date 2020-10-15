@@ -1,4 +1,4 @@
 ---
-title: Prinz
-url: "/verden/prinz/"
+title: "Prinz"
+url: /verden/prinz/
 ---

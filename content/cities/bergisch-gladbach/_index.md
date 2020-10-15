@@ -1,4 +1,4 @@
 ---
 title: Bergisch Gladbach
-url: "/bergisch-gladbach/"
+url: /bergisch-gladbach/
 ---

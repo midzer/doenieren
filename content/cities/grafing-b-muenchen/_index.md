@@ -1,4 +1,4 @@
 ---
 title: Grafing b. München
-url: "/grafing-b-muenchen/"
+url: /grafing-b-muenchen/
 ---

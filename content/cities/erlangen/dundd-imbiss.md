@@ -1,4 +1,4 @@
 ---
-title: D&D Imbiss
-url: "/erlangen/dundd-imbiss/"
+title: "D&D Imbiss"
+url: /erlangen/dundd-imbiss/
 ---

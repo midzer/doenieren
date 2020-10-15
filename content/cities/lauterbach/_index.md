@@ -1,4 +1,4 @@
 ---
 title: Lauterbach
-url: "/lauterbach/"
+url: /lauterbach/
 ---

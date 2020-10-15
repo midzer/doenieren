@@ -1,9 +1,9 @@
 id: 3865924575
 latitude: 52.0352669
 longitude: 8.507031900000001
-postcode: 33615
+postcode: "33615"
 city: Bielefeld
-street: Jakob-Kaiser-Straße
+street: "Jakob-Kaiser-Straße"
 housenumber: 1b
 phone: "+49-176-70627292"
 opening_hours: "Mo-Fr 11:00-22:00; Sa,Su,PH 12:15-22:00"

@@ -1,9 +1,9 @@
 id: 7071783235
 latitude: 49.9435695
 longitude: 11.570347900000002
-postcode: 95444
+postcode: "95444"
 city: Bayreuth
-street: Hohenzollernring
+street: "Hohenzollernring"
 housenumber: 71
 phone: ""
 opening_hours: ""

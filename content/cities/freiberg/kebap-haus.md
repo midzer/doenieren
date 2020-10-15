@@ -1,4 +1,4 @@
 ---
-title: Kebap-Haus
-url: "/freiberg/kebap-haus/"
+title: "Kebap-Haus"
+url: /freiberg/kebap-haus/
 ---

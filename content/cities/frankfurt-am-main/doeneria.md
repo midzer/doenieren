@@ -1,4 +1,4 @@
 ---
-title: Döneria
-url: "/frankfurt-am-main/doeneria/"
+title: "Döneria"
+url: /frankfurt-am-main/doeneria/
 ---

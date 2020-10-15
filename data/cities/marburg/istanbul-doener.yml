@@ -1,9 +1,9 @@
 id: 3234488154
 latitude: 50.814649800000005
 longitude: 8.768932000000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
-street: Elisabethstraße
+street: "Elisabethstraße"
 housenumber: 1
 phone: "+49 6421 6509511"
 opening_hours: ""

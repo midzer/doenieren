@@ -1,4 +1,4 @@
 ---
 title: Leck
-url: "/leck/"
+url: /leck/
 ---

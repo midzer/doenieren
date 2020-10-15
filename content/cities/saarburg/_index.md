@@ -1,4 +1,4 @@
 ---
 title: Saarburg
-url: "/saarburg/"
+url: /saarburg/
 ---

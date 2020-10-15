@@ -1,4 +1,4 @@
 ---
-title: Lezzet
-url: "/recklinghausen/lezzet/"
+title: "Lezzet"
+url: /recklinghausen/lezzet/
 ---

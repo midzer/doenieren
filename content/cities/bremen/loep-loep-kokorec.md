@@ -1,4 +1,4 @@
 ---
-title: Löp Löp Kokorec
-url: "/bremen/loep-loep-kokorec/"
+title: "Löp Löp Kokorec"
+url: /bremen/loep-loep-kokorec/
 ---

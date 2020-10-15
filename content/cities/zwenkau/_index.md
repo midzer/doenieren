@@ -1,4 +1,4 @@
 ---
 title: Zwenkau
-url: "/zwenkau/"
+url: /zwenkau/
 ---

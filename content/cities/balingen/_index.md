@@ -1,0 +1,4 @@
+---
+title: Balingen
+url: /balingen/
+---

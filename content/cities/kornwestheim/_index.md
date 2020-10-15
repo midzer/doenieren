@@ -1,4 +1,4 @@
 ---
 title: Kornwestheim
-url: "/kornwestheim/"
+url: /kornwestheim/
 ---

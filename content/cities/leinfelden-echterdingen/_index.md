@@ -1,4 +1,4 @@
 ---
 title: Leinfelden-Echterdingen
-url: "/leinfelden-echterdingen/"
+url: /leinfelden-echterdingen/
 ---

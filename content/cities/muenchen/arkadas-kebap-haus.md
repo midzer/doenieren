@@ -1,4 +1,4 @@
 ---
-title: Arkadaş Kebap Haus
-url: "/muenchen/arkadas-kebap-haus/"
+title: "Arkadaş Kebap Haus"
+url: /muenchen/arkadas-kebap-haus/
 ---

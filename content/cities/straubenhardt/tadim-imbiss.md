@@ -1,4 +1,4 @@
 ---
-title: Tadim Imbiss
-url: "/straubenhardt/tadim-imbiss/"
+title: "Tadim Imbiss"
+url: /straubenhardt/tadim-imbiss/
 ---

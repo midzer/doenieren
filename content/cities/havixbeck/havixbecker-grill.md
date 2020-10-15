@@ -1,4 +1,4 @@
 ---
-title: Havixbecker Grill
-url: "/havixbeck/havixbecker-grill/"
+title: "Havixbecker Grill"
+url: /havixbeck/havixbecker-grill/
 ---

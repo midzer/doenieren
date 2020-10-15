@@ -1,4 +1,4 @@
 ---
 title: Templin
-url: "/templin/"
+url: /templin/
 ---

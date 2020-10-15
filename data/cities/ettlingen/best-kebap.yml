@@ -1,9 +1,9 @@
 id: 1003202865
 latitude: 48.941146100000005
 longitude: 8.4055928
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
-street: Badener-Tor-Straße
+street: "Badener-Tor-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

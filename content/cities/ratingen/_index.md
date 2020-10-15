@@ -1,4 +1,4 @@
 ---
 title: Ratingen
-url: "/ratingen/"
+url: /ratingen/
 ---

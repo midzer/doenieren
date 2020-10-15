@@ -1,9 +1,9 @@
 id: 736566636
 latitude: 54.505765800000006
 longitude: 9.541389
-postcode: 24837
+postcode: "24837"
 city: Schleswig
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Su 10:00-24:00"

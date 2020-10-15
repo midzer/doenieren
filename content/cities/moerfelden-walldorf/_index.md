@@ -1,4 +1,4 @@
 ---
 title: Mörfelden-Walldorf
-url: "/moerfelden-walldorf/"
+url: /moerfelden-walldorf/
 ---

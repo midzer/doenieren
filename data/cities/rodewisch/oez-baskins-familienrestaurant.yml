@@ -1,9 +1,9 @@
 id: 7170212519
 latitude: 50.5317979
 longitude: 12.420652100000002
-postcode: 08228
+postcode: "08228"
 city: Rodewisch
-street: Wernesgrüner Straße
+street: "Wernesgrüner Straße"
 housenumber: 23
 phone: "+49 3744 3068976"
 opening_hours: "Mo-Sa 10:30-22:30; Su,PH 12:00-22:30"

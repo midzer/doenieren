@@ -1,4 +1,4 @@
 ---
-title: Dönertier
-url: "/muenchen/doenertier/"
+title: "Dönertier"
+url: /muenchen/doenertier/
 ---

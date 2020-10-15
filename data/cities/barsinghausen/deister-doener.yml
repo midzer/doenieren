@@ -1,9 +1,9 @@
 id: 1845076293
 latitude: 52.302719700000004
 longitude: 9.4649456
-postcode: 30890
+postcode: "30890"
 city: Barsinghausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: "+49-5105-6649199"
 opening_hours: "Mo-Sa 12:00-20:40"

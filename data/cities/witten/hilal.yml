@@ -1,9 +1,9 @@
 id: 2361497652
 latitude: 51.4431134
 longitude: 7.331503700000001
-postcode: 58452
+postcode: "58452"
 city: Witten
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Su 07:00-20:00"

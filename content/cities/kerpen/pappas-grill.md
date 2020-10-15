@@ -1,4 +1,4 @@
 ---
-title: Pappas Grill
-url: "/kerpen/pappas-grill/"
+title: "Pappas Grill"
+url: /kerpen/pappas-grill/
 ---

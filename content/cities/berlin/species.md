@@ -1,4 +1,4 @@
 ---
-title: Species
-url: "/berlin/species/"
+title: "Species"
+url: /berlin/species/
 ---

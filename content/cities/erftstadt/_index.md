@@ -1,4 +1,4 @@
 ---
 title: Erftstadt
-url: "/erftstadt/"
+url: /erftstadt/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Shing
-url: "/muenchen/shing/"
+title: "Shing"
+url: /muenchen/shing/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Orient Kebap
-url: "/aglasterhausen/orient-kebap/"
+title: "Orient Kebap"
+url: /aglasterhausen/orient-kebap/
 ---

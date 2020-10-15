@@ -1,4 +1,4 @@
 ---
-title: Ari's Diner
-url: "/berlin/aris-diner/"
+title: "Ari's Diner"
+url: /berlin/aris-diner/
 ---

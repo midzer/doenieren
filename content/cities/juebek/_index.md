@@ -1,4 +1,4 @@
 ---
 title: Jübek
-url: "/juebek/"
+url: /juebek/
 ---

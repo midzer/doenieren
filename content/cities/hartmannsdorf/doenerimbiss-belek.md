@@ -1,4 +1,4 @@
 ---
-title: Dönerimbiss Belek
-url: "/hartmannsdorf/doenerimbiss-belek/"
+title: "Dönerimbiss Belek"
+url: /hartmannsdorf/doenerimbiss-belek/
 ---

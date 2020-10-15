@@ -1,9 +1,9 @@
 id: 493820384
 latitude: 49.663551700000006
 longitude: 10.067034300000001
-postcode: 97199
+postcode: "97199"
 city: Ochsenfurt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 72
 phone: "+49 9331 7499"
 opening_hours: "Mo-Fr 11:00-22:00; Sa-Su 11:00-23:00"

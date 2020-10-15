@@ -1,4 +1,4 @@
 ---
-title: Sultan Grill
-url: "/gruendau/sultan-grill/"
+title: "Sultan Grill"
+url: /gruendau/sultan-grill/
 ---

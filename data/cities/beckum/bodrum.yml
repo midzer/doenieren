@@ -1,9 +1,9 @@
 id: 1347141184
 latitude: 51.801638100000005
 longitude: 8.024169
-postcode: 59269
+postcode: "59269"
 city: Beckum
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -1,4 +1,4 @@
 ---
-title: Alanya I
-url: "/chemnitz/alanya-i/"
+title: "Alanya I"
+url: /chemnitz/alanya-i/
 ---

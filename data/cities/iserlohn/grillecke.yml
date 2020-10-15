@@ -1,9 +1,9 @@
 id: 3104454211
 latitude: 51.376428800000006
 longitude: 7.709099200000001
-postcode: 58636
+postcode: "58636"
 city: Iserlohn
-street: Mendener Straße
+street: "Mendener Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Su-Th 10:00-22:00, Fr,Sa 10:00-23:00"

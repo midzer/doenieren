@@ -1,4 +1,4 @@
 ---
-title: efrin grill
-url: "/muenster/efrin-grill/"
+title: "efrin grill"
+url: /muenster/efrin-grill/
 ---

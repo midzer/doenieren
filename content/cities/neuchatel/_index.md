@@ -1,0 +1,4 @@
+---
+title: Neuchâtel
+url: /neuchatel/
+---

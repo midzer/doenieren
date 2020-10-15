@@ -1,4 +1,4 @@
 ---
-title: Istanbul meets Berlin
-url: "/harrislee/istanbul-meets-berlin/"
+title: "Istanbul meets Berlin"
+url: /harrislee/istanbul-meets-berlin/
 ---

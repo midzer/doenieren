@@ -1,4 +1,4 @@
 ---
-title: Sofra Grillhaus
-url: "/heilbronn/sofra-grillhaus/"
+title: "Sofra Grillhaus"
+url: /heilbronn/sofra-grillhaus/
 ---

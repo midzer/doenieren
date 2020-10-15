@@ -1,4 +1,4 @@
 ---
-title: Can
-url: "/duesseldorf/can/"
+title: "Can"
+url: /duesseldorf/can/
 ---

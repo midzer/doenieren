@@ -1,9 +1,9 @@
 id: 1753810056
 latitude: 52.5209683
 longitude: 13.3221544
-postcode: 10587
+postcode: "10587"
 city: Berlin
-street: Helmholtzstraße
+street: "Helmholtzstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

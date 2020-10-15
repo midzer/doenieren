@@ -1,9 +1,9 @@
 id: 5802315804
 latitude: 52.505548700000006
 longitude: 9.462147100000001
-postcode: 31535
+postcode: "31535"
 city: Neustadt am Rübenberge
-street: Leinstraße
+street: "Leinstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

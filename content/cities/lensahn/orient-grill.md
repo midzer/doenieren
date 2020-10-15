@@ -1,4 +1,4 @@
 ---
-title: Orient-Grill
-url: "/lensahn/orient-grill/"
+title: "Orient-Grill"
+url: /lensahn/orient-grill/
 ---

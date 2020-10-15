@@ -1,4 +1,4 @@
 ---
-title: Alanya Kebap Haus
-url: "/gross-bieberau/alanya-kebap-haus/"
+title: "Alanya Kebap Haus"
+url: /gross-bieberau/alanya-kebap-haus/
 ---

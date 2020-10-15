@@ -1,4 +1,4 @@
 ---
-title: Marmara
-url: "/kassel/marmara/"
+title: "Marmara"
+url: /kassel/marmara/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Merhaba
-url: "/lueneburg/merhaba/"
+title: "Merhaba"
+url: /lueneburg/merhaba/
 ---

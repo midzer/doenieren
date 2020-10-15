@@ -1,4 +1,4 @@
 ---
-title: Köfteci
-url: "/berlin/koefteci/"
+title: "Köfteci"
+url: /berlin/koefteci/
 ---

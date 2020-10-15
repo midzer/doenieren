@@ -1,4 +1,4 @@
 ---
 title: Groß-Zimmern
-url: "/gross-zimmern/"
+url: /gross-zimmern/
 ---

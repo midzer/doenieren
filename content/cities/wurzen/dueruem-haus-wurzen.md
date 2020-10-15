@@ -1,4 +1,4 @@
 ---
-title: Dürüm-Haus Wurzen
-url: "/wurzen/dueruem-haus-wurzen/"
+title: "Dürüm-Haus Wurzen"
+url: /wurzen/dueruem-haus-wurzen/
 ---

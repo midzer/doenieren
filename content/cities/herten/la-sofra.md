@@ -1,4 +1,4 @@
 ---
-title: La Sofra
-url: "/herten/la-sofra/"
+title: "La Sofra"
+url: /herten/la-sofra/
 ---

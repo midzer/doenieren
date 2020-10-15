@@ -1,4 +1,4 @@
 ---
-title: Mega Grill
-url: "/roesrath/mega-grill/"
+title: "Mega Grill"
+url: /roesrath/mega-grill/
 ---

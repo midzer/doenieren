@@ -1,4 +1,4 @@
 ---
 title: Strausberg
-url: "/strausberg/"
+url: /strausberg/
 ---

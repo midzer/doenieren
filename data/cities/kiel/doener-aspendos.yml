@@ -1,9 +1,9 @@
 id: 471195751
 latitude: 54.361095000000006
 longitude: 10.076612200000001
-postcode: 24107
+postcode: "24107"
 city: Kiel
-street: Rungholtplatz
+street: "Rungholtplatz"
 housenumber: 3
 phone: "+49 4312 209058"
 opening_hours: "Mo-Su 11:00-22:00"

@@ -1,9 +1,9 @@
 id: 3443078838
 latitude: 51.327108300000006
 longitude: 6.5684991
-postcode: 47798
+postcode: "47798"
 city: Krefeld
-street: Ostwall
+street: "Ostwall"
 housenumber: 24
 phone: ""
 opening_hours: "Th-Su 12:00-03:00; Fr,Sa 12:00-05:00"

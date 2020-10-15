@@ -1,4 +1,4 @@
 ---
 title: Rösrath
-url: "/roesrath/"
+url: /roesrath/
 ---

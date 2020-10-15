@@ -1,4 +1,4 @@
 ---
-title: Hakan Döner
-url: "/torgau/hakan-doener/"
+title: "Hakan Döner"
+url: /torgau/hakan-doener/
 ---

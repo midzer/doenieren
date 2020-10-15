@@ -1,9 +1,9 @@
 id: 1281204821
 latitude: 54.1737727
 longitude: 10.044396500000001
-postcode: 24582
+postcode: "24582"
 city: Bordesholm
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 32
 phone: ""
 opening_hours: "12:00-21:45"

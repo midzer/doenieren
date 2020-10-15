@@ -1,4 +1,4 @@
 ---
-title: Troja Grill
-url: "/paderborn/troja-grill/"
+title: "Troja Grill"
+url: /paderborn/troja-grill/
 ---

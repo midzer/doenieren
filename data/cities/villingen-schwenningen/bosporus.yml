@@ -1,9 +1,9 @@
 id: 1467572350
 latitude: 48.0617436
 longitude: 8.530996700000001
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
-street: Alleenstraße
+street: "Alleenstraße"
 housenumber: 2
 phone: "+49 7720 2369194"
 opening_hours: "Mo-Fr 11:30-15:00,17:00-24:00, Sa,Su,PH 12:00-24:00"

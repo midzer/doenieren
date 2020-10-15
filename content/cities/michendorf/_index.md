@@ -1,4 +1,4 @@
 ---
 title: Michendorf
-url: "/michendorf/"
+url: /michendorf/
 ---

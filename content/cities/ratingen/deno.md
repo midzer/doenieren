@@ -1,4 +1,4 @@
 ---
-title: Deno
-url: "/ratingen/deno/"
+title: "Deno"
+url: /ratingen/deno/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Roßwein
-url: "/rosswein/"
+url: /rosswein/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Özkans Dönerhaus
-url: "/gemuenden-am-main/oezkans-doenerhaus/"
+title: "Özkans Dönerhaus"
+url: /gemuenden-am-main/oezkans-doenerhaus/
 ---

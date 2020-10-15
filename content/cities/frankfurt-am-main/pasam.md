@@ -1,4 +1,4 @@
 ---
-title: PAŞAM
-url: "/frankfurt-am-main/pasam/"
+title: "PAŞAM"
+url: /frankfurt-am-main/pasam/
 ---

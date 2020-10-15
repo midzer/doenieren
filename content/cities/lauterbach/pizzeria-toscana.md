@@ -1,4 +1,4 @@
 ---
-title: Pizzeria Toscana
-url: "/lauterbach/pizzeria-toscana/"
+title: "Pizzeria Toscana"
+url: /lauterbach/pizzeria-toscana/
 ---

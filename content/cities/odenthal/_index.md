@@ -1,4 +1,4 @@
 ---
 title: Odenthal
-url: "/odenthal/"
+url: /odenthal/
 ---

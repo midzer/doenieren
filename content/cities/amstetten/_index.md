@@ -1,0 +1,4 @@
+---
+title: Amstetten
+url: /amstetten/
+---

@@ -1,4 +1,4 @@
 ---
 title: Rendsburg
-url: "/rendsburg/"
+url: /rendsburg/
 ---

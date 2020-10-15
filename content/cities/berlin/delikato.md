@@ -1,4 +1,4 @@
 ---
-title: delikato
-url: "/berlin/delikato/"
+title: "delikato"
+url: /berlin/delikato/
 ---

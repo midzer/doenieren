@@ -1,10 +1,10 @@
 id: 290652044
 latitude: 50.5892126
 longitude: 8.675661700000001
-postcode: 35390
+postcode: "35390"
 city: Gießen
-street: Asterweg
+street: "Asterweg"
 housenumber: 10
 phone: "+49 641 9311967"
-opening_hours: ""
+opening_hours: "Mo-Su,PH 09:00-05:00"
 website: "http://www.megatandur.de/"

@@ -1,9 +1,9 @@
 id: 6934077253
 latitude: 50.102145500000006
 longitude: 8.545617400000001
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
-street: Albanusstraße
+street: "Albanusstraße"
 housenumber: 40
 phone: "+4969306624"
 opening_hours: "Mo-Su 08:00-01:00"

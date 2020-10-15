@@ -1,4 +1,4 @@
 ---
-title: Orient Grill
-url: "/linden/orient-grill/"
+title: "Orient Grill"
+url: /linden/orient-grill/
 ---

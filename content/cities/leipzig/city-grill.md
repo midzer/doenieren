@@ -1,4 +1,4 @@
 ---
-title: City Grill
-url: "/leipzig/city-grill/"
+title: "City Grill"
+url: /leipzig/city-grill/
 ---

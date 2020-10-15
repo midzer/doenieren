@@ -1,4 +1,4 @@
 ---
-title: Schwarzes Meer
-url: "/duesseldorf/schwarzes-meer/"
+title: "Schwarzes Meer"
+url: /duesseldorf/schwarzes-meer/
 ---

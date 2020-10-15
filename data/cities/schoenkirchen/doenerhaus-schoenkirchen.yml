@@ -1,9 +1,9 @@
 id: 1652825452
 latitude: 54.3278716
 longitude: 10.204323800000001
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
-street: Anschützstraße
+street: "Anschützstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Su 11:00-22:00"

@@ -1,4 +1,4 @@
 ---
-title: Sultan Grill
-url: "/unkel/sultan-grill/"
+title: "Sultan Grill"
+url: /unkel/sultan-grill/
 ---

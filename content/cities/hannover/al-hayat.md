@@ -1,4 +1,4 @@
 ---
-title: Al Hayat
-url: "/hannover/al-hayat/"
+title: "Al Hayat"
+url: /hannover/al-hayat/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Gaziantep
-url: "/stuttgart/gaziantep/"
+title: "Gaziantep"
+url: /stuttgart/gaziantep/
 ---

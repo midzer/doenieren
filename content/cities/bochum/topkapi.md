@@ -1,4 +1,4 @@
 ---
-title: Topkapi
-url: "/bochum/topkapi/"
+title: "Topkapi"
+url: /bochum/topkapi/
 ---

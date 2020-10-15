@@ -1,4 +1,4 @@
 ---
-title: Mezopotamya Kebap
-url: "/bremervoerde/mezopotamya-kebap/"
+title: "Mezopotamya Kebap"
+url: /bremervoerde/mezopotamya-kebap/
 ---

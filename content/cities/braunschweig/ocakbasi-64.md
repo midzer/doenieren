@@ -1,4 +1,4 @@
 ---
-title: Ocakbasi 64
-url: "/braunschweig/ocakbasi-64/"
+title: "Ocakbasi 64"
+url: /braunschweig/ocakbasi-64/
 ---

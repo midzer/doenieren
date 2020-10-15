@@ -1,4 +1,4 @@
 ---
 title: Petersberg
-url: "/petersberg/"
+url: /petersberg/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Side Döner
-url: "/hattingen/side-doener/"
+title: "Side Döner"
+url: /hattingen/side-doener/
 ---

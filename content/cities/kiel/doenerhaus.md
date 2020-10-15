@@ -1,4 +1,4 @@
 ---
-title: Dönerhaus
-url: "/kiel/doenerhaus/"
+title: "Dönerhaus"
+url: /kiel/doenerhaus/
 ---

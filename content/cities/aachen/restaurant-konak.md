@@ -1,4 +1,4 @@
 ---
-title: Restaurant Konak
-url: "/aachen/restaurant-konak/"
+title: "Restaurant Konak"
+url: /aachen/restaurant-konak/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Klasse Imbiss
-url: "/nuernberg/klasse-imbiss/"
+title: "Klasse Imbiss"
+url: /nuernberg/klasse-imbiss/
 ---

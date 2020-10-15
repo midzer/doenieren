@@ -1,4 +1,4 @@
 ---
-title: Imbiss Hofmann
-url: "/butzbach/imbiss-hofmann/"
+title: "Imbiss Hofmann"
+url: /butzbach/imbiss-hofmann/
 ---

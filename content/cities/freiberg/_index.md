@@ -1,4 +1,4 @@
 ---
 title: Freiberg
-url: "/freiberg/"
+url: /freiberg/
 ---

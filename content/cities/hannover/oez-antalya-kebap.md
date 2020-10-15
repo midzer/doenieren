@@ -1,4 +1,4 @@
 ---
-title: Öz Antalya Kebap
-url: "/hannover/oez-antalya-kebap/"
+title: "Öz Antalya Kebap"
+url: /hannover/oez-antalya-kebap/
 ---

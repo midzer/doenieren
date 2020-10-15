@@ -1,9 +1,9 @@
 id: 2058213294
 latitude: 50.063841700000005
 longitude: 8.5310276
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 6
 phone: "+49 6107 9896876"
 opening_hours: "Mo-Su 08:00-24:00"

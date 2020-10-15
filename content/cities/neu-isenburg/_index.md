@@ -1,4 +1,4 @@
 ---
 title: Neu-Isenburg
-url: "/neu-isenburg/"
+url: /neu-isenburg/
 ---

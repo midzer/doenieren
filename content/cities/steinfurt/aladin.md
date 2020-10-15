@@ -1,4 +1,4 @@
 ---
-title: Aladin
-url: "/steinfurt/aladin/"
+title: "Aladin"
+url: /steinfurt/aladin/
 ---

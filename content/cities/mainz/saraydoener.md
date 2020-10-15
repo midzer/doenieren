@@ -1,4 +1,4 @@
 ---
-title: SarayDöner
-url: "/mainz/saraydoener/"
+title: "SarayDöner"
+url: /mainz/saraydoener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Sahar Döner&Pizza
-url: "/augsburg/sahar-doenerundpizza/"
+title: "Sahar Döner&Pizza"
+url: /augsburg/sahar-doenerundpizza/
 ---

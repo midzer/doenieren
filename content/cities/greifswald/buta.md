@@ -1,4 +1,4 @@
 ---
-title: Buta
-url: "/greifswald/buta/"
+title: "Buta"
+url: /greifswald/buta/
 ---

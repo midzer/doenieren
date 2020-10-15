@@ -1,9 +1,9 @@
 id: 3012067981
 latitude: 49.12471540000001
 longitude: 8.5913733
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 7
 phone: ""
 opening_hours: ""

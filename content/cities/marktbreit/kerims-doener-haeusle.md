@@ -1,4 +1,4 @@
 ---
-title: Kerim's Döner Häusle
-url: "/marktbreit/kerims-doener-haeusle/"
+title: "Kerim's Döner Häusle"
+url: /marktbreit/kerims-doener-haeusle/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Ogaret Grill
-url: "/idar-oberstein/ogaret-grill/"
+title: "Ogaret Grill"
+url: /idar-oberstein/ogaret-grill/
 ---

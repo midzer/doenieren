@@ -1,4 +1,4 @@
 ---
-title: La Turka
-url: "/essen/la-turka/"
+title: "La Turka"
+url: /essen/la-turka/
 ---

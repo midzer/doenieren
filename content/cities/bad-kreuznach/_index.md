@@ -1,4 +1,4 @@
 ---
 title: Bad Kreuznach
-url: "/bad-kreuznach/"
+url: /bad-kreuznach/
 ---

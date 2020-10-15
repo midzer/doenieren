@@ -1,9 +1,9 @@
 id: 1583637900
 latitude: 48.896007600000004
 longitude: 8.7066867
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
-street: Christophallee
+street: "Christophallee"
 housenumber: 15
 phone: "+49 7231 4252485"
 opening_hours: "Mo-Th 10:00-02:00, Fr-Sa 10:00-03:00, Su 10:00-02:00"

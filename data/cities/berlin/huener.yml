@@ -1,9 +1,9 @@
 id: 4415604079
 latitude: 52.510395800000005
 longitude: 13.305337000000002
-postcode: 10627
+postcode: "10627"
 city: Berlin
-street: Wilmersdorfer Straße
+street: "Wilmersdorfer Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

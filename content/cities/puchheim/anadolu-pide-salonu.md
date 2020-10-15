@@ -1,4 +1,4 @@
 ---
-title: Anadolu Pide Salonu
-url: "/puchheim/anadolu-pide-salonu/"
+title: "Anadolu Pide Salonu"
+url: /puchheim/anadolu-pide-salonu/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Stadtimbiss
-url: "/emmerich-am-rhein/stadtimbiss/"
+title: "Stadtimbiss"
+url: /emmerich-am-rhein/stadtimbiss/
 ---

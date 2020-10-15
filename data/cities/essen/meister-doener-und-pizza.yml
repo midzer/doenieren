@@ -1,9 +1,9 @@
 id: 1641975560
 latitude: 51.4168208
 longitude: 7.1210256
-postcode: 45289
+postcode: "45289"
 city: Essen
-street: Alte Hauptstraße
+street: "Alte Hauptstraße"
 housenumber: 11
 phone: "+492015457962"
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-21:30"

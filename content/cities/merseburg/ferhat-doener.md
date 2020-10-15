@@ -1,4 +1,4 @@
 ---
-title: Ferhat Döner
-url: "/merseburg/ferhat-doener/"
+title: "Ferhat Döner"
+url: /merseburg/ferhat-doener/
 ---

@@ -1,4 +1,4 @@
 ---
-title: Das Kumpirhaus
-url: "/rostock/das-kumpirhaus/"
+title: "Das Kumpirhaus"
+url: /rostock/das-kumpirhaus/
 ---

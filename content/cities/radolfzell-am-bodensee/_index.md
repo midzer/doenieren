@@ -1,4 +1,4 @@
 ---
 title: Radolfzell am Bodensee
-url: "/radolfzell-am-bodensee/"
+url: /radolfzell-am-bodensee/
 ---

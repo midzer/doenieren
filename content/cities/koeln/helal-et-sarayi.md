@@ -1,4 +1,4 @@
 ---
-title: Helal Et Sarayi
-url: "/koeln/helal-et-sarayi/"
+title: "Helal Et Sarayi"
+url: /koeln/helal-et-sarayi/
 ---

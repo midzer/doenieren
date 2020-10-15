@@ -1,4 +1,4 @@
 ---
-title: Antalya
-url: "/zwickau/antalya/"
+title: "Antalya"
+url: /zwickau/antalya/
 ---

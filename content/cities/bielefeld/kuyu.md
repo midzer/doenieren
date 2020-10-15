@@ -1,4 +1,4 @@
 ---
-title: Kuyu
-url: "/bielefeld/kuyu/"
+title: "Kuyu"
+url: /bielefeld/kuyu/
 ---

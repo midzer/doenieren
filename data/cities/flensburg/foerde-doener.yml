@@ -1,9 +1,9 @@
 id: 1557973973
 latitude: 54.816180300000006
 longitude: 9.4717216
-postcode: 24944
+postcode: "24944"
 city: Flensburg
-street: Fördestraße
+street: "Fördestraße"
 housenumber: 63
 phone: "+49 461 3134743"
 opening_hours: "Mo-Fr 11:00-22:00; Su 12:00-22:00; Sa,PH off"

@@ -1,4 +1,4 @@
 ---
 title: Hattingen
-url: "/hattingen/"
+url: /hattingen/
 ---

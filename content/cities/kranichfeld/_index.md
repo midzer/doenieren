@@ -1,4 +1,4 @@
 ---
 title: Kranichfeld
-url: "/kranichfeld/"
+url: /kranichfeld/
 ---

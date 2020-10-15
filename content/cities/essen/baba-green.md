@@ -1,4 +1,4 @@
 ---
-title: Baba Green
-url: "/essen/baba-green/"
+title: "Baba Green"
+url: /essen/baba-green/
 ---

@@ -1,9 +1,9 @@
 id: 241793031
 latitude: 51.2235133
 longitude: 6.7961565
-postcode: 40210
+postcode: "40210"
 city: Düsseldorf
-street: Worringer Platz
+street: "Worringer Platz"
 housenumber: 8
 phone: ""
 opening_hours: ""

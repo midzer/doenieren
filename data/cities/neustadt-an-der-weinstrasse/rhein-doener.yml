@@ -1,9 +1,9 @@
 id: 1836916607
 latitude: 49.3519506
 longitude: 8.139794100000001
-postcode: 67433
+postcode: "67433"
 city: Neustadt an der Weinstraße
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th,PH 10:00-23:00; Fr-Sa 10:00-00:00; Su off"

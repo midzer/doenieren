@@ -1,9 +1,9 @@
 id: 1695262583
 latitude: 48.362544
 longitude: 10.868184000000001
-postcode: 86157
+postcode: "86157"
 city: Augsburg
-street: Stadtberger Straße
+street: "Stadtberger Straße"
 housenumber: 4 1/2
 phone: ""
 opening_hours: "Mo-Su 09:00-23:00"

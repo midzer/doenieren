@@ -1,4 +1,4 @@
 ---
 title: Meldorf
-url: "/meldorf/"
+url: /meldorf/
 ---

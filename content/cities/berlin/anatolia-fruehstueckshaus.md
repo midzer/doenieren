@@ -1,4 +1,4 @@
 ---
-title: Anatolia Frühstückshaus
-url: "/berlin/anatolia-fruehstueckshaus/"
+title: "Anatolia Frühstückshaus"
+url: /berlin/anatolia-fruehstueckshaus/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Billigheim-Ingenheim
-url: "/billigheim-ingenheim/"
+url: /billigheim-ingenheim/
 ---

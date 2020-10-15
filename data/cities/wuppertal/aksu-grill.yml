@@ -1,9 +1,9 @@
 id: 4255521274
 latitude: 51.2264247
 longitude: 7.1980883
-postcode: 42369
+postcode: "42369"
 city: Wuppertal
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 12:00-22:00; Sa-Su 13:00-22:00"

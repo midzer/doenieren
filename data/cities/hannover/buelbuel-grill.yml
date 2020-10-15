@@ -1,9 +1,9 @@
 id: 1565341492
 latitude: 52.333282700000005
 longitude: 9.6902673
-postcode: 30457
+postcode: "30457"
 city: Hannover
-street: Tresckowstraße
+street: "Tresckowstraße"
 housenumber: 187
 phone: ""
 opening_hours: ""

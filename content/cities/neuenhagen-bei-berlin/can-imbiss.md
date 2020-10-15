@@ -1,4 +1,4 @@
 ---
-title: Can Imbiss
-url: "/neuenhagen-bei-berlin/can-imbiss/"
+title: "Can Imbiss"
+url: /neuenhagen-bei-berlin/can-imbiss/
 ---

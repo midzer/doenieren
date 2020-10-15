@@ -1,9 +1,9 @@
 id: 656479251
 latitude: 51.028913800000005
 longitude: 13.706437600000001
-postcode: 01187
+postcode: "01187"
 city: Dresden
-street: Coschützer Straße
+street: "Coschützer Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:30-23:00; Sa,Su 11:00-23:00"

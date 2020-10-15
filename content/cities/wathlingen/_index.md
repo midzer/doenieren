@@ -1,4 +1,4 @@
 ---
 title: Wathlingen
-url: "/wathlingen/"
+url: /wathlingen/
 ---

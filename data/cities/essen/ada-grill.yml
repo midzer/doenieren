@@ -1,9 +1,9 @@
 id: 476450302
 latitude: 51.3902682
 longitude: 7.082818700000001
-postcode: 45257
+postcode: "45257"
 city: Essen
-street: Kupferdreher Straße
+street: "Kupferdreher Straße"
 housenumber: 174
 phone: ""
 opening_hours: ""

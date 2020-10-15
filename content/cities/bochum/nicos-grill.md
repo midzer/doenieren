@@ -1,4 +1,4 @@
 ---
-title: Nico's Grill
-url: "/bochum/nicos-grill/"
+title: "Nico's Grill"
+url: /bochum/nicos-grill/
 ---

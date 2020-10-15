@@ -1,4 +1,4 @@
 ---
-title: König Kebap
-url: "/kempten-allgaeu/koenig-kebap/"
+title: "König Kebap"
+url: /kempten-allgaeu/koenig-kebap/
 ---

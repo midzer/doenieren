@@ -1,4 +1,4 @@
 ---
 title: Königstein im Taunus
-url: "/koenigstein-im-taunus/"
+url: /koenigstein-im-taunus/
 ---

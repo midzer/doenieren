@@ -1,4 +1,4 @@
 ---
 title: Gladenbach
-url: "/gladenbach/"
+url: /gladenbach/
 ---

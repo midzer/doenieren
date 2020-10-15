@@ -1,4 +1,4 @@
 ---
-title: Abi-El Pascha Bistro
-url: "/riesa/abi-el-pascha-bistro/"
+title: "Abi-El Pascha Bistro"
+url: /riesa/abi-el-pascha-bistro/
 ---

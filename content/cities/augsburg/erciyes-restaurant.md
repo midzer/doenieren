@@ -1,4 +1,4 @@
 ---
-title: Erciyes Restaurant
-url: "/augsburg/erciyes-restaurant/"
+title: "Erciyes Restaurant"
+url: /augsburg/erciyes-restaurant/
 ---

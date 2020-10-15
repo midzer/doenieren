@@ -1,4 +1,4 @@
 ---
-title: Kristall Kebaphaus
-url: "/bremen/kristall-kebaphaus/"
+title: "Kristall Kebaphaus"
+url: /bremen/kristall-kebaphaus/
 ---

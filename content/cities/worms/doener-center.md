@@ -1,4 +1,4 @@
 ---
-title: Döner Center
-url: "/worms/doener-center/"
+title: "Döner Center"
+url: /worms/doener-center/
 ---
