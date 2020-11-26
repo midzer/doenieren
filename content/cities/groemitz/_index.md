@@ -1,4 +1,0 @@
----
-title: Grömitz
-url: /groemitz/
----

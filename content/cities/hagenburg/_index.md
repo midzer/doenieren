@@ -1,0 +1,4 @@
+---
+title: Hagenburg
+url: /hagenburg/
+---

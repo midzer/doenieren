@@ -1,0 +1,4 @@
+---
+title: Laupheim
+url: /laupheim/
+---
