@@ -1,4 +1,0 @@
----
-title: Weinheim
-url: /weinheim/
----

@@ -1,0 +1,4 @@
+---
+title: Gaggenau
+url: /gaggenau/
+---

@@ -1,4 +1,0 @@
----
-title: Überlingen
-url: /ueberlingen/
----

@@ -1,0 +1,4 @@
+---
+title: Bobingen
+url: /bobingen/
+---

@@ -1,4 +1,4 @@
 ---
-title: "KEBAB 63"
+title: "Kebab 63"
 url: /langelsheim/kebab-63/
 ---

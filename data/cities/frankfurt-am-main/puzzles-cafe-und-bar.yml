@@ -6,5 +6,5 @@ city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 253
 phone: "+49 69 76065249"
-opening_hours: "Su-Th,PH 09:00-22:00; Fr 09:00-24:00; Sa 09:00-14:00,18:00-24:00"
+opening_hours: "Tu-Th 09:00-22:00; Fr,Sa 09:00-24:00; Su,Mo off"
 website: ""
