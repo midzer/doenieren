@@ -1,0 +1,4 @@
+---
+title: Dischingen
+url: /dischingen/
+---

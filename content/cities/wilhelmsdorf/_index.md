@@ -1,4 +1,0 @@
----
-title: Wilhelmsdorf
-url: /wilhelmsdorf/
----

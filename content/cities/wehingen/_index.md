@@ -1,0 +1,4 @@
+---
+title: Wehingen
+url: /wehingen/
+---

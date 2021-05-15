@@ -1,0 +1,4 @@
+---
+title: Lauterach
+url: /lauterach/
+---

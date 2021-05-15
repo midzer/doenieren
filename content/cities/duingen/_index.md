@@ -1,0 +1,4 @@
+---
+title: Duingen
+url: /duingen/
+---

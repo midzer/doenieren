@@ -1,0 +1,4 @@
+---
+title: Golßen
+url: /golssen/
+---

@@ -1,4 +1,0 @@
----
-title: Kornwestheim
-url: /kornwestheim/
----

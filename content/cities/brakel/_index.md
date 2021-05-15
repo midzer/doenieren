@@ -1,4 +1,0 @@
----
-title: Brakel
-url: /brakel/
----

@@ -1,0 +1,4 @@
+---
+title: Lich
+url: /lich/
+---

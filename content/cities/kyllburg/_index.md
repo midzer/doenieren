@@ -1,4 +1,0 @@
----
-title: Kyllburg
-url: /kyllburg/
----
