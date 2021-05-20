@@ -15,4 +15,10 @@
     @media (min-width: 992px) {
         columns: 5;
     }
+
+    > li {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
 }
