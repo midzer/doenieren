@@ -1,4 +1,0 @@
----
-title: Vreden
-url: /vreden/
----

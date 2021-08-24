@@ -1,0 +1,4 @@
+---
+title: Meckenbeuren
+url: /meckenbeuren/
+---

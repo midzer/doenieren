@@ -1,0 +1,4 @@
+---
+title: Ludwigsburg
+url: /ludwigsburg/
+---

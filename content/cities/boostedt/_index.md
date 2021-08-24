@@ -1,0 +1,4 @@
+---
+title: Boostedt
+url: /boostedt/
+---

@@ -1,0 +1,4 @@
+---
+title: Maintal
+url: /maintal/
+---

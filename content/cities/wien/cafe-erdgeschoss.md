@@ -1,4 +1,4 @@
 ---
-title: "Café erdgeschoss"
+title: "Café Erdgeschoss"
 url: /wien/cafe-erdgeschoss/
 ---

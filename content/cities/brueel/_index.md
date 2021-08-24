@@ -1,0 +1,4 @@
+---
+title: Brüel
+url: /brueel/
+---

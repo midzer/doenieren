@@ -1,0 +1,4 @@
+---
+title: Kappelrodeck
+url: /kappelrodeck/
+---

@@ -1,4 +1,0 @@
----
-title: Urmitz
-url: /urmitz/
----

@@ -1,4 +1,0 @@
----
-title: Herford
-url: /herford/
----

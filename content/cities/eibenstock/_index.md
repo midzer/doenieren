@@ -1,0 +1,4 @@
+---
+title: Eibenstock
+url: /eibenstock/
+---
