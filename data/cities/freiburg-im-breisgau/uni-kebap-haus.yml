@@ -6,5 +6,5 @@ city: Freiburg im Breisgau
 street: "Löwenstraße"
 housenumber: 4
 phone: "+497612852833"
-opening_hours: "Mo-Th,Su 10:00-03:00, Fr,Sa 10:00-05:00"
+opening_hours: "Mo-Su 10:00-24:00, Mo-Fr 00:00-03:00, Sa-Su 00:00-05:00"
 website: ""

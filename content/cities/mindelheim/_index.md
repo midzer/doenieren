@@ -1,0 +1,4 @@
+---
+title: Mindelheim
+url: /mindelheim/
+---

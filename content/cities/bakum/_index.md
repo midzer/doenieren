@@ -1,0 +1,4 @@
+---
+title: Bakum
+url: /bakum/
+---

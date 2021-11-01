@@ -1,4 +1,0 @@
----
-title: Ubstadt
-url: /ubstadt/
----

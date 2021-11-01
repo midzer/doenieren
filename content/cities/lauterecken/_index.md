@@ -1,0 +1,4 @@
+---
+title: Lauterecken
+url: /lauterecken/
+---

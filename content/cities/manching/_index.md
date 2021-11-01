@@ -1,4 +1,0 @@
----
-title: Manching
-url: /manching/
----
