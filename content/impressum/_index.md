@@ -20,7 +20,7 @@ Dennis Rohner
 
 Telefon: 08131 356 52 18
 
-E-Mail: dennis<span hidden>.nospam</span>@rohner.io
+E-Mail: {{< email >}}
 
 Quelle: [http://www.e-recht24.de](http://www.e-recht24.de)
 
