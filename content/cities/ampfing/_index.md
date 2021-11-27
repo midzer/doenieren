@@ -1,0 +1,4 @@
+---
+title: Ampfing
+url: /ampfing/
+---

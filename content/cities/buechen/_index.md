@@ -1,0 +1,4 @@
+---
+title: Büchen
+url: /buechen/
+---

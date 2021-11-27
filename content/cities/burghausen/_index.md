@@ -1,0 +1,4 @@
+---
+title: Burghausen
+url: /burghausen/
+---

@@ -1,0 +1,4 @@
+---
+title: Gföhl
+url: /gfoehl/
+---

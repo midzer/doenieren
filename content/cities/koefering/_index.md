@@ -1,0 +1,4 @@
+---
+title: Köfering
+url: /koefering/
+---

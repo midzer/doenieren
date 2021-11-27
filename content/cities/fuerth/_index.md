@@ -1,0 +1,4 @@
+---
+title: Fürth
+url: /fuerth/
+---

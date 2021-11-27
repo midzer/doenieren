@@ -1,0 +1,4 @@
+---
+title: Kitzingen
+url: /kitzingen/
+---

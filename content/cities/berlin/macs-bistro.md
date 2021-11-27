@@ -1,4 +1,4 @@
 ---
-title: "Mac’s Bistro"
+title: "Mac's Bistro"
 url: /berlin/macs-bistro/
 ---

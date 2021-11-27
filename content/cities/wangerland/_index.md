@@ -1,0 +1,4 @@
+---
+title: Wangerland
+url: /wangerland/
+---

@@ -1,0 +1,4 @@
+---
+title: Waizenkirchen
+url: /waizenkirchen/
+---

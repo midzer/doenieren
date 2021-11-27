@@ -1,0 +1,4 @@
+---
+title: Friesoythe
+url: /friesoythe/
+---

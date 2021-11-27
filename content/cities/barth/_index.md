@@ -1,0 +1,4 @@
+---
+title: Barth
+url: /barth/
+---

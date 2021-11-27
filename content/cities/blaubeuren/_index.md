@@ -1,0 +1,4 @@
+---
+title: Blaubeuren
+url: /blaubeuren/
+---

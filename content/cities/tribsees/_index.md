@@ -1,0 +1,4 @@
+---
+title: Tribsees
+url: /tribsees/
+---

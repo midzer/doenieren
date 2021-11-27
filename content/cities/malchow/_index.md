@@ -1,0 +1,4 @@
+---
+title: Malchow
+url: /malchow/
+---

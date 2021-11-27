@@ -1,0 +1,4 @@
+---
+title: Würenlingen
+url: /wuerenlingen/
+---

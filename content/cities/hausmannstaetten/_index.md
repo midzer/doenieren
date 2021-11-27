@@ -1,0 +1,4 @@
+---
+title: Hausmannstätten
+url: /hausmannstaetten/
+---

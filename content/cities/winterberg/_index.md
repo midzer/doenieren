@@ -1,0 +1,4 @@
+---
+title: Winterberg
+url: /winterberg/
+---

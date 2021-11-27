@@ -1,0 +1,4 @@
+---
+title: Spangenberg
+url: /spangenberg/
+---

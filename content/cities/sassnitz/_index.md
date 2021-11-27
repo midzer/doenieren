@@ -1,0 +1,4 @@
+---
+title: Sassnitz
+url: /sassnitz/
+---

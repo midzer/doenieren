@@ -1,0 +1,4 @@
+---
+title: Muttenz
+url: /muttenz/
+---

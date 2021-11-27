@@ -1,0 +1,4 @@
+---
+title: Voitsberg
+url: /voitsberg/
+---

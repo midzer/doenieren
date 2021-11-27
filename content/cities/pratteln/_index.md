@@ -1,0 +1,4 @@
+---
+title: Pratteln
+url: /pratteln/
+---

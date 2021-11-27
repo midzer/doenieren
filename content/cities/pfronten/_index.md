@@ -1,0 +1,4 @@
+---
+title: Pfronten
+url: /pfronten/
+---

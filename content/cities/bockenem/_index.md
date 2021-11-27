@@ -1,0 +1,4 @@
+---
+title: Bockenem
+url: /bockenem/
+---

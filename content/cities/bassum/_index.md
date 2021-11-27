@@ -1,0 +1,4 @@
+---
+title: Bassum
+url: /bassum/
+---

@@ -1,0 +1,4 @@
+---
+title: Singhofen
+url: /singhofen/
+---

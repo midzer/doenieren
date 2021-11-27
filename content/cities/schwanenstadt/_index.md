@@ -1,0 +1,4 @@
+---
+title: Schwanenstadt
+url: /schwanenstadt/
+---

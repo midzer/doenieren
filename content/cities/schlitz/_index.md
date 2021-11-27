@@ -1,0 +1,4 @@
+---
+title: Schlitz
+url: /schlitz/
+---

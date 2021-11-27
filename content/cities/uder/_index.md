@@ -1,4 +1,0 @@
----
-title: Uder
-url: /uder/
----

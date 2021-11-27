@@ -1,0 +1,4 @@
+---
+title: Gerlafingen
+url: /gerlafingen/
+---

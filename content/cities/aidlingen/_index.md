@@ -1,0 +1,4 @@
+---
+title: Aidlingen
+url: /aidlingen/
+---

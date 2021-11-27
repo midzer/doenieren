@@ -1,0 +1,4 @@
+---
+title: Künzell
+url: /kuenzell/
+---

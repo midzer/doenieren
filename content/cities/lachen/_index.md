@@ -1,0 +1,4 @@
+---
+title: Lachen
+url: /lachen/
+---

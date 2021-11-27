@@ -1,0 +1,4 @@
+---
+title: Schneeberg
+url: /schneeberg/
+---

@@ -1,0 +1,4 @@
+---
+title: Luzern
+url: /luzern/
+---

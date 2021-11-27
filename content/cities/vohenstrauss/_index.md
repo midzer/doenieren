@@ -1,0 +1,4 @@
+---
+title: Vohenstrauß
+url: /vohenstrauss/
+---

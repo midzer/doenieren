@@ -1,0 +1,4 @@
+---
+title: Herzogenbuchsee
+url: /herzogenbuchsee/
+---

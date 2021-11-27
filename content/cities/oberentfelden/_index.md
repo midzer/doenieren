@@ -1,0 +1,4 @@
+---
+title: Oberentfelden
+url: /oberentfelden/
+---

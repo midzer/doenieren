@@ -1,0 +1,4 @@
+---
+title: Gmunden
+url: /gmunden/
+---

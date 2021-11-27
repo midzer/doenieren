@@ -1,4 +1,4 @@
 ---
-title: "Pizza Kebap Haus"
+title: "Pizza-Kebap-Haus"
 url: /heilbronn/pizza-kebap-haus/
 ---

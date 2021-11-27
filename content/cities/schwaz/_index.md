@@ -1,0 +1,4 @@
+---
+title: Schwaz
+url: /schwaz/
+---

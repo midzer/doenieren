@@ -1,0 +1,4 @@
+---
+title: Burghaun
+url: /burghaun/
+---

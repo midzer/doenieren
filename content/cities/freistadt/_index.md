@@ -1,0 +1,4 @@
+---
+title: Freistadt
+url: /freistadt/
+---

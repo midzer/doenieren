@@ -1,0 +1,4 @@
+---
+title: Ergoldsbach
+url: /ergoldsbach/
+---

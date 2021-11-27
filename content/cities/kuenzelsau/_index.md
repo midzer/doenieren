@@ -1,0 +1,4 @@
+---
+title: Künzelsau
+url: /kuenzelsau/
+---

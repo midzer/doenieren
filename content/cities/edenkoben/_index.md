@@ -1,0 +1,4 @@
+---
+title: Edenkoben
+url: /edenkoben/
+---

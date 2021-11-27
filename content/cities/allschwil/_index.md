@@ -1,0 +1,4 @@
+---
+title: Allschwil
+url: /allschwil/
+---

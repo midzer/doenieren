@@ -1,0 +1,4 @@
+---
+title: Weißenhorn
+url: /weissenhorn/
+---

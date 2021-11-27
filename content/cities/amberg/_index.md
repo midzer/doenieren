@@ -1,0 +1,4 @@
+---
+title: Amberg
+url: /amberg/
+---

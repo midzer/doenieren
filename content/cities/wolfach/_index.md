@@ -1,0 +1,4 @@
+---
+title: Wolfach
+url: /wolfach/
+---

@@ -1,0 +1,4 @@
+---
+title: Bönen
+url: /boenen/
+---

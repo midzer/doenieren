@@ -1,0 +1,4 @@
+---
+title: Guldental
+url: /guldental/
+---

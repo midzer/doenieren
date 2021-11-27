@@ -1,0 +1,4 @@
+---
+title: Rechtenbach
+url: /rechtenbach/
+---

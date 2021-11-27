@@ -6,5 +6,5 @@ city: Würzburg
 street: "Sanderstraße"
 housenumber: 15
 phone: ""
-opening_hours: "Su-Th 11:00-02:00, Fr,Sa 11:00-05:00"
+opening_hours: "Tu,We 11:00-02:00, Th-Sa 11:00-05:00, PH,Su 12:00-02:00; Mo off"
 website: ""

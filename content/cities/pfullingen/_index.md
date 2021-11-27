@@ -1,0 +1,4 @@
+---
+title: Pfullingen
+url: /pfullingen/
+---

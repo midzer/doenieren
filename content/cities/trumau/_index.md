@@ -1,0 +1,4 @@
+---
+title: Trumau
+url: /trumau/
+---

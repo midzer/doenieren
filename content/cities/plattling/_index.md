@@ -1,0 +1,4 @@
+---
+title: Plattling
+url: /plattling/
+---

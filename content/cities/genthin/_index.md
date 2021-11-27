@@ -1,0 +1,4 @@
+---
+title: Genthin
+url: /genthin/
+---

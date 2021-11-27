@@ -1,0 +1,4 @@
+---
+title: Gotha
+url: /gotha/
+---

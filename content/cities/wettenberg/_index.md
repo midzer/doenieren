@@ -1,0 +1,4 @@
+---
+title: Wettenberg
+url: /wettenberg/
+---

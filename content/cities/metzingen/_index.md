@@ -1,0 +1,4 @@
+---
+title: Metzingen
+url: /metzingen/
+---

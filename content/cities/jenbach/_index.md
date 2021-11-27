@@ -1,0 +1,4 @@
+---
+title: Jenbach
+url: /jenbach/
+---

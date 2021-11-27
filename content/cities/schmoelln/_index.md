@@ -1,0 +1,4 @@
+---
+title: Schmölln
+url: /schmoelln/
+---

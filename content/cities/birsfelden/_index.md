@@ -1,0 +1,4 @@
+---
+title: Birsfelden
+url: /birsfelden/
+---

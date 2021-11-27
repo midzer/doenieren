@@ -1,0 +1,4 @@
+---
+title: Waiblingen
+url: /waiblingen/
+---

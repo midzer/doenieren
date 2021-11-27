@@ -1,0 +1,4 @@
+---
+title: Laudenbach
+url: /laudenbach/
+---

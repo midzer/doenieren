@@ -1,0 +1,4 @@
+---
+title: Böklund
+url: /boeklund/
+---

@@ -1,0 +1,4 @@
+---
+title: Neulengbach
+url: /neulengbach/
+---

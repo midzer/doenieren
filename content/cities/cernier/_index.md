@@ -1,0 +1,4 @@
+---
+title: Cernier
+url: /cernier/
+---

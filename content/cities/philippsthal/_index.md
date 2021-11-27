@@ -1,0 +1,4 @@
+---
+title: Philippsthal
+url: /philippsthal/
+---

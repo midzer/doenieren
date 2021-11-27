@@ -1,0 +1,4 @@
+---
+title: Kappeln
+url: /kappeln/
+---

@@ -1,0 +1,4 @@
+---
+title: Bischoffen
+url: /bischoffen/
+---
