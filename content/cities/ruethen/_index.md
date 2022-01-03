@@ -1,0 +1,4 @@
+---
+title: Rüthen
+url: /ruethen/
+---

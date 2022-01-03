@@ -1,4 +1,0 @@
----
-title: Mainhausen
-url: /mainhausen/
----
