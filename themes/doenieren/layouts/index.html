@@ -3,7 +3,7 @@
 {{ partialCached "find-btn.html" . }}
 <p>Oder möchtest du dönieren in...</p>
 <input type="text" placeholder="Städte filtern..." aria-label="Städte filtern...">
-<ul class="cities-list">
+<ul class="columns">
   {{ range (.Site.GetPage "section" "cities").Sections }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
   {{ end }}

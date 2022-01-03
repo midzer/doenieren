@@ -13,7 +13,7 @@ Döner essen in {{ .Title }}
 {{ partialCached "find-btn.html" . }}
 <p>Du möchtest gerne in {{ .Title }} dönieren? Super Idee! Probiers doch mal bei</p>
 <input type="text" placeholder="Name filtern..." aria-label="Name filtern...">
-<ul>
+<ul class="columns">
 {{ range .RegularPages }}
   {{- $dir := replace .File.Dir "cities/" "" }}
   {{- $city := replace $dir "/" "" }}

@@ -1,24 +1,29 @@
-.cities-list {
-    columns: 2;
-    column-gap: 5px;
+.columns {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0.5rem;
     list-style: none;
     padding-left: 0;
+    max-height: 256px;
+    overflow-y: auto;
 
     @media (min-width: 576px) {
-        columns: 3;
+        grid-template-columns: repeat(3, 1fr);
     }
 
     @media (min-width: 768px) {
-        columns: 4;
+        grid-template-columns: repeat(4, 1fr);
     }
 
     @media (min-width: 992px) {
-        columns: 5;
+        grid-template-columns: repeat(5, 1fr);
     }
 
-    > li {
-        text-overflow: ellipsis;
-        white-space: nowrap;
-        overflow: hidden;
+    @media (min-width: 1200px) {
+        grid-template-columns: repeat(6, 1fr);
+    }
+    
+    li {
+        word-break: break-word;
     }
 }
