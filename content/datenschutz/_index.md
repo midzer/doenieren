@@ -14,7 +14,7 @@ Jakob-Schmid-Straße 38
 
 Deutschland
 
-E-Mailadresse: dennis@rohner.io
+E-Mailadresse: {{< email >}}
 
 Link zum Impressum: https://doenieren.in/impressum/
 
