@@ -1,4 +1,0 @@
----
-title: Eibelshausen
-url: /eibelshausen/
----

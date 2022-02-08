@@ -1,4 +1,0 @@
----
-title: Thun
-url: /thun/
----

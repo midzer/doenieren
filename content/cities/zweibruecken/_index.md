@@ -1,4 +1,0 @@
----
-title: Zweibrücken
-url: /zweibruecken/
----

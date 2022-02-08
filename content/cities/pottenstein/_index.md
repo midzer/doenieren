@@ -1,0 +1,4 @@
+---
+title: Pottenstein
+url: /pottenstein/
+---

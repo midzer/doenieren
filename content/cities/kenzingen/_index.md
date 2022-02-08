@@ -1,0 +1,4 @@
+---
+title: Kenzingen
+url: /kenzingen/
+---

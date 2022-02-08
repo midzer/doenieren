@@ -1,0 +1,4 @@
+---
+title: Langenzenn
+url: /langenzenn/
+---

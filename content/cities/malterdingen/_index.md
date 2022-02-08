@@ -1,0 +1,4 @@
+---
+title: Malterdingen
+url: /malterdingen/
+---

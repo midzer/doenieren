@@ -1,0 +1,4 @@
+---
+title: Ibbenbüren
+url: /ibbenbueren/
+---

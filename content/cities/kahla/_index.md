@@ -1,4 +1,0 @@
----
-title: Kahla
-url: /kahla/
----
