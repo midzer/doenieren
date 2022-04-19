@@ -1,0 +1,4 @@
+---
+title: Geretsried
+url: /geretsried/
+---

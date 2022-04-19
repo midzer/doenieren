@@ -1,4 +1,0 @@
----
-title: Ebikon
-url: /ebikon/
----

@@ -6,5 +6,5 @@ city: Berlin
 street: "Birkenstraße"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Su 16:00-0:00"
+opening_hours: "PH,Th-Su 16:00-24:00+"
 website: "https://www.osmanya.com"
