@@ -1,0 +1,4 @@
+---
+title: Sulgen
+url: /sulgen/
+---

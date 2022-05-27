@@ -1,4 +1,4 @@
 ---
-title: "Arkadas"
+title: "Arkadaş"
 url: /bern/arkadas/
 ---

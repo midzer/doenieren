@@ -1,4 +1,4 @@
 ---
-title: "David's Grill"
+title: "Davids Grill"
 url: /giessen/davids-grill/
 ---
