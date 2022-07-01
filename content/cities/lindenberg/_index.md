@@ -1,0 +1,4 @@
+---
+title: Lindenberg
+url: /lindenberg/
+---

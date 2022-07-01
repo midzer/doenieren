@@ -1,0 +1,4 @@
+---
+title: Weißenthurm
+url: /weissenthurm/
+---

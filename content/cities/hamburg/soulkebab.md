@@ -1,4 +1,4 @@
 ---
-title: "Soulkebab"
+title: "SoulKebab"
 url: /hamburg/soulkebab/
 ---

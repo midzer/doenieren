@@ -1,0 +1,4 @@
+---
+title: Barntrup
+url: /barntrup/
+---

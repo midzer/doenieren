@@ -1,0 +1,4 @@
+---
+title: Freudenburg
+url: /freudenburg/
+---

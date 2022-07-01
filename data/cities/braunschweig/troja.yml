@@ -6,5 +6,5 @@ city: Braunschweig
 street: "Bültenweg"
 housenumber: 6
 phone: "+49 531 33 23 27"
-opening_hours: "Mo-Th 15:00-24:00; Fr-Sa 15:00-02:00"
+opening_hours: "Mo,Tu,Th-Sa 17:00-22:30; Su 12:00-22:00; We off"
 website: ""

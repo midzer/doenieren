@@ -1,0 +1,4 @@
+---
+title: Vöhringen
+url: /voehringen/
+---

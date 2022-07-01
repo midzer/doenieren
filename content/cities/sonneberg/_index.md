@@ -1,0 +1,4 @@
+---
+title: Sonneberg
+url: /sonneberg/
+---

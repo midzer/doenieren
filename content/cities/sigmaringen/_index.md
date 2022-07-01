@@ -1,0 +1,4 @@
+---
+title: Sigmaringen
+url: /sigmaringen/
+---
