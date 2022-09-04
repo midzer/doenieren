@@ -1,0 +1,4 @@
+---
+title: Appenzell
+url: /appenzell/
+---

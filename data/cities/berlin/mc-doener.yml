@@ -6,5 +6,5 @@ city: Berlin
 street: "Alte Hellersdorfer Straße"
 housenumber: 102
 phone: ""
-opening_hours: "Mo-Su 08:00-01:00"
+opening_hours: "Mo-Su,PH 08:00-01:00"
 website: ""

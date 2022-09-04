@@ -1,4 +1,0 @@
----
-title: Zistersdorf
-url: /zistersdorf/
----

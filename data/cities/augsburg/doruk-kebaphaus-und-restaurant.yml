@@ -6,5 +6,5 @@ city: Augsburg
 street: "Gögginger Straße"
 housenumber: 50
 phone: "+49 821 99883245"
-opening_hours: "Mo-Sa 10:00-21:00; PH 11:00-21:00; PH Su off"
+opening_hours: "Mo-Fr 10:00-21:00; Su,PH 11:00-22:00; Sa off"
 website: "https://www.doruk-augsburg.de/"

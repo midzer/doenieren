@@ -1,4 +1,0 @@
----
-title: Grevenmacher
-url: /grevenmacher/
----

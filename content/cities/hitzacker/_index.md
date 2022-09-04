@@ -1,0 +1,4 @@
+---
+title: Hitzacker
+url: /hitzacker/
+---

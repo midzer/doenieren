@@ -1,4 +1,0 @@
----
-title: Wülknitz
-url: /wuelknitz/
----

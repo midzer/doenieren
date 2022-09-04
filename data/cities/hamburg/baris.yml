@@ -6,5 +6,5 @@ city: Hamburg
 street: "Lerchenfeld"
 housenumber: 48
 phone: "+49 40 2299055"
-opening_hours: "Tu-Su 12:00-24:00"
+opening_hours: "Tu-Sa 12:00-24:00; Su 12:00-24:00"
 website: ""

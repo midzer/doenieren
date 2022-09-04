@@ -1,4 +1,0 @@
----
-title: Remich
-url: /remich/
----

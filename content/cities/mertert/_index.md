@@ -1,4 +1,0 @@
----
-title: Mertert
-url: /mertert/
----

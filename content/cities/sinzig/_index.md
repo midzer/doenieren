@@ -1,0 +1,4 @@
+---
+title: Sinzig
+url: /sinzig/
+---

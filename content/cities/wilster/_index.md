@@ -1,0 +1,4 @@
+---
+title: Wilster
+url: /wilster/
+---

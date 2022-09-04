@@ -1,4 +1,0 @@
----
-title: Stein
-url: /stein/
----
