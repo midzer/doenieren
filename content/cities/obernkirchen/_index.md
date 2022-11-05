@@ -1,4 +1,0 @@
----
-title: Obernkirchen
-url: /obernkirchen/
----

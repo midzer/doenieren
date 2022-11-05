@@ -1,0 +1,4 @@
+---
+title: Gubin
+url: /gubin/
+---

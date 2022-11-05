@@ -1,0 +1,4 @@
+---
+title: Lugano
+url: /lugano/
+---

@@ -1,0 +1,4 @@
+---
+title: Schruns
+url: /schruns/
+---

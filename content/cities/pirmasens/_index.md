@@ -1,0 +1,4 @@
+---
+title: Pirmasens
+url: /pirmasens/
+---

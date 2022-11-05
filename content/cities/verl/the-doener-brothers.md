@@ -1,4 +1,4 @@
 ---
-title: "The Döner brothers"
+title: "The Döner Brothers"
 url: /verl/the-doener-brothers/
 ---

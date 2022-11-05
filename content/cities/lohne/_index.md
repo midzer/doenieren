@@ -1,0 +1,4 @@
+---
+title: Lohne
+url: /lohne/
+---

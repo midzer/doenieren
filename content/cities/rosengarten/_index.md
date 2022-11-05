@@ -1,0 +1,4 @@
+---
+title: Rosengarten
+url: /rosengarten/
+---

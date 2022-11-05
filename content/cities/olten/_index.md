@@ -1,0 +1,4 @@
+---
+title: Olten
+url: /olten/
+---

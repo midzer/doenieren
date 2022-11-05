@@ -6,5 +6,5 @@ city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 32
 phone: ""
-opening_hours: "Mo-We 10:00-03:00; Th-Sa 10:00-05:00; Su 12:00-01:00; PH Mo-We 12:00-03:00"
+opening_hours: "Mo-Th 10:00-24:00; Fr-Sa 10:00-05:00; Su,PH 12:00-24:00"
 website: ""
