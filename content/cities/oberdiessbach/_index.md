@@ -1,4 +1,0 @@
----
-title: Oberdiessbach
-url: /oberdiessbach/
----

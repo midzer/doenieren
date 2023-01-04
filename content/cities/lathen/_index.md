@@ -1,4 +1,0 @@
----
-title: Lathen
-url: /lathen/
----

@@ -1,0 +1,4 @@
+---
+title: Schömberg
+url: /schoemberg/
+---

@@ -1,0 +1,4 @@
+---
+title: Kronau
+url: /kronau/
+---

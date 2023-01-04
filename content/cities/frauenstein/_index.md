@@ -1,0 +1,4 @@
+---
+title: Frauenstein
+url: /frauenstein/
+---

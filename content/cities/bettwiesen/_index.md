@@ -1,0 +1,4 @@
+---
+title: Bettwiesen
+url: /bettwiesen/
+---

@@ -1,4 +1,4 @@
 ---
-title: "Alstercafe"
+title: "Alstercafé"
 url: /hamburg/alstercafe/
 ---

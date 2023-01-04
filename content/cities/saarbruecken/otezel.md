@@ -1,4 +1,4 @@
 ---
-title: "O'TEZEL"
+title: "O'Tezel"
 url: /saarbruecken/otezel/
 ---

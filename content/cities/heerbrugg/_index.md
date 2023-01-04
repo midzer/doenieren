@@ -1,0 +1,4 @@
+---
+title: Heerbrugg
+url: /heerbrugg/
+---
