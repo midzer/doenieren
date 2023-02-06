@@ -1,4 +1,0 @@
----
-title: Steinfeld
-url: /steinfeld/
----

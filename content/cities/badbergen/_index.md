@@ -1,4 +1,0 @@
----
-title: Badbergen
-url: /badbergen/
----

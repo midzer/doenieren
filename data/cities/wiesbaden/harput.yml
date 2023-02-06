@@ -6,5 +6,5 @@ city: Wiesbaden
 street: "Bleichstraße"
 housenumber: 9
 phone: "+49 611 40619"
-opening_hours: "Mo-Th 11:00-23:00; FR-SA 11:00-02:00; SU 11:00-23:00 PH off"
+opening_hours: "Mo-Th 11:00-23:00,Fr-Sa 11:00-02:00,Su 11:00-23:00; PH off"
 website: "https://www.harputrestaurant.de/"

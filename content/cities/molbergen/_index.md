@@ -1,4 +1,0 @@
----
-title: Molbergen
-url: /molbergen/
----

@@ -1,4 +1,0 @@
----
-title: Meinersen
-url: /meinersen/
----

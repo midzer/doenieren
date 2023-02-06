@@ -1,4 +1,0 @@
----
-title: Menteroda
-url: /menteroda/
----

@@ -1,4 +1,0 @@
----
-title: Blaustein
-url: /blaustein/
----

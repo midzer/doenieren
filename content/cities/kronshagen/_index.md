@@ -1,0 +1,4 @@
+---
+title: Kronshagen
+url: /kronshagen/
+---

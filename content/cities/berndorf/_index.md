@@ -1,0 +1,4 @@
+---
+title: Berndorf
+url: /berndorf/
+---
