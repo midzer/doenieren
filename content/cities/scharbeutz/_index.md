@@ -1,4 +1,0 @@
----
-title: Scharbeutz
-url: /scharbeutz/
----

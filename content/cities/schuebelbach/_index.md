@@ -1,0 +1,4 @@
+---
+title: Schübelbach
+url: /schuebelbach/
+---

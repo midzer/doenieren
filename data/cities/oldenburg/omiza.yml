@@ -6,5 +6,5 @@ city: Oldenburg
 street: "Peterstraße"
 housenumber: 46
 phone: "+49 441 40577621"
-opening_hours: "Mo-Su 12:00-21:30; Sa off"
+opening_hours: "Mo,Tu,Th 12:00-24:00; We off; Fr 12:00-02:00; Sa 16:00-02:00; Su,PH 16:00-24:00"
 website: "https://www.omiza.de"

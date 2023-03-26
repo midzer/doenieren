@@ -1,4 +1,0 @@
----
-title: Singen
-url: /singen/
----
