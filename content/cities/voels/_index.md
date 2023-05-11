@@ -1,0 +1,4 @@
+---
+title: Völs
+url: /voels/
+---

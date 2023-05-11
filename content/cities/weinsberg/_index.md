@@ -1,0 +1,4 @@
+---
+title: Weinsberg
+url: /weinsberg/
+---

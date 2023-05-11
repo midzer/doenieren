@@ -1,0 +1,4 @@
+---
+title: Lauta
+url: /lauta/
+---

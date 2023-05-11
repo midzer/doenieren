@@ -1,4 +1,4 @@
 ---
-title: "Musti’s Quick Kebap"
+title: "Mustis Quick Kebap"
 url: /berlin/mustis-quick-kebap/
 ---

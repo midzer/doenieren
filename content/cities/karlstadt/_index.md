@@ -1,0 +1,4 @@
+---
+title: Karlstadt
+url: /karlstadt/
+---

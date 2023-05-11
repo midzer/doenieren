@@ -1,4 +1,0 @@
----
-title: Sargans
-url: /sargans/
----

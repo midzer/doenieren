@@ -1,4 +1,4 @@
 ---
-title: "KEBAP PIZZA HOUSE"
+title: "Kebap Pizza House"
 url: /konstanz/kebap-pizza-house/
 ---

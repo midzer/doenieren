@@ -1,4 +1,0 @@
----
-title: Stadtsteinach
-url: /stadtsteinach/
----

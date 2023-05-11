@@ -1,0 +1,4 @@
+---
+title: Lauterhofen
+url: /lauterhofen/
+---
