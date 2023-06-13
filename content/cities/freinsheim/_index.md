@@ -1,0 +1,4 @@
+---
+title: Freinsheim
+url: /freinsheim/
+---

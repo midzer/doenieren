@@ -1,4 +1,0 @@
----
-title: Gleinstätten
-url: /gleinstaetten/
----

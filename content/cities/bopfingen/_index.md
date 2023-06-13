@@ -1,4 +1,0 @@
----
-title: Bopfingen
-url: /bopfingen/
----

@@ -6,5 +6,5 @@ city: Hamburg
 street: "Paul-Nevermann-Platz"
 housenumber: 2-4
 phone: "+49 40 30035826"
-opening_hours: "08:00-03:00"
+opening_hours: "Mo-Th 08:00-00:00; Fr,Sa,Su 08:00-03:00"
 website: "http://www.kozurfa.de"

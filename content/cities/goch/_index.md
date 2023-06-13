@@ -1,0 +1,4 @@
+---
+title: Goch
+url: /goch/
+---
