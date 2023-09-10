@@ -1,4 +1,0 @@
----
-title: Kamen
-url: /kamen/
----

@@ -1,4 +1,4 @@
 ---
-title: "Daggis Döner -Haus-"
+title: "Daggis Döner-Haus"
 url: /barsinghausen/daggis-doener-haus/
 ---

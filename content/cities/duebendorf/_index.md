@@ -1,4 +1,0 @@
----
-title: Dübendorf
-url: /duebendorf/
----

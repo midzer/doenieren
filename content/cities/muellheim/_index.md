@@ -1,4 +1,0 @@
----
-title: Müllheim
-url: /muellheim/
----

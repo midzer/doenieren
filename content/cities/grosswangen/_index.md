@@ -1,4 +1,0 @@
----
-title: Grosswangen
-url: /grosswangen/
----

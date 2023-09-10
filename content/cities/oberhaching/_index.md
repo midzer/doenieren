@@ -1,4 +1,0 @@
----
-title: Oberhaching
-url: /oberhaching/
----
