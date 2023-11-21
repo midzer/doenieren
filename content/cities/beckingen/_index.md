@@ -1,0 +1,4 @@
+---
+title: Beckingen
+url: /beckingen/
+---

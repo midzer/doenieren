@@ -1,4 +1,4 @@
 ---
-title: "Ye-Mc"
+title: "YE-MC"
 url: /berlin/ye-mc/
 ---

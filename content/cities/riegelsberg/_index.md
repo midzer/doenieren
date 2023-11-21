@@ -1,0 +1,4 @@
+---
+title: Riegelsberg
+url: /riegelsberg/
+---

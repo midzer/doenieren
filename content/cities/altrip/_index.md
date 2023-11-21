@@ -1,0 +1,4 @@
+---
+title: Altrip
+url: /altrip/
+---

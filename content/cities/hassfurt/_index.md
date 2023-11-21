@@ -1,4 +1,0 @@
----
-title: Haßfurt
-url: /hassfurt/
----

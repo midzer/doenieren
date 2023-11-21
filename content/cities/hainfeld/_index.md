@@ -1,4 +1,0 @@
----
-title: Hainfeld
-url: /hainfeld/
----

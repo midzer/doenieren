@@ -3,8 +3,8 @@ latitude: 50.1050157
 longitude: 8.758412400000001
 postcode: "63065"
 city: Offenbach am Main
-street: ""
-housenumber: 
+street: "Kaiserstraße"
+housenumber: 54
 phone: "+49 69 26095573"
-opening_hours: "Mo-Su 11:30-23:00"
-website: ""
+opening_hours: "Mo-Sa 10:00-23:30; Su 10:00-23:00"
+website: "https://anatolia-offenbach.de/home/"

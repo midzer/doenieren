@@ -1,0 +1,4 @@
+---
+title: Altenstadt
+url: /altenstadt/
+---

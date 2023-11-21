@@ -1,0 +1,4 @@
+---
+title: Klingenberg
+url: /klingenberg/
+---

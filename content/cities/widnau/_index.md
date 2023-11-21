@@ -1,0 +1,4 @@
+---
+title: Widnau
+url: /widnau/
+---

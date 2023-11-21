@@ -1,0 +1,4 @@
+---
+title: Freystadt
+url: /freystadt/
+---
