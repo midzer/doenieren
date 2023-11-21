@@ -4,7 +4,10 @@
 
 ## Locations
 
-All locations (nodes and ways) with `cuisine` == `kebab` or `turkish` are considered in preprocessing.
+For a location (node or way) to appear in `doenieren.in/<city>`, the following criteria must be met:
+
+1. The location's [`cuisine`](https://wiki.openstreetmap.org/wiki/Key:cuisine) value must contain `kebab` or `turkish`.
+2. The location's [`addr:city`](https://wiki.openstreetmap.org/wiki/Key:addr:city) value must equal `<city>`.
 
 ## Preprocessing
 
