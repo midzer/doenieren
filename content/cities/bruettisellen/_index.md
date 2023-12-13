@@ -1,0 +1,4 @@
+---
+title: Brüttisellen
+url: /bruettisellen/
+---

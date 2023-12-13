@@ -1,0 +1,4 @@
+---
+title: Bottrop
+url: /bottrop/
+---
