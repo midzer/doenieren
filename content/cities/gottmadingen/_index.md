@@ -1,4 +1,4 @@
 ---
 title: Gottmadingen
 url: /gottmadingen/
----
+---	

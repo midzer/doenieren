@@ -1,4 +1,4 @@
 ---
 title: Bamberg
 url: /bamberg/
----
+---	

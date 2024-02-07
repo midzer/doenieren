@@ -1,4 +1,4 @@
 ---
 title: Frick
 url: /frick/
----
+---	

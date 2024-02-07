@@ -1,4 +1,4 @@
 ---
 title: Freudenstadt
 url: /freudenstadt/
----
+---	

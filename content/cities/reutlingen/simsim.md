@@ -1,4 +1,4 @@
 ---
-title: "SIMSIM"
+title: "SimSim"
 url: /reutlingen/simsim/
 ---

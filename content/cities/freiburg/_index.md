@@ -1,4 +1,4 @@
 ---
 title: Freiburg
 url: /freiburg/
----
+---	

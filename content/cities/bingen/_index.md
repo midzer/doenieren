@@ -1,4 +1,4 @@
 ---
 title: Bingen
 url: /bingen/
----
+---	

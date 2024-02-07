@@ -1,4 +1,4 @@
 ---
 title: Blaubeuren
 url: /blaubeuren/
----
+---	

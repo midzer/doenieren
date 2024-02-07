@@ -1,0 +1,4 @@
+---
+title: Dingelstädt
+url: /dingelstaedt/
+---	

@@ -1,4 +1,4 @@
 ---
 title: Lauchringen
 url: /lauchringen/
----
+---	

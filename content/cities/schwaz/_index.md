@@ -1,4 +1,4 @@
 ---
 title: Schwaz
 url: /schwaz/
----
+---	

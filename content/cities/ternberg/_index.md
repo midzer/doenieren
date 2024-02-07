@@ -1,4 +1,4 @@
 ---
 title: Ternberg
 url: /ternberg/
----
+---	

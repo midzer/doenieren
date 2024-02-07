@@ -1,4 +1,4 @@
 ---
 title: Lausanne
 url: /lausanne/
----
+---	

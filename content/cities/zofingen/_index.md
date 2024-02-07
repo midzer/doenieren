@@ -1,4 +1,4 @@
 ---
 title: Zofingen
 url: /zofingen/
----
+---	

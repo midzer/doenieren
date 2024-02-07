@@ -1,4 +1,4 @@
 ---
 title: Laboe
 url: /laboe/
----
+---	

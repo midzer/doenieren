@@ -1,0 +1,4 @@
+---
+title: Suhl
+url: /suhl/
+---	

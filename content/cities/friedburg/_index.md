@@ -1,4 +1,4 @@
 ---
 title: Friedburg
 url: /friedburg/
----
+---	

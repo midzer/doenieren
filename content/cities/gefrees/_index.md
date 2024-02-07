@@ -1,4 +1,0 @@
----
-title: Gefrees
-url: /gefrees/
----

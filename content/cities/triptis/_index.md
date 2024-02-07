@@ -1,4 +1,4 @@
 ---
 title: Triptis
 url: /triptis/
----
+---	

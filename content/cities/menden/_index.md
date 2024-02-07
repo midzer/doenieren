@@ -1,4 +1,0 @@
----
-title: Menden
-url: /menden/
----

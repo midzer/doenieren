@@ -1,4 +1,4 @@
 ---
 title: Detmold
 url: /detmold/
----
+---	

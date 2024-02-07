@@ -1,4 +1,4 @@
 ---
 title: Boostedt
 url: /boostedt/
----
+---	

@@ -1,4 +1,4 @@
 ---
 title: Schwabmünchen
 url: /schwabmuenchen/
----
+---	

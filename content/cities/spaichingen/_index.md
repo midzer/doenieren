@@ -1,4 +1,4 @@
 ---
 title: Spaichingen
 url: /spaichingen/
----
+---	
