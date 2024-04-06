@@ -1,0 +1,4 @@
+---
+title: Grünberg
+url: /gruenberg/
+---	

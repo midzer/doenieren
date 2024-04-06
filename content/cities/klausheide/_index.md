@@ -1,4 +1,0 @@
----
-title: Klausheide
-url: /klausheide/
----	

@@ -1,4 +1,4 @@
 ---
-title: Buchs (SG)
+title: Buchs SG
 url: /buchs-sg/
 ---	

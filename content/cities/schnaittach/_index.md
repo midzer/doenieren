@@ -1,4 +1,0 @@
----
-title: Schnaittach
-url: /schnaittach/
----	

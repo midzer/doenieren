@@ -1,4 +1,0 @@
----
-title: Reckenfeld
-url: /reckenfeld/
----	

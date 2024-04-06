@@ -1,0 +1,4 @@
+---
+title: Solothurn
+url: /solothurn/
+---	

@@ -1,0 +1,4 @@
+---
+title: Schöningen
+url: /schoeningen/
+---	
