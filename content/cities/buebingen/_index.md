@@ -1,4 +1,0 @@
----
-title: Bübingen
-url: /buebingen/
----	

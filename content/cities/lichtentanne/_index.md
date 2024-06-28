@@ -1,4 +1,0 @@
----
-title: Lichtentanne
-url: /lichtentanne/
----	

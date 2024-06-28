@@ -1,4 +1,0 @@
----
-title: Datteln
-url: /datteln/
----	

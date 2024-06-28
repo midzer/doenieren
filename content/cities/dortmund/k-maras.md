@@ -1,4 +1,4 @@
 ---
-title: "K.Maraş"
+title: "K. Maraş"
 url: /dortmund/k-maras/
 ---

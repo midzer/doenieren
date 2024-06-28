@@ -6,5 +6,5 @@ city: Lohr am Main
 street: "Turmstraße"
 housenumber: 5
 phone: "+49 170 8947247"
-opening_hours: "Mo-Th 11:00-23:00; Su 12:00-22:00; Fr-Sa 11:00-01:00"
+opening_hours: "Mo-Th,Sa 11:00-23:00, Fr 11:00-01:00, Su 12:00-22:00"
 website: ""

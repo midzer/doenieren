@@ -1,0 +1,4 @@
+---
+title: Georgensgmünd
+url: /georgensgmuend/
+---	

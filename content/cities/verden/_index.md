@@ -1,4 +1,0 @@
----
-title: Verden
-url: /verden/
----	

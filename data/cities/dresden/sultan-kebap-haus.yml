@@ -6,5 +6,5 @@ city: Dresden
 street: "Borsbergstraße"
 housenumber: 27
 phone: ""
-opening_hours: "Mo-Sa 11:00-22:00; Su 11:00-22:00"
+opening_hours: "Mo-Su,PH 11:00-22:00"
 website: ""

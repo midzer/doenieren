@@ -1,4 +1,4 @@
 ---
-title: "CigköfteM"
+title: "Çiğköftem"
 url: /hamburg/cigkoeftem/
 ---

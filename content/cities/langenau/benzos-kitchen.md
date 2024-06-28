@@ -1,5 +1,4 @@
 ---
-title: "BENZO'S
-KITCHEN"
+title: "BENZO'S KITCHEN"
 url: /langenau/benzos-kitchen/
 ---

@@ -1,0 +1,4 @@
+---
+title: Strengelbach
+url: /strengelbach/
+---	

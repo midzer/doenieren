@@ -1,0 +1,4 @@
+---
+title: Bruckmühl
+url: /bruckmuehl/
+---	

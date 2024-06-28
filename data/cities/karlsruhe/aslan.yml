@@ -6,5 +6,5 @@ city: Karlsruhe
 street: "Auer Straße"
 housenumber: 76
 phone: "+49 721 4848475"
-opening_hours: "Mo-Fr 11:00-21:30; PH,Su 12:00-21:30; Sa off"
+opening_hours: "Mo-Fr 11:00-21:30; Sa,Su,PH 12:00-21:30"
 website: ""
