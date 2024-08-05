@@ -6,5 +6,5 @@ city: Berlin
 street: "Lückstraße"
 housenumber: 46
 phone: ""
-opening_hours: "PH,Mo-Su 12:00-23:00"
+opening_hours: "Mo-Su,PH 12:00-23:00"
 website: ""

@@ -1,4 +1,0 @@
----
-title: Guben
-url: /guben/
----	

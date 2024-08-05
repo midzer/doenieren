@@ -1,4 +1,0 @@
----
-title: Wilthen
-url: /wilthen/
----	

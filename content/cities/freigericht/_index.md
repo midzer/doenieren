@@ -1,0 +1,4 @@
+---
+title: Freigericht
+url: /freigericht/
+---	

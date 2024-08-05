@@ -1,4 +1,0 @@
----
-title: Hambrücken
-url: /hambruecken/
----	

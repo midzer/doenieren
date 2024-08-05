@@ -1,0 +1,4 @@
+---
+title: Wolgast
+url: /wolgast/
+---	

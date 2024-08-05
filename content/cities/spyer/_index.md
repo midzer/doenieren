@@ -1,4 +1,0 @@
----
-title: Spyer
-url: /spyer/
----	
