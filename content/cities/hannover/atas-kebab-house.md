@@ -1,4 +1,4 @@
 ---
-title: "Ata’s Kebab House"
+title: "Atas Kebab House"
 url: /hannover/atas-kebab-house/
 ---

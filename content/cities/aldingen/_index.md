@@ -1,0 +1,4 @@
+---
+title: Aldingen
+url: /aldingen/
+---	

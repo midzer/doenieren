@@ -1,4 +1,0 @@
----
-title: Hohenecken
-url: /hohenecken/
----	

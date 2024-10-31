@@ -1,4 +1,0 @@
----
-title: Auenwald
-url: /auenwald/
----	

@@ -1,4 +1,0 @@
----
-title: Schmitten
-url: /schmitten/
----	

@@ -1,4 +1,0 @@
----
-title: Bubikon
-url: /bubikon/
----	

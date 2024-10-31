@@ -1,4 +1,0 @@
----
-title: Simmershausen
-url: /simmershausen/
----	

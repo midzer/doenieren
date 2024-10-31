@@ -1,4 +1,0 @@
----
-title: Simmern
-url: /simmern/
----	

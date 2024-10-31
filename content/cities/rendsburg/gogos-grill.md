@@ -1,4 +1,4 @@
 ---
-title: "Gogo's Grill‎"
+title: "Gogo's Grill"
 url: /rendsburg/gogos-grill/
 ---

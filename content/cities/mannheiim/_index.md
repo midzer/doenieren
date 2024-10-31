@@ -1,4 +1,0 @@
----
-title: Mannheiim
-url: /mannheiim/
----	

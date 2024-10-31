@@ -1,4 +1,0 @@
----
-title: Hausen
-url: /hausen/
----	

@@ -1,4 +1,4 @@
 ---
-title: "Adana Grill"
+title: "AdanA Grill"
 url: /murg/adana-grill/
 ---

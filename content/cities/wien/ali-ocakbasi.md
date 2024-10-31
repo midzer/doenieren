@@ -1,4 +1,4 @@
 ---
-title: "Ali Ocakbasi"
+title: "Ali Ocakbaşi"
 url: /wien/ali-ocakbasi/
 ---

@@ -1,0 +1,4 @@
+---
+title: Menziken
+url: /menziken/
+---	

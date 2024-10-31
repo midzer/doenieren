@@ -1,0 +1,4 @@
+---
+title: Thusis
+url: /thusis/
+---	

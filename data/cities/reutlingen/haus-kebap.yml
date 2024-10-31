@@ -6,5 +6,5 @@ city: Reutlingen
 street: "Albstraße"
 housenumber: 24
 phone: "+49 7121 6953398"
-opening_hours: "Tu-Th 17:00-01:00; Fr,Sa 17:00-05:00; Su,Mo off"
+opening_hours: "Mo,Su off; Tu-Th 17:00-01:00; Fr-Sa 17:00-05:00"
 website: "https://haus-kebap-restaurant.business.site"

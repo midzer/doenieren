@@ -1,0 +1,4 @@
+---
+title: Hardt
+url: /hardt/
+---	

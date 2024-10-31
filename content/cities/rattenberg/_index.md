@@ -1,0 +1,4 @@
+---
+title: Rattenberg
+url: /rattenberg/
+---	

@@ -6,5 +6,5 @@ city: Karlsruhe
 street: "Schützenstraße"
 housenumber: 65
 phone: ""
-opening_hours: "Mo-Th 11:00-23:00; PH,Su 12:00-23:00; Fr,Sa 11:00-24:00"
+opening_hours: "Mo-Th 11:00-23:00; Su,PH 12:00-23:00; Fr,Sa 11:00-24:00"
 website: ""

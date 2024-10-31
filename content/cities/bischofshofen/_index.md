@@ -1,0 +1,4 @@
+---
+title: Bischofshofen
+url: /bischofshofen/
+---	
