@@ -1,4 +1,0 @@
----
-title: Hattersheim
-url: /hattersheim/
----	

@@ -1,4 +1,4 @@
 ---
-title: "MANGAL"
+title: "Mangal"
 url: /rietberg/mangal/
 ---

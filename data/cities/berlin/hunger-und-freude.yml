@@ -6,5 +6,5 @@ city: Berlin
 street: "Boxhagener Straße"
 housenumber: 55
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Sa,Su 09:00-15:00"
+opening_hours: "Mo,Tu,Th,Fr 08:00-16:00; Sa,Su 09:00-15:00"
 website: ""

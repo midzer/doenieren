@@ -1,4 +1,0 @@
----
-title: Baldham
-url: /baldham/
----	

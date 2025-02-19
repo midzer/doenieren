@@ -1,0 +1,4 @@
+---
+title: Münsingen
+url: /muensingen/
+---	

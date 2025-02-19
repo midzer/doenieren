@@ -1,4 +1,0 @@
----
-title: Pottschach
-url: /pottschach/
----	

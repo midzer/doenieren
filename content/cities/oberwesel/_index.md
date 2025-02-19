@@ -1,4 +1,0 @@
----
-title: Oberwesel
-url: /oberwesel/
----	

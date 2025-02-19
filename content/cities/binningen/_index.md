@@ -1,0 +1,4 @@
+---
+title: Binningen
+url: /binningen/
+---	

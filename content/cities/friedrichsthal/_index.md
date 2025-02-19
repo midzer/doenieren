@@ -1,0 +1,4 @@
+---
+title: Friedrichsthal
+url: /friedrichsthal/
+---	

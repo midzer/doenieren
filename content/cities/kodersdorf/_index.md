@@ -1,4 +1,0 @@
----
-title: Kodersdorf
-url: /kodersdorf/
----	

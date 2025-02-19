@@ -1,4 +1,0 @@
----
-title: Adelebsen
-url: /adelebsen/
----	

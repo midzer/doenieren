@@ -1,4 +1,4 @@
 ---
-title: "Afiyet"
+title: "Afiy'et"
 url: /wien/afiyet/
 ---

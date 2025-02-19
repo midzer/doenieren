@@ -1,4 +1,4 @@
 ---
-title: "AWA GRILL"
+title: "Awa Grill"
 url: /emmendingen/awa-grill/
 ---

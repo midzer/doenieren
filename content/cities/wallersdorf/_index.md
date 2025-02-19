@@ -1,4 +1,0 @@
----
-title: Wallersdorf
-url: /wallersdorf/
----	

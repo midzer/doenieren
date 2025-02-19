@@ -1,4 +1,0 @@
----
-title: Plettenberg
-url: /plettenberg/
----	

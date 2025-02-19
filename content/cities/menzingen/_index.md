@@ -1,0 +1,4 @@
+---
+title: Menzingen
+url: /menzingen/
+---	

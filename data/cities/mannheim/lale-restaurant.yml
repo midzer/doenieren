@@ -6,5 +6,5 @@ city: Mannheim
 street: ""
 housenumber: 2
 phone: "+49 621 40166939"
-opening_hours: "Mo-Th 08:00-23:00, Fr-Sa 08:00-01:00, Su 08:00-23:00"
+opening_hours: "Mo-Th,Su 08:00-23:00; Fr-Sa 08:00-01:00"
 website: "https://lale-restaurant.de/"

@@ -1,4 +1,4 @@
 ---
-title: "Eisenach DÖNER"
+title: "Eisenach Döner"
 url: /eisenach/eisenach-doener/
 ---

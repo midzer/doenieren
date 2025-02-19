@@ -1,4 +1,0 @@
----
-title: Heinersreuth
-url: /heinersreuth/
----	

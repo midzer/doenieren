@@ -1,4 +1,0 @@
----
-title: Meyenburg
-url: /meyenburg/
----	

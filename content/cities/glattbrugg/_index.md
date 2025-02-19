@@ -1,4 +1,0 @@
----
-title: Glattbrugg
-url: /glattbrugg/
----	
