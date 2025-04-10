@@ -1,4 +1,0 @@
----
-title: Wasserburg
-url: /wasserburg/
----	

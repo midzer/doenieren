@@ -1,4 +1,0 @@
----
-title: Bergrheinfeld
-url: /bergrheinfeld/
----	

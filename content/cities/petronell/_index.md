@@ -1,4 +1,0 @@
----
-title: Petronell
-url: /petronell/
----	

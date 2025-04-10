@@ -1,4 +1,0 @@
----
-title: Wagenfeld
-url: /wagenfeld/
----	

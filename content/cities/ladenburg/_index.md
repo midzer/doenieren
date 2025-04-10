@@ -1,0 +1,4 @@
+---
+title: Ladenburg
+url: /ladenburg/
+---	

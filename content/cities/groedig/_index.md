@@ -1,4 +1,0 @@
----
-title: Grödig
-url: /groedig/
----	

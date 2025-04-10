@@ -1,4 +1,0 @@
----
-title: Rudersberg
-url: /rudersberg/
----	

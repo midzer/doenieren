@@ -1,4 +1,0 @@
----
-title: Spessart
-url: /spessart/
----	

@@ -1,0 +1,4 @@
+---
+title: Berchtesgaden
+url: /berchtesgaden/
+---	

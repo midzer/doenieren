@@ -1,4 +1,0 @@
----
-title: Lustenau
-url: /lustenau/
----	

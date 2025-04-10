@@ -1,4 +1,0 @@
----
-title: Wustrow
-url: /wustrow/
----	
