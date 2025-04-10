@@ -58,7 +58,7 @@ jobs:
 
       - name: Preprocess PBFs
         working-directory: ./pbf2md
-        run: pbf2md
+        run: ./pbf2md
 
       - name: Remove files
         working-directory: ./main
