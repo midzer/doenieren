@@ -45,32 +45,32 @@ jobs:
           go-version: '1.24.x'
 
       - name: Install dependencies
-        uses: ./pbf2md
+        working-directory: ./pbf2md
         run: go get .
 
       - name: Build
-        uses: ./pbf2md
+        working-directory: ./pbf2md
         run: go build
 
       - name: Fetch PBFs
-        uses: ./pbf2md
+        working-directory: ./pbf2md
         with:
           command: for prefix in "austria" "germany/baden-wuerttemberg" "germany/bayern" "germany/brandenburg" "germany/bremen" "germany/hamburg" "germany/hessen" "germany/mecklenburg-vorpommern" "germany/niedersachsen" "germany/nordrhein-westfalen" "germany/rheinland-pfalz" "germany/saarland" "germany/sachsen-anhalt" "germany/sachsen" "germany/schleswig-holstein" "switzerland" "germany/thueringen"; do wget "https://download.geofabrik.de/europe/$prefix-latest.osm.pbf"; done
 
       - name: Preprocess PBFs
-        uses: ./pbf2md
+        working-directory: ./pbf2md
         run: pbf2md
 
       - name: Remove files
-        uses: ./main
+        working-directory: ./main
         run: rm -rf content/cities; rm -rf data/cities
 
       - name: Move files
-        uses: ./pbf2md
+        working-directory: ./pbf2md
         run: mv content/cities ../main/content/cities; mv data/cities ../main/data/cities
 
       - name: Build site
-        uses: ./main
+        working-directory: ./main
         run: hugo
       
       - name: Publish
