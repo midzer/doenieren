@@ -1,0 +1,93 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: macos-15
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+        with:
+          submodules: false  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          path: main
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.97.3'
+          extended: true
+
+      - uses: actions/checkout@v4
+        with:
+          repository: 'midzer/pbf2md'
+          ref: 'doener'
+          path: pbf2md
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24.x'
+
+      - name: Install dependencies
+        uses: ./pbf2md
+        run: go get .
+
+      - name: Build
+        uses: ./pbf2md
+        run: go build
+
+      - name: Fetch PBFs
+        uses: ./pbf2md
+        with:
+          command: for prefix in "austria" "germany/baden-wuerttemberg" "germany/bayern" "germany/brandenburg" "germany/bremen" "germany/hamburg" "germany/hessen" "germany/mecklenburg-vorpommern" "germany/niedersachsen" "germany/nordrhein-westfalen" "germany/rheinland-pfalz" "germany/saarland" "germany/sachsen-anhalt" "germany/sachsen" "germany/schleswig-holstein" "switzerland" "germany/thueringen"; do wget "https://download.geofabrik.de/europe/$prefix-latest.osm.pbf"; done
+
+      - name: Preprocess PBFs
+        uses: ./pbf2md
+        run: pbf2md
+
+      - name: Remove files
+        uses: ./main
+        run: rm -rf content/cities; rm -rf data/cities
+
+      - name: Move files
+        uses: ./pbf2md
+        run: mv content/cities ../main/content/cities; mv data/cities ../main/data/cities
+
+      - name: Build site
+        uses: ./main
+        run: hugo
+      
+      - name: Publish
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy --dir=main/public --prod
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          repository: ./main
+          commit_message: update content and data
+          branch: master
+          commit_user_name: doenieren 🤖
+          commit_user_email: actions@github.com
+          commit_author: doenieren 🤖 <actions@github.com>
