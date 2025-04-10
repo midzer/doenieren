@@ -54,8 +54,7 @@ jobs:
 
       - name: Fetch PBFs
         working-directory: ./pbf2md
-        with:
-          command: for prefix in "austria" "germany/baden-wuerttemberg" "germany/bayern" "germany/brandenburg" "germany/bremen" "germany/hamburg" "germany/hessen" "germany/mecklenburg-vorpommern" "germany/niedersachsen" "germany/nordrhein-westfalen" "germany/rheinland-pfalz" "germany/saarland" "germany/sachsen-anhalt" "germany/sachsen" "germany/schleswig-holstein" "switzerland" "germany/thueringen"; do wget "https://download.geofabrik.de/europe/$prefix-latest.osm.pbf"; done
+        run: for prefix in "austria" "germany/baden-wuerttemberg" "germany/bayern" "germany/brandenburg" "germany/bremen" "germany/hamburg" "germany/hessen" "germany/mecklenburg-vorpommern" "germany/niedersachsen" "germany/nordrhein-westfalen" "germany/rheinland-pfalz" "germany/saarland" "germany/sachsen-anhalt" "germany/sachsen" "germany/schleswig-holstein" "switzerland" "germany/thueringen"; do wget "https://download.geofabrik.de/europe/$prefix-latest.osm.pbf"; done
 
       - name: Preprocess PBFs
         working-directory: ./pbf2md
