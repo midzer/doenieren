@@ -1,4 +1,0 @@
----
-title: Zollikerberg
-url: /zollikerberg/
----	
