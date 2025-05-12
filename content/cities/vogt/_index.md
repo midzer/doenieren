@@ -1,0 +1,4 @@
+---
+title: Vogt
+url: /vogt/
+---	

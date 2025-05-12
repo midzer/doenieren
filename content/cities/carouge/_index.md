@@ -1,4 +1,0 @@
----
-title: Carouge
-url: /carouge/
----	
