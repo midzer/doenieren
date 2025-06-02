@@ -1,0 +1,4 @@
+---
+title: Kaufbeuren
+url: /kaufbeuren/
+---	

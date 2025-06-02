@@ -6,5 +6,5 @@ city: Poysdorf
 street: "Prinz Eugen Park"
 housenumber: 
 phone: "+436603744707"
-opening_hours: "Mo-Fr 11:00-21:00, Sa 11:00-18:45, So 11:00-21:00"
+opening_hours: "Mo-Fr,Su 11:00-21:00; Sa 11:00-18:45"
 website: "https://burgervista.at/"
