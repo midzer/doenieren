@@ -6,5 +6,5 @@ city: Herrenberg
 street: "Hindenburgstraße"
 housenumber: 7
 phone: "+49 7032 955362"
-opening_hours: "Mo-Th 10:00-00:00; Fr 10:00-00:00; Sa 00:00-01:00,10:00-24:00; Su 00:00-01:00,11:00-24:00"
+opening_hours: "Mo-Th 10:00-24:00, Fr,Sa 10:00-01:00, Su 11:00-24:00; 2025 Dec 31 10:00-18:00"
 website: "https://koenig-kebaphaus.de/"
