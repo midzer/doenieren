@@ -1,4 +1,4 @@
 ---
-title: "FOODPOINT"
+title: "Foodpoint"
 url: /uzwil/foodpoint/
 ---

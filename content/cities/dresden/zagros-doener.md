@@ -1,4 +1,4 @@
 ---
-title: "ZAGROS DÖNER"
+title: "Zagros Döner"
 url: /dresden/zagros-doener/
 ---
