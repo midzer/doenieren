@@ -1,4 +1,4 @@
 ---
-title: "Kul Essen"
+title: "Kul essen"
 url: /tarmstedt/kul-essen/
 ---

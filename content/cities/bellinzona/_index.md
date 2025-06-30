@@ -1,0 +1,4 @@
+---
+title: Bellinzona
+url: /bellinzona/
+---	
