@@ -1,4 +1,4 @@
 ---
-title: "Laras Imbiss"
+title: "Lara’s Imbiss"
 url: /regensburg/laras-imbiss/
 ---

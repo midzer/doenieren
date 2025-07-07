@@ -1,0 +1,4 @@
+---
+title: Cologne
+url: /cologne/
+---	
