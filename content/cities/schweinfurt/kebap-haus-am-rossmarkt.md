@@ -1,4 +1,4 @@
 ---
-title: "Kebap-Haus am Roßmarkt"
+title: "Kebap-Haus am Rossmarkt"
 url: /schweinfurt/kebap-haus-am-rossmarkt/
 ---

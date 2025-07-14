@@ -1,4 +1,0 @@
----
-title: Lehre
-url: /lehre/
----	
