@@ -6,5 +6,5 @@ city: Schlitz
 street: "Ringmauer"
 housenumber: 3
 phone: "+49 6642 3034739"
-opening_hours: "Mo, Mi, Do, Fr 11:00-22:00; So 12:00-22:00"
+opening_hours: "Mo, We, Th, Fr 11:00-22:00; Su 12:00-22:00"
 website: ""

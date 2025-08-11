@@ -1,0 +1,4 @@
+---
+title: Deggingen
+url: /deggingen/
+---	

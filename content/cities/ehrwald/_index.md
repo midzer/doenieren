@@ -1,0 +1,4 @@
+---
+title: Ehrwald
+url: /ehrwald/
+---	
