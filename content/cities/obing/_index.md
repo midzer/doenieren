@@ -1,0 +1,4 @@
+---
+title: Obing
+url: /obing/
+---	
