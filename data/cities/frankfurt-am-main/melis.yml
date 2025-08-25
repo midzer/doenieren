@@ -6,5 +6,5 @@ city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 62
 phone: ""
-opening_hours: "Mo-Th 08:00-23:00; Fr,Sa 08:00-24:00; PH,Su 08:00-23:00"
+opening_hours: "Su-Th 08:00-23:00; Fr,Sa,PH 08:00-24:00"
 website: ""
