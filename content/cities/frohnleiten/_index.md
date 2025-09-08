@@ -1,0 +1,4 @@
+---
+title: Frohnleiten
+url: /frohnleiten/
+---	
