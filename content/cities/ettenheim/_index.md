@@ -1,4 +1,0 @@
----
-title: Ettenheim
-url: /ettenheim/
----	
