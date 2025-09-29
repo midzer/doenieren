@@ -1,4 +1,0 @@
----
-title: Brugg
-url: /brugg/
----	

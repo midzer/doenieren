@@ -1,4 +1,0 @@
----
-title: Görwihl
-url: /goerwihl/
----	

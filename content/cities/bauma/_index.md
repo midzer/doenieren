@@ -1,4 +1,0 @@
----
-title: Bauma
-url: /bauma/
----	

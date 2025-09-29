@@ -1,4 +1,0 @@
----
-title: Steinkirchen
-url: /steinkirchen/
----	
