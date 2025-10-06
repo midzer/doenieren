@@ -6,7 +6,5 @@ city: Innsbruck
 street: "Mariahilfpark"
 housenumber: 1
 phone: "0676 6442528"
-opening_hours: "Tu-Th 11:00-18:00;
-Fr-Sa 11:00-01:30;
-Su 12:00-22:00"
+opening_hours: "Tu-Th 11:00-18:00; Fr-Sa 11:00-01:30; Su 12:00-22:00"
 website: ""
