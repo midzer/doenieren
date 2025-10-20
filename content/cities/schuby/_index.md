@@ -1,0 +1,4 @@
+---
+title: Schuby
+url: /schuby/
+---	
