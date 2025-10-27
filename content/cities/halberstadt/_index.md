@@ -1,0 +1,4 @@
+---
+title: Halberstadt
+url: /halberstadt/
+---	

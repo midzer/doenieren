@@ -1,0 +1,4 @@
+---
+title: Frickenhausen
+url: /frickenhausen/
+---	
