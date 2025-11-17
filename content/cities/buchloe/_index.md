@@ -1,0 +1,4 @@
+---
+title: Buchloe
+url: /buchloe/
+---	
