@@ -1,4 +1,0 @@
----
-title: Chiasso
-url: /chiasso/
----	
