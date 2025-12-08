@@ -1,4 +1,0 @@
----
-title: Denkendorf
-url: /denkendorf/
----	

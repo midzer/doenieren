@@ -6,5 +6,5 @@ city: Wien
 street: "Praterstraße"
 housenumber: 78A
 phone: ""
-opening_hours: "Mo-Fr 09:30-22:00; Sa-So 10:00-22:00"
-website: ""
+opening_hours: "Mo-Fr 09:30-22:00; Sa-Su 10:00-22:00"
+website: "https://steakdoener.at"
