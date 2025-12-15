@@ -1,0 +1,4 @@
+---
+title: Sögel
+url: /soegel/
+---	
