@@ -1,4 +1,0 @@
----
-title: Ischgl
-url: /ischgl/
----	
