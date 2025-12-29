@@ -6,5 +6,5 @@ city: Pirna
 street: "Gartenstraße"
 housenumber: 6c
 phone: "+49 3501 491944"
-opening_hours: "Mo-Th 10:30-22:00; Fr,Sa 10:30-23:00; Su 11:00-22:00"
+opening_hours: "Mo 11:00-22:00; Tu,We 10:30-22:00; Th,Fr 10:30-23:00; Sa,Su 11:00-23:00"
 website: ""
