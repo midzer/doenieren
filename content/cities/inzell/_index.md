@@ -1,0 +1,4 @@
+---
+title: Inzell
+url: /inzell/
+---	
