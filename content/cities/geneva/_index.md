@@ -1,4 +1,0 @@
----
-title: Geneva
-url: /geneva/
----	
