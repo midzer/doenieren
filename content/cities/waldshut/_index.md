@@ -1,0 +1,4 @@
+---
+title: Waldshut
+url: /waldshut/
+---	
