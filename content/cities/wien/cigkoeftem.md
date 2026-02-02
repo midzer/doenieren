@@ -1,4 +1,4 @@
 ---
-title: "CigköfteM"
+title: "Çiğköftem"
 url: /wien/cigkoeftem/
 ---
