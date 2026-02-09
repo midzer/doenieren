@@ -1,4 +1,0 @@
----
-title: Steinenbronn
-url: /steinenbronn/
----	
