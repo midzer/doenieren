@@ -6,5 +6,5 @@ city: Rastatt
 street: "Kaiserstraße"
 housenumber: 3
 phone: "+4972224060987"
-opening_hours: "Mo-Th 10:30-22:00; Fr, Sa 10:30-23:00; Su 11:00-22:00"
+opening_hours: "Fr,Sa 10:30-23:00; Su,PH 11:00-22:00; Tu-Th 10:30-22:00"
 website: "https://pakerskebabpizza.eatbu.com"

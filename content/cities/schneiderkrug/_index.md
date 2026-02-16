@@ -1,4 +1,0 @@
----
-title: Schneiderkrug
-url: /schneiderkrug/
----	
