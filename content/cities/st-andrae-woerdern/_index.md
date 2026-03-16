@@ -1,4 +1,4 @@
 ---
-title: St. Andrä - Wördern
+title: St. Andrä-Wördern
 url: /st-andrae-woerdern/
 ---	
