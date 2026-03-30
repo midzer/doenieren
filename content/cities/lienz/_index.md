@@ -1,0 +1,4 @@
+---
+title: Lienz
+url: /lienz/
+---	
