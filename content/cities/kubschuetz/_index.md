@@ -1,0 +1,4 @@
+---
+title: Kubschütz
+url: /kubschuetz/
+---	
