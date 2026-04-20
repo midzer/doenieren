@@ -1,4 +1,0 @@
----
-title: Bäretswil
-url: /baeretswil/
----	
