@@ -6,5 +6,5 @@ city: Bochum
 street: "Alte Bahnhofstraße"
 housenumber: 185
 phone: ""
-opening_hours: "We-Mo 10:00-23:00"
-website: "https://www.sultansofrasi.de/"
+opening_hours: "Mo,We-Th,Su 10:00-23:00, Fr,Sa 10:00-24:00; Tu off"
+website: ""
