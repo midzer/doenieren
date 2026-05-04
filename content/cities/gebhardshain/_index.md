@@ -1,4 +1,0 @@
----
-title: Gebhardshain
-url: /gebhardshain/
----	
