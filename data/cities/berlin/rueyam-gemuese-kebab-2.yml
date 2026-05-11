@@ -6,5 +6,5 @@ city: Berlin
 street: "Schönhauser Allee"
 housenumber: 44a
 phone: "+49 30 41717017"
-opening_hours: "Mo-Th 11:00-00:00; Fr-Sa 11:00-02:00, Su,PH 11:00-00:00"
+opening_hours: "Su-Th 11:00-24:00, Fr,Sa 11:00-02:00"
 website: "https://rueyamdoener.de/"
