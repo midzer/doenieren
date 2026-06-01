@@ -1,0 +1,4 @@
+---
+title: Grünen
+url: /gruenen/
+---	
