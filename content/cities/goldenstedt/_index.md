@@ -1,0 +1,4 @@
+---
+title: Goldenstedt
+url: /goldenstedt/
+---	
