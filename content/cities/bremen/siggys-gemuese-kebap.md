@@ -1,4 +1,4 @@
 ---
-title: "Siggy's Gemüse Kebap"
+title: "Siggys Gemüse Kebap"
 url: /bremen/siggys-gemuese-kebap/
 ---

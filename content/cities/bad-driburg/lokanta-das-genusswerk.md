@@ -1,4 +1,4 @@
 ---
-title: "LOKANTA das genusswerk"
+title: "LOKANTA das Genusswerk"
 url: /bad-driburg/lokanta-das-genusswerk/
 ---
