@@ -1,4 +1,4 @@
 ---
-title: Rapperswil SG
+title: Rapperswil (SG)
 url: /rapperswil-sg/
 ---	

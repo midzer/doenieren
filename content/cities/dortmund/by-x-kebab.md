@@ -1,4 +1,4 @@
 ---
-title: "By X Kebab"
+title: "by X Kebab"
 url: /dortmund/by-x-kebab/
 ---
