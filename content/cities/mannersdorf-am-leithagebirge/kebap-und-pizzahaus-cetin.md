@@ -1,4 +1,4 @@
 ---
-title: "Kebap & Pizzahaus CETIN"
+title: "Kebap & Pizzahaus Cetin"
 url: /mannersdorf-am-leithagebirge/kebap-und-pizzahaus-cetin/
 ---
