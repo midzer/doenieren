@@ -1,4 +1,0 @@
----
-title: Cadolzburg
-url: /cadolzburg/
----	
