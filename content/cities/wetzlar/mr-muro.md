@@ -1,4 +1,4 @@
 ---
-title: "MR. Muro"
+title: "Mr. Muro"
 url: /wetzlar/mr-muro/
 ---

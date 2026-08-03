@@ -1,4 +1,0 @@
----
-title: Wil
-url: /wil/
----	
