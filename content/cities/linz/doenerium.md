@@ -1,4 +1,4 @@
 ---
-title: "Dönerium"
+title: "DÖNERIUM"
 url: /linz/doenerium/
 ---
