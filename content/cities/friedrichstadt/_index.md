@@ -1,4 +1,0 @@
----
-title: Friedrichstadt
-url: /friedrichstadt/
----	
