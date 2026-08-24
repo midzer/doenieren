@@ -1,4 +1,4 @@
 ---
-title: Siggenthal-Station
+title: Siggenthal Station
 url: /siggenthal-station/
 ---	
