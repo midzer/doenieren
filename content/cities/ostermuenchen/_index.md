@@ -1,4 +1,0 @@
----
-title: Ostermünchen
-url: /ostermuenchen/
----	

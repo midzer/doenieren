@@ -1,4 +1,0 @@
----
-title: Röllbach
-url: /roellbach/
----	
