@@ -1,0 +1,4 @@
+---
+title: Tux
+url: /tux/
+---	

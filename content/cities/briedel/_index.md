@@ -1,0 +1,4 @@
+---
+title: Briedel
+url: /briedel/
+---	

@@ -6,5 +6,5 @@ city: Köln
 street: "Chlodwigplatz"
 housenumber: 5
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Th,Su 11:30-24:00; Fr-Sa 11:30-01:00"
+website: "https://www.mr-sha.de"

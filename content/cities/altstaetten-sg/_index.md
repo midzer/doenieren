@@ -1,4 +1,4 @@
 ---
-title: Altstätten (SG)
+title: Altstätten SG
 url: /altstaetten-sg/
 ---	

@@ -1,4 +1,0 @@
----
-title: Waldenstadt
-url: /waldenstadt/
----	

@@ -1,4 +1,0 @@
----
-title: Tuxc
-url: /tuxc/
----	

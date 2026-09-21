@@ -1,0 +1,4 @@
+---
+title: Walenstadt
+url: /walenstadt/
+---	

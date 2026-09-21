@@ -1,4 +1,0 @@
----
-title: Peuerbach
-url: /peuerbach/
----	

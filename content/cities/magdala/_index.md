@@ -1,0 +1,4 @@
+---
+title: Magdala
+url: /magdala/
+---	
