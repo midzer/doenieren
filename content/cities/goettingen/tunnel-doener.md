@@ -1,4 +1,4 @@
 ---
-title: "Tunnel-Döner"
+title: "Tunnel Döner"
 url: /goettingen/tunnel-doener/
 ---
