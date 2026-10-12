@@ -1,4 +1,0 @@
----
-title: Hausach
-url: /hausach/
----	
