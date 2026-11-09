@@ -1,4 +1,4 @@
 ---
-title: "my Kebap’s"
+title: "My Kebap’s"
 url: /hamburg/my-kebaps/
 ---

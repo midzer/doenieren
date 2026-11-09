@@ -1,0 +1,4 @@
+---
+title: Frauenfeld
+url: /frauenfeld/
+---	
